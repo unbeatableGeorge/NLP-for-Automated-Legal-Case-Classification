@@ -40,8 +40,8 @@ To set up the project environment, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/unbeatableGeorge/NLP-for-Automated-Legal-Case-Classification/tree/master
+   cd: ./text_mining_for_python
 
 ## Usage
 
