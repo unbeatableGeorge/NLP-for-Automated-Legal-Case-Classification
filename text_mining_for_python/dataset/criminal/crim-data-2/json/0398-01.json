@@ -1,0 +1,472 @@
+{
+  "id": 1167671,
+  "name": "PEOPLE ex rel. NUBELL v. BYRNES",
+  "name_abbreviation": "People ex rel. Nubell v. Byrnes",
+  "decision_date": "1884-05",
+  "docket_number": "",
+  "first_page": "398",
+  "last_page": "415",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 398"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "77 N. Y. 245",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        542941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/77/0245-01"
+      ]
+    },
+    {
+      "cite": "17 Hun, 199",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "84 N. Y. 438",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2181049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0438-01"
+      ]
+    },
+    {
+      "cite": "6 Abb. N. C. 57",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "122 Mass. 324",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2134651
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/122/0324-01"
+      ]
+    },
+    {
+      "cite": "51 How. Pr. 422",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        4476860
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/51/0422-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. 212",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011111
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0212-01"
+      ]
+    },
+    {
+      "cite": "11 Abb. 52",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "84 N. Y. 444",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Barb. 495",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4943883
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/16/0495-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 579",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 How. 289",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Abb. 468",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 Barb. 56",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1943403
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/39/0056-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 182",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519171
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0182-01"
+      ]
+    },
+    {
+      "cite": "53 Ala. 476",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3345885
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/53/0476-01"
+      ]
+    },
+    {
+      "cite": "8 N. Y. 67",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2010488
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/8/0067-01"
+      ]
+    },
+    {
+      "cite": "14 Barb. 259",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4918983
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/14/0259-01"
+      ]
+    },
+    {
+      "cite": "29 Ill. 508",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2454404
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/29/0508-01"
+      ]
+    },
+    {
+      "cite": "70 Ill. 228",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5309164
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/70/0228-01"
+      ]
+    },
+    {
+      "cite": "32 Barb. 277",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5051086
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/32/0277-01"
+      ]
+    },
+    {
+      "cite": "27 Conn. 62",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 C. B. 577",
+      "category": "reporters:specialty",
+      "reporter": "C.B.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Ill. 242",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2600363
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/21/0242-01"
+      ]
+    },
+    {
+      "cite": "52 How. 499",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Barb. 630",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2423419
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0630-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. 319",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011132
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0319-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 555",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005477
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/4/0555-01"
+      ]
+    },
+    {
+      "cite": "6 Cow. 456",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        12139779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/6/0456-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 332",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034852
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0332-01"
+      ]
+    },
+    {
+      "cite": "1 Chit. Cr. L. 39",
+      "category": "reporters:state",
+      "reporter": "Chit. Cr. Law",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Mo. 291",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        330407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/8/0291-01"
+      ]
+    },
+    {
+      "cite": "29 Wis. 435",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8707802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/29/0435-01"
+      ]
+    },
+    {
+      "cite": "16 Mass. 141",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035162
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/16/0118-01"
+      ]
+    },
+    {
+      "cite": "8 Ohio, 294",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        585384
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio/8/0297-01"
+      ]
+    },
+    {
+      "cite": "4 McCord, 487",
+      "category": "reporters:state",
+      "reporter": "McCord",
+      "case_ids": [
+        8861806
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/scl/15/0487-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 183",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 N. Y. 438",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2181049
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/84/0438-01"
+      ]
+    },
+    {
+      "cite": "53 Ala. 476",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3345885
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/53/0476-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1231,
+    "char_count": 39774,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.043011387922616336
+    },
+    "sha256": "32a75d347177b84ea5263eed1ee682b46976f698a1d1fa5ef05c4e5319e2388b",
+    "simhash": "1:9a9a50a0c4ef5a7a",
+    "word_count": 7166
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Davis, P. J., and Beady, J., concur."
+    ],
+    "parties": [
+      "PEOPLE ex rel. NUBELL v. BYRNES."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe relator was arrested upon a warrant, issued by the governor in conformity to a requisition made upon him by the governor of the state of Illinois, for the arrest and return to that state of O. A. Hubell, who there stood charged with the crime of conspiracy committed in the county of Cook in the state of Illinois. The warrant recited that it had been represented by the governor of the state of Illinois that Hubell had been so charged ; that he had fled from justice in that state and taken refuge in the state of Hew York, and that the representations were accompanied by an indictment and affidavit, whereby the said O. A. Hubell is charged with the said crime, and with having fled from said state and taken refuge in the state of Hew York, which were certified by the governor of Illinois to be duly authenticated. It was upon these representations and evidence that the warrant was issued by the executive of this state, upon which the relator was arrested and held. At the instance of his counsel, alleging the arrest and detention to be illegal, the writ of habeas corpus was issued and the relator brought before one of the justices of this court. A return was, made to the writ setting forth that he was held in custody under the warrant issued by the governor' of the state of Hew York. To this return a demurrer was interposed, which was overruled by the justice before whom the hearing took place, and the writ itself was dismissed, and it was from the order dismissing,the writ that the appeal has been taken by the relator.\nIn support of the appeal it has been objected that the indictment itself set forth no offense, and that it was fatally defective by reason of the fact that it was presented against Hubell by the initial letters of his Christian names, without setting forth either one of such names. What the statements in the indictment may have been, describing the charge of conspiracy contained in it, were not made a part of the proof, for the copy of the indictment itself was not produced, but remained in the custody of the executive of the state, and all that can be known of its contents must be derived from the statements in the warrant, whose recitals set forth the fact that Hubell did stand charged with the crime of conspiracy, and that he was so charged by an indictment certified by the governor of Illinois to be duly authenticated. What the particular nature of the conspiracy was is not set forth, but it is to be inferred from the statements contained in the warrant, that the charge constituted a crime under the laws of the state of Illinois, and on evidence tending to prove the commission of the crime, the grand jury presenting the indictment, had concluded, that the crime charged had been committed by Nubell, the person named in the indictment. It is to be inferred from these facts that the case had been presented to the grand jury and the evidence produced in support of the charge had been considered ; that they had concluded that a crime had probably been committed, and had embodied the result of their conviction upon this subject in the indictment, legally and formally charging \u00a1Nubell with the commission of a crime, under the laws of the state of Illinois. What those laws may be upon the subject has in no way been made to appear. \u00a1Neither was it necessary that their provisions should be shown to support the application for the arrest and return of the person charged. Neither the Constitution nor the act of Congress under which the proceedings have, been taken, require that those laws shall be brought to the attention of the authorities of the state in which the accused person may have taken refuge. These are not subjects which have been committed to the consideration of the authorities of the state, but are subjects necessarily committed to the consideration and disposition of the judicial authorities of the state in which the indictment has been found.\nThis was clearly the design and intention of the Constitution of the United States and of the act of Congress enacted to carry the provision made upon this subject into practical effect. What the Constitution has required, and all that it has required to authorize proceedings of this description, is that the person proceeded against shall be charged in another state with treason, felony, or other crime, and that he shall have fled from justice, and shall be found in the other state. In these events it has been made imperative that the person charged shall, on demand of the executive authority of the state from which he fled, be delivered up to be removed to the state having jurisdiction of the crime. Const. U. S. art. 4, \u00a7 2, sub. 3. This provision does not confer upon the authorities of the state in which the person may be found, the power to try or determine the question whether the charge may have been legally well founded or not. But that was left to be determined by the authorities of the state having jurisdiction of the crime. All that this provision has required to authorize the return of the alleged fugitive is that he shall be the person who has been charged, and that a criminal charge shall have been made against him. When these facts may be made to appear, then on demand of the executive authority of the state from which the person has fled, the Constitution has declared that he shall be delivered up to be removed to the state having jurisdiction of the crime. And effect was given to this provision of the Constitution by an early enactment of Congress for that purpose. 1 U. S. Statutes at Large, 302. And since then the same enactment has been inserted as section 5278 in the U. S. Eevised Statutes. By this section it has been enacted that \u201c whenever the executive authority of any state or territory demands any person asa fugitive from justice, of the executive authority of any state or territory to which such person has fled, and produces a copy of an indictment found, or an affidavit made, before a magistrate of any state or territory, charging the person demanded with having committed treason, felony, or other crime, certified as authentic by the governor or chief magistrate of the state or territory from whence the person so charged has fled, it shall be the duty of the executive authority of the state or territory to which such person has fled, to cause him to be arrested and secured, and to cause notice of the arrest to be given to the executive authority making such demand, or to the agent of such authority appointed to receive the fugitive, and to cause the fugitive to be delivered to such agent when he shall appear.\u201d\nThis section was enacted in such terms as to require the executive of the state in which the alleged fugitive may have taken refuge to cause him to be arrested and secured upon the criminal charge being authenticated by a copy of the indictment which has been found. That is all the evidence of the crime which the executive, under the law, has the right to demand. When the copy of the indictment certified to be authentic by the governor of the state from whence the person charged is shown to have fled is presented, it is made the absolute duty of the executive to whom this proof shall be made to cause the arrest of the individual so charged.\nHe is vested with no authority to examine into the charge, or the sufficiency of the indictment, but has been required to act solely upon the facts, that the charge has been embodied in the indictment found by the constituted authorities, and a copy of the indictment has been presented to him properly authenticated. This subject was considered by the Supreme Court of the United: States in the matter of Commonwealth of Kentucky v. William Dennison, Governor of the state of Ohio, 24 How. U. S. 66. The charge there was, as the indictment set it forth, that Willis Lago had committed a crime, by assisting a slave to escape from the state of Kentucky. The accused was alleged to have fled to and taken refuge within, the state of Ohio, and the executive of the state of Kentucky demanded his extradition and return from the Governor of the state of Ohio. This was not deemed to set forth a criminal offense as the law was understood in the state of Ohio, and an order or direction for the removal of the accused and his return to the state of Kentucky was refused. An application was thereupon made to the Supreme Court requiring the Governor of the state of Ohio to show cause why a mandamus should not be issued commanding him to cause the accused to be delivered up and removed to the state of Kentucky having jurisdiction over the crime with which he had been charged. The order was refused for the reason that the court did not consider its jurisdiction to be so extended as to require the performance of this duty through the means of the writ of mandamus. But in the consideration of the case the chief justice, in his opinion, declared the view of the court to be that the duty had been imposed upon the executive of the state of Ohio under the Constitution and the Act of Congress to cause the arrest and return of the fugitive. Upon this subject it was said that, \u201cIt will be observed that the judicial acts which are necessary to authorize the demand, are plainly specified in the act of Congress, and the certificate of the executive authority is made conclusive as to their verity, when presented to the executive of the state where the fugitive is found. He has no right to look behind them, or to question them, or to look into the character of the crime specified in this judicial proceeding.\n\u201c The duty which he is to perform is, as we have already said, merely ministerial\u2014that is, to cause the party to be arrested and delivered to the agent or authority of the state where the crime was committed. It is said in the argument that the executive officer upon whom this demand is made, must have a discretionary executive power, because he must inquire and decide who is the person demanded. But this certainly is not a discretionary duty upon which he is to exercise any judgment, but is a mere ministerial duty\u2014that is, to do the act required to be done by him, and such as every marshal and sheriff must perform when process either criminal or civil is placed in his hands to be served on the person named in it. And it never has been supposed that this duty involved any discretionary power, or made him anything more than a mere ministerial officer; and such is the position and character of the executive of the state under this law when the demand is made upon him, (and the requisite evidence produced. The governor has only to issue his warrant to an agent or officer to arrest the party named in the demand.\u201d Id. 106-7.\nThese views are clearly in accordance with the language of the constitution and the act of Congress, and they deprive the executive of all discretion over the subject committed in this manner to his action. \"When the indictment has been found, charging a criminal offense, and that has' been certified to the executive of the state to which the fugitive is shown to have fled, the imperative duty is at once created to cause his arrest and his return; and its performance cannot be declined because the executive on whom the demand may be made, might consider the criminal charge not to be well founded, or not to have been stated with the clearness or precision required by the law or practice of his own state. Substantially the same was the view of the Court of Appeals of this state in People ex rel. Jourdan v. Donohue, 84 N. Y. 438. A somewhat different course was sanctioned and followed in People ex rel. Lawrence v. Brady, 56 N. Y. 183, where the person charged was relieved from his arrest by habeas corptts. practically upon the ground that the facts contained in the affidavits were not sufficient to create a crime as the law had been understood and administered in this state. But as that case proceeded simply upon the effect of the affidavits produced, it may be regarded as distinguishable from these other authorities. It certainly does not require, and would not justify a refusal, to exercise the authority, provided for, simply because the courts of this state, or the executive himself, might consider that the conspiracy charged by the indictment was not a criminal offense. Whether it may be or not, must depend upon the laws of the state of Illinois, under which the indictment has been found, and the administration of those laws by its tribunals.\nThe proceeding has also been resisted as unlawful, because of the omission to give the Christian names of the person charged with the offense in the indictment. But the courts of this state would not be justified in discharging the person from arrest on account of this omission. It may be a fully authorized mode of proceeding under the laws of the state of Illinois to charge a person with the commission of a crime in this manner. The presumption is in favor of the regularity of the indictment. It has so far passed the ordeal of the authorities of the state, and been acted upon and accepted in this form, and these acts are evidence of its regularity. It is not for the authorities of this state to determine the manner in which the state of Illinois shall conduct its legal proceedings. That is a matter committed entirely to the authorities of that state. Upon this subject it was said in Commonwealth of Kentucky v. Dennison (supra, p. 107): \u201c Kentucky has an undoubted right to regulate the forms of pleadings and process in her own courts, in criminal as well as civil cases, and is not bound to conform of those of any other state. And whether the charge against lago is legally and sufficiently laid in this indictment according to the laws of Kentucky, is a judicial question to be decided by the courts of the state, and not by the executive authority of the state of Ohio.\u201d\nIt may possibly be that this was an irregular mode of proceeding, but whether it was or not, was not for the executive of this state to decide, neither have its courts authority to review that point. For as the indictment has been found, and properly certified, as the facts are stated in the warrant, that is all that can be required under the Constitution and the statute, to authorize the arrest and return of the person charged by the courts of this state.\nAn indictment is not necessarily to be declared inoperative, or void, even under the strict rules of the common law, because of its omission to designate the individual charged by the full Christian name. He may be indicted as the accused has been in this instance by giving the initials of his Christian name, and upon such an indictment he may be legally convicted and punished. This was held by the Court of Appeals of South Carolina in City Council v. King, 4 McCord, 487, where the court held the remedy of the accused to be that only of a plea in abatement. And if he failed to take the objection in that manner, that his right to insist upon it should afterwards be waived. A similar ruling was made in Smith v. State, 8 Ohio, 294. There the accused was named in the indictment W. E. Smith, and it was held that he could not object to the informality after pleading not guilty.\nIn the course of the opinion of Wood, J., it was said in 2 Hawk. c. 23, \u00a7 125, \u201c If there be no addition, or a wrong one, the defendant can take advantage of it by plea in abatement only, and Hawkins is sustained by 1st Sidefine, p. 247, Rex v. Warren, and by 2 Inst. 670.\u201d And it is further said, \u201cIf he pleads over, he thereby waives all objections to the indictment on that account. So, if there be no Christian name, or a wrong one, or no surname, or a wrong one, the defendant can take advantage of it by plea in abatement only, and if he plead over he waives the objection.\u201d Id. 276. And the same general principle was declared in Com. v. Dedham, 16 Mass. 141, 146 ; State v. Brunell, 29 Wis. 435, 438 ; and it was also considered to be the only manner in which a misnomer could be taken advantage of in Saulsbury v. Gillett, 3 Ill.; 2 Scan. 290 ; and in Carpenter v. State, 8 Mo. 291. And that was the course of practice followed in Gerrish v. State, 53 Ala. 476. The other cases relied upon in support of the appeal, decided by the Supreme Court of the state of Illinois, are in no respect at variance with this practice. Where the party sued or proceeded against is misnamed, or his name is defectively given,' the mode prescribed for taking advantage of the defect is by plea or answer; and in reply to that it may be alleged and shown that the party has usually designated himself by the' name in which he may have been charged, and that will form a legal answer to the objection.\nCity Council v. King, supra, 489, 2 Hale, 238. What was urged and said upon this subject on the motion to quash the indictment against Dorsey forms no substantial exception to this rule, for the proceedings there were wholly before the court in which the indictment was pending, as it of course would be if it were put in a more formal shape by plea of abatement. In either case the tribunal to correct the informality is that in which the indictment shall be pending. It appertains to its proper jurisdiction over the subject matter of the case, and cannot be a legal ground for the discharge of the accused from arrest in a proceeding of this character. That results not only from the authorities, but also from the Constitution and laws of the United States prescribing and regulating this mode of proceeding. That has reserved no such authority either to the executive or the tribunals of this state. But when the indictment has been found, although it might be regarded as defective as the criminal law is administered in this state, the executive is required to act upon it, when a copy properly authenticated has been presented to him, leaving it, as the law clearly does, to the courts of the other states to determine the- legal effect or regularity of the proceedings. This intent is further manifest by section 5279 of the United States Be vised Statutes. For it is provided that \u201c Any agent so appointed who receives the fugitive into his custody shall be empowered to transport him to the state or territory from which he has fled. And every person who, by force, sets at liberty or rescues the fugitive from such agent while so transporting him, shall be fined not more than $500, or imprisoned not more than one year.\u201d The law has created a specific and well-defined proceeding by which the provision of the Constitution on this subject is to be carried into effect; and when the provisions of the Federal statute appear to have been formally complied with, the courts of this state are not authorized to interpose and release the person arrested, because their views, or mode of criminal procedure, may not have been complied with in the state in which the indictment has been found. The proceeding is wholly statutory, and when the provisions of the statute have been complied with, the governor is imperatively required to cause the arrest of the person charged, and deliver him up to be returned to the state in which the criminal charge may be \u2022 pending against him. And no court has the power to interfere and prevent the exercise of this authority, when the steps required to be taken have been followed in the case, and brought to its attention. If the indictment is to be quashed, or in any other manner defeated or set aside, that is to be done by the action of the tribunal in which it may be pending. The subject is exclusively for its consideration, and all the authorities require that the accused shall be taken before that tribunal for its action in the premises.\nThe cases in which the arrest of persons has been considered unauthorized, by reason of differences in their names, are not applicable to this proceeding, for it is governed wholly by the Federal Constitution and statute. They have prescribed the practice and mode of proceeding, and the execution of the statute cannot be defeated, because the courts, acting under the authority of the common law, might find it necessary to observe and follow a different rule. The question in this class of cases must be whether the Federal law has been complied with, and where that may appear to have been done, the courts cannot defeat its operations merely because a different mode of proceeding would be considered essentia,], for the arrest of persons charged with crime under the laws of this state.\nBut, while the warrant of the governor appears to have been authorized as that was required to be done by the Federal statute, it did not follow that the relator could be arrested under it. It issued for the arrest of O. A. Hubell, and it cannot certainly be said that it would authorize the arrest of Otto A. Hubell, for the person known by the latter name cannot surely be said, from the identity of a part of the name, to be the individual known by the name of O. A. Hubell. That was necessarily a matter of proof. The relator has the right to controvert the fact that he was the person mentioned in the warrant as O. A. Hub ell, and, by his objections to the return of the writ of habeas corpus, he did in effect present that objection.\nWhat should then have been done, if the facts would justify it, was the answer that Otto A. Hubell and O. A. Hu bell were one and the same individual, and that consequently the relator was the person intended to be arrested and returned by virtue of the executive warrant. This was an issue either party had the right to present, and to have a judicial determination of his identity with the person whose arrest was authorized by the warrant. And by section 2039 of the Code of Civil Procedure the court was not only empowered, but required to make that investigation. That was not done, but the demurrer was overruled and the writ of habeas corpus dismissed. This direction requires to be corrected. ' The order should be reversed, and an order entered sustaining the demurrer, with liberty to the respondents to amend their return by adding the statements, and establishing the fact by proof, that the relator is the same person named in the warrant under which he is now held in custody. And in case that proof shall be made, then it will follow of course that the writ should be dismissed, and the relator returned to the state of Illinois.\nDavis, P. J., and Beady, J., concur.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "E. P. Wilder, for the relator, appellant.",
+      "Peter B. Olney, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First Department.\nPEOPLE ex rel. NUBELL v. BYRNES.\nMay, 1884.\nExtbadition Psooeedings.\u2014U. S. Constitution, Aet. 4, \u00a7 2, Sub. 3; U. S. Revised Statutes, \u00a7 5278.\u2014Indict-ment.\u2014Misnomee.\nThe return to a writ of habeas corpus sued out by Otto A. Nubell, set forth that he was arrested and held upon a warrant issued by the Governor of this state, in conformity to a requisition of the Governor of the state of Illinois for the arrest and return to that state of O. A. Nubell, which warrant was annexed to the return, and recited that it had been represented by the Governor of the state of Illinois that O. A. Nubell there stood charged with the crime of conspiracy, committed in the county of Cook and state of Illinois ; that he had fled from justice in that state, and had taken refuge in the state of New York ; that the representations were accompanied by an indictment and affidavit whereby the said O. A. Nubell is charged with the said crime, and with having fled from said state and taken refuge in the state of New York, which were certified by the Governor of Illinois to be duly authenticated. The copy indictment, etc., was not produced, but remained in the custody of the executive. Relator demurred to the writ on the grounds that the indictment set forth no offense, and was fatally defective in that it was presented against Nubell by the initial letters only of his Christian names. The relator also alleged that his name was not O. A. Nubell.\nHeld, that the return was sufficient ; that under the Constitution of the United States, art. 4, \u00a7 2, sub. 3, and U. S. Revised Statutes, \u00a7 5278, controlling extradition proceedings, such proceedings must be sustained when a criminal charge is shown to the executive of this state by a copy of the indictment certified to be anthenticated by the governor of the state from whence the person charged therein is shown to have fled into this state ; that in such a case the executive must act solely upon the facts so presented, and that neither it nor the courts have authority to examine into the charge, or the sufficiency of the indictment, or alleged irregularities therein. But, further held, that as relator, by his objections to the return, in effect raised the issue of identity, the order sustaining the warrant must provide for the determination of that question.\nPeople 0. Brady, 56 N. 7. 188, distinguished.\nAn indictment is not necessarily inoperative or void, even at common law, because of its omission to designate the person charged by the full Christian name. He may be indicted by the initials of his Christian name, and legally convicted if he fail to raise the objection by plea in abatement, and it may be shown in answer to such plea that the accused was usually known by the name under which he was indicted.\nAppeal taken by the relator, Otto A. Nubell, from a final order dismissing writs of habeas corpus and certiorari issued to inquire into the cause of his imprisonment, and remanding him to the custody of the respondents.\nIt was taken pursuant to Code of Civil Procedure, \u00a7 2058.\nThe petition recited that he was imprisoned by the respondents at police headquarters in New York city, and that the cause or pretense of his imprisonment, according to his best knowledge, was a telegraphic request from \u201c some person in Chicago, Illinois,\u201d to the police officials of this city \u201cto arrest and detain your petitioner until a requisition from the governor of Illinois can be obtained for his delivery and extradition for some alleged offense committed in said state.\u201d\nThe return in answer to the writ of habeas corpus set out and annexed as a part thereof, as the warrant for relator\u2019s detention, a mandate or warrant of the governor of this state, as follows:\n\u201c State of New York, Executive Chamber, Grover Cleveland, Governor of the State of New York.\n\u201c To Thomas Bybhes, Inspector of Police, and the Sheriffs, Constables and other peace officers of the several counties in the said state:\n\u201c Whereas, it has been represented to me by the governor of the state of Illinois, that O. A. Nubell stands charged with the crime of conspiracy committed in the county of Cook in said state, and that he has fled from justice in that state, and has taken refuge in the state of New York, and the said governor of Illinois having, in pursuance of the Constitution and laws of the United States, demanded of me that I shall cause the said O. A. Nubell to be arrested and delivered to Humphrey J. Moynihan, who is duly authorized to receive him into his custody and convey him back to the said state of Illinois.\n\u201c And whereas the said representation and demand is accompanied by indictment and affidavit whereby the said O. A. Hubell is charged with the said crime, and with having fled from said state, and taken refuge in the state of Hew York, which are certified by the said governor of Illinois to be duly authenticated.\n\u201c You are therefore required to arrest and secure the said O. A. Hubell wherever he may be found within the state, and to deliver him into the custody of the said Humphrey J. Moynihan, to be taken back to the said state from which he fled, pursuant to the said requisition ; and also to make return to this department, within thirty days from date hereof, of all your proceedings under this writ and of any facts or circumstances relating thereto.\n\u201c Given under my hand, and the privy seal of the State at the city of Albany, this twenty-fourth day of April in the year of our Lord one thousand eight hundred and eighty-four.\n\u201c By the Governor.\n(Sgd.) Grover Cleveland.\u201d\nDaniel S. Lamont,\n[l. s.] Private Secretary.\nThe relator filed a verified demurrer and traverse to the return made by the defendants to the writs of habeas corpus and certiora/ri herein, as follows:\n\u201c 1. That said return is insufficient in law upon the face thereof to justify the detention of this petitioner, forasmuch as (a) It fails to set forth any warrant for the detention of this petitioner, but sets forth a warrant against one O. A. Hubell.\u2019 (b) It fails to make any return whatever to the writ of certiorari herein, and fails to show what evidence, if any, the petitioner is detained under, or upon what evidence, if any, the warrant if any, for. his detention was issued, (c) It fails to set forth or allege the commission by this petitioner of any crime whatever against the laws either of this state or of the state of Illinois.\n\u201c And further, your petitioner traverses said return, avers that his name is not \u2018 O. A. Hubell,\u2019 but is and ever has been Otto A. Nubell, and that he is not guilty of the crime of 6 conspiracy,\u2019 if there be such a crime, nor of any other crime against the laws of the state of Illinois.\u201d\nAfter hearing counsel, the court dismissed both writs, and remanded the prisoner.\nE. P. Wilder, for the relator, appellant.\nI. The governor\u2019s mandate is void on its face. It fails to set forth any warrant for the detention of this petitioner, but sets forth a warrant against one \u201cO. A. Hubell.\u201d A warrant is no protection to the officer unless it correctly names the defendant. \u201c The name of the person to be apprehended should be accurately stated, if known, and must not be left in blank to be filled up afterwards; and a description thus:\u2014\u2018 A. and his associate,\u2019 is void as to the latter.\u201d 1 Colby's Crim. Law, 179 ; 1 Chit. Cr. L. 39; 2 Hale's P. C. 114; Fost. 312; Wells v. Jackson, 3 Mumf. 458; Rex v. Hood, 1 M. & W. 281. \u201c If, however, the name of the party be unknown, the warrant may be issued against him by the best description the nature of the case will allow; as, 1 the body of a man whose name is unknown, but whose person is well known and who is employed as the driver of cattle, wears a white hat, and has lost his right eye.\u2019 \u201d 1 Colby's Crim. Law, 179; 1 Hale P. C. 577; Chit. Cr. L. 39-40.\n\u201c The arrest of a person by a wrong name cannot be justified, though he was the person intended, unless it be shown that he was as well known by one name as the other.\u201d Mead v. Haws, 7 Cow. 332; Griswold v. Sedgwick, 6 Cow. 456; Scott v. Ely, 4 Wend. 555. Such was the law in this State prior to 1830, when the act was passed. Laws of 1830, p. 395, \u00a7 262, providing for the description of a defendant, whose real name is unknown, by a fictitious name, &c., and providing for a plea in abatement and amendment, &c., on that ground. Gurnsey v. Lovell, 9 Wend. 319. The law as laid down in the above decisions and amendatory statute, is still preserved as the law of this state. Code Crim. Pro. \u00a7 152; Miller v. Foley, 28 Barb. 630.\nIt thus appears that initial letters do not constitute a name-. Frank v. Levie, 5 Robt. 600; Gardner v. Kraft, 52 How. 499 ; Gatty v. Field, 9 Q. B. 431. The severity of this rule has not been impaired in its application to criminal proceedings. The law presumes every man to have two names, a Christian name and a surname, and insists that an indictment against him shall embrace both. 1 Archbold's Crim. Pl. 241; Wharton's Crim. Pro. \u00a7 96; Bishop's Crim. Pro. \u00a7 676; Thompson v. Lee, 21 Ill. 242; Crawford v. Slye, 4 Cranch C. Ct. 457.\nIn some of the English cases a distinction is made in favor of vowels, as distinguished' from consonants, and they are held to be good as names, being, as the courts have sometimes said, words \"in themselves. Lomax v. Landells, 6 C. B. 577. Tweedy v. Jarvis, 27 Conn. 62. But these cases furnish no authority for the-contention that initials as such are a sufficient designation of a -defendant either in a warrant or an indictment. They prove rather that a warrant against O. A. Hubell it not a warrant against Otto A. Hubell, but is against some other person whose name is really O. A. Nubell. See Farnham v. Hildreth, 32 Barb. 277; also Kennedy v. Merriam, 70 Ill. 228; Curtis v. Marrs, 29 Ill. 508. In this state \u201c initials or middle names are not recognized.\u201d Re John Snook, 2 Hilt. 566 ; People v. Cook, 14 Barb. 259; 8 N. Y. 67; Van Voorhies v. Budd, 39 Barb; 479; Eagleston v. Son, 5 Robt. 640 ; Stuber v. Schwartz, 1 Robt. City Ct. Rep. note. See also Gerrish v. State, 53 Ala. 476 ; Report of Star Route Trials, pp. 185-200; U. S. v. Winter, 13 Blatch. 278.\nII. If however, G. A. Hubell 'is a sufficient designation, upon the .theory that the vowel O is an actual name, then the traverse, and the petition, being uncontradicted, must be taken as true; and it follows that Otto A. Hubell is not the person sought by the authorities of Illinois.\nIII. It was at least the duty of the court to try the question of identity, \"if the return be held prima facie sufficient to hold the relator, and the dismissal of the writs without according such trial was error. Code Civ. Pro. \u00a7\u00a7 2031, 2089.\nIY. The warrant is equally defective in its failure to set forth the commission of a crime. \u2018^Conspiracy,\u201d naked and simple, .is .no .crime. Ho overt .act is alleged; no unlawful purpose is assigned; no unlawful means are set forth as having been used. The warrant \u201c must also state an offense in respect to which the magistrate has authority to issue the warrant.\u201d Code Crim. Pro. \u00a7 152. The evidence before the magistrate must show that a \u201c crime \u201d has been committed, lb. \u00a7 150. And the warrant must \u201c designate \u201d the crime, lb. \u00a7 151. And this is as necessary in a governor\u2019s warrant, issued for purposes of extradition, as in a police justice\u2019s warrant issued for purposes of trial, etc., within the state. Code Crim. Pro. \u00a7 829. And both the act of Congress and our own law, with respect to extradition, is limited in its application to persons \u201c charged with treason, felony or other crime.\u201d Code Crim. Pro. \u00a7 827; U. S. R. S. \u00a7 5278. The evidence on which the governor\u2019s warrant was issued may be examined on habeas corpus, and if found insufficient to charge the commission of a \u201c crime,\u201d the warrant may be set aside. People ex rel. Lawrence v. Brady, 56 N. Y. 182. A fortiori must this rule apply where the governor withholds the evidence, and we must look to the warrant alone for a statement of it. The warrant itself must with reasonable certainty import acts which are known to the law as criminal. Comfort v. Fulton, 39 Barb. 56; Blythe v. Tompkins, 2 Abb. 468; People v. Hart, 24 How. 289. The definition of conspiracy, as laid down in our laws, involves and requires something more than the mere act of conspiring, as for example: \u201c to commit a crime,\u201d or \u201c to falsely and maliciously indict another for a crime,\u201d or \u201c to cheat and defraud another out of property by any means which are in themselves criminal,\u201d etc. Pen. Code, \u00a7 168; People v. Lambert, 9 Cow. 579; People v. Chase, 16 Barb. 495. The distinction between those recitals in the warrant, which are necessary to designate and import a crime, and those which consist merely of the facts and acts constituting the crime is very important and should not be lost sight of. The latter class of recitals need not be set forth in the warrant of extradition. People v. Donohue, 84 N. Y. 444. But the former class are required, both by the act of Congress and by our own Code; they are essential to the jurisdiction of the magistrate, be he governor or justice of the peace. To dispense with this class of recitalsj especially in cases where the executive declines to submit the proofs upon which he acted, would be in effect to make him the sole arbiter of our liberties, to give him the power to send any citizen of this state into another at pleasure. People ex rel. Lawrence v. Brady, 56 N. Y. 182 ; People v. Forbes, 11 Abb. 52.\nV. Nor will it do to assume that the naked word \u201cconspiracy \u201d may import a crime in Illinois, though failing to do so in this state. The rule as to presumption in such cases was laid down by the Court of Appeals in the case of Lawrence, supra, as follows : \u201c If a conspiracy to do a wrongful act, affecting the property of another, is an offense in the state of Michigan, although neither the end nor the means (disconnected with the confederacy) are criminal, that fact should have been shown by the affidavits.\u201d The same doctrine applies to the warrant that applies to the proofs.\nVI. Mor does it make any difference in principle whether the proof upon which the warrant was issued consisted of an exemplified copy of an indictment or merely of an affidavit. The acts of Congress place both methods of proof upon a par, giving no preference to either. Our own Code provides that an exemplified copy of an indictment found \u201c may be received as evidence.\u201d Code Crim. Pro. \u00a7 829. But it nowhere imputes conclusiveness to such evidence. On the contrary, it expressly provides, that it must \u201c appear \u201d from the evidence that a \u201c crime \u201d has been committed.\nVII. It may well be questioned, whether the failure to make a return to the writ of certiorari, is not fatal to these defendants, and whether it does not entitle the relator absolutely to his discharge.\nPeter B. Olney, district attorney, for the people, respondent.\nI. It is not disputed that the prisoner is the man directed by the governor to be arrested, and that he has fled from Illinois. \u2022 There would seem to be no reason, then, why the mandate of the governor should not be respected and obeyed. But it is claimed that no crime is charged in the mandate, and that the prisoner\u2019s name is Otto A. Mubell, and that he cannot be held under a direction to arrest O. A. Mubell.\nII. The first objection is untenable for the reason that the mandate shows that an indictment has been found for the crime of conspiracy in Illinois, and even if there were no such crime at common law or by our own statutes it is enough that there is such a crime in the state from which the prisoner has fled. And that there is such a crime in Illinois is sufficiently shown by the fact that an indictment has been found for that offense. Matter of Clark, 9 Wend. 212; Matter of Briscoe, 51 How. Pr. 422; State v. Schlemn, 4 Harring. 577; Davis\u2019s Case, 122 Mass. 324; Spear on Extradition, 298 ; Leary\u2019s Case, 6 Abb. N. C. 57; People ex rel. Jourdan v. Donohue, 84 N. Y. 438 ; People, ex rel. Draper v. Pinkerton, 17 Hun, 199; 77 N. Y. 245. Conspiracy, however, was a crime at common law, and is such under our Penal Code. 3 Russell on Crimes, 116 ; Pen. Code, \u00a7\u00a7 168, 170.\nIII. The governor had the right to direct the man to be taken and handed over, by whatever way he designated him, so long as the prisoner was clearly and plainly indicated. Whether a man should be indicted under our law by his initials is not in the case. It may be the law and the fashion in Illinois to abbreviate in that manner in their indictments.\nIV. Doubtless, the prisoner, like many another man, has been accustomed to write his name by his initials, and has been known in Illinois, therefore, as O. A. Nubell, and was indicted by the appellation which he had been wont to use. It may be, as a matter of fact, that he was indicted in Illinois as O.A. Hubell, whose first name is to the jurors unknown. Our own Code provides that if a defendant is indicted by a fictitious or erroneous name, the true name may be inserted in the subsequent proceedings. Code Crim. Proc. \u00a7 277. \u201c It is not necessary to describe a party by what is in strictness his right name ; but it will be sufficient to state any name he has assumed, or by which he is generally known.\u201d Heard's Principles of Criminal Pleading, 60."
+  },
+  "file_name": "0398-01",
+  "first_page_order": 422,
+  "last_page_order": 439
+}

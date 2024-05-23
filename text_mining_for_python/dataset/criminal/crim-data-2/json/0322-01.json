@@ -1,0 +1,68 @@
+{
+  "id": 1167714,
+  "name": "PEOPLE v. NORTON",
+  "name_abbreviation": "People v. Norton",
+  "decision_date": "1884-06",
+  "docket_number": "",
+  "first_page": "322",
+  "last_page": "325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 323,
+    "char_count": 6933,
+    "ocr_confidence": 0.552,
+    "pagerank": {
+      "raw": 5.326647750613137e-07,
+      "percentile": 0.9428872107987764
+    },
+    "sha256": "a74e29ababb5e4f3d102882c08e032f1e3a1b31b93b9351f0c3cce64e7a3fca8",
+    "simhash": "1:3fa5e5bb23c23d89",
+    "word_count": 1200
+  },
+  "last_updated": "2023-07-14T19:46:36.421582+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Barker, Haight and Bradley, JJ., concur."
+    ],
+    "parties": [
+      "PEOPLE v. NORTON."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, P. J.\nThe judgment of the court of Special Sessions was rendered under sections 719 and 720 of the Code of Criminal Procedure, and the only question is, whether an apwill lie from such judgment to the court of Sessions. If the right of appeal exist in this case, it must be found in section 749 of said Code, which provides that \u201c a .judgment upon conviction, rendered by a court of Special Sessions, may be reviewed by the court of Sessions of the county, upon an appeal as prescribed by this title, and not otherwise.\u201d Is the judgment of the Special Sessions in this case a judgment \u201c upon conviction,\u201d within the meaning of section 749 ? We think not. A \u201c judgment upon a conviction,\u201d as the words are used in the Code of Criminal Procedure, can only be rendered against a person charged with the commission of a criminal offense, or the defendant in a criminal prosecution. In that sense they are used repeatedly in the Code. It is absurd to say that the prosecutor in a criminal proceeding, when charged with the costs of the prosecution, by reason of having instituted it without probable cause, or even maliciously, is convicted of a crime. We think it clear that an appeal from a judgment of that nature does not lie to the court of Sessions. Whether it can be taken to the County Court, under sections 3044 and 3045 of the Code of Civil Procedure, as suggested by the respondent\u2019s counsel, is a question not before us, and upon which we express no opinion.\nIt may well be that the legislature intended to provide no appeal from judgments of this nature, as they do not involve the merits of the prosecution, and the amount of costs chargeable upon a prosecutor in a court of Special Sessions, can never be large.\nThe order appealed from should be affirmed, but as the question is new, without costs.\nBarker, Haight and Bradley, JJ., concur.",
+        "type": "majority",
+        "author": "Smith, P. J."
+      }
+    ],
+    "attorneys": [
+      "H. D. Tucker, for appellant.",
+      "John R. Strang, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fifth Department.\nJune, 1884.\nPEOPLE v. NORTON.\nCourt of Special Sessions\u2014Appeal from judgment of.\u2014 Order charging prosecutor with costs.\nWhatever right of appeal to the court of Sessions, from a judgment or ruling of a court of Special Sessions exists, is to be found in the Code of Criminal Procedure, section 749, which provides that a judgment \u201cupon conviction\u201d may be reviewed by the Court of Sessions of the county, etc.\nWhere the prosecutor in a criminal proceeding in the court of Special Sessions is charged, under section 719 of the Code of Criminal Procedure with the costs of prosecution, by reason of having instituted it without probable cause, such determination is not a judgment upon conviction, and therefore, the prosecutor has no right of appeal therefrom to the court of Sessions.\nWhether such appeal lies to the County Court under sections 3044, 3045, of the Code of Civil Procedure, guare.\nAppeal from an order of the court of Sessions of Livingston county, Hon. E. A. Nash, County Judge, presiding with associates, dismissing an appeal from a judgment of a court of Special Sessions held in said county, charging the appellant with the cost of a criminal prosecution in the last mentioned court, in which said appellant was the prosecutor.\nOn August 17, 1883, the appellant, Henry H. Norton, laid .an information before Robert Neel, Esquire, one of the justices of the peace of said county of Livingston, charging one Nelson Davis with having made an assault upon one Henry Gravel at the town of Livonia, in said county, on August 16. The defendant Davis was arrested upon a warrant duly issued by said justice, pleaded \u201c not guilty \u201d to the charge, was duly tried before said justice and a jury, and the jury found him \u201c not guilty \u201d of said charge. The jury also found, as provided by section 719 of the Code of Criminal Procedure, that the complainant proceeded againt the defendant without probable cause, to injure him. And thereupon the court rendered judgment against the complainant, Henry H. Horton, for the costs, $8.05.\nFrom this judgment Horton appealed to the court of Sessions of Livingston county, which court held \u201c that an appeal cannot be taken from a judgment against the prosecutor-in a court of Special Sessions, for costs, to the court of Sessions, and that this appeal is not properly brought,\u201d and dismissed said appeal \u201con the sole ground that this court has no jurisdiction of the subject matter of said appeal.\u201d\nH. D. Tucker, for appellant.\nI. The issue involved in criminal actions triable before a court of Special Sessions is: 1. Has an offense been committed, and is the defendant the party guilty? 2. If not, and the defendant is acquitted, did the prosecutor have probable cause for instituting the prosecution ? If the jury find the defendant not guilty he is discharged, and if they find there was not probable cause, then the prosecutor is adjudged to pay the costs and judgment is entered against him by the court; he thereupon becomes the defendant, as the original defendant has been discharged and is no longer known as a party. Code Crim. Proc. \u00a7\u00a7 719, 720. To prosecute a party for a crime without probable cause is by the moral code a crime, and is made so by law, and the penalty for this criminal offense is a judgment compelling the payment of the costs of the proceeding, the injured party still having his action for civil damages for the malicious prosecution. This judgment of conviction against the prosecutor, under sections 719, 720, can be reviewed only by appeal to the Court of Sessions.\nII. The preceding proposition is made still more clear by section 750, which provides that \u201c an appeal may be allowed for an erroneous decision or determination of law or fact upon the trial \u201d in the court of Special Sessions. The finding of the jury that the prosecution was without probable cause, if error at all, was an erroneous decision or determination of the jury on the trial of both law and fact, there being no evidence before them on which it can stand.\nJohn R. Strang, district attorney, for the people, respondent.\nI. A judgment upon conviction is the only judgment of a court of Special Sessions, that can be appealed from under \u00a7 749 Code Crim. Proc., and such judgment must necessarily be against the defendant. It is absurd to speak of the people, or the prosecutor, being convicted. Section 751 shows conclusively that an appeal can only be taken by the defendant, or some one on his behalf. And sections 753, 759, 760, 761, 762, and especially section 764, each distinctly recognizes the same thing. There is no provision for an appeal by the prosecutor from any erroneous decision affecting him.\nJudgment upon conviction, as provided in section 717, is of fine or imprisonment, or both. Judgment against a prosecutor for costs under section 719, is for the amount of the costs, to be enforced in all respects as a judgment rendered by a justice\u2019s court. From such a judgment the prosecutor has an appeal to the county court. See \u00a7\u00a7 3044, 5045, Code Civ. Proc."
+  },
+  "file_name": "0322-01",
+  "first_page_order": 346,
+  "last_page_order": 349
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1164441,
+  "name": "PEOPLE v. COLEMAN",
+  "name_abbreviation": "People v. Coleman",
+  "decision_date": "1881-12",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "6",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 9047,
+    "name": "New York Court of Oyer and Terminer"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Hun, 486",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 N. Y. 159",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        536764
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/75/0159-01"
+      ]
+    },
+    {
+      "cite": "23 Hun, 60",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 N. Y. 467",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512963
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/53/0467-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 597,
+    "char_count": 13008,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 5.6400125793720964e-08,
+      "percentile": 0.3522263267086228
+    },
+    "sha256": "32fdc76534e5c39aa784d66db3382183bc3d10cb79463bc4780a5fbfc3ced09d",
+    "simhash": "1:95f558eed546a2d7",
+    "word_count": 2333
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. COLEMAN."
+    ],
+    "opinions": [
+      {
+        "text": "Upon the question of insanity the court charged the jury as follows:\nDavis, J.\n\u2014Insanity is usually spoken of, both in common language and in the books, as a defense to crime. But it is no defense, because, where the insanity recognized by the law exists, there can be no crime to defend. An insane person is incapable of crime. He is devoid, both in morals and in law, of the elements essential to the constitution of crime, and hence is am object of pity and protection, and not of punishment. Therefore, whenever it is established that a party accused of crime was, at the time of its alleged commission, insane within the established rules of the criminal law, he is entitled to acquittal on the ground of innocence, because of incapacity to commit the offense, however monstrous his physical act may appear. Both humanity and the law revolt against the conviction and punishment of such a person. But insanity is a condition easily asserted and sometimes altogether too easily accepted. Hence, juries, while they should be careful to see to it that no really insane person is found guilty of crime, should be equally careful that no guilty person escapes under an ill-founded pretext of insanity.\nIt is important that juries on trials of alleged crime should clearly understand what insanity is, within the.established rules' of the criminal law. Without such rules the administration of justice in such cases would be dependent upon the shifting caprices of courts, or the equally unsubstantial passi-ons and prejudices of jurors. In this State the test of responsibility for criminal acts, where insanity is asserted, is the capacity of the accused to distinguish between right and wrong at the time and with respect to the act which is the subject of inquiry. This rule is stated by the authorities in different forms, but always in the same substance. In one case it was said \u201c the inquiry is always brought down to the single question of a capacity to distinguish between right and wrong at the time the act was done.\u201d This was in the Freeman case\u2014the celebrated case of the colored man who was tried for murder in Cayuga county and defended by the late William II. Seward.\nIn the most authoritative of the English cases, it is said, \u201c it must be clearly proved that at the time of committing the offense, the party accused was laboring under such a defect of reason from disease of the mind, as not to know the nature and quality of the act he was doing, or, if he did know it, that he did not know he was doing what was wrong.\u201d And in a very late case in our court of appeals, a charge in that exact language was held to present the law correctly to the jury.\nSo you will see, gentleman of the jury, that in this case, the firing by the prisoner of the shot by which -the deceased was killed, being proved and admitted, and evidence to show the alleged insanity having been given, the question whether the act was criminal depends upon your finding, as a matter of fact, whether, at the time of doing the act, the prisoner knew what she was doing, and that she was doing a wrong\u2014or, in other words, did she know that she' was shooting the deceased, and that such shooting was a wrongful act ? If she did know these things, her alleged insanity is not established within the rules of the law, however much you may be convinced that she acted under the intensest emotional excitement, or howeve \u2022 fully she believed she was justified in avenging her own wrongs, or however much you may think the deceased was deserving of punishment. The doctrine that a criminal act may be excused upon the notion of an irresistible impulse to commit it, when the offender has the ability to discover his legal and moral duty in respect to it, has no place in the law ; and there is no form of insanity known to the law as a shield for an act otherwise criminal, in which the faculties are so disordered or deranged that a man, although he perceives the moral quality of his acts as wrong, is unable to control them, and is urged by some mysterious pressure to the commission of the act, the consequences of which he anticipates and knows.\nThis is substantially the language of the court of appeals in the case already referred to. If this were not the law, every thief, to establish his irresponsibility, could assert an irresistible impulse to steal, which he had not mental or moral force sufficient to resist, though knowing the wrongful nature of the act; and in every homicide it would only be necessary, in order to escape punishment, to assert that anger or hatred or revenge or an overwhelming desire to redress an injury, or a belief that the killing is for some private or public good, has produced an irresistible impulse to do a known illegal and wrongful act. So that really there could never be a conviction if the guilty party should assert and maintain an irresistible impulse, produced by some pressure which he could not resist, as a reason for committing a crime. To restrain such impulses is the legal and moral duty of all men, and the protection of society demands that he who yields to them must take the consequences of his acts.\nYou will understand, therefore, the exact distinctions upon which the law in criminal cases stands in respect to responsibility, to wit: that the party who does the act knows what he is doing. If he is imbecile\u2014that is, if he has not sense enough to know what he is doing, when he fires a pistol at another : then he is not amenable to the law as a criminal, because of his mental incapacity. But if he has knowledge enough to know that he is firing a pistol\u2014that he is shooting a person, and thereby doing an act injurious, or likely to be injurious to that person, and also has sufficient sense to know that that act is a wrongful one\u2014he cannot assert an irresistible impulse arising from any cause whatever as a defense or excuse. Whatever the views of scientists or of theorists on the subject of insanity may be, and however great a variety of classifications they may adopt, the law in a criminal case brings the whole to this single test: Did the person doing the act at that time have sufficient sense to know what he was doing, and that it was wrong to do it 1 If that be his 'condition, it is of no consequence that he acts under an irresistible influence or a supposed inspiration in committing the wrong, or a belief that the wrong will produce some greater good. Emotional insanity, impulsive insanity, insanity of the will or of the moral sense, all vanish into thin air whenever it appears that the accused party knew the difference between right and wrong at the time and in respect of the act he committed. No imaginary inspiration to do a personal wrrong to another under a delusion or belief that some great public or private benefit will flow from it, where the nature of the act done and its probable consequences to the injured party, and that it is in itself wrong, are known to the actor, can amount to that insanity which in law disarms the act of criminality. Under such notions of legal insanity, life, property and rights, both public and private, would be altogether insecure; and every man who by brooding over his wrongs, real or imaginary, shall work himself up to an \u201c irresistible impulse \u201d to avenge himself, can with impunity become a self-elected judge, jury and executioner in his own case for the redress of his own injuries or of the wrongs of his friends, his party or his country. But happily, gentlemen of the jury, that is not the law; and whenever such ideas of insanity are applied to a given case as the law (as too often they have been), crime escapes punishment, not through the legal insanity of the accused, but through the emotional insanity of courts and juries.\nI have felt it my duty to give you my views of the law of insanity, as applicable to the case, in emphatic terms; but I assure you, gentlemen, I have no intention, in doing so, to affect your minds in determining the facts of the case to which you arc to apply the law. The prisoner is entitled to a consideration, of the facts of the case by. you, uninfluenced by any expression of opinion in respect to them by the court.\nHaving shown you the law of insanity applicable to the ease, it is important that I should give you the law in respect to its proof. The law presumes sanity in all cases. That presumption in a criminal case is prima facie evidence of the sanity of the accused party, and, where no evidence tending to show the contrary is produced, the case of the people, so far as relates to the question of sanity, is made out. The burden of overthrowing the presumption of sanity is upon the person who alleges insanity, and if evidence be given by him tending to rebut the presumption and to show insanity, then the general question is presented to the jury whether the alleged crime was committed by a person responsible for his acts, under the rules of law which have already been laid down. Upon the question thus presented, the presumption of sanity and the evidence tending to prove or disprove insanity are all to be considered by the jury, and at that stage of the case the question of sanity, like all other material questions of fact, becomes one on which the prosecution holds the affirmative, and if reasonable doubt of sanity then exists upon the evidence before the jury, the prisoner is entitled to the benefit of that doubt as upon any other material question of fact.\nHow, gentlemen, this is a presentation of the law in relation to insanity as applied to criminal cases. We are not dealing witli civil actions arising upon contracts or under wills, where a question of sufficient capacity to make the instrument, or of undue influence, is presented, but with the law as established to prevent crimes of violence or wrong, against which society must have power to protect itself. The inquiry for yon in this case, I repeat, is whether or not, at the time the accused committed the act, she knew what she was doing\u2014to wit: that she was shooting the deceased; and knew that in shooting him she was doing a wrongful act. If those two conditions of things existed, then the assertion of insanity fails. Although she may have been laboring under the intensest excitement, and although the impulse to do the act because of the injury she alleges she had received was of such a character that she felt herself justified in avenging her wrongs, yet the defense of insanity would altogether fail.' The moment it is conceded, as I have already said, that a man can assert insanity as an excuse for his otherwise criminal act, because his passions were so far aroused that it was impossible for him to stay his hand, there is no protection for society. Any man who wishes to kill his enemy or any one whom he believes or fancies has injured him, lias only to bring himself up to that condition of intense emotion that he can no longer restrain himself, then do the killing, and then assert in a court' of justice that he was insane because his passion had passed all bounds of restraint. It' is easy for the mind least familiar with law to see that whenever that con dition of things is held to bo legal insanity there can be no such thing as protection of life under the law, for the law itself will abrogate all reasonable ground for its own enforcement.\nNote.-\u2014The authorities upon which this charge is based, are: Flanagan v. People. 53 N. Y. 467; People v. Moett, 23 Hun, 60; affirmed, 75 N. Y. 159; Brotherton v. People, 75 N. Y. 159; affirming 14 Hun, 486.\nSee also Walker v. People, infra, and cases there cited.\nAs to irresistible impulse, see the charge of Judge Cox in the Guitean case, published with notes in, 10 Federal Reporter, 161; and compare N. Y. Penal Code, \u00a7\u00a7 20, 21.",
+        "type": "majority",
+        "author": "Davis, J."
+      }
+    ],
+    "attorneys": [
+      "D. G. Rollins, assistant district attorney, for the people.",
+      "William F. Howe, for the prisoner."
+    ],
+    "corrections": "",
+    "head_matter": "Oyer and Terminer, New York County.\nDecember, 1881.\nPEOPLE v. COLEMAN.\nInsanity.\u2014Test of Responsibility.\u2014Burden of Proof.\u2014 Reasonable Doubt as to Sanity.\nIn this State the test of responsibility for criminal acts, where insanity is asserted, is whether at the time of doing the act which is the subject of inquiry, the accused knew what he was doing, and whether at the time and with respect of that act ho had the capacity to distinguish between right and wrong.\nA criminal act cannot be excused upon the theory of irresistible impulse, where the offender knew what he was doing and had the ability to discover his legal and moral duty in respect to it.\nThe burden of overthrowing the presumption of sanity is on the person who alleges the insanity.\nWhen evidence has been given to support the defense of insanity, then the prosecution holds the affirmative, and if a reasonable doubt of sanity exists upon the evidence, the prisoner is entitled to the benefit of that doubt.\nTrial of indictment for murder.\nD. G. Rollins, assistant district attorney, for the people.\nWilliam F. Howe, for the prisoner.\nThe facts of this case, not being necessary for an understanding of this masterly exposition of the law of insanity, are not given."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 25,
+  "last_page_order": 30
+}

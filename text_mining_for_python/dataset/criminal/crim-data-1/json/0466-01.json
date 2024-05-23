@@ -1,0 +1,79 @@
+{
+  "id": 1164458,
+  "name": "PEOPLE v. WHITE",
+  "name_abbreviation": "People v. White",
+  "decision_date": "1883-09",
+  "docket_number": "",
+  "first_page": "466",
+  "last_page": "467",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 466"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Den. 364",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485458
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0364-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 230,
+    "char_count": 3217,
+    "ocr_confidence": 0.533,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04286794326619042
+    },
+    "sha256": "0a06d80363be854fbb9e9122b5778b5fbcbd978dbee355f2eeaa61f77f81b354",
+    "simhash": "1:8baa740624679e40",
+    "word_count": 542
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. WHITE."
+    ],
+    "opinions": [
+      {
+        "text": "Pratt, J.\nThe defendant, with one McLuckey, was convicted on a charge of stealing six chickens, by a Court of Special Sessions, at the town of Cortland, Westchester county, and sentenced for five mouths to the Albany County Penitentiary, and on appeal the said conviction was affirmed by the Court of Sessions of Westchester county.\nMcLuckey is now serving out his term of imprisonment in the penitentiary, and the defendant, Jeremiah White is confined in the county jail of Westchester county, on an order staying said judgment, and this appeal is brought on behalf of the said Jeremiah White only.\nIt is claimed that the defendant was convicted upon declarations made by McLuckey to the officer in the absence of the defendant. This is true, but the evidence was competent against his co-defendant, and was admitted without objection.\nThe defendant afterward moved to strike out the evidence, which was properly refused. The proper motion was that the justice should instruct the jury not to consider the evidence as against the defendant. Such motion was not made, and the motion that was made to strike out the evidence was properly overruled.\nThe charge of the complaint was petit larceny, and the property alleged to have been stolen was of some intrinsic value.\nThe case was fairly tried and properly submitted to the jury, and we think the evidence was amply sufficient to justify the finding of the verdict.\nConviction affirmed.\nBarnard, P. J., and Dyokman, J., concur.",
+        "type": "majority",
+        "author": "Pratt, J."
+      }
+    ],
+    "attorneys": [
+      "John Gibney, for defendant, appellant.",
+      "Nelson H. Baker, district attorney for the people, respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nSeptember, 1883.\nPEOPLE v. WHITE.\nDeclarations oe Accomplice.\u2014Practice.\nWhere admissions of a co-defendant made in the absence of the prisoner are used against him, the proper practice is to move that the jury be instructed to disregard the evidence as against the prisoner.\nA motion to strike out such evidence is improper.\nThat the stolen property had some intrinsic value justifies a .conviction of petit larceny.\nAppeal from the judgment of the Court of Sessions of Westchester county affirming a conviction of Jeremiah White, the defendant, by a Court of Special Sessions, at the town of Cortlandt.\nThe facts appear in the opinion.\nJohn Gibney, for defendant, appellant.\nI. Declarations of co-defendant McLuckey were hearsay and incompetent as against prisoner, not being made in his hearing or presence. liosooe Crim. Ev. 48, 49; 2 Colby Crim. Law, 211; People v. Bleecker, 2 Wheel. 256.\nII. There was no proof of the value of the property alleged to be stolen. The verdict should find the value, in order that the court may know with certainty of what offense the defendant has been convicted. Warner v. State, 1 Green. 106 ; 39 111. 233. The value of the property stolen cannot be inferred or presumed, unless the property itself has a well known intrinsic value. Johnson v. People, 4 Den. 364. Under section 54 Y of the Penal Code the market value of the property stolen should have been proved. If it had then appeared to be more than twenty-five dollars, the court would have had no jurisdiction to try the prisoner, and he was deprived of his right to he tried by a common law jury if the offense was grand larceny.\nNelson H. Baker, district attorney for the people, respondents."
+  },
+  "file_name": "0466-01",
+  "first_page_order": 490,
+  "last_page_order": 491
+}

@@ -1,0 +1,119 @@
+{
+  "id": 1167678,
+  "name": "PEOPLE v. MEYERS",
+  "name_abbreviation": "People v. Meyers",
+  "decision_date": "1884-02",
+  "docket_number": "",
+  "first_page": "128",
+  "last_page": "134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "44 Barb. 170",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1945469
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/44/0170-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 321",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519293
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0321-01"
+      ]
+    },
+    {
+      "cite": "5 Hun, 25",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 N. Y. 657",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16488
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/34/0657-01"
+      ]
+    },
+    {
+      "cite": "5 Hun, 25",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 536,
+    "char_count": 13395,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04301177404551385
+    },
+    "sha256": "3defbed52344c8464a31ad14e2829902af185f1f6c51a97e68e127a240d2248b",
+    "simhash": "1:3b6aa54c0b36aea0",
+    "word_count": 2351
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur.-"
+    ],
+    "parties": [
+      "PEOPLE v. MEYERS."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, J.\nThe question in this case turns upon the construction of section 4 of chapter 549 of the Laws of 1873 entitled \u201c An act to amend an act, entitled \u2018 An act regulating the sale of intoxicating liquors\u2019 passed April 11th, 1870, and the act entitled, \u2018An act to suppress intemperance, and to regulate the sale of intoxicating liquors \u2019 passed April 16th, 1857.\u201d\nThat section is as follows: \u201c Any conviction for the violation of any provision of this act, or of the act hereby amended, by any person or persons licensed, or at any place licensed as herein provided, shall forfeit, and annul such license. The board of excise of any city, town or village may at any time and upon the complaint of any resident of said city, town or village shall summon before them any person or persons licensed as aforesaid, and if they shall become satisfied that any such person or persons has or have violated any of the provisions of this act or of the acts hereby amended they shall revoke cancel, and annul the license of such person or persons which they are hereby empowered to do, and when necessary to enter upon the premises, and take possession of and cancel such license. Upon an inquiry the said board or the party complained of may summon, and the said board may compel the attendance of witnesses before them and examine them under oath.\nThe sale of intoxicating liquors by any inn, tavern or hotel keeper or other person on Sunday is made by the act a misdemeanor (\u00a7 5).\nThe conviction of the defendants\u2019 bar-keeper for the sale of liquor on Sunday was therefore a conviction for an offense under the act.\nWe think the conviction operated ipso facto to annul the defendants\u2019 license.\nThe first clause of section 4 is awkwardly drawn, but in view of the whole act its meaning is plain.\nThe license authorized by the second section is a license to one or more designated persons to sell intoxicating liquors, etc., at a specified place within the city, town or village within which the license is granted.\nIt was competent for the Legislature, in its discretion, to annex any conditions to the granting of licenses which it deemed proper and to prescribe causes of forfeiture. Board of Excise v. Barrie, 34 N. Y. 657.\nIt is plain that a conviction of a licensee of an offense under the act, works a forfeiture of his license. The act so declares; the words are \u201c such conviction shall forfeit and annul such license.\u201d\nIn addition, the same result is made to follow any conviction for a violation of the act at the place licensed. The act casts upon the licensee the necessity in order to protect himself in the enjoyment of the license of seeing to it that no violation shall be committed on the licensed premises.\nIt is not left open to the licensee to claim in case of the conviction of another for such violation, that it was committed without his knowledge or consent. The words \u201c or at the place licensed,\u201d were obviously inserted to meet this precise ease. Any other construction would make the words meaningless. The subsequent clause of the section provides for the annulment of the license by the Board of Excise upon proceedings instituted upon its own motion or upon complaint of a resident. This jurisdiction does not depend upon the facts of a prior conviction under the act. It is an independent remedy for the annulment of the license by the Board of Excise whenever it becomes satisfied upon inquiry, after notice that the licensee has violated the act. It supplements the provision in the prior clause and operates as an additional restraint and gives a remedy for the revocation of a license although no criminal prosecution has been instituted. It is not necessary to consider sections 25 and 26 of the Act of 1857. These sections provide for the revocation of a license after a conviction or judgment has been obtained against a licensee for a penalty given by the act or upon his bond. The word conviction in these sections is inaccurately used. But the power of revocation given, is by the context plainly limited and exists only where there has been a recovery in a civil proceeding in one of the cases specified and does not extend to a case of a conviction upon indictment. This question was considered in People v. Tighe (5 Hun, 25).\nThe opinion of Gilbert, J., in that case contains a satisfactory exposition of the statute in question.\nThe judgment should be affirmed.\nAll concur.-",
+        "type": "majority",
+        "author": "Andrews, J."
+      }
+    ],
+    "attorneys": [
+      "Kintzing, Simonson & Meyer, attorneys (W. F. Kintzing, of counsel), for defendant, appellant.",
+      "Peter B. Olney, district attorney (John Vincent, assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nFebruary, 1884.\nPEOPLE v. MEYERS.\nExcise Law.\u2014Revocation oe License by Conviction.\u2014L. 1857, oh. 628; L. 1873, oh. 549.\nA conviction of defendant\u2019s bar-keeper of a violation of the Excise Law (L. 1873, ch. 549, \u00a7 8) operates ipso facto to annul defendant\u2019s license to sell malt and spirituous liquors. The Excise Law casts upon the licensee the burden of seeing that no violation of the act shall be committed upon the licensed premises.\nAppeal by the defendant, John M. Meyers, from a judgment of the General Term of the Supreme Court in the First Department, affirming a conviction of defendant for selling liquor without a license.\nThe defendant, John M. Meyers, was indicted on January 10, 1884, by the grand jury of the city and county of New York, for a violation of the Excise Law, viz., selling liquor without a license. On January 21, 1884, he was tried in the Court of General Sessions, city and county of New York, before Hon. Henry A. Gildersleeve, judge of said court, and a jury, and was convicted of the misdemeanor and sentenced to pay a fine of $25. An appeal was taken from the judgment of conviction to the General Term of the Supreme Court, First Department, and said judgment was affirmed January 25,1882, on the authority of People v. Tighe, 5 Hun, 25.' An appeal was then taken from the judgment of affirmance to the Court of Appeals.\nThe facts are briefly as follows:\u2014It was shown by the testimony that a full license to sell malt and spirituous liquors, on the premises No. 2331 Third avenue, New York city, was issued to appellant herein, John M. Meyers, on April 28, 1883, to expire on April 28, 1884, and that said license had never been revoked. That one Herman Jacob, a bar-keeper of defendant and appellant, was arrested for selling liquor on defendant\u2019s premises No. 2331 Third avenue, New York, on Sunday, June 3, 1883 ; that Herman Jacob plead guilty to said charge, in the Court of Special Sessions for the city and county of New York, and was fined $30. Charles Mittenberger testified that he was a bar-keeper in the employ of John M. Meyers, the appellant, at No. 2331 Third avenue, from October 10, 1883, to December 1, 1883, and that on December 1, 1883, he, as such bar-keeper, sold liquor and beer on said premises, with the knowledge and consent of appellant herein.\nDefendant\u2019s counsel asked the court to advise the jury to acquit upon the ground \u201c that defendant was regularly licensed to sell spirituous and malt liquors, covering the period charged in the indictment, and said license had not been revoked by the Excise Board, and that the conviction of said defendant\u2019s bar-keeper, Herman Jacob, on June 7, 1883, did not operate as a revocation of defendant\u2019s license.\u201d Refused, and excepted to.\nThe court charged the jury, among other things, as follows :\u2014\u201c I charge you, as a matter of law, that the conviction of Herman Jacob in June last for violation of the Excise Law in selling liquor on Sunday, June 3, 1883, at defendant\u2019s saloon, No. 2331 Third avenue, revoked the defendant\u2019s license.\u201d Counsel for defendant excepted.\nKintzing, Simonson & Meyer, attorneys (W. F. Kintzing, of counsel), for defendant, appellant.\nI. The court erred in refusing to advise the jury to acquit, as requested, for the following reasons: That the license of defendant had not been revoked by the Commissioners of Excise, and was therefore in full force and effect at the time charged in the indictment. It is claimed by the people, under the authority of People v. Tighe, 5 Hun, 25, that the conviction of appellant\u2019s barkeeper for a violation of the excise law revoked said license, ipso facto, without any action on the part of the Board of Excise. The section relied upon is as follows :\u2014\u201c Section 8. Any conviction for the violation of this act, or of the acts hereby amended, by any person or persons licensed, or at any place licensed as herein provided, shall for-feit and annul such license. Th\u00e9 Board of Excise of any city, town or village, may at any time, and upon the complaint of any resident of said city, town or village, shall summon before them any person or persons licensed as aforesaid, and if they become satisfied that any such person or persons has or have violated any of the provisions of this act or of the acts hereby amended, they shall revoke, cancel and annul the license of any such person or persons, which they are hereby empowered to do, and when necessary to enter upon the premises and take possession of and cancel such 'license. Upon an inquiry the said board or the party complained of may summon, and the said board may compel the attendance of witnesses before them, and examine them under'oath.\u201d Laws 1873, chap. 540, \u00a7 8.\nUnder the Act of 1857 no provision was made for a forfeiture of the license by reason of a conviction under the construction given by the Court of Appeals in Foote v. People, 56 N. Y. 321, and cases there cited, holding that a violation of the provisions of said act was a misdemeanor and punishable as such. See Foote v. People, 56 N. Y. 321. Sections 25 and 26 provided for the revocation of a license upon conviction or judgment, - for any violation of the provisions of this act, cither in a suit upon a penalty or a suit upon a bond, but such revocation could not be had until the conviction had been transmitted to the next Court of Sessions, and the licensee had been summoned before the court to show cause why said license should not be revoked, and an opportunity afforded him to have his day in court. By section 8 of L. 1873, cli. 540, above cited, the class of convictions was extended to all or any conviction for a violation of the provisions of the act, and that such conviction shall forfeit and annul such license, and then the section goes on and provides a remedy by which such revocation can be had. It relegates to the power that grants the license the power to revoke the same, which it did not have before. It affords the licensee an opportunity to be heard\u2014to have his day in court\u2014which under the construction contended for by the People the licensee could never have. This provision does precisely what was provided for by sections 25 and 26 of Act of 1857 (2 Edmonds\u2019 Rev. Stat. \u00a7\u00a7 5-20).\", An analogous case is the section which declares a second marriage during the lifetime of a former husband or wife, except in certain cases, to be absolutely void, yet in the next chapter provision is made by which the chancellor may declare said second marriage void. The legislature provided the remedy prescribed, in order that a person should not be deprived of a fair and impartial hearing\u2014a'day in court, which he otherwise would not have. Will this court hold that a conviction of one Herman Jacob for violation of the excise law, viz., selling liquor on Sunday on appellant's premises, is sufficient of itself to revoke and annul appellant\u2019s license without proof before some tribunal appointed and designated by law, that said Jacob was an employee of appellant, and that the sale was made by the consent of appellant, or that appellant was present or connived at, or participated in such sale. Such a construction would deprive appellant of his right of trial, and leave him without a remedy. It is submitted that all that section 8 implies is that such conviction shall forfeit and annul appellant\u2019s license upon its appearing, satisfactorily to the Board of Excise, upon an examination thereof, and the proof offered, after the licensee has been duly notified to appear and show cause why said license should not be revoked, that a violation of the provisions of the act has been made by the licensee, and then said license shall be forfeited and annulled by said board, and the licensee deprived of all benefits thereof.\nII. The conviction of defendant\u2019s barkeeper did not operate as a revocation of appellant\u2019s license, ipso facto, without action being had by said Board of Excise. The case of the People v. Tighe, supra, did not hold that a conviction of an employee revoked the licensee\u2019s license. The case is far different. The licensee in that ease had an opportunity to be heard upon his trial for such a violation ; was a party, and was found g-uilty by a court of competent jurisdiction. Much stronger evidence is required to show, as in the present case, that the licensee knew, assented to, participated in or connived at such sale, whereas, in the case of the bar-keeper, simple proof of the sale by him upon the premises on Sunday is sufficient to secure his conviction. People v. Utter, 44 Barb. 170.\nIII. A licensee cannot be deprived of his license by the act of another without having an opportunity of being heard, or having his day in court. There is no evidence in the ease to show that the appellant was present or participated in, connived at or assented to the violation of the Excise Law upon which Jacob was convicted.\nPeter B. Olney, district attorney (John Vincent, assistant), for the people, respondent."
+  },
+  "file_name": "0128-01",
+  "first_page_order": 152,
+  "last_page_order": 158
+}

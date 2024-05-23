@@ -1,0 +1,175 @@
+{
+  "id": 1164463,
+  "name": "PEOPLE v. BOAS",
+  "name_abbreviation": "People v. Boas",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "132",
+  "last_page": "138",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 86",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164417
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0086-01"
+      ]
+    },
+    {
+      "cite": "88 N. Y. 196",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550685
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/88/0196-01"
+      ]
+    },
+    {
+      "cite": "7 Barb. 477",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4885404
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/7/0477-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 277",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0277-01"
+      ]
+    },
+    {
+      "cite": "5 Lans. 214",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4835172
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/5/0214-01"
+      ]
+    },
+    {
+      "cite": "11 Johns. 114",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0114-01"
+      ]
+    },
+    {
+      "cite": "44 N. H. 383",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4560052
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/44/0383-01"
+      ]
+    },
+    {
+      "cite": "12 Wis. 519",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8709309
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/12/0519-01"
+      ]
+    },
+    {
+      "cite": "11 Johns. 114",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137607
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/11/0114-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 668,
+    "char_count": 14090,
+    "ocr_confidence": 0.526,
+    "pagerank": {
+      "raw": 4.89950402824256e-08,
+      "percentile": 0.30721424299254513
+    },
+    "sha256": "8a8b644fa8c94b865ac3e5900ba790f59ce57531a46a8a96cd1ef583a77b301f",
+    "simhash": "1:ed2a17944170fd4c",
+    "word_count": 2452
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. BOAS."
+    ],
+    "opinions": [
+      {
+        "text": "Brady, J.\n[After stating the facts as above.]\u2014There is no doubt that the defendant, as one of the inspectors, committed a grave error in refusing to accept the vote of G-erdes, and that it resulted in depriving the voter of the highest privilege he can exercise under our form of government. But the statute requires that the exclusion shall be willful, and to be willful there must exist, if not malice, a decided intention designedly and purposely to exclude the vote. To do an act willfully is to do it willingly by design\u2014\u201c on purpose.\u201d Worcester\u2019s Dictionary. Such was not this case. The inspectors assigned the reason. It was not sufficient in law, it is true, but they were evidently impressed and sought advice from the chief of the bureau of elections, who suggested what he considered to be the proper mode of disposing of the controversy. He was in error, it is true, but being persons uneducated in law and perhaps not sufficiently advised of their duties as to understand them perfectly, they placed reliance upon the advice thus given, and by a person connected with the bureau of elections. This deprives the case of the essential element under the statute, of malice or deliberate design and intent, and renders it necessary to reverse the judgment pronounced against the appellant.\nThe learned recorder charged the jury that if they came to the conclusion that Mr. Gerdes was a legal voter, and had the legal right to vote, and that the defendant willfully excluded his vote, knowing at the time that he was duly and legally authorized to vote at that election, it was a felonious act on his part and within the meaning of that term, and that lie would be guilty of the offense charged in the indictment. This was excepted to, and the exception seems to have been well taken, because the proposition declared is that if the defendant knew that the voter was legally authorized to vote and his vote was excluded, it was willfully done. This is not justified by the evidence in the case.\nThe learned Recorder also charged the jury that if a majority of the board, acting as a board, the defendant being one of the majority, willfully and knowingly, all being actuated with the same common intent and motive, feloniously did exclude the vote of Gerdes, the act of one would be the act of all, or the act of the majority who concurred in excluding the vote, and that they, that is, the persons composing the majority of the board, would be jointly and severally liable, and should be convicted. This was stating the law of the case accurately, because it presented the necessary elements to justify a conviction, namely, that the defendant should be actuated by a common intent and motive feloniously to exclude the vote of Gerdes. If the intention feloniously existed, then the vote would be willfully excluded, and the appellant would be within the provisions of the statutes and liable to conviction and punishment.\nThe proposition which runs through the charge seems to be that if the vote was excluded, the defendant knowing that Gerdes was entitled to vote, he having the necessary qualifications and the right to do so, it was a willful act to exclude the vote, and one, therefore, which came within the provisions of the statute. This is not the law of this case, although the general proposition is correct, because it is evident that the exclusion of the vote by the appellant rested upon the proposition that some person had voted in his name, and that the inspectors thought they had no power to receive another vote, such vote having been received, although erroneously. The suggestion emanating from the inspectors to Mr. Gerdes that he should procure a mandamus seems to rest upon no other proposition than that they should be thus protected in doing what they considered would be an erroneous exercise of their duty, viz.: the receipt of the vote when one had already been given in the name of the voter presenting his ballot.\nIf the construction of the statute be that the mere presentation of a vote, by a person who is known to be qualified as a voter, is sufficient, under circumstances such as presented themselves in this case, to justify the conviction as an act willfully done, then there must be a departure from rules which govern cases of a kindred character and which seem to have been well settled by the adjudged cases. For example, in the case of Jenkins v. Waldron, 11 Johns. 114, it was held that an action on the case would not lie against inspectors of an election for refusing to receive the vote of a person legally qualified, without proving malice express or implied. The court said in that case: \u201c It is not alleged or proved that the inspectors fraudulently or maliciously refused to receive the vote. This we consider absolutely necessary to the maintenance of an action against the inspectors of an election.\u201d And in Bishop on Statutory Crimes, \u00a7 806, it is stated-as a proposition in reference to the persons intrusted by law to pass upon the qualification of voters, that they are not answerable to an indictment when what they do, is done through mistake either of law or fact, being honestly done.\nIt must be further said that the section \u201cunder which the defendant was indicted makes the exclusion of the vote a felony, and the general rule of law in regard to a felony is that there must be an intent to do wrong, and the intent must be proved beyond reasonable doubt. It is true that the inspectors are not invested with any discretion as to the rejection or acceptance of a vote, when the person offering it has the necessary qualifications authorizing him to express it; but the language of the statute is \u201c willful.\u201d It is not that if they reject the vote of a person duly qualified they may be convicted, but they must do it willfully, and that means with knowledge aforethought and with a wicked design. If this be not so, then the word willful has no force in the statute and might just as well be expunged.\nFor these reasons it is thought, as already suggested, that the judgment must be reversed and a new trial ordered, upon which the people may be able to show from facts and circumstances, the existence of a deliberate intent or design to do wrong.\nIt is the determination of this court, and must be of every tribunal in the state, to preserve unconditionally and absolutely the right of a qualified voter to exercise his franchise, and to punish, whenever the facts justify it within the provisions of the statute, any departure from the strict duty of the inspectors, who in reference to the vote are the depositaries of a great public trust; and this suggests what has frequently been stated both in and out of the courts of justice, that inspectors of election should be educated and intelligent men, thoroughly instructed in the duties that they are to perform, so that when the voter presents himself they shall understand precisely the duties incumbent upon them, and thus preserve the absolute right of the voter, without interference and without impediment to express his vote, if he possesses the qualifications of the statute and is willing to take the oath required by law. It may be troublesome to make selections of such persons, but the importance of doing it results from the character of the duties to be performed as illustrated by this case, in which it is quite clear that if the inspectors had thoroughly understood their duties the vote of Gerdes would not have been excluded.\nJudgment reversed and new trial ordered.\n\u2022 Davis, P, J., and Daniels, J., concur.",
+        "type": "majority",
+        "author": "Brady, J."
+      }
+    ],
+    "attorneys": [
+      "William F. Kintzing and John E. Brodsky, for the prisoner, appellant.",
+      "John McKeon, district attorney, and John Vincent (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nMarch, 1883.\nPEOPLE v. BOAS.\n'Election Laws.\u2014Refusal to eeceive Ballot, when felony. \u2014Intent.\nThe refusal, by an inspector of election, to receive the ballot of a voter known to be legally qualified to vote, does not constitute a felony under the registry and election law of New York City, of May 14, 1872, where it appears that such refusal was based wholly on the fact that another had previously voted in said person\u2019s name, and that the inspector, in refusing to receive said ballot, acted under the suggestion of the chief of the bureau of elections, to whom he applied for advice; tl*e evidence tending to show that said inspector believed that he had not authority to receive complainant\u2019s ballot.\nTo justify a conviction, it must appear that the inspector acted willfully; that is, with knowledge aforethought, and a wicked intent.\nAppeal by defendant from judgment of General Sessions.\nThe defendant was indicted for a violation of the election and registry law of the city and county of New York, passed Hay 14,1872, and its amendments, in having willfully excluded the vote of John F. Gerdes at the election of November, 1881, knowing that he was legally entitled to vote at such election. He demanded a separate trial, and was tried and convicted in the Court of General Sessions of New York, November, 1882, before Recorder Smyth and a jury, and sentenced to one year\u2019s imprisonment in the state prison.\nThe indictment charged that Gerdes was entitled to vote at the election named, and that the appellant, well knowing that he was lawfully entitled to vote and a duly qualified voter at such election, did then and there feloniously and willfully exclude the vote of Gerdes so tendered, against the form of the statute in such case made and provided. The testimony in the case abundantly shows the performance of all the duties on the part of Gerdes, the voter, which required from the inspectors the reception of his ballot. But it appears that some person had voted in his name prior to the presentation of his vote, and it was for that reason that the defendant, with the other inspectors, declined to receive his vote. It appears also that he made three applications to have his ballot received; that upon his first application, he was told by the inspectors, after having been informed of the incident already mentioned, viz.: that some person had voted in his name, that he might call back in an hour, and that they would send to headquarters for information; that he went back in an hour or so and asked whether they had received any answer, and they replied in the affirmative.\nFor the defense it was shown that they did send to John J. O\u2019Brien, who was the chief of the bureau of elections, in reference to the vote of Mr. Gerdes and asked his advice, and that he suggested that the best way to settle the matter was by an application by Mr. Gerdes for a mandamus; that there was plenty of time, and lawyers present to procure it. There is no doubt upon the evidence that the suggestion was made in the presence and hearing of Mr. Gerdes, for a Mr. Ball, a witness for the prosecution, stated that he heard Mr. O\u2019Brien say something about getting a mandamus, and that Gerdes was present.\nWhen the prosecution rested, and again at the close of the case, counsel for defendant asked the court to advise the jury to acquit, on the ground that the evidence, did not, in law sustain the indictment. The motions were denied, and exceptions taken; various exceptions were also taken to the Becorder\u2019s charge to the jury, which are fully set forth in the opinion.\nWilliam F. Kintzing and John E. Brodsky, for the prisoner, appellant.\nThe appellant was acting in a judicial capacity; he is therefore not answerable for a mistake of law. The law makes the inspectors the judges of the qualifications of a voter, his right to vote, and on the exercise of their deliberative judgments upon that question they cannot be held responsible. Bishop Stat. Crimes, \u00a7 806; Byrne v. State, 12 Wis. 519; State v. Daniels, 44 N. H. 383; State McDonald, 4 Harring. (Del.) 555 ; State v. Porter, 4 Id. 556.\nAn action does not lie against individuals for acts erroneously done in a corporate capacity from which detriment happens to the plaintiff, at least not without'proof of malice. Harman v. Tappenden, 1 East, 555.\nAn action on the case will not lie against inspectors of an election for refusing the vote of a person legally qualified to vote, without proving malice express or implied. Jenkins v. Waldron, 11 Johns. 114; Geotchens v. Matthewson, 5 Lans. 214; People v. Coon, 15 Wend. 277; People v. Norton, 7 Barb. 477; King v. Barron, 3 Barn, & Ad. 432; 1 Russell Crimes, 136; 1 Chitty Cr. Law, 873; Wharton Am. Cr. Law, 1732, 2d ed.\nThe vote of John F. Gerdes was not willfully excluded by the board of inspectors, or by any of the inspectora. To do an act \u201c willfully \u201d in contemplation of law is to do it \u201c maliciously, wickedly, criminally.\u201d The act must be the offspring of a mind criminally inclined, the crime charged being a felony. The appellant may, as claimed by the prosecuting officer, \u201cintentionally, consciously and knowingly\u201d exclude the vote. Still, he would not be guilty, unless it was done with a felonious intent.\nThe Kecorder\u2019s charge was erroneous. It is submitted that to \u201c willfully and knowingly exclude a vote \u201d is not a felonious act in contemplation of law ; it must have been done \u201c corruptly, maliciously, criminally.\u201d See authorities supra.\nJohn McKeon, district attorney, and John Vincent (assistant), for the people, respondent.\nThe facts disclose a willful intent to defy the law. Election Laws, \u00a7 67. The willful intent, like premeditation and deliberation in murder cases, must be derived from the circumstances surrounding the act claimed as criminal. Leighton v. People, 10 Abb. Pr. N. S. 261; Sindram v. People 88 N. Y. 196; People v. Majone, 1 N. Y. Crim. Rep. 86.\nThe willful intent was a question of fact for the jury, and they, by their verdict, found this fact to exist, so that the only remaining question in this connection is: Was there evidence in the case upon which to base such a finding? See charge of Justice Davis, In re Hall. The evidence fully supports this finding of fact, and even though it may be argued that the evidence is slight, yet a strong circumstance which weighed against the theory that it was a simple error of judgment, was the utter absence of any explanation. The inspectors\u2019 duties were simply ministerial."
+  },
+  "file_name": "0132-01",
+  "first_page_order": 156,
+  "last_page_order": 162
+}

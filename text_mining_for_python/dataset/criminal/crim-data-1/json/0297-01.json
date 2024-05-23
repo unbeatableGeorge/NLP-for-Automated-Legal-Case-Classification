@@ -1,0 +1,85 @@
+{
+  "id": 1164432,
+  "name": "PEOPLE v. BURTON",
+  "name_abbreviation": "People v. Burton",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "297",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "39 Barb. 56",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1943403
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/39/0056-01"
+      ]
+    },
+    {
+      "cite": "2 B. 8",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 294,
+    "char_count": 4733,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 8.652746753754612e-08,
+      "percentile": 0.49150568237762127
+    },
+    "sha256": "f8ed82f3b08aa6a9688a3ea3bac6370129d54c3af983ad8c56f86c5e8e88caa2",
+    "simhash": "1:b4c2ed860dcad91e",
+    "word_count": 837
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. BURTON."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, P. J.\nThe indictment in this case charged the appellant with breaking and \u00e9ntering the salt block of John C. Keefe, in the city of Syracuse, and stealing therefrom certain salt kettles. The crime was alleged to have been committed in October, 1881.\nThe facts of the case, as shown by uncontradicted evidence, are as follows: The defendant, who is a son of Burr Burton, deceased, bought the salt block in question from the executors of the estate of his father, in 1867, and took a deed from them, 11 and executed a mortgage back, for a part of the purchase'money. The defendant took possession, and \"in 1879, put into the block several salt kettles, including those which' he is charged with stealing. They were put in for the purpose of being used by the defendant in the manufacture of salt, and they were set in arches of masonry, a portion of which had to be removed, in order to get the kettles out. Subsequently, the mortgage was foreclosed, and the block was sold, but the defendant claimed that he was still the owner of the kettles which he had put in subsequently to the execution of the mortgage. He took legal advice on the subject, and was advised that he had a right to take the kettles away. Accordingly, he went to the premises, in the day time, entered by an open door, and with the assistance of two cartmen whom he took with him, he removed the kettles, breaking-so much of the masonry as was necessary for the purpose, carried the kettles away and sold them. The agent of the owner of the block, who had charge of it, was present when the kettles were removed, and conversed with the defendant while the men were getting the kettles out. The defendant\u2019s counsel moved at the close of the evidence for the discharge of his client, on the ground that there was no evidence to warrant a conviction. The motion was denied, and the defendant excepted.\nThe judge charged that the evidence did not warrant a conviction of burglary, but he instructed the jury that if the defendant took the kettles with intent to steal them, he was guilty of larceny.\nWe think the judge erred in submitting the question of larceny to the jury. He should have instructed them that there was no evidence to warrant a conviction for that offense. The uncontradicted evidence repels the idea that the defendant acted animo furandi. At most, he was but a trespasser, assuming that the kettles were personal property and that his claim to them was unfounded. Again, if the kettles were not the property of the defendant, it was because they had been affixed to the realty and had become a part of it, so that they passed under the mortgage.\nIn that case, assuming that there was evidence of an intent to steal, the offense consisted of severing and taking away from the building \u201c a part thereof, or some material of which it was formed,\u201d with the intent aforesaid. An offense of that nature is not larceny, unless the property severed exceeds twenty-five dollars in value. 2 R. S. 680, \u00a7 68. The verdict of the jury convicting the defendant of petit larceny, established the fact that the property was not of that value.\nThe most that could have been claimed by the public prosecutor under the circumstances last suggested is, that the act of the defendant amounted to a misdemeanor under 2 B. 8. 693, \u00a7 15, but for that offense he was not indicted or convicted. Comfort v. Fulton, 39 Barb. 56.\nThe judgment and conviction should be reversed, and a new trial ordered in the Onondaga Court of Sessions.\nHardin, J., and Barker, J., concur.",
+        "type": "majority",
+        "author": "Smith, P. J."
+      }
+    ],
+    "attorneys": [
+      "N. Z. Haven, for defendant, appellant.",
+      "H. Hoyt, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014fourth Department.\nJanuary, 1883.\nPEOPLE v. BURTON.\nLarceny.\u2014Trespass.\u2014Removal of Property by Defendant UNDER CLAIM OF TlTLE.\nAfter the execution of a mortgage by defendant on a certain salt block owned by him in the city of Syracuse, he put into the mortgaged premises certain salt kettles, which were set in arches of masonry, a portion of which would have to be removed to get the kettles out. ' Subsequently, the mortgage was foreclosed and the premises sold. Thereafter, the defendant claiming to be the owner of the salt kettles, and having received legal advice that he had the right so to do, entered into the premises in the daytime through an open door and without any attempt at concealment, broke as much of the masonry as was necessary to remove the kettles, took them away and sold them. Held, that these facts show that the defendant did not act animo furandi, and that he was not guilty of larceny.\nAppeal from a judgment of the Court of Sessions of Onondaga county, entered on a conviction of the appellant of petit larceny.\nThe facts appear in the opinion.\nN. Z. Haven, for defendant, appellant.\nH. Hoyt, district attorney, for the people, respondent."
+  },
+  "file_name": "0297-01",
+  "first_page_order": 321,
+  "last_page_order": 323
+}

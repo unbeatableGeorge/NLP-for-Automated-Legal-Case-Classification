@@ -1,0 +1,79 @@
+{
+  "id": 1164456,
+  "name": "PEOPLE v. CUTLER",
+  "name_abbreviation": "People v. Cutler",
+  "decision_date": "1883-12",
+  "docket_number": "",
+  "first_page": "178",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "39 N. Y. 456",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Hill, 121",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 175,
+    "char_count": 2504,
+    "ocr_confidence": 0.554,
+    "pagerank": {
+      "raw": 4.260605650599215e-08,
+      "percentile": 0.26956687436217325
+    },
+    "sha256": "c6d9c6e38d03169eac969a4810b4da5599948dee0b6651901076390211b2a6b9",
+    "simhash": "1:8aaeed057faacaca",
+    "word_count": 426
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. CUTLER."
+    ],
+    "opinions": [
+      {
+        "text": "Gilbert, J.\nWith respect to the technical objections to the judgment appealed from, it will be sufficient to refer to section 761 of the Code of Criminal Procedure. Upon the merits we think the evidence is sufficient to sustain the conviction. The statute (Code Crim. Proc. \u00a7 899, subd. 4 and 7) defines disorderly persons, and among the persons so defined, are keepers of houses for the resort of gamesters, and persons who keep in a public place an apparatus or device for the purpose of gaming. The evidence shows that the defendant kept a public saloon, to which persons resorted for the purpose of playing a game called pool, and another game called bagatelle.\nThese games were sometimes played upon the terms that the loser of the game should pay for the use of the gaming apparatus ; but, at other times, the players played for drinks. The house of the defendant, as appears, was kept principally for those purposes. Such a house is a public nuisance at common law (Tanner v. Trustees of Albion, 5 Hill, 121), and persons who resort there are gamesters, within the definition of the Code of Criminal Procedure.\nIn Hitchins v. People (39 N. Y. 456), the Court of Appeals held that, playing games for beer or cigars, was gambling, within the meaning of chapter 504 of the Laws of 1851, which prohibited the keeping of a room, etc., to be used for gambling.\nThat case was in accordance with general principles for the promotion of the public welfare, and is decisive of the case.\nThe conviction must be affirmed.\nBarnard, P. J., and Dyckman, J., concur.\nConviction and judgment affirmed.",
+        "type": "majority",
+        "author": "Gilbert, J."
+      }
+    ],
+    "attorneys": [
+      "A. J. Adams, for appellant.",
+      "N. H. Baker, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nDecember, 1883.\nPEOPLE v. CUTLER.\nDisorderly Persons.\u2014Gaming.\u2014\u201c Pool for Drinks.\u201d\u2014Code Criminal Procedure, \u00a7 899.\nDefendant kept a public saloon to which persons resorted for the purpose of playing games, known as pool and bagatelle. Sometimes these games were played upon the terms that the loser should pay for the use of the gaming apparatus, but at other times the players played for drinks. Held, that such a house is a public nuisance, and the persons who resort there are gamesters within the definition of section 899 of the Code of Criminal Procedure.\nThe keeper of such a house is a disorderly person.\nAppeal from judgment of Court of Sessions of Westchester county, affirming a judgment of Court of Special Sessions convicting defendant of being a disorderly person.\nA. J. Adams, for appellant.\nN. H. Baker, district attorney, for the people, respondent."
+  },
+  "file_name": "0178-01",
+  "first_page_order": 202,
+  "last_page_order": 203
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1164424,
+  "name": "SAWYER v. PEOPLE",
+  "name_abbreviation": "Sawyer v. People",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "249",
+  "last_page": "251",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 306,
+    "char_count": 5463,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 1.4064277772564744e-07,
+      "percentile": 0.6457739428051597
+    },
+    "sha256": "466a3b367d9bf906316129521092f72ac4a55df0e3a54dc005ad6d08a8823691",
+    "simhash": "1:de04bd095d5120d0",
+    "word_count": 925
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SAWYER v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Ruger, Ch. J.\nThe record brings to this court the evidence and certain exceptions taken to the rulings of the court below as to the admissibility of some of such evidence.\nThe only questions open to discussion here are whether any evidence was given in support of the conclusion reached by the jury, and whether the court below erred in its rulings upon the questions propounded to witnesses by the plaintiff in error.\nIt was a fact, established on the trial by the uncontradicted evidence of all of the witnesses in the case, that on the evening of April 15, 1880, upon or near the corner of Forty-second street and Seventh avenue, in the city of New York, the defendant fired a pistol at one Theophilus Steele, the bullet from which struck said Steele near or upon his nose and then penetrated the head inflicting a dangerous wound.\nIt was also a conceded fact that previous to this time complainant and defendant had been upon unfriendly terms. The question litigated upon the trial was whether at the time of the shooting the defendant had reasonable grounds to believe that the complainant intended to make an assault upon him and that such assault placed his life in jeopardy. We have carefully examined the evidence, taken on the trial and found it difficult to harmonize the statements of the witnesses, but for that reason a question was presented peculiarly adapted to the judgment and consideration of the jury. The burden would seem to rest upon the defendant to establish to the satisfaction of the jury the existence of sufficient cause to justify him in the use of a deadly weapon, such as he concededly used on this occasion.\nUpon the evidence in this case we think the jury were justified in saying that the existence of such cause was not established to their satisfaction, although if they had found the other way there would have been no ground upon which to disturb their verdict.\nWo have also carefully examined the several exceptions taken by the plaintiff in error to the rulings of the court appearing in the record. While the counsel for defendant in his printed points, questions three of such rulings, but two of them are shown by the record to have been taken by him. These relate to the exclusion by the court of answers to the following questions put to defendants\u2019 witnesses by his counsel. \u201c In your association with him it has been your observation that he is a peaceable character, his disposition as to peaceableness.\u201d Q. \u201c What is your judgment as to his disposition as to peacefulness or quarrelsomeness \u201d1\nEach of the witnesses to whom these questions were put was allowed to answer all questions relating to the general character of the defendant, although they showed but slight acquaintance with it, and were allowed to, and gave favorable answers to questions referring to his character for quietness and peacefulness. While we think from these circumstances no possible injury could happen to the defendant by the exclusion of the evidence objected to, we also think the questions were objectionable as being leading and calling for the opinions of the witnesses as to the chai'acter of the accused based, upon their personal observation. It was competent for the defendant to call witnesses as to his general reputation and character, but this is as far as the rule permits him to go.\nWe think the questions were objectionable in form as well as substance, and were properly excluded.\nThe judgment should be affirmed.\nAll concur, except Andrews, J., not voting, and B, apallo, J., absent.",
+        "type": "majority",
+        "author": "Ruger, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "Howe & Hummel, for plaintiff in error.",
+      "John McKeon, district attorney, William C. Beecher, of counsel, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Court of appeals.\nMarch, 1883.\nSAWYER v. PEOPLE.\nSelf Defense.\u2014Burden of Proof.\u2014Evidence.\u2014Character for Peacefulness.\nUpon the trial of an indictment it is competent for a defendant to call \u2022 witnesses to his general reputation and character, but this is as far as the rule in that regard permits him to go.\nAccordingly, where on the trial of an indictment for felonious assault, the following questions asked on defendant\u2019s behalf were excluded, viz: \u201cIn your association with him (the accused), has it been your observation that he is a peaceable character, his disposition as to peacefulness?\u201d \u201cWhat is your judgment as to his disposition as to peacefulness or quarrelsomeness?\u201d Held, not error. The questions were objectionable as being leading, and .calling for the opinion of the witnesses as to the character of the accused, based upon personal observation.\nWhere, upon the trial of an indictment, it appears by uncontradicted evidence, that the accused shot complainant with a pistol, the burden is on the accused to show to the satisfaction of the jury the existence of sufficient cause to justify him in the use of the deadly weapon.\nError to the General Term of the First Department to review a judgment entered at the May term, 1882, which affirmed a judgment of the Court of General Sessions of- New York county, Gildeksleeve, J., presiding, entered April 19, 1881, upon, a verdict convicting the plaintiff in error of felonious assault. The facts are stated in the opinion.\nAfter the verdict, on the trial a motion was made in arrest of judgment, on the ground that the indictment was defective, in that it alleged the shooting to have been without justifiable and excusable cause, and it was claimed that the word \u201c or \u2019\u2019 should have been substituted for the word \u201c and.\u201d The motion was denied.\nHowe & Hummel, for plaintiff in error.\nJohn McKeon, district attorney, William C. Beecher, of counsel, for the people."
+  },
+  "file_name": "0249-01",
+  "first_page_order": 273,
+  "last_page_order": 275
+}

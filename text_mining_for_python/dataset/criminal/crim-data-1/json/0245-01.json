@@ -1,0 +1,66 @@
+{
+  "id": 1164485,
+  "name": "PEOPLE v. BERNARDO",
+  "name_abbreviation": "People v. Bernardo",
+  "decision_date": "1883-05",
+  "docket_number": "",
+  "first_page": "245",
+  "last_page": "249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 245"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Gen. Sess.",
+    "id": 11565,
+    "name": "New York General Sessions"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 395,
+    "char_count": 8030,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 1.1548043557107908e-07,
+      "percentile": 0.5822551816727539
+    },
+    "sha256": "010fcbe5445d5bd4da40dccf54848a50be1e3e33d9a463d960137f576d918f7a",
+    "simhash": "1:56d19695e536b90e",
+    "word_count": 1439
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. BERNARDO."
+    ],
+    "opinions": [
+      {
+        "text": "Smyth, Recorder.\nThe appellant was tried and convicted by the Court of Special Sessions of a violation of section 3 of chapter 374 of the Laws of 1862, and was sentenced by the court to be imprisoned in the penitentiary for the term of six months.\nHe now appeals from the judgment, so rendered against him, upon the following grounds :\n1. That the crime of which he was convicted is a felony, and, therefore, the court has no jurisdiction.\n2. That the section of the act' under which he was convicted, is repealed by the Penal Code.\n3. That the evidence did not establish the commission of any crime.\nThe section of the statute under which the conviction was had, is as follows :\n\u201c Every person who shall lay hand upon the person of another, or upon the clothing upon the person of another, with intent to steal, under such circumstances as shall not amount to an attempt to rob or an attempt to commit a larceny, shall be deemed guilty of an assault with intent to steal, and shall be punished as now provided by law for the punishment of misdemeanors.\u201d\nIt further provides that it shall not be necessary to allege or prove in any prosecution for an offense under this section, any article intended to be stolen or the value thereof, or the name of the person so assaulted.\nThe evidence on the trial established the following facts, viz.: That on the evening of March 17. last, in Yesey street, near the market, the appellant thrust his hand into the pocket of a garment then on the person of a woman. That the v itness, who saw him do so, informed a police officer of what he had seen, and caused the arrest of the appellant. That there was no violence used by the appellant, nor was any threatened by him. Ho property was taken from the woman or from her person, nor was there any proof that the pocket into which the appellant thrust his hand, contained any property of any value.\nThe woman was not examined on the trial. The appellant and other witnesses were examined by the court, but with the exception of the denial of the appellant, and liis contradiction by the other witnesses, the evidence was not very material.\nThe facts thus disclosed by the evidence do not constitute either an attempt to rob or commit larceny, and was not sufficient to sustain a conviction of a common assault and battery.\nThe word assault, as it is used in the act of 1862, is so used in a sense and as descriptive of something essentially different from the common law definition of that word. At common law, an assault is defined to be an attempt or offer with force or violence, to do a corporal hurt to another; an intentional attempt by violence to do an injury to another; any unlawful physical force, partly or fully put in motion, creating a reasonable apprehension of immediate physical injury to a human being.\nHad the words \u201c one who assaults another with intent to steal \u201d been used instead of the words contained in the act\u2014 \u201c one who lays hands upon the person of another with intent to steal \u201d\u2014the purpose of the act would probably have been defeated.\nThe act was framed to meet a defect existing at the time of its passage in the criminal law, which defect frequently rendered it impossible to convict of any crime persons who were constantly engaged in making attempts to steal from the person or the clothing upon the person, by picking pockets.\nLaying the hands upon the person or clothing of another, unaccompanied by any violence and when it could not be shown that there was property on the person or in the clothing on the person on whom the attempt was made the subject of larceny, would not amount to an attempt to commit larceny.\nIf the facts and circumstances established by this evidence satisfied the trial court, beyond a reasonable doubt of the appellant\u2019s guilt of the offense charged against him, the conviction was sustained by the evidence and he was properly convicted and sentenced, provided the section of the act under which he was tried and convicted was not repealed by the Penal Code.\nThe appellant insists that it is repealed by section 726 of the Penal Code, which provides that \u201c all acts and parts of acts which are inconsistent with the provisions of this act (the Code) are repealed so far as they impose any punishment for crime except as herein provided.\u2019-\u2019\nA careful examination of the provisions of the Penal Code has led me to the conclusion that the \u201cact\u201d of the appelLnt, which is made a crime and punishable.as a crime by the act of 1862, is neither criminal or punishable under any of the provisions of the Penal Code.\nThe material question to he determined is whether the Code has repealed the act in question or whether it is a \u201c statute of\n\u25a0 this state not repealed by said Code.\u201d Section 2, Penal Code. The act in question amended an act passed in 1860 (L. 1860, c. 508, \u00a7 34), which act created a crime which, prior to the passage of said act, was unknown to the common law, designating the crime so created as an \u201c assault with intent to steal,\u201d and punished it as a misdemeanor.\nIfor could a conviction for an assault and battery be had, because in almost every case there was an entire absence of violence on the part of the would-be thief, and no evidence upon \u25a0which an intent to commit that crime could be predicated.\nFor the purpose of meeting these difficulties and punishing persons engaged in endeavoring to deprive others of their property by means of pocket-picking, the acts of 1860 and 1862 were passed and a new crime created and declared to be a misdemeanor, and as such punishable.\nIf or is the offense designated in this act an assault or an attempt to commit an assault, within any of the degrees of that crime provided for in the Penal Code, nor is it within any of the degrees of larceny or attempts to commit that offense as \u25a0 defined in the Code.\nThe intent to steal, which is made a crime by said acts, negatives any co-existing intent.to do or threaten to do violence or bodily injury to the person intended to be-deprived of his property\u2014the intent is to steal and that only.\nTo accomplish that object it requires caution, gentleness and secrecy, and an entire absence of any violence on the part of the thief against the person of his victim.\nThe Penal Code neither provides for, defines nor punishes the crime of which the appellant was convicted, nor does it contain any provision inconsistent with the provisions of the act of 1862, nor dees it repeal that act, but on the contrary it expressly declares by section 725 that nothing therein contained affects any of the provisions of certain specified acts and statutes, and recognizes and continues in full force \u201c all acts defining and providing for the punishment of offenses not defined and made punishable by it.\u201d Penal Code, \u00a7 725 ; see also \u00a7 2.\nI am clearly of the opinion that the act under which the appellant was convicted and sentenced is in full force, not having been repealed or affected by the Penal Code, and that the Court of Special Sessions had jurisdiction of the offense with which the appellant was charged.\nThe judgment appealed from must therefore be affirmed.\nI desire to express my thanks to Mr. J ustice Kilbreth for the able brief submitted by him in this case on the part of the people.",
+        "type": "majority",
+        "author": "Smyth, Recorder."
+      }
+    ],
+    "attorneys": [
+      "Theo. H. Swift, for the prisoner, appellant.",
+      "J. T. Kilbreth, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of General Sessions\u2014New York County.\nMay, 1883.\nPEOPLE v. BERNARDO.\nAssault with intent to steal.\u2014Jurisdiction of New York Special Sessions.\u2014Laws of 1852, oh. 374, \u00a7 3.\nThe statute (L. 1862, ch. 374, \u00a7 3), creating and defining the offense of an assault with intent to steal, has not been repealed by the Penal Code, and is in full force.\nThe word assault is used in L. 1862, ch. 374, \u00a7 3, in a sense and as descriptive of something essentially different from the common laW definition of that word.\nThe Court of Special Sessions of the City of New York has jurisdiction of the offense of an assault with intent to steal.\nAppeal by defendant from judgment.\nThe facts appear in the opinion.\nTheo. H. Swift, for the prisoner, appellant.\nJ. T. Kilbreth, for the people, respondent."
+  },
+  "file_name": "0245-01",
+  "first_page_order": 269,
+  "last_page_order": 273
+}

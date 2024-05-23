@@ -1,0 +1,153 @@
+{
+  "id": 1164417,
+  "name": "PEOPLE v. MAJONE",
+  "name_abbreviation": "People v. Majone",
+  "decision_date": "1882-10",
+  "docket_number": "",
+  "first_page": "86",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "52 N. Y. 323",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510962
+      ],
+      "pin_cites": [
+        {
+          "page": "328, 329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/52/0323-01"
+      ]
+    },
+    {
+      "cite": "88 N. Y. 196",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550685
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/88/0196-01"
+      ]
+    },
+    {
+      "cite": "10 Abb. N. C. 261",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        626339
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/abbn-cas/10/0261-01"
+      ]
+    },
+    {
+      "cite": "1 Sumn. 435",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cush. 295",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        314650
+      ],
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/59/0295-01"
+      ]
+    },
+    {
+      "cite": "9 Met. 93",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        1966112
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/50/0093-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 759,
+    "char_count": 18445,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 1.059798983607523e-07,
+      "percentile": 0.556253858815707
+    },
+    "sha256": "5f4eedd2475d8a36208b762f3204150eedba04ebf15fcfe7e1a8f84561283624",
+    "simhash": "1:3f65e09efeb62cda",
+    "word_count": 3289
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. MAJONE."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nBy the -indictment the defendant was accused of the crime of murder in the first degree, in taking the life of Maria Yallindina Selta, by means of the discharge of a pistol loaded with powder and a leaden bullet. And by the evidence which was given the fact was .proved that on December 9, 1881,. he discharged a pistol so loaded at the head of the deceased, and in consequence of the, wound then received by her, she died very soon afterwards. The case was submitted to the jury very .carefully and thoroughly, by the judge presiding at the trial, and no objection was taken to its submission, or to the manner in which that was done by the learned judge, but notwithstanding these omissions, the conviction is made the subject of review by chapter 330 of the Laws- of. 1858, which declares .that in a .capital case tried in'the Court-of General Sessions of the County of New York, \u201c The appellate court may order a new trial if it shall be satisfied, that the verdict against the prisoner was against the weight of evidence, or against the law, or that justice requires a new trial, whether any exceptions shall have been taken or not in the court below.\u201d The case consequently requires the same examination that it would if all the objection' and exceptions ordinarily used to present the effect of th evidence, for review, had been taken upon the trial. It i therefore necessary to examine the evidence, as well as the law, for the purpose of determining whether the jury lawfully convicted the defendant of murder in the first degree.\nThe person for whose killing lie was indicted, was the mother of his wdfe, and the facts transpiring at the time were chiefly related by her husband, who was at the time of the homicide sitting in the same room. His testimony in brief was, that the defendant returned to the house after about a quarter of an hour\u2019s absence, with a person named Pasquale La Posa, that \u201c his (the prisoner\u2019s) wdfe was hanging out clothes at the window. The prisoner told her to go in and bring out a box from under the bed. \u2018I have to give a receipt to Pasquale La Posa.\u2019 His wife said, \u2018 I am here, hanging out some clothes; go yourself and bring it.\u2019 Then he said, \u2018 Either I will go, or you will go,\u2019 and took her by the arm and led her into the room. He said nothing while he was walking to the room. As soon as he was in the bed-room, we heard a report of a revolver. The door of the bed-room was open when they went in ; they did not close the door. As soon as they went in, we heard the report. The prisoner then came out and put the pistol to my wife\u2019s head and fired. He did not say anything.\u201d\nThe witness, La Posa, corroborated the correctness of these statements. His evidence was that, as soon as the defendant and his wife \u201c went into the room, we heard the report of a revolver. Soon after the report, he came out and fired at his mother-in-law.\u201d Prom these facts it would be very natural, as well as logical, to infer that the defendant intended to kill this woman, at the time he presented and fired the pistol, for that was the necessary consequence of the act committed by him. And 'the rule is that when \u201cA sane man, voluntarily acting upon motives, must be presumed to contemplate and intend the necessary, natural and probable consequences of bis own acts. If, therefore, one voluntarily or willfully does an act which has a direct tendency to destroy another\u2019s life, the natural and necessary conclusion from the act is that he intended so to destroy such person\u2019s life.\u201d 1 Greenleaf on Ev. \u00a7 18, 7 ed; Dixon\u2019s Case, 3 Maule & S. 11, 15 ; Commonwealth v. York, 9 Met. 93, 103 ; Commonwealth v. Webster, 5 Cush. 295, 304; 305; Catlin v. Springfield, &c. Ins. Co., 1 Sumn. 435, 446; Van Pelt v. McGrau, 4 Com. 110, 114; Burrill Circumst. Ev. 49.\nIn proceeding to this extent certainly the jury could encounter no difficulty in the case, for whether it be denominated a presumption of law, or a presumption of fact, an intent to kill, would be necessarily inferred from this state of facts.\nWhether the jury was further at liberty to conclude that this intent had been made the subject of such deliberation as to create the crime of murder in the first degree, is the more important question remaining to be considered and determined. From the nature of the fact it must ordinarily be incapable of direct evidence, and its existence when it is ascertained must, therefore, be derived from the circumstances, and that it may be so derived when the circumstances justify such a conclusion, has been very fully settled by the authorities. Leighton v. People, 10 Abb. N. C. 261, 269; Sindram v. People, 88 N. Y. 196.\nThe facts bearing upon the solution of this point, as the case was presented by the prosecution, are that no immediate preceding quarrel or altercation appeared to have taken place between the defendant and this woman ; that he appeared as usual; that he carried a pistol always in his pocket, and without a word on his part or an act of present provocation on the part of the deceased, he walked directly to her from the room in which he had inflicted a similar mortal wound upon his wife, and discharged the pistol at the head of the deceased. The usual source of human action is-either impulse, or reflection. Where it is induced by a sudden impulse, the act is often performed without deliberation or reflection. But in the , present case no reason has been presented for supposing that the defendant acted in obedience to the promptings of any impulse hastily formed, for nothing at the time transpired which would naturally or probably have had the effect of producing that state of mind. And because of that circumstance, and because he appeared to act with coolness and design in passing from the bedroom to that in which this woman was killed, and there shooting her, there was reason for believing that his conduct conformed to a deliberate purpose previously existing in mind. lie had been absent from the house about a quarter of an hour, and nothing by the evidence, after his return, appeared to have occurred to create resentment on his part, against the mother of his wife. But it is probable, from the statement made by him immediately after the discharge of the pistol, and when he left the house and was about to shoot himself, as he soon did, in which he stated : \u201c I take my life on account of my mother-in-law,\u201d that some preceding difficulty or cause of estrangement had arisen between these persons, and that he had made it the object of reflection before the time when he presented and discharged the pistol. This statement, together with the fact that he carried the pistol in his pocket, and presented no unusual appearance upon this occasion, and acted apparently with coolness in the execution of a design that had probably been formed by him, was sufficient to present the question to the jury, whether he had made this intent the subject of such deliberation as to render his act that of murder in the first degree. In determining this point the jury were required to weigh the probabilities and decide by their power of common sense what was the state of the defendant\u2019s mind. And to do that required only such a process of reasoning as persons of common experience and intelligent understanding are accustomed to follow. Upon this subject it has been said, that \u201c presumptive evidence and the presumption or proofs, to which it gives rise, are not indebted for their probative force to any rules of positive law; but juries, in inferring one act from others which have been established, do nothing more than apply, under sanction of the law, a process of reasoning, the force of which rests on experience and observation, and such inferences are presumptions of facts.\u201d This is \u201c the presumption of the existence of one fact from the existence of another\u2014that is, the process of ascertaining one fact from the proof of another,\u201d and it is within the exclusive province of a jury. Justice v. Lang, 52 N. Y. 323, 328, 329.\nAs there was no good reason for believing that the defendant was actuated by mere impulse, for none, as a matter of fact, was then shown to have been occasioned, and persons acting as the defendant did, ordinarily act from deliberation and reflection, nothing was proved in the case as it was presented by the prosecution, which would enable the jury consistently to adopt any other conclusion than the \"one which they did by their verdict.\nThe case was not relieved from this result by the evidence which the defendant gave as witness in his own behalf '; for as that was given he appeared to have had preceding differences of a serious nature, with the mother of his wife, in consequence of Avhich it could very well be reasonably concluded that he had' formed a deliberate purpose of taking her life. For he stated that he had difficulty with his mother-in-law, concerning a man who had visited the house, and whom he did not want to come there. The defendant had been arrested for assaulting that man, and was to be tided for it. On Wednesday the trial was put over until the following Monday, which was two days after this homicide. He stated that when he returned home, he told her the case had been postponed, and she said that she would have false witnesses against him. He also stated that he had been at work in the country the week before this, and when he returned his mother-in-law refused to allow his wife to eat with or stay with him; that on the morning of the day of the homicide, while he was in his bed, she ordered him to get up, and that she got hold of his throat and nearly choked him, saying: \u201c Now I\u2019ll choke you! \u201d that after he got up and was passing out into the yard, she said : \u201c I will give it to you well; yon will neither see the sun or moon any more; I will thrash you well.\u201d Then he stated that he went out and thought of what had happened, and became confused in his mind and went to the house of La Rosa. From there they returned to the residence of his wife and her mother, and the conversation took place between himself and his wife, which was related by the witnesses on the part of the prosecution, and which has already been made the subject of reference. At the time of that convei'sation he said his wife \u201c was looking sideways to her mother,' and her mother gave her a sign not to go.\u201d That ho said: \u2022 \u201c Why don\u2019t you want to obey me ; why do you want to obey your mother ? and I took her by the arm and said, come on and fetch that box. Then she went ahead, and I went after her. We entered the bed-room; my wife bent down to fetch the box out from behind the bed.\u201d He then said that while he wras looking for the receipt she took the revolver out of a box on the floor and said : \u201c Take this revolver and kill yourself. She gave the revolver into my hand; when I heard her speak that -way, I got- so confused I do not know what happened after-wards.\u201d This latter statement as to his want of knowledge of what transpired was, of course, not probable in itself, and for that reason could very well be rejected by the jury, as unworthy of their belief; especially as the other evidence in the case tended, very directly, to show that the defendant acted as a \u2022person naturally would who entertained' a fixed design in his mind, which he was about to carry into execution. Assuming the other facts to be as the witness related them, then a motive for the killing of his wife\u2019s mother is clearly supplied in the case.' It could very well be believed that the intention to commit the act had originated in these difficulties between himself and his mother-in-law. And if it did, then sufficient time elapsed after he left the house in the morning and before he returned and committed the crime, for him to deliberate upon and conclude to carry his criminal intent to kill into execution. And that he probably did that is sustained by the circumstance that when he saw, as he stated it, that his wife\u2019s mother gave her sign not to go, it roused no such indignation or resentment, on his part, as induced him either to assail or even reproach her. If he was right in this supposition, the conviction did not lead to any result, for, after that, and without alluding to it, he coolly passed with his wife into the bed-room, and, after shooting her from there, proceeded to where her mother was sitting and inflicted this mortal wound upon her. That he had the conversation related by him with his wife in the bed-room is not consistent with the other evidence given in the case, for both Selta and La liosa, in their testimony, agree that the report of the revolver was heard as soon as the defendant and his wife went into the bed-room. It was highly probable, from this evidence, that the provocation given the defendant by this woman had led to the formation of an intention, on his part, to take her life, and that this intention had also formed the subject of his reflection after he left the house, and before he returned to it and proceeded with his wife to the bedroom. For, if he shot his wife as soon as they reached the bed-room, as the two witnesses agree in their testimony he did, it could hardly be doubted that he insisted upon her accompanying him there for the purpose of shooting her, and when that was done, to proceed immediately to execute the residue of his purpose by killing her mother. These acts, as they were performed, indicated a state of mind by which they had been previously planned, and what he did at this time was apparently to carry such a plan into execution. Whether the evidence is considered separately as it was presented by each case side of the case, or more properly as a whole in the form it was submitted to and probably considered by the jury, there certainly was enough made to appear to justify them in the view they adopted; that this was not only an intentional but a deliberate killing of this woman; for no other construction can reasonably be placed upon the conduct of the defendant on this occasion.\nExceptions were taken to the decisions of the court allowing proof to be given of what was said by the defendant immediately preceding his return to the house on the morning of the homicide, and following the occurrence of that event. These exceptions require no extended consideration, for what was said by him on each of these occasions tended, in a slight degree, to show the state of his mind when these interviews took place, and, in cases of this nature, evidence of that character is always considered pertinent. In no view of the case can it be assumed that the jury framed their verdict upon an unwarranted inference from the evidence submitted to them. On the contrary, the decided presumption from the facts as they were made to appear, both by the prosecution and the defense, was that this was a premeditated and deliberate homicide. Ho reasonable doubt of the defendant\u2019s guilt can be entertained, and both the judgment and order from which the appeals have been taken should be affirmed.\nDwight, J., concurs.\nNote.\u2014The provisions of L. 1858, cli. 380, are incorporated in N. 7, Code Grim. Pro. \u00a7 537.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "Theodore H. Swift, for appellant.",
+      "John McKeon, district attorney (John Vincent, assistant), for the People, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nOctober, 1882.\nPEOPLE v. MAJONE.\n(Affirmed, IN. 7.. Orim. 94.)\nMurder in the First Degree.\u2014Intent.\u2014Deliberation.\u2014\u25a0 Evidence.\u2014Laws 1858, chap. 330.\nUnder chapter 330 of the Laws of 1858, in a capital case tried in the General Sessions of New York, \u201c the appellate court may order a new trial, if it shall be satisfied that the verdict against the prisoner was against the weight of evidence or against the law, or that justice requires a new trial, whether any exceptions shall have been taken or not in the court below.\u201d\nWhen one voluntarily or willfully does an act which has a direct tendency to destroy another\u2019s life, the natural and necessary conclusion from the act is that he intended to destroy such person\u2019s life.\nWhether the intent to kill has been made the subject of such deliberation as to create the crime of murder in the first degree, is ordinarily incapable of direct proof, and may be ascertained from the circumstances.\nWhere the evidence showed that the defendant, after shooting his wife, walked into an adjoining room and there shot his- mother-in-law, and immediately afterward attempted to kill himself, saying, \u201cI kill myself on account of my mother-in-lawalso that no immediate preceding quarrel or altercation occurred between defendant and his mother-in-law ; that he always carried a pistol in his pocket, and, at the time of the killing, presented no unusual appearance and acted apparently with coolness, there being nothing in the case presenting a reason for supposing that defendant acted from an impulse hastily formed, it was held that the question whether the intent to kill the mother-in-law was made the subject of such deliberation as to constitute murder in the first degree, was presented to the jury; and that in determining the point they were required only to weigh the probabilities and decide by their power of common sense what was the state of defendant\u2019s mind ; and further, that in such case a verdict of murder in the first degree should not be set aside as against the weight of evidence.\nThis is so, a fortiori, where the testimony of the defendant shows that l here had been difficulties between him and his mother-in law shortly before the killing, and that a sufficient time had elapsed to enable defendant to form a deliberate intent.\nEvidence of conversations immediately preceding or following the killing, which tend, though only in a slight degree, to show the defendant\u2019s state of mind at the time of the conversations, is pertinent in a case of this character.\nAppeal by defendant from the judgment of the Court of General Sessions of the County of New York, by which the defendant was convieted of the crime of murder in the first degree, and sentenced to punishment of death, and also from an order denying a motion made upon the minutes for a new trial.\nThe indictment which was found charges that on the 9th \u25a0day of December, 1881, the prisoner made an assault with a loaded pistol upon Maria Selta, with a deliberate and premeditated design to effect her death, and that, as a result of such assault, she died. The trial was had in April, 1882.\nThe facts appear in the opinion.\nTheodore H. Swift, for appellant.\nJohn McKeon, district attorney (John Vincent, assistant), for the People, respondent."
+  },
+  "file_name": "0086-01",
+  "first_page_order": 110,
+  "last_page_order": 118
+}

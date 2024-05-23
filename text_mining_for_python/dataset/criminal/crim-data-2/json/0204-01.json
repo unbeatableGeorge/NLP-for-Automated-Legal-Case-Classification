@@ -1,0 +1,743 @@
+{
+  "id": 1167715,
+  "name": "PEOPLE v. HOOGHKERK",
+  "name_abbreviation": "People v. Hooghkerk",
+  "decision_date": "1884-06",
+  "docket_number": "",
+  "first_page": "204",
+  "last_page": "217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "44 Cal. 65",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2316179
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/44/0065-01"
+      ]
+    },
+    {
+      "cite": "92 N. Y. 128",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2190143
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/92/0128-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 198",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164446
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "283"
+        },
+        {
+          "page": "307"
+        },
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0198-01"
+      ]
+    },
+    {
+      "cite": "88 N. Y. 458",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550722
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/88/0458-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. R. 495",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0495-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 460",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 N. Y. 288",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        539822
+      ],
+      "pin_cites": [
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/76/0288-01"
+      ]
+    },
+    {
+      "cite": "62 Cal. 411",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2307115
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/62/0411-01"
+      ]
+    },
+    {
+      "cite": "49 Ill. 410",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2602717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/49/0410-01"
+      ]
+    },
+    {
+      "cite": "22 Iowa, 504",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2287413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/22/0504-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 518",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164504
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0518-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 363",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519180
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0363-01"
+      ]
+    },
+    {
+      "cite": "23 Mich. 301",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1312087
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/23/0301-01"
+      ]
+    },
+    {
+      "cite": "31 Hun, 44",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "78 N. Y. 504",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Lans. 44",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4851602
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/7/0044-01"
+      ]
+    },
+    {
+      "cite": "16 Hun, 93",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 Barb. 277",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1951495
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/64/0269-01"
+      ]
+    },
+    {
+      "cite": "85 N. Y. 76",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "86, 88"
+        },
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 N. C. 506",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Ga. 512",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "51 Ill. 289",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Ill. 299",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 N. C. 589",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8697381
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/79/0589-01"
+      ]
+    },
+    {
+      "cite": "49 Ind. 33",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1411866
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/49/0033-01"
+      ]
+    },
+    {
+      "cite": "66 Me. 564",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8845422
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/66/0564-01"
+      ]
+    },
+    {
+      "cite": "15 Gratt. 458",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Leigh, 588",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        4445427
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/28/0206-01"
+      ]
+    },
+    {
+      "cite": "6 Ind. 490",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1446517
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/6/0490-01"
+      ]
+    },
+    {
+      "cite": "12 Md. 236",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1859267
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/12/0236-01"
+      ]
+    },
+    {
+      "cite": "41 N. H. 318",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 N. Y. 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "127 Mass. 424",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2152442
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/127/0424-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 472",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512895
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0472-01"
+      ]
+    },
+    {
+      "cite": "39 Cal. 403",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2266273
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/39/0403-01"
+      ]
+    },
+    {
+      "cite": "80 Ky. 349",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        4396752
+      ],
+      "pin_cites": [
+        {
+          "page": "351, 352"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/80/0349-01"
+      ]
+    },
+    {
+      "cite": "14 Neb. 527",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        4402557
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/neb/14/0527-01"
+      ]
+    },
+    {
+      "cite": "66 Ga. 346",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        49905
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/66/0346-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 336",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164489
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0336-01"
+      ]
+    },
+    {
+      "cite": "95 Penn. 418",
+      "category": "reporters:state",
+      "reporter": "Penn.",
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Iowa, 384",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2331648
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/47/0384-01"
+      ]
+    },
+    {
+      "cite": "54 Barb. 306",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2249805
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/54/0306-01"
+      ]
+    },
+    {
+      "cite": "52 Ga. 106",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        868950
+      ],
+      "pin_cites": [
+        {
+          "page": "111-113"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/52/0106-01"
+      ]
+    },
+    {
+      "cite": "55 Barb. 450",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2251962
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "457"
+        },
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/55/0450-01"
+      ]
+    },
+    {
+      "cite": "44 Tex. 109",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2162115
+      ],
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tex/44/0109-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 64",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164476
+      ],
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0064-01"
+      ]
+    },
+    {
+      "cite": "28 Hun, 589",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Tex. 260",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2126358,
+        2126415
+      ],
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tex/42/0260-01",
+        "/tex/42/0260-02"
+      ]
+    },
+    {
+      "cite": "36 Ark. 117",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1872432
+      ],
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/36/0117-01"
+      ]
+    },
+    {
+      "cite": "33 Ala. 350",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3159124
+      ],
+      "pin_cites": [
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/33/0350-01"
+      ]
+    },
+    {
+      "cite": "63 N. Y. 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 N. Y. Crim. Rep. 47",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167687
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/2/0047-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 393",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532866
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/72/0393-01"
+      ]
+    },
+    {
+      "cite": "1 Den. 83",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484105
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0083-01"
+      ]
+    },
+    {
+      "cite": "92 N. Y. 128",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2190143
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/92/0128-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1207,
+    "char_count": 30953,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 7.799080764806924e-08,
+      "percentile": 0.4572430670668444
+    },
+    "sha256": "f1fe643d6b53622e25377d0a0e7373e48c610a96dbcb356fe9436791a9976b57",
+    "simhash": "1:b9e1c262b153ec79",
+    "word_count": 5400
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur."
+    ],
+    "parties": [
+      "PEOPLE v. HOOGHKERK."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, J.\nThe indictment against-the defendant Hooghkerk, was found at the court of sessions, Albany county, at the September term, 1883, by a grand .jury selected in pursuance of chapter 533, Laws of 1881. Before the jury was sworn or impaneled, the defendant, who, priorato the commencement of the term, had been committed to answer to any indictment that might be found against him thereat, filed in open court a written protest or objection, under oath, against the swearing, organization or recognition by the court of the persons summoned as grand jurors, or of any of them as a grand jury, on the ground that they were not drawn or summoned as required by law. The same facts in support of the objection were presented as in the Petrea case (92 N. Y. 128.) The question is the same as was considered and determined in that case, except as it is affected by the consideration that in this case the objection was raised before indictment, and before the grand jury had been organized.\nIn the Petrea case it was held that upon the facts proved and offered to be proved, the act of 1881 was unconstitutional, in so far as it provided for the selection of grand jurors for Albany county, for the reason that it was a local bill for the selection of grand jurors, and as such within the prohibition of article iil, section 18, of the state constitution which prohibits the passage of a local bill for \u201c selecting, etc., or impaneling grand or petit jurors.\u201d But the court further decided that a defendant might nevertheless be lawfully put upon his trial upon an indictment found by a grand jury selected under the act; that no constitutional right of the defendant was thereby invaded; that the right of the defendant to raise the objection was a matter of procedure, subject to the control of the legislature ; and that the objection was not one which, by the new procedure in criminal cases, could be taken by a defendant after indictment.\nThe only question now open on this appeal; upon this branch of the case, is whether, under the Code of Criminal Procedure, a defendant held to answer a criminal charge, may, on the return of the grand jury list, and before indictment, take the objection which, under the decision in the Petrea case, lie would be precluded from taking after indictment. If the case permits this discrimination, the objection must prevail, otherwise the case is governed by our former decision. By section 238, a challenge to the panel or any of the grand jurors is prohibited, but the section authorizes the court in its discretion to discharge the panel for causes specified, and among others \u201c that the requisite number of ballots was-not drawn from the grand jury box of the county.\u201d Section 239 authorizes a challenge to be interposed to an individual grand juror for certain specified causes. Taking the two sections together, it seems to be quite evident that section 238 was intended to confer upon the court a discretionary power to discharge the panel to be exercised upon its own volition, and in view of all the circumstances, while section 239 was intended to secure to an accused person, the right to purge the panel of one or more particular grand jurors who might be objectionable, for bias, or other specified cause.\nThe power conferred by section 238 is in the general interest of public justice; that conferred- by section 239 is in the particular and special interest of the person accused. The objection interposed to .the panel in this case on behalf of the defendant was in the nature of a challenge to the array, and the right of a defendant to challenge the body of the grand jury because irregularly or defectively constituted, no longer exists, and we find no provision of law permitting a defendant to raise any objection to the grand jury, except an objection to individual jurors under section 239. We think the objection of the defendant to the grand jury was properly overruled. It may not be out of place, however, to express the opinion that the court, except for the fact that the grand jury which found-the indictment in this case, although selected and organized after the decision in the Petrea case was selected before the board of supervisors had an opportunity to prepare a grand jury list in conformity with the general law, might very properly on its own motion have discharged the panel.\nIt is very unseemly that grand juries should continue to be selected under the act of 1880, after that law has been declared unconstitutional, and the omission of the board of supervisors to perform the plain duty of preparing a proper grand jury list ought not to be longer tolerated.\nThe other questions arise upon exceptions taken on the trial. The principal one is an exception on behalf of the prisoner to the refusal of the court to charge that there was no evidence tending to corroborate the testimony of the witnesses Jones and Nugent, who concededly by their own confession, were accomplices of the defendant in the commission of the crime charged in the indictment. The general facts relating to the alleged crime, as testified to by the accomplices, are that on and prior to January 2, 1883, Jones was lessee of a stable- in the,city of Albany and had procured an insurance of \u00a7500 on horses and property therein, which at the suggestion of Hooghkerk he increased to $1,000, with the understanding that Nugent was to fire the barn, for which he was to receive $100, and that the insurance money should be divided between Jones and Hooghkerk. It was a part of the arrangement that Hooghkerk should buy some cheap horses to be put in the stable in place of other more valuable horses to be removed before the fire.. The fire occurred Tuesday, January 2, 1883, at about 12:50 a. m. Monday or Tuesday evening before the fire Hooghkerk, as Nugent testifies, brought two cheap horses to a point near the stable, and then exchanged them for two other horses belonging to Hooghkerk, which Nugent and one Streveli, by the direction of Jones, had taken from the stable, and the horses received from Hooghkerk were taken back to the stable and were burned in the fire. One or two other cheap horses were, as the accomplices testify, also purchased by Hooghkerk shortly before the fire and placed in the stable. It is not claimed that Hooghkerk either set the fire or was present when it was set. The evidence is that it was set by Nugent, who admitted the fact.\nThe evidence contained in the record goes into great detail, but it is unnecessary for the present purpose to refer more particularly to the evidence of the accomplices. It is sufficient to state that if their testimony is true, there can be no question of the guilt of the defendant. On the other hand, if their testimony is excluded from the case, it is not probable that he could have been convicted, although circumstances would remain calculated to excite grave suspicion. Christopher Ferns testified he sold a horse to Hooghkerk in December before the fire for $15, and delivered it within a few days,'and Hooghkerk testified that it was delivered New Years\u2019 night. John Ernzart testified to the sale of a horse to Hooghkerk two or three days before New Years for $15, and to its delivery either Sunday or Monday night before the fire. George Brown testified to a like sale a few days before New Years for $10, and that the horse was delivered to Hooghkerk on Sunday or Monday night before the fire. John Feizenbaum testified that the defendant, Hooghkerk, about January 1, 1885, in the evening, brought to his place about a mile and a half from Albany, two bay horses, with collars and blankets, and left them with him a few days and then took them away. John Streveli testified he worked for Jones at the time of the fire ; that on Monday evening, the night of the fire, he went to the stable and found Jones and Hooghkerk there; that Jones' brought out two bay horses and askpd' him to go and help Nugent exchange them ; that they went with them to Washington avenue (about a block distant from the stable) and met Hooghkerk there in a carriage, with two other horses, which were exchanged for the bay horses, which Hooghkerk took away, and that the witness and Nugent took the two horses received from him to the stable that he asked Jones what he was doing * that Jones said, \u201cif I (Strevell) would keep still he would-give me $50,\u201d and further, \u201c I did not want his $50, or know anything about his business, and I went home.\u201d\nNugent testified that when he saw Strevell coming, Jones was throwing the straw around the barn floor; that he told Jones that Strevell was coming, and \u201c Jones catehed the lamp and blew-it outthat Jones said to Strevell, \u201c Yon keep still, and I will give you $50 and a suit of clothes;\u201d that Strevell said \u201che didn\u2019t want no $50, and didn\u2019t want to know nothing of his business.\u201d\nIt further appeared that the property in the barn was insured for $1,000. The policy was put in evidence, and it was proved that the insurance company paid the loss. Hooghkerk testified'that the policy at one time was in his possession, but that it was given to him after the fire to secure a loan, and that Jones on some pretense, obtained it from him, and that he received no part of the insurance money.\nThe statute (Code Criminal Proc. \u00a7 399) declares that \u201c a conviction cannot be had upon \u25a0' the testimony of an accomplice unless he is corroborated by such other evidence as leads to connect the defendant with the commission of the crime,\u201d and the corroboration is not sufficient if it merely shows the commission of the crime or the circumstances thereof. Prior to the statute the rule in this state permitted the jury to convict a defendant upon the uncorroborated testimony of an accomplice (People v. Costello, 1 Den. 83), but it was the uniform custom of judges to advise the jury that the evidence of the accomplice should be received with great caution, and it rarely happened that a conviction was had upon his unsupported evidence. The rule now embodied in the statute is substantially the rule which, before the statute, courts were in the habit of stating to the jury for their guidance, although, as has been said, it was not enforced as a rule of law. It is plain that independently of the statutory rule, corroborative evidence to have any value must be evidence from an independent source of some material fact tending to show not only that the crime had been committed, but that the defendant was implicated in it, and such is the doctrine of the best considered cases. But neither the doctrine hitherto declared by the courts, nor the rule embodied in the statute requires that the whole case should be proved outside of the testimony of the accomplice. Such a rule would render the testimony of an accomplice in most cases unnecessary and would defeat the policy of the law which permits the use of accomplices as witnesses in aid of, and in the interest of public justice.\nWe think there was evidence in this case tending to connect the defendant with the commission of crime charged against him, independently of the testimony of Jones and Mugent. The evidence of Strevell as to what took place at the barn in connection with the subsequent fire, leads to an inference of an incendiary burning. Indeed, this is the only reasonable inference from the conduct of Jones in attempting to bribe Strevell to keep silence, interpreted in connection with the mysterious exchange of horses, the fire and the insurance. The connection of Hooghkerk with the felony is not directly shown by testimony independent of the accomplices. But he is shown by Strevell to have been in the immediate vicinity of the stable shortly before the fire, engaged in the exchange of horses under suspicious circumstances. The fact that he purchased cheap horses, which were delivered to him on Sunday or Monday evening is established by the testimony of independent witnesses, and is indeed admitted by Hooghkerk, and the jury may well have discredited his explanation of these transactions. The testimony of Feizenbaum that Hooghkerk brought the bay horses to his place on the night of the fire, or about that time, confirms Strevell in part of his story, and closely connects Hooghkerk with the transactions of the night of the fire. It cannot, we think, be doubted that the circumstances proved outside of the testimony of the accomplices show such a relation between Jones and the defendant, and such a sequence of events as to justify the inference not only that the crime of arson was committed, but that Hooghkerk was accessory to it. The claim that Strevell was himself an accomplice, was properly left to the jury. The transactions he testifies to may have aroused, and probably did arouse, his suspicions, but it is quite evident that he was not an original party to the scheme for burning the barn, and it was for the jury to determine whether, when the transactions testified to occurred, he had any guilty knowledge of the impending crime.\nThe declaration of Jones to Nugent in the absence of Hooghkerk, to the effect that the latter was engaged \u201c in the business of burning barns,\u201d was coupled with the further declaration that he told Hooghkerk \u201c what Jones said.\u201d The court replied to the motion to strike out this evidence by saying, \u201c I will retain it for the present. Tour motion is good unless it is connected in some way.\u201d There was no subsequent motion made by the defendant in respect to this evidence. When the motion was made, it appeared,that the remark of Jones was communicated by Nugent to the defendant, and the exception to the disposition of the motion at that time was not well taken.\nThe questions put to Hooghkerk in his cross-examination with reference to his connection with other fires and with insurance on other property burned, were admissible in the discretion of the court, as affecting his credibility, within the cases (People v. Casey, 72 N. Y. 393; People v. Noelke, 94 Id. 137; People v. Irving, 2 N. Y. Crim. Rep. 47).\nThere are no other questions requiring notice. We find no error in the record, and the judgment should therefore be be affirmed.\nAll concur.",
+        "type": "majority",
+        "author": "Andrews, J."
+      }
+    ],
+    "attorneys": [
+      "Parker & Countryman (E. Countryman, of counsel), for defendant, appellant.",
+      "D. Cady Herrick, district attorney for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nJune, 1884.\nPEOPLE v. HOOGHKERK.\nRight of Defendant to challenge Grand Jury.\u2014Code Grim. Proo. \u00a7\u00a7 238, 239, 399.-\u2014-Evidence of Accomplice.\u2014L. 1881, ch. 532, unconstitutional.\nThe right of a defendant, whether before or after indictment, to challenge the panel of the grand jury because irregularly or defectively constituted, no longer exists under the Code of Criminal Procedure.\nThe defendant can raise only such objections as under section 289 of that Code he may urge against individual grand jurors for bias or other-causes specified in that section. The court lias under section 238 a discretionary power to be exercised of its own volition, and in view of all the circumstances, to discharge the panel of the grand jury.\nIndependently of the provisions of section 899 of the Code of Criminal Procedure in relation to the necessity of corroboration of the evidence of an accomplice, corroborative evidence, to have any value, must be evidence from an independent source of some material fact, tending to show, not only that the crime charged has been committed, but that the defendant is implicated in it.\nBut neither section 399 of the Code of Criminal Procedure nor the doctrine previously declared by the courts requires that the whole case .should be. proved outside of the testimony of the accomplice. Declarations of fellow conspirators made in defendant\u2019s absence implicating defendant in the commission of the crime charged and subsequently communicated to defendant are admissible against defendant.\nQuestions put to defendant on cross-examination with reference to his connection with other similar offences (e. g., with other fires), in a trial for arson are admissible in the discretion of the court as affecting his credibility.\nL. 1881, ch. 532, is unconstitutional so far as it relates to the selection of grand jurors in Albany county (Following- People v. Petrea, 92 N. 7. 128; 1 iY. 7. Grim. Rep. 233).\nAppeal by defendant William A. Hooglilcerk from a judgment of the general term of the Supreme Court in the Third Department, of January 30, 1884, affirming a judgment of the court of Oyer and Terminer of Albany county, Hon. A. M. Osborn presiding, convicting defendant of arson in the third degree, committed January 2, 1883.\nThe indictment against defendant was- found September 15, 1883.\nOn January 2, 1883, early in the morning, a stable, located in the city of Albany and occupied by one George S. Jones, was with its contents, consisting of five horses, hay, feed and harness, destroyed by fire. The contents of the building were insured, and the insurance was collected. Some months thereafter the defendant Hooghkerk and Peter H ugent were charged1 in connection, with Jones, with having set the stable on fire, and Hooghkerk and Hugent were held to await the action of the grand jury upon a charge of arson in the third degree.\nAt the opening of the next term of the Court of Sessions, and as the persons summoned to appear there to act as grand jurors, were about to be sworn, the defendant read and filed in open court a written protest and objection, duly verified by him, against the swearing and organization or recognition by the court of such persons, or any of them, as a grand jury, for the reason that they were not drawn or summoned as required by law ; in this, that they had not, nor any one of them, been drawn from a list of the names of 300 persons, or any list of persons, prepared by the supervisors of the county, to serve as grand jurors ; but, on the contrary, that the names of each and every of said persons were drawn from the box containing the names of petit jurors pursuant to chapter 532, of the Laws of 1881, under the pretense that said act repealed the prior law regulating the subject; whereas the defendant insisted that said act was in contravention of the constitution prohibiting the passage of'a private or local bill for selecting, drawing, summoning or impanneling grand jurors, as it had not been reported to the legislature by any commissioners appointed to revise the statutes, and none of the persons thus drawn were the same who, should and would have been drawn pursuant to law. The defendant\u2019s counsel also objected to the persons called as grand jurors being sworn as a grand jury, on the same grounds. The district attorney replied to the objections, not denying any of the facts stated, but alleging that the persons called to serve as grand jurors were competent and duly qualified jurors, drawn from the body of the people of the county summoned by the sheriff to attend as grand jurors, and that they were drawn from the only box in existence in the county from which to draw grand or petit jurors. The defendant\u2019s counsel then offered to prove the facts alleged in the objections. The district attorney thereupon admitted that the persons summoned and called were selected in pursuance of chapter 532 of the Laws of 1881\" and were drawn from the box therein designated as the petit jury box, and that they were not selected under the provisions of the Eevised Statutes. He also admitted that said act of 1881 was not reported to the Legislature by any commissioners to revise the statutes as required by section 25 of article 3 of the Constitution. The court, thereupon, overruled the objections of the defendant and his counsel to swearing and intpanneling such persons as the grand jury, and the defendant excepted. The persons thus selected, summoned and called, were then sworn as grand jurors under the objections aforesaid and the defendant excepted. Such persons thereupon entered upon the discharge of the duties of a grand jury, and subsequently presented the indictment in question against the defendant. A verified special plea was thereupon presented and filed in behalf of the defendant, setting forth the same facts and objections as above, to the constitution of the grand jury. The same plea was filed, on the arraignment of the defendant as an answer to the indictment. The district attorney admitted all the facts as alleged in the special plea, to be true. The court then ruled and decided \u201c that the objections of the defendant are not well founded on the facts, and are not authorized in law, and are overruled and the defendant excepted.\nDefendant then moved, upon the facts as thus alleged and admitted, to set aside the indictment, as being found by a body of men not legally organized as a grand jury, and therefore not a legal indictment. The court denied the motion, and the defendant excepted.\nDefendant then moved to quash the indictment on the facts appearing in the record as conceded by the district attor-. ney, which was also denied and the defendant excepted.\nThe court then ordered the defendant to plead to the indictment, to which he objected on the same grounds before stated, and excepted to the decision.\nA plea of not guilty was thereupon made and entered.\n\u2022 The defendant was subsequently tried at the Oyer and Terminer and found guilty. He was sentenced to confinement in the Clinton state prison for the term of five years.\nThe conviction was affirmed at the General Term, but no ojfinion was written.\nFurther facts appear in the opinion of the court.\nParker & Countryman (E. Countryman, of counsel), for defendant, appellant.\nI. The rulings of the court in reference to corroborating the testimony of the accomplices were erroneous.\nAn accomplice is one who has been concerned with others in the commission of crime, whether his guilt is in the same degree with theirs or not. Lindsay v. People, 63 N. Y. 153 ; Davidson v. State, 33 Ala. 350, 354; Polk v. State, 36 Ark. 117, 126; Barnard v. State, 42 Tex. 260, 263.\nThe corroborative evidence must be of some material fact, which taken by itself, independently altogether of the evidence of the accomplice, leads to the inference not only that a crime has been committed, but that the prisoner is implicated in it. Code Crim. Proc. \u00a7 399; People v. Courtney, 28 Hun, 589, 592 ; 1 N. Y. Crim. Rep. 64, 556; Coleman v. State, 44 Tex. 109, 111; People v. Haynes, 55 Barb. 450, 457; Childers v. State, 52 Ga. 106, 111-113; Frazer v. People, 54 Barb. 306, 309 ; State v. Graff, 47 Iowa, 384; Watson v. Commonwealth, 95 Penn. 418, 424. The rule requires more than such evidence as merely created a suspicion of guilt. \u201c There is a wide difference between evidence which tends to satisfy an intelligent jury that the accused has perpetrated a crime, and such evidence as merely tends to raise in the minds of the jury a suspicion of guilt.\u201d People v. Williams, 1 N. Y. Crim. Rep. 336, 358 ; McCalla v. State, 66 Ga. 346 ; Morrison v. State, 14 Neb. 527; \u201c Before the jury can consider the evidence of an accomplice as a factor in the problem of guilt or innocence, they must first determine that the other evidence heard, proves the 'existence of corroborative facts, for without their existence a conviction might be had upon the evidence of the accomplice alone. If the evidence claimed to be corroborative does not tend, when its truth is adtaitted, to this end, it is the duty of the court to exclude it, and to direct an acquittal.\u201d Craft v. Commonwealth, 80 Ky. 349, 351, 352; People v. Ames, 39 Cal. 403. Where the fact proven or corroborated is consistent with innocence it cannot be accepted as any proof of guilt. People v. Courtney, supra ; Ormsby v. People, 53 N. Y. 472, 475 ; Frazer v. People, 54 Barb. 306, 309. \u201c If the case.is to be strengthened by corroborating proof, the rights of the accused should not be prejudiced by confirmation on immaterial points, or as to facts which in no way connect him with the offense.\u201d People v. Haynes, 55 Barb. 450, 457, 458 ; Commonwealth v. Holmes, 127 Mass. 424.\nII. The court erred in permitting the district attorney to read to the jury from the opinion of the Court of Appeals in Lindsay v. People (63 N. Y. 157-8), and discussing at length the facts and rules recognized in that case relating to the corroboration of accomplices as applicable to this. case.\nThe Lindsay case was decided before the adoption of the Code of Criminal Procedure, which changed the rule as recognized in that case.\nThe jury were, therefore, liable to be misled and controlled by that decision as to what other evidence was requisite to corroborate the accomplices. The learned presiding judge seems .to have supposed that he was entirely helpless to prevent this improper course of procedure. But this was a misapprehension. \u201c As a general rule, the practice of allowing counsel in either a civil or a criminal action, to read law to the jury, is objectionable and ought not to be tolerated. Its usual effect is to confuse rather than to enlighten the jury.\u201d People v. Anderson, 44 Cal. 65, 70 ; Tucker v. Henniker, 41 N. H. 318 ; Franklin v. State, 12 Md. 236 ; Murphy v. State, 6 Ind. 490 ; Davenport v. Com., 1 Leigh, 588 ; Delaplaine v. Crenshaw, 15 Gratt. 458 ; Rolf v. Rumford, 66 Me. 564 ; Ferguson v. State, 49 Ind. 33 ; Coble v. Coble, 79 N. C. 589 ; Tuller v. Talbot, 23 Ill. 299, 304 ; Sprague v. Craig, 51 Ill. 289 ; Berry v. State, 10 Ga. 512, 522; Bullock v. Smith, 15 Id. 396; State v. Williams, 65 N. C. 506.\nIII. The court erred in receiving in evidence the declaration of the accomplice Jones, to Nugent, his assistant,, in the absence of Hooghkerk, to the effect that the latter was engaged in the \u201c business of - burning barns \u201d and in permitting the District Attorney to in\u00f1ame and prejudice the jury against the defendant by referring to this \u201c business of burning barns \u201d as \u201c a recognized calling and industry of this man,\u201d and \u201c that Jones knew about this ; knew Nugent was in the business ;\u25a0 knew the defendant was in the business, and that he could approach him fearlessly and openly about it.\u201d When, the motion was made to strike out the evidence the judge remarked that he would \u201c retain it for the present,\u201d but that the- \u201c motion was good unless it was connected in some way.\u201d' If,, by this, the court meant to be understood that it was necessary that the declaration should be communicated to Hooghkerk to render it proper, such communication was not proved. The witness immediately proceeded to state that he only \u201c told Hooghkerk that Jones wanted to go with-him- in the burning of his barn.\u201d\nThe evidence was incompetent as the mere declaration of a third person, and not a part of the res gest\u0153. Greenfield v. People, 85 N. Y. 76, 86, 88; People v. Davis, 56 Id. 96, 101-2 ; Hobby v. Hobby, 64 Barb. 277. It was n-ot admissible as the declaration of a co-conspirator. The conspiracy had not then been formed. It had not, at that time, ever been suggested to Hooghkerk. Ormsby v. People, 53 N. Y. 472 ; Hubbell v. Meigs, 50 Id. 486; People v. Gorham, 16 Hun, 93 ; Osborn v. Robbins, 7 Lans. 44. Even if the conspiracy had then existed, the declaration was- incompetent, as it related merely to past transactions of Hooghkerk, and had no connection with the particular enterprise then in hand. N. Y. Guar. & Ind. Co. v. Gleason, 78 N. Y. 504, 515; Greenfield v. People, 85 Id. 76, 88 ; People v. Davis, 56 Id. 96, 103 ; Baird v. Mayor, 31 Hun, 44. It was also improper as evidence merely of other crimes having no connection with the particular crime charged against him, nor any legitimate bearing on any of the issues then on trial. N. Y. Guar. & Ind. Co. v. Gleason, supra ; People v. Schweitzer, 23 Mich. 301; People v. Corbin, 56 N. Y. 363 ; Coleman v. People, 55 Id. 81, 82; Carncross v. People, 1 N. Y. Crim. Rep. 518. And it was error to allow the District Attorney to advert to such alleged former crimes or business of firing buildings to inflame the minds of the jury. Martin v. Orendorf, 22 Iowa, 504; Yoe v. People, 49 Ill. 410 ; Coble v. Coble, 79 N. C. 589 ; Ferguson v. State, 49 Ind. 33 ; Rolf v. Rumford, 66 Me. 564 ; People v. Mitchell, 62 Cal. 411.\nIV. The court erred in permitting the District Attorney to prove that Hooghkerk had, on a prior occasion, had a stable burned, which had been insured ; which had been rebuilt and sold to a Mr. Clark, and then burned again, Hooghkerk having a mortgage of $500 on it, and insurance payable to him, as mortgagee, for that amount. Also, in receiving evidence that Hooghkerk had sold horses to one or two other persons whose stables had been burned. And the District Attorney, upon this evidence, was improperly permitted to excite the passions of the jury against the defendant, as follows: \u201cEven whenever he sells the horses they carry destruction with them ;\u2022 they go -as lighted torches into the other stable that he sends them to with his friends. Do you believe him 2 Would not those things have some bearing with you 2\u201d etc.\nThis evidence \u201c did not legitimately tend to impair the credibility of the prisoner as a witness, and was not competent for any purpose.\u201d People v. Crapo, 76 N. Y. 288, 290, 292 ; People v. Brown, 72 Id. 571, 573; People v. Gay, 7 Id. 378.\nD. Cady Herrick, district attorney for the people, respondent.\nI. The objections to conversations between Jones and Nugent, because of absence of defendant are not tenable, because repeated by Nugent to the defendant; it was merely a question of the order of proof.\nThe questions put to defendant as to the commission of similar offenses, was proper in cross-examination as having some bearing on the credibility of the witness. Having become a witness in his own behalf, he was subject to be cross-examined the same as any other witness, and upon the same subjects, even although the answers elicited might tend to show that he had been guilty of other crimes; and such examination is largely in the discretion of the trial court. People v. Oyer and Terminer, 83 N. Y. 460; People v. Casey, 72 Id. 393; People v. Noelke, 1 N. Y. Crim. R. 495.\nThe reading of books as a \u00a1Dart of an argument is not improper, particularly where the portion read is merely read as illustrative. There is certainly no more impropriety in reading from a book than in repeating the same matter from memory, or in illustrating the argument by cases from the books, than by matters purely of imagination. See 13 Moak's English Reports, note 429 and 430.\nThe limits within which counsel are to be restrained is matter of discretion, and an exercise of that discretion cannot be reached and corrected by an exception. People v. Finnegan, 1 Parker, 147-152 ; Walsh v. People, 88 N. Y. 458-465. See also cases cited in 22 Moak's Eng. Rep. 742, note.\nSee People v. Petrea, 1 N. Y. Crim. Rep. 198, 283; People v. Duff, Id. 307; People v. Fitzpatrick, Id. 425; People v. Dempsey, 2 Id. 117.\nElaborate points as to the constitutionality o\u00ed the law, L. 1881, ch. 533, were presented on both sides, but the court held that the present appeal was governed on the question by People v. Petrea, 92 N. Y. 128; 1 N. Y. Crim. Rep. 198, 233."
+  },
+  "file_name": "0204-01",
+  "first_page_order": 228,
+  "last_page_order": 241
+}

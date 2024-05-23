@@ -1,0 +1,73 @@
+{
+  "id": 1167692,
+  "name": "PEOPLE v. BECKWITH",
+  "name_abbreviation": "People v. Beckwith",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "29",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Gen. Sess.",
+    "id": 9672,
+    "name": "New York Court of General Sessions"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Gratt. 680",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 390,
+    "char_count": 7562,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 1.0012058946284599e-07,
+      "percentile": 0.5389267868512797
+    },
+    "sha256": "c22592f61e22c1cfba408b6ab693b45600673fa5bf68740c84a0117fb76fb88d",
+    "simhash": "1:dc19ced0b3627daf",
+    "word_count": 1322
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. BECKWITH."
+    ],
+    "opinions": [
+      {
+        "text": "Rufus B. Cowing, City Judge.\nThe grand jury of this county, in the year 1876, found and presented to this court, fourteen different indictment against the defendant. In some, the defendant was charged with embezzlement and in the others with forgery.\nSome time in the latter part of the year 1876, the defendant was tried and found guilty, upon two of the said indictments ; and was sentenced by the court, to state prison, for the term of five years on each, making ten years in all.\nThe defendant having served out his term of imprisonment, less commutation for good conduct, now moves the court, under section 671 of the Court of Criminal Procedure, for the dismissal of the remaining twelve untried indictments.\nThe district attorney opposes the motion, upon the ground, among others, that the court has no power to grant it.\nAfter a careful examination, I have reluctantly come to the conclusion that the district attorney is right.\nI have come to the conclusion, that this motion must be determined by the practice and procedure, as it existed before the first day of September, 1881, when the Code of Criminal Procedure went into effect; and that neither section 671 nor 668 of the said Code, can be invoked to aid in deciding it.\nAll the alleged offenses, set forth in the said indictments, were committed, and all the indictments were found and presented, and became records of this court, long before the said Code containing sections 668 and 671, went into effect. Both of said sections are new, and were not law previous to the Code.\nSection 962 of the said code expressly provides, that all actions and proceedings, commenced before the first of September, 1881, \u201c must be conducted in the same manner as if this Code had not been passed. \u201d In my judgment, a criminal action is commenced, so far as this court is concerned, when the indictment is filed, and becomes a record of this court: and it follows, that all indictments filed in this- court, previous to September 1, 1881 (which is the case with all the indictments in question), must be tried in the same manner, as if there were no law in existence like that mentioned in said sections 668 and 671: or, in \u2022 other words, we must be guided by the practice and procedure, as it existed previous to the Code, in the final disposition of the remaining indictments. I have failed to find any rule of law or practice, existing before the Code, giving me the power, upon a motion like this, to dismiss an indictment.\nThe Revised Statutes provided that the court might discharge & prisoner, who should not be brought to trial, before the end of the next term of the court held after filing the indictment. It will be observed, that this does not give the court power, as does section 668 of the Code, to dismiss the indictment; but only to discharge -the prisoner from imprisonment.\nThe old practice of entering a nolle prosequi is abolished by section 672 of the Code; and under the old practice, that was a proceeding which had to be initiated by the district attorney. The court never had the power, of its own motion to direct the entry of a nolle prosequi. It required the joint action of the district attorney and the court; and one could not act in that respect, without the other.\nAs I said before, I have reluctantly come to the conclusion that I have no power to grant the defendant\u2019s motion, for the reason that all the circumstances, and the usual practice followed in this court, indicate pretty clearly to my mind, that there was? at least, a tacit understanding, that the trial, conviction and Sentence of the defendant, upon the two indictments, would answer the ends of justice. Subsequent events have rather confirmed me in this belief; so that, it now seems to me, to savor rather more of persecution than prosecution.\nThe motion is denied for want of power.",
+        "type": "majority",
+        "author": "Rufus B. Cowing, City Judge."
+      }
+    ],
+    "attorneys": [
+      "William Fullerton, for the motion, on behalf of defendant.",
+      "Peter B. Olney, district attorney, opposed to motion.\u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Court of General Sessions\u2014New York County.\nJanuary, 1884.\nPEOPLE v. BECKWITH.\nWhen Criminal Action commenced.\u2014Dismissal of Indictments FOUND BEFORE CODE CRIMINAL PROCEDURE.\nA criminal action is commenced when the indictment is filed and becomes a record of the court.\nAll indictments filed previous to the time of taking effect of the Code of Criminal Procedure, must be governed by the previously existing practice and procedure.\nSuch an indictment cannot be dismissed by the court upon the motion of defendant under \u00a7 671 of that Code.\nMotion to dismiss twelve indictments against defendant Charles R. Beckwith. .\nThe facts appear in the opinion.\nThe indictments referred to were found against defendant, for alleged embezzlements and forgeries committed to the prejudice of B. T. Babbitt, in whose employment he was. The total loss sustained by the -complainant by the series of embezzlements and forgeries of which a part were alleged to have been committed by defendant, was $1,200,000. At the time of the motion the defendant was not in custody, having left the country as soon as his imprisonment on his convictions on two indictments had expired.\nWilliam Fullerton, for the motion, on behalf of defendant.\n\u2014The court has power under Code Crim. Pro. \u00a7 671, to dismiss these indictments. This section applies to criminal indictments found before the Code Crim. Pro. went into effect.\nSection 962 of that Code is as follows: \u201c This Code applies to criminal actions, and to all other proceedings in criminal cases which are herein provided for, from the time it takes effect, but all such actions and proceedings, theretofore commenced must be conducted in the same manner as if this Code lhad not been passed.\u201d A criminal action is \u201c The proceeding by which a party charged with crime is accused and brought to trial and punishment.\u201d Code Crim. Pro. \u00a7 5. This motion is not a \u201c criminal action,\u201d because defendant is not charged with crime nor is he brought to trial and punishment. Nor is it a \u201c proceeding in a criminal case,\u201d under \u00a7 962; that is one which relates to the conduct of the case in its different stages to bring one charged with crime to trial and punishment.\nThe question is a new one in this State, but under a similar statute in Virginia, it was held that such a motion should be governed by the law prevailing at the time of the making the motion. Adcock\u2019s case, 8 Gratt. ( Va.) 662.\nBut even under the law prior to the Code of Criminal Procedure, defendant is entitled to his discharge, under 2 R. S. 787 (part 4, chap. 2, tit. 5), \u00a7\u00a7 28-30, which provides that a prisoner indicted for offenses triable in courts of sessions, or oyer and terminer, and committed to prison, whose trial shall not be postponed at his instance, shall be discharged unless brought to trial before the end of the next term of said courts held in the county in which he is imprisoned, unless satisfactory cause to the contrary be shown, in which ease the prisoner may be remanded or held to bail.\nThe delay in bringing defendant to trial cannot be excused by the fact that the defendant was in state prison, for power \u25a0to produce and try him when so imprisoned, is given by the Eevised Statutes, part 4, chap. 3, tit. 3, \u00a7 158.\nPeter B. Olney, district attorney, opposed to motion.\u2014\nAdcock\u2019s case, 8 Gratt. 680, has no application. The law there discussed was on the effect of .a repeal which it was declared \u201c should not affect any offenses, \u201d etc., committed before its passage. It was the repeal which was not to affect. In our Oode it is Vat passageoi the Code which is not to affect. The Virginia statute is an exception in a repealing clause of a statute; the Code is a proviso that a -new law shall not apply."
+  },
+  "file_name": "0029-01",
+  "first_page_order": 53,
+  "last_page_order": 56
+}

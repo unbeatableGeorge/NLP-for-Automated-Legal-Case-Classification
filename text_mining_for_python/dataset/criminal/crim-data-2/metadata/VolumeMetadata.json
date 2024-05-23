@@ -1,0 +1,24 @@
+{
+  "volume_number": "2",
+  "title": "New York Criminal Reports. Reports of Cases Decided in All the Courts of the State of New York Involving Questions of Criminal Law and Practice.",
+  "publisher": "W.C. Little & Co.",
+  "publication_year": 1885,
+  "start_year": 1884,
+  "end_year": 1885,
+  "series_volume_number": "",
+  "jurisdictions": [
+    {
+      "id": 1,
+      "name": "N.Y.",
+      "name_long": "New York"
+    }
+  ],
+  "id": "32044078486073",
+  "harvard_hollis_id": "005616136",
+  "spine_start_year": 1884,
+  "spine_end_year": 1885,
+  "publication_city": "Albany, NY",
+  "second_part_of_id": null,
+  "redacted": false,
+  "nominative_reporter": null
+}

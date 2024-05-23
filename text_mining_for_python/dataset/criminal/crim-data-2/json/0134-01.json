@@ -1,0 +1,389 @@
+{
+  "id": 1167681,
+  "name": "PEOPLE v. HALL",
+  "name_abbreviation": "People v. Hall",
+  "decision_date": "1883-10",
+  "docket_number": "",
+  "first_page": "134",
+  "last_page": "140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 134"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Ohio St. 159",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        505192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/3/0159-01"
+      ]
+    },
+    {
+      "cite": "38 N. H. 208",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4537194
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/38/0208-01"
+      ]
+    },
+    {
+      "cite": "18 N. H. 34",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4419063
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/18/0034-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 379",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015637
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0379-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 256",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015678
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0256-01"
+      ]
+    },
+    {
+      "cite": "12 Ala. 840",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8499434
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/12/0840-01"
+      ]
+    },
+    {
+      "cite": "8 Pick. 133",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013234
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/25/0137-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 448",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485414
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0448-01"
+      ]
+    },
+    {
+      "cite": "14 Barb. 509",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Wend. 462",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025518
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0460-01"
+      ]
+    },
+    {
+      "cite": "47 Barb. 592",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946937
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/47/0592-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 128",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012949
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0128-01"
+      ]
+    },
+    {
+      "cite": "4 Scam. 550",
+      "category": "reporters:state",
+      "reporter": "Scam.",
+      "case_ids": [
+        6108591
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/5/0570-01"
+      ]
+    },
+    {
+      "cite": "17 Vt. 573",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8546066
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/17/0573-01"
+      ]
+    },
+    {
+      "cite": "13 Vt. 416",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        11268228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/13/0416-01"
+      ]
+    },
+    {
+      "cite": "12 Vt. 437",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        2350893
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/12/0437-01"
+      ]
+    },
+    {
+      "cite": "8 Vt. 424",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8546449
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/8/0424-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 319",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Barb. 350",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4969923
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/20/0350-01"
+      ]
+    },
+    {
+      "cite": "16 Wend. 631",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Ohio St. 159",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        505192
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/3/0159-01"
+      ]
+    },
+    {
+      "cite": "38 N. H. 208",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4537194
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/38/0208-01"
+      ]
+    },
+    {
+      "cite": "8 Pick. 133",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/25/0137-01"
+      ]
+    },
+    {
+      "cite": "24 Wend. 369",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "1 Hill, 336",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 1
+    },
+    {
+      "cite": "3 Wall. 334",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3475035
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/70/0334-01"
+      ]
+    },
+    {
+      "cite": "12 Ala. 140",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "8 Pick. 133",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013234
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/25/0137-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 128",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012949
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wend/10/0128-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 682,
+    "char_count": 15152,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.043011967106962604
+    },
+    "sha256": "48881f7695406c9dc7c2026bd4c1a230268d1163c5b9e7a6154bb437dc2818a8",
+    "simhash": "1:a8eba63b3c46f091",
+    "word_count": 2716
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Hardin, J., concurs in result."
+    ],
+    "parties": [
+      "PEOPLE v. HALL."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, P. J.\nAn execution upon a justice\u2019s judgment against Charles Hall having been issued to one Ayers, a constable, that officer levied upon a quantity of beans in the barn of the plaintiff in error, the father of Charles Hall, which the constable had been informed and believed, were the property of the debtor, who lived with his father on the premises. As the constable was about to remove the beans from the barn, the plaintiff in error told him the beans were his, and did not belong to Charles, and he bade the constable not to levy on them or remove them from the premises. The constable said he would remove them, and he attempted to do so, when the plaintiff in error put his hands upon the officer and excluded him from the barn, using only so much force as was necessary to prevent him from removing the beans. Evidence tending strongly to establish the exclusive ownership and possession of the beans by the plaintiff in error, and that the execution debtor had \u00f1o interest in them, was given upon the trial, and the jury would have been justified in so finding. The counsel for the plaintiff in error requested the court to charge the jury that if they should find that the beans levied on were the property of Ransom Hall exclusively, and that the constable was about to remove them from Ransom Hall\u2019s premises and beyond his control, and that Ransom Hall in resisting such removal used no other means or force than was necessary to prevent such removal, he was justified, and the jury should acquit him. The court refused such request, and the counsel for the plaintiff in error excepted.\nThe court charged the jury, that if they should find that the constable acted in good faith in making the levy upon the beans, believing them to be the property of the execution debtor, and if they should also find that the beans were the property of Ransom Hall, and that Charles Hall had no interest in them, yet the prisoner was not justified in resisting the officer in his attempt to remove the beans, although such resistance was accompanied with no more force than was necessary to prevent such removal, and that they must convict the prisoner. To which the plaintiff in error excepted.\nThe prisoner was convicted and sentenced to pay a fine of twenty-five dollars, and to be imprisoned until satisfied, not exceeding twenty-five days.\nThe exceptions above stated present the only question in the case. The question is whether the owner of personal property is liable to an indictment for using force to prevent an officer from levying upon such property by virtue of an execution against another person where the officer acts, not wantonly, carelessly, or oppressively, but in good faith, believing the property to be that of the execution debtor.\nWe have not been able to find an adjudication upon the precise question in this State. It is well settled that the officer is liable as a wrong doer in a ciyil action for making such levy (Finda v. Van Horne, 16 Wend. 631), and it has been held that there is a distinction in. that respect between a levy under an execution, and a taking of goods pursuant to a writ of replevin; the officer being directed in the latter case to take the particular goods described. Foster v. Pettibone, 20 Barb. 350. It was held in the case of People v. Cooper, 13 Wend. 319, that an indictment lies against a party who in the exercise of the right of recaption to repossess himself of goods taken from him, under an attachment against another person, commits a breach of the peace by assaulting the officer who took the goods, if the. process under which the seizure was made, is regular upon its face, although the magistrate who issued it had not jurisdiction of the subject matter. Possibly that case is-distinguishable from this by the circumstance that the officer, when he was assaulted, had the manual possession of the property, when the defendant attempted to regain it. While here, the beans, although a formal levy had been made on them, had not been removed, and were yet in the possession and control of the owner.\nThe question before us has been passed upon in some of the sister States, but the decisions are conflicting. In Commonwealth v. Kennard, 8 Pick. 133, it was held, that if an officer would take goods belonging to A., and in A.\u2019s possession, upon a writ against B., A. may maintain his possession by force in the same manner as he might against any person who is not an officer. But in State v. Downer, 8 Vt. 424, that doctrine was controverted and its opposite asserted by the Supreme Court of Vermont in a well-reason\u00e9d opinion written by Mr. Justice Bedeield. \u201cIf,\u201d says the learned judge, \u201c the owner of property may resist an officer in its defense, so may one who believes himself the owner, for it will not do to predicate crime upon so subtle a distinction as an abstract right of property. \u201d lie distinguishes the case from that of an illegal arrest of one person, upon process against another, in which he admits that the officer attempting to make arrest may lawfully be resisted, and says \u201c the case of property is very different, and depends upon criteria which are not the objects of sense.\u201d He also adverts to the' consideration, that it is the duty of the officer to attach property whenever required to do so, as creating a distinction between his act and the gratuitous trespass of a stranger, without pretence of process.\nUnder our statute, the proceeding which the officer is authorized to institute, in his discretion, to try the title, to the property, in case of an adverse claim can only be resorted to, after levy made (Code Civ. Proc. \u00a7 1418), and it is essential to the protection of the officer that he should have the actual possession and\" control of the property, after his levy, until the adverse claim is disposed of. Besides, the remedy above referred to, is available only to officers levying by - virtue of process issued out of courts of record, and does not apply to a constable levying under an execution upon a justice\u2019s judgment.\nThe doctrine of State v. Downer, was reaffirmed by the Supreme Court of Vermont in State v. Miller, 12 Vt. 437; Merritt v. Miller, 13 Vt. 416; and State v. Buchannan, 17 Vt. 573. It has been approved and followed by the Supreme Court of New Hampshire State v. Fifield, 18 _N. H. 34; State v. Richardson, 38 N. H. 208 ; and the Supreme Court of Ohio, Faris v. State, 3 Ohio St. 159 ; see also Cokeley v. State, 4 Clark (Iowa) 477. We are referred by the counsel for the plaintiff in error to the case of State v. Johnson, 12. Alabama, .840, in which the Massachusetts case above cited was followed. But it does not appear that the cases in conflict therewith were brought to the attention of the court. We are referred by the counsel for the plaintiff in error, to' an English case cited in Wharton\u2019s Am. Or. Law, 3 Ed. p. 554, but we have not had access to'it. The case of the People v. Wentworth, 4 Scam. 550 is also cited. The opinions above referred to seem to have exhausted the subject, and it is only necessary for us to say that we concur in the reasoning and conclusion of State v. Downer, and 'the other con7 curring cases above cited. The conviction and judgment should be affirmed.",
+        "type": "majority",
+        "author": "Smith, P. J."
+      },
+      {
+        "text": "Barker, J.\nI concur that the conviction and sentence be sustained. It is not stated in the bill of exceptions, that, at the time of the levy by the officer,.the defendant was in the actual possession of the property ; nor does it appear that at the time the officer made the attempt to remove the same he had not secured full possession of the property. The defendant gave his consent that the officer might enter upon the premises, and levy on any property belonging to Charles Hall, the defendant named ,in the execution. He had effected a complete levy upon the property and had commenced a removal of the same before the defendant attempted to interfere. The title to the property was in dispute, the constable claiming -that it was the property'of the defendant named in the precept, who is a son of the defendant here and resided with him on the premises. It is impossible for the court to say, from the facts stated in the bill of exceptions, that the prisoner was at the time of the levy in the actual possession of the property to the exclusion of Charles Hall. In the request to charge, as made by the defendant, and which was rejected, the court was asked to direct an acquittal of the defendant if the jury should find that he was the sole and exclusive owner of the property. In the charge as made, the jury were instructed, that if they found that the defendant acted m good faith, and believed the prop..erty to be that of Charles Hall, and they, in fact, found that it was the property of the defendant, then he was not justified in resisting the officer in his attempt to remove the property. In neither of these propositions was the question of actual possession by the defendant embraced, and each was based upon the fact of ownership; consequently it was not error to reject the first and affirm the second. As to the legal proposition stated in the opinion of Mr. Justice Smith, founded on the cases which are cited therein, that the lawful owner of personal property in the actual possession of the same, cannot lawfully defend such possession by the use of so much force as is necessary for that purpose, as against an officer who attempts to levy upon and remove the same by virtue of process against another who has ho right or interest in the property, I do not concur. I place my dissent upon the common law rule as the same is stated and followed in the decisions of the courts of this and other States, and is, as I understand the cases, that the owner of personal property in the actual possession of the same, may defend his possession, as against an officer who seeks to seize and remove the same by virtue of legal process in his hands commanding him, in general terms, to levy upon the property named in the writ of another, using no more force than is necessary. I refer in particular to Elder v. Morrison, 10 Wend. 128; Commonwealth v. Kennard, 8 Pick. 133; People v. Wentworth, 4 Scammon (Ill.) 550 ; State v. Johnson, 12 Ala. 140 ; Storey v. Robinson, 6 T. R. 138; Am. Crim. Law, \u00a7 1290; Buck v. Colbath, 3 Wall. 334; Curtis v. Hubbard, 4 Pill, 437; Id., 1 Hill, 336 ; People v. Hubbard, 24 Wend. 369.\nHardin, J., concurs in result.\nJudgment and conviction affirmed.,",
+        "type": "concurrence",
+        "author": "Barker, J."
+      }
+    ],
+    "attorneys": [
+      "S. E. Filkins, for defendant.",
+      "Isaac S. Signor, district attorney, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fourth Department.\nOctober, 1883.\nPEOPLE v. HALL.\nBesisting Officer in Execution of Process.\nThe owner of personal property is liable to indictment for using force to prevent an officer from levying upon such property, by virtue of an execution against another person, where the officer acts in good faith believing the property to be that of the execution debtor (per Smith, P. J., Barker, J., dissenting).\nWrit of error to Court of Sessions of Orleans county to \u25a0review a judgment of 15th March, 1882, convicting defendant Bansom Hall of the offense of resisting an officer in the execution of process.\nThe offense was committed 22d April, 1881, and the indictment found 8th June, 1881.\nThe facts fully appear in the opinions.\nS. E. Filkins, for defendant.\nI. The section of the statute under which the defendant was indicted is see. 17 of Laws of 1845, chap.. 69, vol. 1, page 793, Banks & Bros., 7th ed. of B. S,, and which reads as follows : \u201c Every person who shall resist or enter into a combination with any person or persons to resist the execution of process shall be guilty of a misdemeanor and shall be punished,\u201d &c. The \u201c execution of process \u201d in this case would be the levying upon the property of the defendant in the execution, and not upon the property of a stranger to the execution. The resistance in this case was not that contemplated by the statute. Any number of civil causes can be found, all holding without a break in the chain that the officer in this case was a common trespasser, and that the defendant was justified. Interference with the property of a stranger to the execution, makes the officer a trespasser. Waifs Law and Practice, 808, and authorities there cited. See Elder v. Morrison, 10 Wend. 128; Gyre v. Culver, 47 Barb. 592 ; Connah v. Hale, 23 Wend. 462; Stimpson v. Reynolds, 14 Barb. 509 ; Scribner v. Beach, 4 Denio, 448. In England in a similar case to this it was held that the defendant was justified \"is resisting the officer. Wharton's Am. Crim. Law, 3d ed. 554. A like-decision upon a similar case was made in Massachusetts : Commonwealth v. Kennard, 8 Pick. 133; also a similar decision in Alabama. State v. Johnson, 12 Ala. 840. In this state the cases of Scribner v. Beach, 4 Denio, 448, and Spencer v. McGown, 13 Wend. 256, are closely allied to this case. A careful reading of People v. Cooper, 13 Wend. 379, shows that the case turned upon the question whether the officer had \u201c actual manual possession \u201d of the trunk when the defendant attempted to take it from him. The jury held that such was the fact. If a levy only had been made, without getting the trunk into his \u201c actual manual possession \u201d then the use of only sufficient force to prevent its removal from defendant\u2019s possession would have been justifiable. So in this case, the beans were in barrels in defendant\u2019s barn\u2014the officer had done nothing to the beans\u2014he brought some bags and attempted to put them in bags for the purpose of removing them. \u201c Hall told him not to touch the beans but to leave the barn\u2014the constable refused to go\u2014whereupon Hall pushed him out of the barn and closed the door. The force used was hot excessive, and was no more than was .necessary to prevent the removal of the property by the constable from the premises.\u201d He had a, right to use that amount of force if the property was not in \u201c the actual manual possession \u201d of the officer. The officer had no possession whatever. The naked question is presented : Can an officer come onto my premises with an execution against A., levy upon my horse and take him away simply because some person has told him that the horse belongs to A., and if I resist his removing the horse from my possession that I am guilty of a crime, when the force used is' only sufficient to prevent the consummation of the trespass ?\nIsaac S. Signor, district attorney, for the people.\nI. While the plaintiff in error might not be liable to an individual for private damages, yet the case is different when the offense is one against the people. People v. Cooper, 13 Wend. 379, Cokeley v. State, 4 Clark (Iowa), 477.\nII. It is not a defense to an indictment for obstructing an officer in the service of process of attachment, that the goods attached belonged to the defendant and not to the party to the process. State v. Fifield, 18 N. H. 34 ; State v. Richardson, 38 N. H. 208.\nIII. Whenever the question of ownership is so far doubtful that the creditor and officer may be supposed to act,_and does act in good faith and on reasonable grounds for Relieving the property to be that of the debtor, the owner has no right to resist an attachment by a breach of the peace. Faris v. State, 3 Ohio St. 159."
+  },
+  "file_name": "0134-01",
+  "first_page_order": 158,
+  "last_page_order": 164
+}

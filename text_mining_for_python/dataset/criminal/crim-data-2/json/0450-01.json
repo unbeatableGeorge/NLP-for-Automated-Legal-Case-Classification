@@ -1,0 +1,319 @@
+{
+  "id": 1167713,
+  "name": "PEOPLE v. PETMECKY",
+  "name_abbreviation": "People v. Petmecky",
+  "decision_date": "1884-10",
+  "docket_number": "",
+  "first_page": "450",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 450"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "53 N. Y. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/53/0164-01"
+      ]
+    },
+    {
+      "cite": "44 N. Y. 172",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507450
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/44/0172-01"
+      ]
+    },
+    {
+      "cite": "61 N. Y. 477",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        525397
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/61/0477-01"
+      ]
+    },
+    {
+      "cite": "29 N. Y. 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2038609
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/29/0523-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 501",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534721
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/74/0501-01"
+      ]
+    },
+    {
+      "cite": "40 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503131
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/40/0001-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 243",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032718
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/5/0243-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 180",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0180-01"
+      ]
+    },
+    {
+      "cite": "29 Hun, 332",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Sumn. 556",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "7 Wheat. 286",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "17 Me. 267",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        631653
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/me/17/0267-01"
+      ]
+    },
+    {
+      "cite": "19 Ohio, 55",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 1
+    },
+    {
+      "cite": "121 Ill. 108",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "12 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "53 Cal. 494",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "56 Miss. 221",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        11260373
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/miss/56/0221-01"
+      ]
+    },
+    {
+      "cite": "3 Wis. 645",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        11640824
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wis/3/0645-01"
+      ]
+    },
+    {
+      "cite": "15 Mich. 409",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "97 Mass. 405",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        707971
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/97/0405-01"
+      ]
+    },
+    {
+      "cite": "29 N. Y. 492",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "61 N. Y. 477",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        525397
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/61/0477-01"
+      ]
+    },
+    {
+      "cite": "29 N. Y. 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2038609
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/29/0523-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 501",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534721
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/74/0501-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 243",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032718
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cow/5/0243-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1452,
+    "char_count": 44464,
+    "ocr_confidence": 0.597,
+    "pagerank": {
+      "raw": 2.1822496567564244e-07,
+      "percentile": 0.7727900352491593
+    },
+    "sha256": "55cd62af1f103a34a7aff7c1f73d08daac3fd22afe8438cd4a060e83c2a18a7f",
+    "simhash": "1:3267a9ad3d768ff4",
+    "word_count": 7964
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. PETMECKY."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, P. J.\nThe defendant was convicted of tne murder of Pauline Froitzheim. The deceased was the wife of Andrew Froitzheim, a resident of the city of Auburn. The homicide occurred in the afternoon of June 1, 1883, at the house in which deceased lived with her husband.\nThe defendant, who was examined at the trial as a witness in his own behalf, admitted in his testimony that at the time and place referred to, he had a conflict with the deceased, in which he struck her several blows upon the head with a revolver and a hatchet, and as the uncontradicted testimony showed beyond a doubt that the blows caused the death of the deceased, there was no question, but that the defendant was the author of the homicide. He claimed that he acted in self-defense, and it is now urged by his counsel that the verdict finding him guilty of murder is against the weight of evidence.\nThe argument of the defendant\u2019s counsel also rests upon several exceptions which it is claimed point to error.\nAs we may order a new trial independent of the exceptions, if we are satisfied that the verdict is against the evidence or against law, or that justice requires a new trial (Code of Cr. Pro. \u00a7 527, as amended L. 1882, ch. 360, pi 499), we will examime the evidence before taking up the exceptions. The responsibility thus thrown upon us compels a careful and somewhat minute review of the testimony.\nOn the part of the prosecution the testimony tended to establish the following facts and circumstances : The husband of the deceased, who was employed in a neighboring factory, had left his wife, soon after noon on the day of the homicide, engaged in her usual household dxxties, and on his return home about five hours later, he found the house closed and locked, except the blinds of one window, which he opened and through it climbed into the kitchen. On the kitchen floor were spots of blood and bloody tracks leading from the bed-room. On going into the bed-room he noticed three drawers of a bureaxx open and their contents stirred up. Under the bed was a hatchet, which Froitzheim had left in the woodshed that morning. It was covered with blood. In the adjoining sitting-room was the dead body of his wife, lying in a pool of blood. There were l'agged wounds upon the head, which a subsequent examination by physicians decided to be at least twenty in number, some appealing to have been made by the corner of a blunt instrument, and one by a hammer smashing down the flesh. Underneath many of the wounds the skull was fractured, and in one instance there was a complete depression of the bones on to the brain itself. The throat was discolored, showing finger prints over the carotid arteries. In the. opinion of one of the physicians there were six or eight of the wounds either of which was sufficient to produce death. Hear the body was a bowl containing bloody water, standing on a chair; a revolver loaded, except one chamber; a cartridge from the same and a piece broken off from the butt of the revolver. On the pistol were blood and several hairs, the color of the hair of the deceased. There were also,, near the body, or on the floor, a ring not belonging to any of the household, a couple of buttons and a clasp from a neck-chain worn by the deceased. On further search, it was discovered that the keys to the outer doors were gone, and a bank-book on the Auburn Savings Bank, belonging to Martin Froitzheimer, a son of the deceased, a small sum of money, two watches and chains, the neck-chain spoken of, a woolen wrapper, an overcoat and two or three letters were missing. Blood was found in the sitting-room, on the door, the ceiling and the wall-paper; in the bed-room, on papers in a bureau drawer; and above stairs on the garret door, just above the bolt, and on the tray of a trunk in a bed-room in the chamber.\nThere were neighbors living near, but none of them heard any noise in the house. The letters taken were from Petmecky, the defendant, who had formerly lived in Froitzheim\u2019s family.\nBetween 7 and 8 o\u2019clock the next morning, Petmecky appeared at a bank in Albany, with the bank-book of Martin Froitzheim, saying that he came from Auburn and was going to Philadelphia, and that he wanted to get money on it, for which purpose he then signed a draft with the name of Martin Froitzheim.\nShortly after leaving the bank, he was arrested by a detective, and on being charged with the murder of a woman at Auburn, he told the detective he had not been in Auburn, and that a man in New York gave him the bank-book and told him to go to Albany and get the money on it. On being asked his name, he said it was Nathan Heymann. He had on the missing overcoat and wrapper or undershirt. On removing his overcoat, his coat and shirt showed blood-stains. \u2022\nOn his way to the police office, he attempted to escape from the detective. At the police office, he was searched, and several of the other missing articles were found upon him.\nHe was brought to Auburn and lodged in jail. While there he proposed to a fellow prisoner a plan to overpower the sheriff, when he came to the cell, and make their escape, and at a late day, a letter was intercepted, written by him to a person outside asking to be furnished with instruments by which he could break jail and escape before his trial should come on.\nIt appeared in evidence that the defendant come to Auburn from the city of Hew York on the day preceding the homicide. The day before leaving Hew York he changed his boarding-place to one about a mile and a half distant, and from the latter place he started for Auburn. The evidence tended to show that he avoided his old acquaintances in Auburn, and that, before going to Froitzheim\u2019s house, he made inquiries, for the apparent purpose of learning at what time he would be likely to find Mrs. Froitzheim there alone.\nThe testimony of the defendant tended to show that he was born in Germany in 1861, and first come to this country in 1880. Being distantly connected with Froitzheim he went to his house and lived in his family several months. He testified that the first morning he was there the deceased told him she loved him and that she wanted to leave her husband and have the defendant go and live with her in the west; that he continued there about five months, she daily renewing her protestations of love for him, and that he, not liking to hear them, left Froitzheim\u2019s house and boarded elsewhere in Auburn, about a year, when he went to Cleveland, and from there to Manitoba. Thence he went back to Germany, and from there returned to Hew York City in February, 1883. In May, he married, in Madison county, a Swiss girl, whom he meet on his last voyage to Hew York, and after a few days he absconded, leaving his wife in Syracuse without providing her any means of support, and returned to Hew York, where he remained until he came to Auburn, the day before the homicide. He testified that previous to his returning to Germany he received from Mrs. Froitzheim as many as twenty-five letters, all of which he destroyed when he left for Germany; and that about eight days before he left Hew York, he received a letter from her asking him to come to Auburn and enjoining upon him not to make his visit known, and that he came accordingly; that he went to her house in the forenoon and spent an hour or two there; that she urged him to elope with her, and he refused ; that he went to a neighboring brewery, while the husband was at home to dinner; that he returned to the house and found Mrs. F. dressed ready to go; that she again urged him, and he finally told her he was married; that' she then flew into a passion and assaulted him-; that he struck her with his revolver to free himself; that she again attacked him and in the struggle some of the buttons of his coat were torn off and the revolver fell to the floor; that she snatched it and saying that she did not care what became of her, she threatened to shoot him first and then herself; that he, being in great fear, and as he thought in imminent danger, struck her with a hatchet which was lying near the stove to which she had forced him back, and that he finally went from the house leaving her sitting in a chair, holding the revolver in her hand.\nThe defendant admitted that he carried away the overcoat, and he testified on his direct examination that in the train from Auburn to Syracuse he found in the overcoat pocket, a bankbook, the two watches and a cigar-holder. On his cross-examination'he stated that he took the bank-book out of the bureau drawer, and that he took one of the watches as it was hanging up in the room and did not know where he got the other watch.\nOn his direct examination he said that when he found the bank-book in the pocket he thought how he could get it back to Auburn, and he concluded he had best take a ticket to Albany and send it back.\nHe also said that at Albany he went into a saloon kept by a German and told him he had a bank-book he wanted to send back to Auburn. On his cross-examination he testified that his object in taking the bank-book from the drawer was to get money to return to New York with and to. enable him to stay there. Berger, the German whose saloon the defendant visited in Albany, testified that the defendant told him he was short of money and had a bank-book with him on a bank in Auburn, and would like to know if he could raise some money on it, and the defendant, on cross-examination, admitted that he recollected telling Berger so.\nThe defendant also testified to having met Mrs. F. at Syracuse in April, 1882, at her invitation, and having occupied the same room with her, at a hotel, two or three days and nights, in respect to which he was corroborated by the landlord and another witness, to the extent that they recollected the fact of a young man and a woman older than the man, who were strangers to them being there on that occasion, and they recognized the defendant as the man, and they thought a photograph of Mrs. F., shown them at the trial, was a likeness of the woman.\nThe defendant also testified that Mrs. F. sent him ten dollars by mail to Cleveland, to defray his expenses to Syracuse on the occasion above referred to, and that on another occasion she sent him twenty-five dollars. The husband of the deceased testified that those moneys were sent to the defendant in reply to his letters asking for a loan of money ; that the money sent was furnished by the witness; and that the letters asking for it were in witness\u2019 house shortly before the homicide, and were among those which he missed as above stated.\nThere was much other testimony given, but enough has been stated, to show that the credit of the defendant, as a witness, was seriously impaired by his self-contradictions, and that if the jury disbelieved his version of what occurred at Froitzheim\u2019s house on the day of the homicide, so far as it was uncorroborated (as they properly might), the evidence fully warranted their verdict. Giving to the defendant the benefit of every reasonable doubt, they were authorized to find either that the deliberate and premeditated purpose of the defendant was to take the life of his victim, or that it was to plunder the house, in which latter case, as the value of the property taken by him was shown to exceed twenty-five dollars, the homicide, if committed by him while engaged in the felonious taking, was murder in the first degree, although perpetrated without a design to affect death. Penal. Code, \u00a7 183. The case was submitted to the jury by the learned judge in both of these aspects, and we are constrained to say that we see no cause for disturbing the verdict as being against the weight of evidence.\nThe point is made by the appellant\u2019s counsel that in the examination of one Treat, called as a juror and challenged by the defendant for principal cause, the court interfered with the free expression of the juror\u2019s opinion by charging him as to the law in criminal cases generally, and inferentially in the particular case about to be tried. The juror, having answered the defendant\u2019s counsel that he had read and talked about the case and formed an opinion respecting it, which he thought would require evidence to remove, also said that he thought he could try the case unbiased by that opinion. He was then asked, \u201c If the evidence was pretty nearly balanced, would your opinion influence your verdict ?\u201d He answered, \u201c I don\u2019t think it would.\u201d The court then said, \u201cYou reflected, I suppose, that you do not find a verdict in a criminal case upon the balance of the evidence, but that the evidence must be such as to remove every reasonable doubt of guilt?\u201d The juror answered, \u201cYes.\u201d No exception was taken to the remark of the judge, and we discover nothing in it improper or that could prejudice the defendant. Besides, the juror did not sit, he having been challenged peremptorily by the defendant.\nIt does not appear that the defendant\u2019s peremptory challenges were exhausted. The juror not having been of the panel, the question whether there was error in his examination is not brought up by this appeal. The appeal is to be heard upon the judgment-roll (Code of Cr. Pr. \u00a7 517), and that is to contain no copy of the minutes of a challenge, except such as may have been interposed to the panel of the trial jury, or to a juror who participated in the verdict (Id. \u00a7 485, sub. 3). A like limitation is put by the Code of Criminal Procedure upon the right to except to a ruling made upon the trial of a challenge (\u00a7 455).\nThe examination of the wife of the defendant as a witness against her husband was not error. She was not compelled to disclose any confidential communication passing between herself and her husband during their marriage, and within that limitation she was a competent witness. Penal Code, \u00a7 715. The case of People v. Hovey, 29 Hun, 332 ; 1 N. Y. Crim. Rep. 180, cited by the appellant\u2019s counsel, arosd before the Penal Code took effect.\nThe evidence of the defendant\u2019s proposal to his fellow prisoner, O\u2019Brien, of a plan to overcome the sheriff and escape from the jail, was competent. It. was of the same nature as proof of an attempt of a person charged with crime to flee before arrest, or to escape immediately after arrest. The circumstance that the plan involved the commission of a criminal offense other than that with which the defendant was charged in the indictment, did not render the evidence any less competent. It was equally competent with proof that the defendant when arrested in Albany attempted to escape from the officer, and with the letter written and sent by the defendant, subsequently to his conversation with O\u2019Brien, asking that instruments be sent him to enable him to break jail and escape, both of which were received without objection. The court instructed the jury as to the legitimate effect of the evidence.\nCertain letters written by the defendant to his wife, and which his wife testified she had delivered to the district attorney, at his request, without making any objection, supposing that she was obliged to deliver them, although, as she testified, she did not wish to, were offered in evidence by the prosecution and excluded. Afterwards the letters were shown to the defendant on his examination as a witness, and his attention was called to their date and to the signature, which appeared to have been \u201c Franz Joseph von Petmecky, Railingbnrg.\u201d He was asked why he wrote \u201c von \u201d and \u201c Railingburg,\u201d and the question being allowed against the objection of his counsel, he answered that he didn\u2019t know. Ho communication contained in the letters was proven. But if the entire letters had been read we are of the opinion no rule of evidence would have been violated. Being written by the defendant they were admissible against him. The reading of them in evidence would not have been within the prohibition of section 715 of the Penal Code, which is aimed only at a compulsory disclosure by husband or wife. Putting the letters in evidence would have involved no disclosure by the wife of the defendant, as a witness. If she had lost them, and the person finding them had put them in the hands of the district attorney, would they not have been admissible against the defendant % Even if they had been unlawfully obtained, would that have been an objection to their admissibility, they being pertinent to the issue ? 1 Greenl. Ev. % 254 a. If the entire letters were admissible there certainly was no error in permitting the defendant to be examined as to the dates and signatures alone.\nThe evidence of Andrew Froitzheim as to the genuineness of the defendant\u2019s signature was competent. He had seen the defendant write on one or more occasions. It is insisted by the defendant\u2019s counsel that the. fact that he and the defendant were on opposite sides of the table at the time of the writing rendered him incompetent. How far apart they were does not appear; the fact that the witness saw the defendant write is enough to carry his testimony as to the genuineness of the signature to the jury, they to give it such weight as they think it entitled to. Besides, the witness had corresponded with the defendant and received letters from him. But if the admission of the evidence was erroneous it did no harm, since the genuineness of the same signature was proved by Andrew Froitzheim, Jr., whose competency was abundantly shown.\nIt it contended by the appellant\u2019s counsel that the judge by defining the degrees of murder in the inverse order of their enumeration in the statute, referring finally to the first degree of the crime, and then by discussing the evidence which tended to show that the killing was done while the defendant was engaged in the commission of a felony, left * it to be inferred irresistibly that in his opinion a verdict of guilty of murder in the first degree might be sustained on that ground. The learned judge carefully refrained from expressing his opinion upon any question of fact in the case. He doubtless arranged the several topics dealt with in his charge in such order as in his opinion would enable him to present them most clearly. The mere order of arrangement was a matter wholly within his discretion and is not the subject of review. We are not to presume, for the purpose of overturning the verdict, that the jury so far departed from their duty, as to draw the inference suggested and allow it to influence their verdict. These remarks .are applicable also to the comment made by the appellant\u2019s counsel upon the part of the charge relating to the means of defraying the expenses of an elopement.\nThe point is made by the appellant\u2019s counsel that the court erred in charging that the testimony of the defendant was of no value except as corroborated by other evidence in the case. Such was not the charge. It was, in substance, that if the jury should find that the defendant had knowingly testified falsely in respect to a fact material to the case, then his testimony is entitled to credit only so far as the jury shall find it to be consistent with the established facts of the case, or corroborated by the testimony of other witnesses. In connection with this instruction, the judge adverted to the contradictory statements of the defendant as to the manner in which he became possessed of the bank-book, and as to his purpose in taking it. The authorities in this state seem to support the proposition that while the question of the credibility of a witness in general belongs to the jury, yet when they find that he has sworn corruptly false in one material thing, in the case on trial, his uncorroborated testimony is to be disregarded, and it is not error so to instruct them. Dunlop v. Patterson, 5 Cow. 243 ; People v. Evans, 40 N. Y. 1; Deering v. Metcalf, 74 N. Y. 501. When, however the witness, in testifying falsely, is not found to have done so knowingly, the question of his credibility is for the jury. Dunn v. People, 29 N. Y. 523; Pease v. Smith, 61 N. Y. 477; Wilkins v. Earle, 44 N. Y. 172; Deering v. Metcalf, supra. In the present case there was no escape from the conclusion that in one or the other of the several contradictory statements of the witness, he had testified falsely, knowingly and corruptly. There was no error in that part of the charge.\nIt is objected that the judge assumed that the evidence was uncontradicted that the defendant had locked the doors of the house after the homicide, whereas the defendant denied that he did so. The learned judge, in commenting upon the testimony of the defendant that he was unconscious of much that occurred at the time of the homicide, adverted to several things, which the defendant testified he did and saw on that occasion, as proper to be considered by the jury in determining whether his testimony that he was unconscious during any part of the time was credible. In that connection the judge said \u201c he was unconscious, according to his testimony, of that series of acts by which he locked all the doors of the house.\u201d Although the testimony on the part of the prosecution was to the effect that all the doors of the house were found locked, the defendant, on his direct examination, said nothing as to whether he locked them or not. On his cross-examination, on being asked why he locked up the house, he replied : \u201c I did not lock any house;\u201d and immediately afterwards, having testified that he went out at the kitchen door, on being asked if he locked it after him, he replied that he did not know. In this manner he denied having locked all the doors of the house, and the remark of the judge was therefore too broad in its assumption, but no exception was taken to it, and as it is to be presumed from the verdict that the jury found that the defendant had testified falsely and corruptly, his denial in regard to locking the doors was not entitled to credit, and the remark of the judge worked no injustice, requiring us to grant a new trial.\nThe judge charged, \u201c If the prisoner at the bar is to be found guilty of murder in the second degree, or of any less offense, it is because you find that there is a reasonable doubt that he committed this act from a deliberate and premeditated design, and also that there is a reasonable doubt that he committed it while engaged in the commission of the crime of grand larceny in the second degree.\u201d The appellant\u2019s counsel contends that this threw the onus of raising the doubt upon the defendant. We think the contention is unfounded. The charge gave the defendant the benefit of any reasonable doubt as to the grade of the crime arising upon the entire evidence. The judge had previously charged that in order to find the defendant guilty of murder in the first degree, they must \u201c be satisfied beyond a reasonable doubt that he committed the act of taking this life with a deliberate and premeditated design, or that he committed it while engaged in the act or the attempt of committing the felony or taking this property from the house.\u201d\nThe case of People v. Stokes, 53 N. Y. 164, cited by the appellant\u2019s counsel, does not sustain his position. The charge there held erroneous was that the legal implication from the fact of the killing, in the absence of proof of the circumstances of its perpetration, was that the act was murder, and cast upon the prisoner the burden of showing that it was not.\nOur examination of the case has satisfied us that no error was committed at the trial affecting the rights of the defendant, that the verdict is according to the evidence and the law, and that justice does not require a new trial.\nThe judgment and conviction should be affirmed, and the Court of Oyer and Terminer of the county of Cayuga directed to fix another day for the execution of the sentence.\nHaight and Bbadley, JJ., concur.",
+        "type": "majority",
+        "author": "Smith, P. J."
+      },
+      {
+        "text": "Barker, J. (Dissenting.)\nWhen the people rested their case, evidence had been given tending to prove that the defendant was guilty of the homicide charged in the indictment, all such evidence being circumstantial in its character, but establishing quite satisfactorily that he was the guilty person.\nThereupon the defendant went to the stand and was sworn as a witness in his own behalf and testified relative to the receipt by him of certain letters from the hands of one of the witnesses, Mrs. Lamperts, and that the same was not at that time in his possession nor under his control.\nHe also testified as to the time when he purchased a pistol, which, as may be fairly inferred, was conceded by him to be the pistol found in the house, near the body of the deceased. He did not, on his direct examination, make any reference to the circumstances attending the killing, nor to his whereabouts or doings in Auburn, preceding the homicide, nor to his movements and actions after the killing.\nOn his cross-examination, conducted by the district attorney, he gave a minute account of his journey from the city of Hew York to the city of Auburn, of his whereabouts in the latter place and conversations had by him with individuals up to the time of his last visit to the house of the deceased and his interviews and conversations with her up to the time of taking her life. He was also questioned by the district attorney, as to all the circumstances connected with the killing and as to the taking away by him from the house, property belonging to the deceased and her husband.\nIf the jury believed his evidence as to the altercation which he stated did take place between him and the deceased and her attack upon him before he struck the fatal blow, then the jury would have been justified and most probably would have found him guilty of an offense less than murder in the first degree. On comparing some of his statements made as a witness with the testimony given by others on the trial, it will appear on some points material, as well as immaterial, he was in conflict with statements made by the people\u2019s witnesses. In some instances he made contradictory statements while on the stand while undergoing an examination conducted by the district attorney, as to his acts and conduct, both before and after the homicide, as to which no other evidence was given.\nIn the charge to the jury, the learned judge, in commenting on the defendant\u2019s evidence, as to its credibility and the effect which they should give to the same, said in substance, \u201c that the testimony of the prisoner was entitled to all the weight which the jury could fairly give it, and the same was subject to the same test as other witnesses and in his further charge on the same subject, said, \u201c So far as the testimony of the prisoner at bar is contradictory of itself it cannot be true. Two contradictory statements cannot be true. When he testifies he know n'othing of the personal property which he took from that house, until after he took the cars at Auburn, and when he testified afterward he took the watch from the wall and took the bank-book from the bureau drawer, as far as those statements are contradictory one of them is to be considered false. Wherever you find that the prisoner has made a statement not true, to establish a falsity instead of a truth, his testimony is not entitled to the credit of a witness who stands fairly before you uncontradicted. His testimony, then, is entitled to no weight or credit of itself, except so far as it is consistent with the known and established facts of the case, or corroborated by the testimony of other witnesses. This is a consideration which you cannot avoid; it is forced upon you by the facts of the case and the importance of the issues here involved. When he testified that he had no purpose to draw any money on the bank-book, having been surprised at finding it in his possession on his way to Albany, and on his cross-examination says he took it from the bureau drawer, and that he took it with the intention to draw money with which to escape to Hew York, and when being reminded he had money enough to go to Hew York, he testifies he intended to draw money enough upon it to keep him in Hew York for a time, \u2014one of these statements must be false, and, if intentionally false, the inference of a falsity attaches to the whole of the evidence which he has given in the case.\u201d To this part of the charge, the defendant\u2019s counsel excepted, and the court thereupon further instructed the jury, \u201c If the prisoner is shown to have deliberately falsified in his evidence, with the intent to mislead and deceive the jury as to the facts of this case, the jury cannot give weight to the testimony of the prisoner, of itself\u2014that the testimony is not entitled to credit as of itself, but is entitled to credit only so far as the jury shall find it to be consistent to the known or established facts of the case or corroborated by the testimony of other witnesses ; I say further to you that this does not brand the testimony as false ; it only declares that if he has willfully and purposely falsified in any portion of his testimony, then his testimony, of itself and alone, does not establish the truth of any thing to which he has testified. All that he has testified to might be true notwithstanding the fact that his testimony of itself did not establish the truth.\u201d\nUpon these instructions the court adopted and applied asan absolute and inflexible rule of the law of evidence the maxim, \u201cfalsus in uno, falsus in omnibus.\u201d In my opinion, this maxim is not a legal one, and has never prevailed as such in the common law courts of England or in this country. Hone of the commentators on the law of evidence most relied upon as authority for correct precepts and principles\u2014such as Greenleaf, Phillips or Starkey\u2014state the same as an absolute rule of law, but all of them concur in saying that the question of credibility of a competent witness is for the consideration of the jury, as they are the sole judges of the truth of the evidence before them. 1 Greenleaf Ev. \u00a7380; Starkey on Ev. 873. Hor is the same found in Broom's Legal Maxims nor in any other similar collection to which I have access.\nWhen evidence pertinent to the issues being tried before a jury has been given in a legal manner by competent witnesses, there is no positive rule of law which excludes the same from the consideration of the jury, on the sole ground that the witness who gave the testimony has, in some other part of his evidence, deliberately sworn falsely. Such disregard of his oath by the witness, may be enough to justify a jury in disregarding his evidence as altogether unworthy of respect and credence, and for this reason to place no reliance on any of his statements. When the evidence of a witness is open to the imputation of being deliberately and intentionally false, it is the duty of the court, to caution the jury concerning such evidence, and to instruct them, if they find the witness has intentionally made false statements with an intention to mislead them, then they have the right and may utterly disregard all, his evidence in other particulars.\nIf, however, the evidence produce a clear and undoubted conviction in their minds, the jury may act on such conviction, whether the evidence comes from a pure or a corrupted source. The maxim \u201c Falsus, &c.\u201d is intended as a guide for the. tribunal charged with the duty of finding on disputed questions of fact. In jurisdictions where the functions of the judge are limited to deciding questions of law, as they arise in the progress of a trial, and a jury is chosen to determine the questions of fact, the application of the precept is to be made by the jury if applied at all. This maxim had is origin in the civil law, where both questions of law and fact were beard and determined by a fixed tribunal without a jury. In similar tribunals in this country, as in courts of equity and admiralty'courts, the judge, in solving disputed questions of fact, may very properly apply the same and reject the evidence of a witness who has purposely sworn falsely on a material issue.\nHere the defendant was a competent witness, and gave evidence as to facts and circumstances, attending the homicide, which the jury, of necessity, were required to consider and determine with a view of fixing the degree of the defendant\u2019s guilt. As to such testimony so given by himself, he was not directly contradicted by any witness, and only contradicted by facts and circumstances claimed to have been established by the testimony of other witnesses; and yet, notwithstanding these features of the case, the jury were instructed in very plain and distinct terms that it was the law of the land, that they could not and ought not to believe any of the defendant\u2019s statements if, in any particular statement made by him, he had stated the same falsely and deliberately, unless corroborated by other evidence, although they might believe his evidence to be true in many other particulars.\nThe decisions, in England and in this country, demonstrate that these instructions on the law of evidence were erroneous. In 1809, in the case of the King v. Teale, 11 East, 307, Lord Ellenborough said ; \u201c Although a person may be proved on his own showing or by other evidence to have forsworn himself as to a particular fact, it does not follow that he can never afterwards feel the obligations of an oath, though it may be a good reason for a jury, if satisfied that he has sworn falsely on the particular point, to discredit his evidence altogether. But still that would not warrant the rejection of the evidence by the judge; it only goes to the credit of the witness on which the jury are to decide.\u201d Here a clear distinction was drawn between the competency and credibility of a witness. In Dunn v. People, 29 N. Y. 523, it is there stated that the question of credibility is for the jury and is not a rule of law to be laid down by the court, as a guide for the jury. The principal witness for the people admitted that upon another trial she had made a contrary statement as to a material fact, and that she knew, at the time she gave that evidence, she was then swearing falsely. The court left the question of the witness\u2019 credibility to the jury, after stating to them that they should be cautious and careful as to the degree of reliance they should place on her evidence. The defendant\u2019s counsel requested the further instruction to the effect, that because the witness had sworn falsely on a former occasion, they ought to acquit the prisoner. This was refused, and the prisoner excepted.\nIn the opinion it is stated, Denio, J.: \u201c The court could not act further without usurping the domain of the jury; for to them the law has intrusted the right of determining upon the credibility of witnesses. I quite agree that it is the duty of the court in such cases, to be sedulous in guarding the jury against hastily or inconsiderately acting upon the testimony of the witness ; but it has no right to direct an acquittal on such grounds, or to instruct them as a matter of law, wholly to disregard the testimony, or what is the same thing, entirely to withdraw it from their consideration.\u201d\nThese views were concurred in by the court in the case of Roth v. Wells, decided at the same term, in an opinion prepared by Selden, J., and reported in 29 N. Y. 492, wherein it is said: \u201c The object of all testimony is to establish the truth, and however corrupt the instrument of evidence may be, I am not aware of any legal rule, which forbids a jury to give credit to such evidence (when the law allows it to be submitted to their consideration), so far as they may believe it to be truthful.\u201d '\nThe question was up again in Pease v. Smith, 61 N. Y. 477, and it was there said, that under the maxim \u201cfalsus in uno, falsus in omnibus,\u201d the court had no power to instruct the jury that they ought not to place reliance upon the statements of such a witness; that the jury were not under any legal duty or obligation, to obey the maxim, as the jury were at liberty to believe the witness, notwithstanding they may, if they see fit, disregard his testimony.\nIn Deering v. Metcalf, 74 N. Y. 501, the subject was again under consideration, and many of the cases in this state referred to and commented upon, but no decision was arrived at upon the point, as the court expressly state, that it was not called upon, in that case, to say, what is, or should be, the rule in the case of a witness, of whom it is apparent that he has sworn corruptly false.\nThe case of Dunlop v. Patterson, 5 Cow. 243, has been cited as holding as a matter of law that the court should instruct the jury to disregard all the evidence of a. witness who had sworn intentionally false on any material question. It is not plain that the court intended to affirm any such proposition, and if it was so laid down in that case it was repudiated in the subsequent case of Dun v. People, supra, where it was fully commented upon and limited in its application.\nIn Massachusetts, it has been held that there is no absolute and inflexible rule of law, that the testimony of a witness is to be wholly disregarded and rejected except in those particulars where there is a corroboration by other credible witnesses, if the jury find that the witness has deliberately sworn false in relation to a material matter, and it is for the jury in all eases to say how much faith shall be given to the testimony of such witnesses in other particulars. Commonwealth v. Billings, 97 Mass. 405.\nThe rule is the same in many other states, and the following cases are cited, as expressing the law in those states: Knowles v. People, 15 Mich. 409; Litton v. Young, 2 Metcalf, Ken. 558; Mercer v. Wright, 3 Wis. 645 ; Finley v. Hunt, 56 Miss. 221; Mack v. State, 48 Wisc. 286 ; People v. Sprague, 53 Cal. 494 ; Miller v. Stem, 12 Pa. 289 ; Pennsylvania Coal Co. v. Conlan, 121 Ill. 108; Mead v. McGraw, 19 Ohio, 55 ; Lewis v. Hodgdon, 17 Me. 267.\nThe Santissima Trinidad case, reported in 7 Wheat. 286, is not in point, for there the maxim was applied by the court not as a rule of law but as a test as to the credibility of witnesses to be applied by the court in disposing of a question of fact without the intervention of a jury.\nThe Schooner Boston, 1 Sumn. 556 was also an admiralty case, and the rule was applied by the court in disposing of a disputed question of fact.\nIf it be conceded that the maxim is in full force in this state as a rule of law, its application should be limited to cases where the witness has sworn falsely as to a material fact; but in the case at bar it was not so limited by the learned judge, and the jury would have been justified by the instructions, to discredit all of the defendant\u2019s evidence, if he had sworn falsely as to any of the immaterial facts about which he testified, although they believed his statements wherein it related to material facts and circumstances.\nIf the rule ever prevailed in this state, I think it has been changed by legislative action, in adopting section 332 of the Code of Civil Procedure, which makes persons who have been convicted of felonies competent witnesses in civil and criminal actions, and such conviction is only evidence affecting the weight of such witnesses\u2019 testimony.\nA witness guilty of perjury and detected by the jury before whom he is testifying should not be held incompetent to testify as to other material matters in issue, any more than a person convicted of the crime of perjury in a criminal prosecution charging him with that offense.\nIn this court it is not necessary for the defendant to take an exception to an erroneous ruling by the court, and the same may be considered on appeal, the same as if a due exception had been taken. If however, it were necessary for the prisoner to take an exception, with a view of having the point reviewed here, the exception taken presents the question, and the direction thereafter given by the court to the jury did not cure the error, but was a repetition of the same in a more objectionable form.",
+        "type": "dissent",
+        "author": "Barker, J. (Dissenting.)"
+      }
+    ],
+    "attorneys": [
+      "John W. O'Brien, and Louis Newgass, for the prisoner, appellant.",
+      "Robert L. Drummond, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fifth Department.\nOctober, 1884.\nPEOPLE v. PETMECKY.\nJurors.\u2014Challenge.-\u2014Appeal.\u2014Husband and Wifb.\u2014Proof of Signature.\u2014Judge\u2019s Charge as to .Murder in First Degree.\u2014Falsus in uno, etc\u2014rule as to Application of Maxim.\nWhere a juror in a criminal case, after an examination as to his fitness, is peremptorily challenged, and does not sit, the question whether there was error in said examination is not brought up by an appeal , from the judgment. Code Orim. Proa., \u00a7\u00a7 485, 485, sub. 3, 517.\nIt seems, that error in the examination of a juror, subsequently peremptorily challenged by defendant, is not ground for reversal, it not appearing that defendant\u2019s peremptory challenges were thereby exhausted.\nRemarks by the trial judge on examination of juror, considered by the court, and held in this case not to be improper.\nIt is not error to call the wife as witness against her husband, and she is competent as such, except as to confidential communications passing between them during their marriage. Pen. Code, \u00a7 715.\nIt seems, that letters written by defendant to his wife and delivered by her to the district attorney at his request, without objection, under the supposition that she was obliged so to do, although, as she testified, she did not wish to, are admissible against defendant, and do not come within the prohibition of \u00a7 715 Pen. Code, which is aimed only at a compulsory disclosure by husband or wife. A fortiori, it is not error to permit defendant to be examined as to the dates and signatures of the letters, where no communication therein contains d is proven.\nEvidence of defendant\u2019s proposal to a fellow prisoner of a plan to attack -ind overcome the sheriff and escape from jail where he was confine! I before trial, is competent against him, though such plan involve i the commission of a criminal offense other than that for which defendant was indicted.\nThe fact tlr it defendant and the witness sat at opposite sides of a table at the '.ime of the writing does not render the witness incompetent to testify as to the genuineness of the signature. It is enough-to carry his testimony to the jury that he saw defendant write.\nUpon appeal from a judgment convicting defendant of murder in the first degree, error will not be presumed from the mere fact that the trial judge in defining the different degrees to the jury, followed the inverse order of their enumeration in the statute, referring finally to the first degree of the crime, and then discussed the evidence tending to show that the killing was done while defendant was committing a felony.\nWhile the question of the credibility of a witness in general belongs to the jury, yet where they find that he has corruptly sworn falsely as to any material question in the case on trial, his uncorroborated testimony is to be disregarded by the jury, and it is not error so to instruct them. Where, however, the witness in testifying falsely, is not found to do \u00a1so knowingly, the question of credibility is for the jury.\nBarker, J., dissents, holding that the maxim Falsusin unofalsus in omnibus, is intended only for the guidance of the jury, and is not an absolute and inflexible rule of evidence; that the jury in all cases are the judges of the credibility of a competent witness; that if the rule ever prevailed in this state, it was changed by \u00a7 832 Code Civ. Proc.\nThe judge on atrial for murder in the first degree, charged, \u201cIf the prisoner at the bar is to be found guilty of murder in the second degree, or of any less offense, it is because you find that there is a reasonable doubt that he committed this act from a deliberate and premeditated design,\u201d etc., Held, noterror as throwing the onus of raising the doubt on defendant, the court having previously charged that to find defendant guilty of murder in the first degree, they must be satisfied beyond a reasonable doubt that he committed the act of taking life with a deliberate and premeditated design, etc.\nAppeal frem judgment convicting defendant of murder in the first degree.\nThe defendant Franz Joseph Petmecky was indicted in October, 1883, in the Court of Oyer and Terminer of Cayuga county, for the murder of' Paulina Froitzheim, on June 1, 1883, at Auburn, U. Y., and in January, 1883, he was tried before Justice Dwight and a jury, found guilty, and sentenced to be hanged.\nThe facts and exceptions appear in the opinions.\nJohn W. O'Brien, and Louis Newgass, for the prisoner, appellant.\nRobert L. Drummond, district attorney, for the people, respondent."
+  },
+  "file_name": "0450-01",
+  "first_page_order": 474,
+  "last_page_order": 494
+}

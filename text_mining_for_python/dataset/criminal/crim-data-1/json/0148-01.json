@@ -1,0 +1,235 @@
+{
+  "id": 1164478,
+  "name": "PEOPLE v. ISAACS",
+  "name_abbreviation": "People v. Isaacs",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "148",
+  "last_page": "153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Gen. Sess.",
+    "id": 11565,
+    "name": "New York General Sessions"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Cush. 412",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        314742
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/59/0412-01"
+      ]
+    },
+    {
+      "cite": "11 Met. 483",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Abb. 196",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. Y. 173",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497712
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0173-01"
+      ]
+    },
+    {
+      "cite": "2 Den. 299",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Tenn. 691",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Metc. 278",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Pick. 1",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2022280
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/33/0001-01"
+      ]
+    },
+    {
+      "cite": "5 Binn. 218",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793684
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0218-01"
+      ]
+    },
+    {
+      "cite": "8 Johns. 109",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0109-01"
+      ]
+    },
+    {
+      "cite": "7 Ill. 720",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2560151
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/7/0720-01"
+      ]
+    },
+    {
+      "cite": "2 Phila. 210",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 Ind. 336",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1415705
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/50/0336-01"
+      ]
+    },
+    {
+      "cite": "3 Ind. 231",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pick. 320",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2049729
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/19/0341-01"
+      ]
+    },
+    {
+      "cite": "41 Cal. 473",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Law Rep. 120",
+      "category": "reporters:state",
+      "reporter": "Law Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 How. Pr. 171",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2190739
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/5/0171-01"
+      ]
+    },
+    {
+      "cite": "2 Abb. Pr. 196",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 684,
+    "char_count": 11227,
+    "ocr_confidence": 0.54,
+    "pagerank": {
+      "raw": 8.235333359749226e-08,
+      "percentile": 0.47743806685254625
+    },
+    "sha256": "9c8030d7bb1c8bab074e65356abbf581158bd1e91751d0ed005f3231d9c1d0c6",
+    "simhash": "1:930e18c775742c43",
+    "word_count": 1960
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. ISAACS."
+    ],
+    "opinions": [
+      {
+        "text": "Cowing, J.\nIs this statement per se a libel as against the complainant Fuller? If yes, the indictment should be sustained and judgment given for the people upon the demurrer. If no, the demurrer to the indictment should be sustained and judgment ordered for the defendant thereon.\nIt is an elementary principle of pleading that where the matter charged in the indictment as constituting the libel is non libelous upon its face, it is necessary to render it so by explaining its real meaning by an innuendo. The text-books and reports are full of law sustaining this principle \u2022; in fact, the district attorney, in his brief, cites numerous authorities sustaining it, but claims that section 289 of the Code of Criminal Procedure abolishes the rule and makes it no longer necessary to explain by means of an innuendo matter not obviously libelous. In my judgment, section 289 of Code of Criminal Procedure makes no such change in the rules of criminal pleading as is claimed by the district attorney.\nSection 289 reads, \u201c An indictment for libel need not set forth any extrinsic facts for the purpose of showing the application to the party libel\u00e9d, of the defamatory matter on which the indictment is founded, but it is sufficient to state generally that the same was published concerning him; and the fact that it was so published must be established on the trial.\u201d It will be observed that the foregoing section does not change in the least the necessity of explaining an ambiguous term, but only renders it no longer necessary to set forth any extrinsic facts for the purpose of showing the application of the libelous matter to the complainant.\nThe blew York Code of Civil Procedure, by section 164, dispenses with the necessity of setting out in the complaint in civil actions allegations of extrinsic facts showing the application of the defamatory matter to the plaintiff in almost the same words as are contained in section 289 of the Criminal Code, and yet Justice Willabd held, in Pike V. Van Wormer, reported in 5 How. Pr. at page 175, \u201c that section 164 of the Civil Code does not dispense with the necessity of an innuendo when it becomes essential to show the meaning of the words themselves,\u201d and the learned judge goes on to say that \u201c the fact that the Code dispenses with the averment of extrinsic facts heretofore necessary to permit the application of the words to the plaintiff, justifies the inference that in other respects the rule formerly prevailing remains unchanged.\u201d\nThe same construction was put upon section 164 of the Civil Code, in the case of Caldwell v. Raymond (2 Abb. Pr. 196), and in my opinion the reasoning of those cases applies with greater force to the proper construction of section 289 of the Criminal Code, for it certainly will not be for a moment contended that the averments in an indictment should be less certain and specific than in a complaint. It follows from the above reasoning that an innuendo is still necessary and essential in an indictment to explain an ambiguous expression claimed to be libelous and defamatory, and that its absence in such case renders the indictment fatally defective.\nWhether or not in this State (where adultery is not punished as a crime), if the averment in the indictment were that the complainant committed an abomination with defendant\u2019s wife, and that had been followed by an innuendo explaining that it was meant thereby that the complainant committed adultery with the defendant\u2019s wife, it would have rendered the averment libelous, I do not claim to decide in this opinion, for the indictment contains no such explanation. It would be clearly libelous in these States where adultery is punishable as a crime.\nLet us now proceed to examine the article, or so much of the same as refers to the complainant Fuller, and see if it is libelous per se / and it must not be overlooked that we are only to examine so much of said article as may under any fair construction be considered, as matter of law, to defame the complainant.\nFuller, the complainant, is charged with committing an \u201cabomination\u201d with defendant\u2019s wife. Both Worcester and Webster define the word \u201c abomination \u201d to mean \u201c anything wicked.\u201d Now, I need hardly say that there are many things which the complainant and defendant\u2019s wife may have done together which, in the estimation of a large class of the community, would be considered wicked, and therefore an \u201c abomination.\u201d For . instance, they may have sat down and, with great relish, eaten a savory pork tenderloin, which would be considered by some to be \u201c an abomination in the sight of the Lord \u25a0but I apprehend that no one would consider such a charge to be a criminal libel as against the complainant. Many other acts might be mentioned which would be considered wicked, and therefore \u201c abominations in the sight of the Lord.\u201d But one is sufficient to illustrate the absolute necessity of explaining a word so general in its meaning as \u201c wicked,\u201d or \u201c abomination,\u201d by means of an innuendo.\nI can come to but one conclusion\u2014that the article set out in the indictment is not libelous per se as against the complainant, and if that part (which the People claim is so against him) has a hidden meaning which makes it so, that meaning should have been explained by means of an innuendo, which it does not do.\nThe demurrer is sustained, and judgment ordered for the defendant thereon.",
+        "type": "majority",
+        "author": "Cowing, J."
+      }
+    ],
+    "attorneys": [
+      "John R. Fellows, assistant district attorney, and Henry C. Allen, for the people, plaintiff.",
+      "Stine & Calman, attorneys, and Horace Russell and George Zabriskie, of counsel, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "General Sessions\u2014New York County.\nMarch, 1883.\nPEOPLE v. ISAACS.\nLibel.\u2014Innuendo, when neoessaey to show Meaning oe Words.\u2014Section 289 of Code of Criminal Procedure.\nThough section 289 of the Code of Criminal Procedure, renders it no longer necessary in an indictment for libel, to set forth any extrinsic facts for the purpose of proving the application of the libelous matter to the complainant, an innuendo is still necessary and essential in an indictment to explain an ambiguous expression, claimed to be libelous and defamatory, and its absence in such case renders the indictment fatally defective.\nA charge that a person, at a time and place mentioned, met the wife of another and \u201c committed an abomination in the sight of the Lord,\u201d is not libelous, per se.\nDemurrer to an indictment for libel, in the General Sessions of New York, Hon. Rufus B. Cowing, City Judge, presiding.\nThe defendant by the indictment herein, was accused of publishing a libel against one Chas. W. Fuller. The defendant ,, filed a demurrer to the indictment upon the ground that the facts set out in the same do not constitute a crime, in that it lacks words of innuendo stating the meaning of the words referring to the prosecution claimed to be libelous. The people joined in the demurrer. Upon the argument it was conceded by the district attorney, that if the article set out in the indictment was not libelous upon its face, as to the complainant Fuller, the .demurrer should be sustained and judgment given for the defendant thereon.\nThe alleged defamatory matter contained in the article, so far as it affected the complainant Fuller, was in effect, that the said Fuller at a time and place mentioned, met the wife of the defendant and committed \u201c an abomination in the sight of the Lord.\u201d\nThe clause in the indictment containing the alleged libel, was as follows: \u201c And it came to pass that as the man watched, he did behold Jeanne go forth with the Philistine into a strange' tent which standeth in the way, the same which is called Thirty-seventh street, and they did remain there together a long \u2019 time, and Solomon\u2019s soul was filled with woe and his head bent down with grief as he cried out that Jeanne and the Philistine had committed an abomination in the sight of the Lord.\u201d\nJohn R. Fellows, assistant district attorney, and Henry C. Allen, for the people, plaintiff.\nStine & Calman, attorneys, and Horace Russell and George Zabriskie, of counsel, for defendant.\nThe Code has made no substantial difference as to what is necessary to be alleged in setting forth the alleged crime. It is still necessary that the indictment shall show on its face, that a crime ^ has been committed, and it is a well established rule both as to complaints in civil actions and criminal indictments that where an alleged libel is in a foreign language it must be translated, and where it contains allegorical words or language having a latent meaning, unless the complaint or indictment by innuendo sets out that meaning, it is bad and demurrable. Pike v. Van Wormer, 5 How. Pr. 171. See also 2 Bishop Crim. Law, \u00a7\u00a7 924, 931, 932; Bishop Crim. Proc. \u00a7 795, note ; 2 Wharton Precedents, (940) 458; Folkard's Starkie Slander, *355 ; Heard Crim. Pl. 208, 209 ; Rawling v. Norbury, 1 F. & F. 341; Folgar v. Newcombe, 36 Law Jour. Exch. 169, 2 L. P. Exch. 327 ; Kelly v. Partington, 5 B. & Ad. 649; Stokely v. Clement, 4 Bing. 162; Blakeman v. Bryant, 27 Law Times, (N. S.) 491,Ex.; Maguire v. Knox, 5 1r. Rep. Cr. Law C. L. 408, ex. ; Chitty & Mew's Big. Com. Law, 1880, title \u201c Defamation,\u201d p. 162; Ruell v. Tatwell, 43 L. T. 507 ; Horne Tooke Case, 1 Cowper, 672; Reg. v. Yates, 12 Cox C. C. 233 (1872).\nThe following expressions are held not actionable without an innuendo showing the meaning: \u201c He made up the medicine wrong through jealousy, because I would not allow him to use his own judgment,\u201d Edson v. Russell, 4 Man. & Granger, 1090; \u201c I dare say she (plaintiff) has some of them in her pocket \u201d (speaking of certain spoons the property of plaintiff), Martin v. Mackay, 2 Law Rep. 120; \u201c He figured prominently in the squatter riots,\u201d Clark v. Fitch, 41 Cal. 473; \u201c Look out sharp that you get your bills from them \u201d (spoken of persons in trade), Danes v. Hartley, 3 Exc. 200; The word \u201c blackleg,\u201d Barnett v. Allen, 1 F. & F. 125 (3 H. & N. 376); \u201c He was taken to court on a charge of forgery,\u201d Harrison v. Kenney, 7 Taunton, 431 (4 Price, 46); \u201c He burnt his own store, or, there is no doubt in my mind that he burnt his own store; he would not have got his goods insured if he had not meant to burn it,\u201d Bliss v. Tobey, 2 Pick. 320; \u201c He (meaning plaintiff) was seen afoul of a cow,\u201d Harper v. Delp, 3 Ind. 231; The word \u201c bitch\" applied to a woman, as importing whoredom, Shurick v. Kollman, 50 Ind. 336; \u201c Augustus (meaning the son of J. S. Yankirk) caught them (meaning plaintiff and the said T. P. Vankirk) together in the packing room, and went home and told his mother,\u201d Evens v. Tibbins, 2 Phila. 210; \u201c Mrs Edwards has raised a family of children by a negro,\u201d Patterson v. Edwards, 7 Ill. 720; \u201cTon swore false ; yon took a false oath,\u201d Vanghan v. Havens, 8 Johns. 109; \u201c She had a child, and either she or some one made away with it,\u201d McClurg v. Ross, 5 Binn. 218 (\u00a7\u00a7308-323); \u201cMaking away with,\u201d as importing larceny, Cormick v. Wilson, 2 Kerr (N. B.) 496; Brown v. Brown, 2 Shep. 317; \u201c Plundered,\u201d as importing a felonious taking, Carter v. Andrews, 16 Pick. 1. See, also, Snell v. Snow, 13 Metc. 278; Holt v. Schofield, 6 Tenn. 691; Dodge v. Lacey, 2. Ind. 212; Cooper v. Stone, 2 Den. 299 ; Bennett v. Williamson, 4 Sand. 65; Stockley v. Clement, 4 Bing. 162; Capel v. Jones, 4 M. G. & S. 259; Hunt v. Bennett, 19 N. Y. 173; Caldwell v. Raymond, 2 Abb. 196; Goodrich v. Davis, 11 Met. 483; Farnsworth v. Stowe, 5 Cush. 412."
+  },
+  "file_name": "0148-01",
+  "first_page_order": 172,
+  "last_page_order": 177
+}

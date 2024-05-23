@@ -1,0 +1,86 @@
+{
+  "id": 1164427,
+  "name": "PEOPLE ex rel. FULLER v. CARNEY",
+  "name_abbreviation": "People ex rel. Fuller v. Carney",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "270",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Thomp. & Cook, 85",
+      "category": "reporters:state",
+      "reporter": "Thomp. & Cook",
+      "case_ids": [
+        4462322
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/thomp-cook/4/0085-01"
+      ]
+    },
+    {
+      "cite": "15 Hun, 209",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 327,
+    "char_count": 6613,
+    "ocr_confidence": 0.524,
+    "pagerank": {
+      "raw": 1.8531505184064197e-07,
+      "percentile": 0.7237943215994446
+    },
+    "sha256": "164de8a9d0a34e2ebb523ccfc3811f263eee2dd264cc917304015a13b84fa758",
+    "simhash": "1:aa4649e765581c8d",
+    "word_count": 1155
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE ex rel. FULLER v. CARNEY."
+    ],
+    "opinions": [
+      {
+        "text": "Haight, J.\nIt is contended on the part of the district attorney that no appeal lies to this court from the adjudication of the Court of General Sessions, and that the appeal should be dismissed. This question was passed upon by this court in the case of the People ex rel. Board of Charities of the City of Utica v. Davis, reported in 15 Hun, 209. In that case it was held that an appeal will lie to this court.\nSince the making of this decision the remaining nine chapters of the Code of Civil Procedure have been enacted Subdivision 9 of section 3347 provides: \u201c chapter 12 does not affect the statutes remaining unrepealed after -the first day of September, 1877, touching the review of proceedings in a criminal case.\u201d Sections 1340 and 3357 of the Code gf Civil Procedure are included in chapter 12.\nIn view of this subsequent legislation we have thus thought \u25a0 it advisable to examine the question, and determine whether an appeal will lie in these proceedings.\nThe reviser in his notes to section 1340 of the Code, calls attention to the decision of People v. Davis, supra, and then to the subdivision 9 of section 3347, thus intimating that he did not consider the provisions of section 1340 applicable. The first question to be determined is whether or not these proceedings are civil or criminal.\nBarbour, in his criminal treatise (522, 523) called them quasi criminal, and such they have ever been regarded by the courts until the enactment of the Code of Criminal Procedure, in which they are denominated \u201c special proceedings of a criminal nature.\u201d See part 6, title 5, of part 6, which makes provision for the support of a bastard child, the manner in which the father is to be determined, and for an appeal from the order of the magistrate to the Court of Sessions of the' county, and for the determination by that court. No appeal, however, is provided from the judgment or determination of the Court of Sessions. The former Code pertained to procedure in civil actions and proceedings, the latter Code to criminal actions and proceedings. Subdivision 9 of section 3347 of the former Code, expressly provides that the chapter in reference to appeals in civil action's and proceedings does not affect the review of proceedings in criminal actions; all of the statutory provisions in reference to these proceedings are embraced in the Criminal Code.\nOur conclusions' are, therefore, that sections 1340 and 1357 of the Code of Civil Procedure, have no longer any application to these proceedings, and, therefore, do not authorize a review by appeal to -this court. Section 515 of the Code of Criminal Procedure provides that \u201c writs of error and certiorm'i in criminal cases as they have heretofore existed are abolished, and hereafter the only mode of reviewing a judgment or order in a criminal action is by appeal.\u201d Then follow the provisions for appeals to Supreme Court from the judgment of a conviction after indictment, etc. It will be observed that the writ of error and certiorari are abolished only as to criminal actions. No provision is made for abolishing the writs as to special proceedings of a criminal nature.\nAs to these proceedings they appear to stand as they have heretofore existed. Heretofore, it has been the practice to review these proceedings in that court upon the common law writ of certiorari, and such we regard as the correct practice under the present Code. The district attorney should have moved seasonably to have had the appeal dismissed, instead of bringing the case on for argument on the appeal. In view of the fact that the defendant was probably misled by the decision of People v. Davis, we are of the opinion that the defect' should not be deemed to have been waived. Upon the trial, the district attorney asked of the the mother of the bastard child, who was then a witness upon the stand, this question: \u201c Look at the child and tell what the color of its eyes are ?\u201d This question was objected to by the defendant, upon the ground that it was immaterial, incompetent and improper. The objection was overruled and exception taken by the defendant. The witness answered, \u201c Its eyes are blue.\u201d We are of the opinion that this was an error. This evidence enabled the court to compare the color of the child\u2019s eyes with those of the defendant, who was present in court. We do not regard this kind of evidence as safe or proper.\nIn the case of Petrie v. Howe, reported in 4 Thomp. & Cook, 85, the question was as to the color of the child\u2019s hair. It was held in that case that such evidence was calculated to and probably did prejudice the defendant, that it was improper, and a new trial was granted. The argument used in that case in reference to the color of the hair applies with equal force in this case as to the color of the eyes. Common observation reminds us that in families of children different colors of hair and eyes, are common, and that it would be dangerous doctrine to permit a child\u2019s paternity to be questioned or proved by the comparing of the color of its hair and eyes with that of the alleged parent. We discover no other error in this case.\nJudgment reversed, and proceedings remitted to the Court of Sessions of Erie county and a new trial ordered in that court, with costs of this appeal to abide the event.\nSmith, J., and Haedix, J., concurred.",
+        "type": "majority",
+        "author": "Haight, J."
+      }
+    ],
+    "attorneys": [
+      "Humphrey & Lockwood, for the appellant.",
+      "E. W. Hatch, district attorney, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014fourth Department.\nJanuary, 1883.\nPEOPLE ex rel. FULLER v. CARNEY.\nBastardy Proceedings.\u2014Beview of at General Term upon a Common Law Writ of Certiorari.\u2014Evidence.\nSections 1340, 1357 of the Code of Civil Procedure do not apply to special proceedings of a criminal nature.\nBy the Code of Criminal Procedure writs of error and of certiorari are abolished only in criminal actions, not in special proceedings of a criminal nature. As to these proceedings they still exist, and it is the correct practice to review them at General Term upon a common law writ of certiorari.\nUpon the trial in proceedings to have the defendant adjudged the father of a bastard child, the district attorney, against the objection and * exception of the defendant, was permitted to ask the mother of the child, \u201cLook at the child and tell what the color of its eyes is.\u201d. Held, error, as it enabled the court to compare the color of the child\u2019s eyes with those of the defendant. This kind of evidence is improper.\nAppeal by the defendant from an order of the Court of General Sessions of. Erie county, adjudging him to be the father of a bastard child.\nThe facts fully appear in the opinion.\nHumphrey & Lockwood, for the appellant.\nE. W. Hatch, district attorney, for the respondent."
+  },
+  "file_name": "0270-01",
+  "first_page_order": 294,
+  "last_page_order": 297
+}

@@ -1,0 +1,645 @@
+{
+  "id": 1164418,
+  "name": "WALKER v. PEOPLE",
+  "name_abbreviation": "Walker v. People",
+  "decision_date": "1882-02",
+  "docket_number": "",
+  "first_page": "22",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 22"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "75 Va. 867",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4383229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/75/0867-01"
+      ]
+    },
+    {
+      "cite": "20 Gratt. 860",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        6734604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/61/0657-01"
+      ]
+    },
+    {
+      "cite": "10 Tex. App. 571",
+      "category": "reporters:state",
+      "reporter": "White & W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Tex. App. 350",
+      "category": "reporters:state",
+      "reporter": "White & W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Tex. 500",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2052148
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tex/12/0500-01"
+      ]
+    },
+    {
+      "cite": "83 Penn. 131",
+      "category": "reporters:state",
+      "reporter": "Penn.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "260"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Penn. 414",
+      "category": "reporters:state",
+      "reporter": "Penn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Ohio, 111",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Ohio, 349",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Ohio, 599",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 N. C. 609",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11275007
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/86/0609-01"
+      ]
+    },
+    {
+      "cite": "6 Jones, 366",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        11277675
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/51/0366-01"
+      ]
+    },
+    {
+      "cite": "50 N. H. 369",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        477364
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/50/0369-01"
+      ]
+    },
+    {
+      "cite": "43 N. H. 224",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4555650
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/43/0224-01"
+      ]
+    },
+    {
+      "cite": "4 Neb. 407",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        2863493
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/4/0409-01"
+      ]
+    },
+    {
+      "cite": "43 Mo. 127",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        952570
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/43/0127-01"
+      ]
+    },
+    {
+      "cite": "74 Mo. 199",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        441751
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "247"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/74/0199-01"
+      ]
+    },
+    {
+      "cite": "71 Mo. 173",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        451482
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/71/0173-01"
+      ]
+    },
+    {
+      "cite": "34 Mo. 531",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        989477
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/34/0531-01"
+      ]
+    },
+    {
+      "cite": "21 Mo. 464",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8856198
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/21/0464-01"
+      ]
+    },
+    {
+      "cite": "53 Mo. 267",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        976215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/53/0267-01"
+      ]
+    },
+    {
+      "cite": "12 Mo. 223",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        317798
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/12/0223-01"
+      ]
+    },
+    {
+      "cite": "56 Miss. 269",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        11260566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/miss/56/0269-01"
+      ]
+    },
+    {
+      "cite": "13 Minn. 341",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        746852
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/13/0341-01"
+      ]
+    },
+    {
+      "cite": "2 Minn. 123",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        732062
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/2/0123-01"
+      ]
+    },
+    {
+      "cite": "38 Mich. 482",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1337716
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/38/0482-01"
+      ]
+    },
+    {
+      "cite": "17 Mich. 9",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1944642
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/17/0009-01"
+      ]
+    },
+    {
+      "cite": "11 Gray, 303",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2084839
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/77/0303-01"
+      ]
+    },
+    {
+      "cite": "7 Gray, 583",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1996102
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/73/0583-01"
+      ]
+    },
+    {
+      "cite": "27 La. Ann. 691",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Bush. 362",
+      "category": "reporters:state",
+      "reporter": "Bush",
+      "case_ids": [
+        2343850
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/68/0362-01"
+      ]
+    },
+    {
+      "cite": "11 Kans. 32",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        603420
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/11/0032-01"
+      ]
+    },
+    {
+      "cite": "32 Iowa, 49",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2298242
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/32/0049-01"
+      ]
+    },
+    {
+      "cite": "19 Ind. 170",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1457619
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/19/0170-01"
+      ]
+    },
+    {
+      "cite": "31 Ind. 485",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1483893
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/31/0485-01"
+      ]
+    },
+    {
+      "cite": "40 Ill. 352",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        425949
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/40/0352-01"
+      ]
+    },
+    {
+      "cite": "31 Ill. 385",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        8500919
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/31/0385-01"
+      ]
+    },
+    {
+      "cite": "45 Ga. 43",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        857325
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/45/0043-01"
+      ]
+    },
+    {
+      "cite": "46 Conn. 330",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        755864
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "349"
+        },
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/46/0330-01"
+      ]
+    },
+    {
+      "cite": "57 Cal. 130",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2290207
+      ],
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/57/0130-01"
+      ]
+    },
+    {
+      "cite": "20 Cal. 518",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2281267
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/20/0518-01"
+      ]
+    },
+    {
+      "cite": "36 Ark. 334",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1872455
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/36/0334-01"
+      ]
+    },
+    {
+      "cite": "63 Ala, 307",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        906023
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/63/0307-01"
+      ]
+    },
+    {
+      "cite": "17 Ala. 434",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3138414
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/17/0434-01"
+      ]
+    },
+    {
+      "cite": "75 N. Y. 162",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        505044
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/42/0001-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 58",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297820
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0050-01"
+      ]
+    },
+    {
+      "cite": "75 N. Y. 159",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        536764
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/75/0159-01"
+      ]
+    },
+    {
+      "cite": "87 N. Y. 377",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549433
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/87/0377-01"
+      ]
+    },
+    {
+      "cite": "52 N. Y. 467",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510994
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/52/0467-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 953,
+    "char_count": 26104,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 1.6629566902223383e-07,
+      "percentile": 0.6946748632835351
+    },
+    "sha256": "071b07b49ab591c9a46b032980d1c1672aebb39f4a85e67047cf6ea305840c7a",
+    "simhash": "1:847815e3b713f54f",
+    "word_count": 4626
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WALKER v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Rapallo, J.\nThe prisoner was indicted and tried in the court of general sessions of the city of New York for abducting one Katie Ilennessy, a child between seven and eight years of age. The evidence tended to show that the purpose of the abductor was to take indecent liberties with her. The defense was insanity, and evidence was adduced on the part of the prisoner-in support of that defense.\nThe only errors alleged in- the ease are the refusal of the recorder to charge certain propositions submitted by the counsel for dhe prisoner, and the charge of the recorder on the subject of the proof of insanity required of the prisoner. The exceptions to these rulings will be examined seriatim. The first request was to charge \u201c that the test of criminal responsibility where the defense of insanity is interposed to an indictment is, whether the accused had sufficient reason to know right from wrong, and whether or not he had sufficient power of control to govern his actions.\u201d\nThe recorder charged the first part of this proposition, but declined to charge the latter part, \u201c whether or not lie had sufficient power of control to govern his actions.\u201d\nThe doctrine of irresponsibility for a crime committed by a person who had sufficient mental capacity to comprehend the nature and quality of his act and to know that it was wrong, on the ground that he had not the power to control his actions, has not met with favor in the adjudications in this state. Flanagan v. People, 52 N. Y. 467. But without entering upon a discussion of the question on its general merits, we are of opinion that in the present case it would have been clearly improper to submit to the jury .any such vague test as that requested, when considered with reference to the character of the crime for which the prisoner was on trial, and the testimony which was before the jury as to his previous similar offenses.\nThe jury, upon the evidence, might have found that the prisoner had an uncontrollable propensity to abduct young girls, or that his appetites were so depraved and overpowering that he was unable to resist them, and if they so found, the charge, as requested, would have led them to suppose that it was their duty to acquit, even though they were satisfied that he was possessed of sufficient reason to know that the act was wrong and criminal.\nThe court did charge that a man must have sufficient control of his mental faculties to form a criminal intent, before he can be held responsible for a criminal act. This we think was as far as the court could go on the subject of control, under the circumstances of this case.\nThe second proposition requested to be cliarged was: \u201c Where a person acts under the influence of mental disease he is not criminally accountable.\u201d\nThis the recorder declined to charge, except as he intended to charge, and he did charge in the words of the statute, that \u201c no act done by a person in a state of insanity can be punished as an offense.\u201d This was a much more accurate statement of the law than that requested, and it was not error for the recorder to give it the preference, and decline to adopt the phraseology of counsel.\nThe third request to charge was that \u201c the defendant in a criminal case is not required to prove his insanity in order to avail himself of that defense, but merely to create a reasonable doubt upon this point, whereupon the burden of proving his sanity falls upon the people.\u201d This request was refused, and an exception taken.\nThe recorder, in his charge, instructed the jury on the subject of the burden of proof as to the sanity of the prisoner, in entire accordance with the decisions of this court. After having instructed them, in a manner not excepted to, as to what constituted sanity and insanity, lie said to them: \u201c It is for you to determine those questions; they are purely questions of fact. If you come to the conclusion that the prisoner was insane at the time it is charged that he perpetrated this crime, you will find him not guilty on the ground of insanity. If you come to the conclusion beyond all reasonable doubt, that he committed the crirn\u00e9 of abduction, as I have defined it; if the testimony satisfies you, beyond a reasonable doubt, of his guilt, and that he was not insane, it will be your duty to convict. If there is any reasonable doubt arising on the evidence in the case, and upon nothing else, it will be your duty to give the prisoner the benefit of that doubt and acquit him.\u201d\nThe burden of establishing, beyond a reasonable doubt, as one of the elements of guilt, that the prisoner was not insane, was by this charge cast upon the prosecution.\nIndeed, on examining the whole case it appears that the sanity of the prisoner was the only controverted point, the sole defense being his insanity, and it was the only serious question presented for the consideration of the jury.\nThe most recent expression of this court, in respect to the burden of proof in eases where the defense of insanity is interposed, is contained in the opinion of Danfobth, J., in the .recent case of O\u2019Connell v. People, 87 N. Y. 377. It was there said, in substance, that the guilt of the prisoner depended upon two questions, viz.: whether lie committed the act charged, and whether he was in such condition of mind as to be responsible; that the burden of proof as to both was upon the prosecution; that the legal presumption that every man is sane, was sufficient to establish his sanity until repelled by proof; that if the prisoner gave no evidence, the fact stood. If he gave evidence tending to overthrow it, the prosecutor might produce answering testimony, but he must satisfy the juiy, upon the whole evidence, that the prisoner was responsible ; for the affirmative of the issue tendered by the indictment remained with the prosecution to the end of the trial. See also Brotherton v. People, 75 N. Y. 159.\nIn the case of O\u2019Connell v. People, above cited, a specific re- \u2022 quest was made and the court refused to charge that \u201c if from the evidence in the case a reasonable doubt arose in the minds of the jury as to the sanity or insanity of the defendant, that he was entitled to the benefit of that doubt.\u201d This proposition' was in the abstract entirely sound, and in accordance with the views expressed by this court, but the refusal to charge it was sustained here, on the ground that the same point was covered by the general charge, in which, after submitting to the jury the question of the sanity or insanity of the prisoner, with the instruction that if insane he was not responsible, the judge charged that if they had a reasonable doubt, from the. evidence, that the prisoner was guilty of the crime, they should give him the benefit of that doubt.\nThis court held, in substance, that where the judge properly submits to the jury a proposition covering the whole issue, and instructs them that they must find it beyond a reasonable doubt, he cannot be required to subdivide it artd .charge separately as to each of the elements necessary to constitute the crime that it must be established beyond a reasonable doubt. In this holding we confirmed the conclusion reached in the present case by the presiding judge at general term, that when the judge gives to the jury in his charge the true rule applicable to the case, when it comes to\u2019be considered on all the evidence, it is not error to refuse .to submit a separate proposition, which, even though correct in itself, is only calculated to confuse the jury by distracting their attention' from the test question, which is to be determined on the whole evidence. These remarks apply specially to the case at bar, for the request to charge is by no means as accurate as that in the' case of O\u2019Connell. It involved two propositions: first, that the defendant is not bound to prove his insanity to avail himself of that defense. This is inaccurate, for he must, beyond cavil, give proof of it, or the presumption of sanity prevails, and the request was not confined to conclusive proof or proof beyond a reasonable doubt. Secondly, that he is only required to create a reasonable doubt as to his sanity. This is extremely vague, and well calculated to mislead, especially as connected with the first branch of the request. It is not even confined to a doubt arising upon the evidence. But even had the request been framed accurately, our recent decision above referred to holds that it was not error to refuse it, where the point was fully covered by the charge as given.\nThe remaining exception relates to the charge that \u201cto establish a defense of insanity it must bo clearly proved,\u201d &c., the exception being to the expression \u201c clearly proved.\u201d\nThis was not the language of the recorder, but was read from an opinion which he adopted, and .is a quotation from the opinion of Ch. J. Tikdal, given in the celebrated McMaghten case. (10 Clark & Fin. Ap. Cas. 200.) If by this expression the jury were given to understand that the insanity must be proved beyond a reasonable doubt, it of course was at variance with the law of this state. People v. McCann, 16 N. Y. 58. But if it meant that there should be clear and substantial evidence of insanity to justify an acquittal on that ground, it was unobjectionable. People v. Schryver, 42 N. Y. 1.\nThe adoption of the language used in the MuNaghtcn case, that the defense of insanity should be - clearly proved, having been accompanied in the present case with the instruction that if the testimony satisfied the jury beyond a reasonable doubt of the guilt of the prisoner, and that he was not insane, it would be their duty to convict; but that- if there was any reasonable doubt arising upon the evidence in the case, it would be their duty to give the prisoner the benefit of that doubt and acquit him, the jury could not have been misled as to the burden of proof, or the degree of proof required of the prisoner to overcome the presumption of sanity, and the charge was quite as favorable to him as he was entitled to.\nWhatever may have been the idea which the language of Ch. J. Tihdal was intended to convey in the McNaghten case,' we think that it was so qualified in the present case, by the connection in which it was used, and the explanation which accompanied it, that, taking the whole charge together, it amounted to nothing more than that there should be substantial and clear evidence of insanity to justify an acquittal on that ground, and that the defense should not be sustained on vague and shadowy testimony, or mere speculation and conjecture. In Brotherton v. People, 75 N. Y. 162, the judge charged the the jury as follows : \u201c The allegation of insanity is an affirmative issue which the defendant is bound to prove, and you must be satisfied from the testimony introduced by him that he was insanebut he also charged: \u201c If there is a reasonable doubt, a well-founded doubt, whether the man was insane at the time he fired the pistol, you will acquit him.\u201d This court held, that taking the two paragraphs together there was no error.\nThe opinion in that case was written by our late brother, Ch. J. Church, than whom no judge approached the consideration of criminal cases in a more humane spirit, or'was more careful that all the legal rights of accused persons should be properly guarded; but the natural force and directness of his mind led him to regard the substance of what was said to the jury, rather than nice distinctions in forms of expression, and drew from him the remark that \u201c the prisoner was bound to prove that he was not sane, and whether insanity is called an affirmative issue, or it is stated that the burden of proof of insanity is upon the prisoner, is not very material, if the jury are told, as they were in this case, that a reasonable doubt upon that question entitled the prisoner to an acquittal.\u201d\nWe think there was no error in the refusals to charge as requested, or in the charge as given, when taken as a whole, and consequently the judgment should be affirmed.\nAll the judges concurred, except Tract, J., absent.\nNote.\u2014The following are the leading authorities in the various states on the two most important questions discussed in the foregoing case of \u25a0 Walker \u00ae. People,\u2014namely, the burden of proof where the defense of insanity is set up, and the degree of insanity of the accused which will justify an acquittal.\nAlabama.\u2014Insanity is a defense which must be proved to the satisfaction of the jury by that measure of proof which is required in civil cases, and a reasonable doubt of sanity raised by all the evidence does not authorize an acquittal. McAlister v. State, 17 Ala. 434 ; Boswell v. State, 63 Ala, 307; 35 Amer. Rep. 20.\nArkansas.\u2014The accused setting up insanity as a defense must produce evidence sufficient to change the presumption of his sanity. McKenzie v. State, 36 Ark. 334.\nCalifornia.\u2014The accused must establish the defense of insanity by a preponderance of evidence, not merely by a doubt. People v. Myers, 20 Cal. 518; People v. Coffman, 34 Id. 233; People v. McDonell, 47 Id. 134; People v. Wilson, 49 Id. 13. This defense need not be proved beyond a reasonable doubt; a mere preponderance of evidence is enough. People v. Wreden, 57 Cal. 130, 575; People v. Hamilton, 13 Reporter, 393. The evidence of insanity must be such that if the issue were submitted to a jury in a civil case they would find that the subject of the inquiry was insane. People v. Hamilton, 14 Reporter, 46.\nConnecticut.\u2014The burden of proving this defense (insanity) is on the accused, and it must be proved substantially as an independent fact. State v. Hoyt, 46 Conn. 330.\nDelaware.\u2014The burden of proof is on the prisoner, and he must prove his insanity beyond a reasonable doubt. State v. Danby, 1 Houston Crim. Cas. 166; State v. Pratt, Id. 349; State v. Boice, Id. 355; State v. Thomas, Id. 511; State v. Draper, Id. 531.\nGeorgia.\u2014The accused is presumed to be sane, and to acquit (it seems) the jury must be satisfied that he is not. Holsenbake v. State, 45 Ga. 43.\nIllinois.\u2014Every man is presumed to be sane until the contrary is shown. Eisher \u00ab. People, 33 111. 383. An accused setting up insanity as a defense does not thereby assume tire burden of proof. This defense is only a denial of one the essential allegations against him. If upon the whole evidence the jury entertain a reasonable doubt of the sanity of the accused, they must acquit. Hopps v. People, 31 Ill. 385. But the prosecution is not held to the proof of the sanity of the prisoner in any case. Chase v. People, 40 Ill. 352.\nIndiana.\u2014The jury must be satisfied beyond a reasonable doubt of the .defendant\u2019s mental capacity to commit the crime charged. The mind must be in such a reasonable condition as to be capable of giving a guilty character to the act. So far as a person acts under the influence of mental disease or of insane impulse controlling his will and his judgment, he is not guilty of a crime. Stevens v. State, 31 Ind. 485. The presumption is that a man is of Sound mind until there is evidence to the contrary. An accused is entitled to an acquittal if the evidence engenders a.reasonable doubt as to his mental capacity at the time of the commission of the act. Polk v. State 19 Ind. 170; Guetig v. State, 66 Id. 94.\nIowa.\u2014The burden of proof is on the accused, and the jury must be reasonably satisfied, upon a consideration of the whole testimony, of the prisoner\u2019s insanity. State v. Felter, 32 Iowa, 49.\n. Kansas.\u2014Where the defense of insanity is set up it 'need not be proved by a preponderance of the evidence, but if there should be, upon the whole evidence together with the legal presumptions arsing therefrom, a reasonable doubt of the' defendant\u2019s sanity, the jury should acquit. Crawford v. State, 11 Kans. 32.\nKentucky:\u2014The burden of proof is on the accused. There must be more than a mere doubt.raised as to the prisoner\u2019s sanity. The presumption of sanity must be overcome by a preponderance of proof in the prisoner\u2019s favor. , Kriel v. Commonwealth, 5 Bush. 362; Graham v. Commonwealth, 16 B. Monroe, 587. The true test is the knowledge of right and wrong and the power of the prisoner to control his actions. Smith v. Commonwealth, 1 Duvall, 224.\nLouisiana.\u2014The insanity must be clearly shown to the satisfaction of the jury, to have existed at the time of the commission of the act. People v. Coleman, 27 La. Ann. 691. The burden of proof, where temporary insanity is alleged, is on the- accused, and the insanity must be proved beyond a reasonable doubt. State v. De Rance (La.), 14 Reporter, 208.\nMaine.\u2014The burden is on the defendant to prove by a preponderance of evidence that he was laboring under such a defect of reason as not to know the nature and quality of the act he was doing, or if he did, that he did not know he was doing wrong. State e. Lawrence, 57 Maine, 574.\nMassachusetts.'\u2014Insanity is no defense if the accused had sufficient capacity and reason to enable him to distinguish between right and wrong, to understand the nature character, and consequences of his act, and mental power sufficient to apply that knowledge to his own case. Commonwealth v. Rogers, 7 Metcalf, 500. The presumption of sanity exists until overcome by a preponderance of the whole evidence. Commonwealth v. Eddy, 7 Gray, 583; Commonwealth v. Heath, 11 Gray, 303.\nMichigan,.\u2014The prosecution may rest upon the presumption of the prisoner\u2019s sanity until evidence tending to overthrow it is produced. People v. Garbutt, 17 Mich. 9. The accused-is not guilty, if by reason of insanity he was not capable of knowing he was doing wrong, or if he had not power to resist the temptation to violate the law. People v. Finley, 38 Mich. 482.\nMinnesota.\u2014The burden of proof is on the defendant to show insanity. Bonfanti v.. State, 2 Minn. 123. And the insanity must be proved to the satisfaction of the court. - State v. Gut, 13 Minn. 341.'\n' Mississippi.\u2014Sanity is presumed in the absence of testimony relating thereto, but whenever the question is put in issue by evidence such as engenders a reasonable doubt, it devolves on the prosecution to remove it'and establish the sanity of the prisoner to the satisfaction of the jury beyond all reasonable doubt arising out of all the evidence in the case.\nThe degree of insanity must be such as to disqualify the accused for a proper perception of the difference between right and wrong.\nA person is not punishable for an act committed under an uncontrollable impulse springing from mental disease existing to so high a degree that for the time it overwhelms reason, justice 'and conscience. A person is responsible for an act \u2022 committed under a mental condition in which the mind, perfectly perceiving the true relation of the party and recognizing all the obligations thereby imposed, is unable to control his will. Cunningham v. State, 56 Miss. 269.\nMissouri.\u2014The defense of insanity must be established to the satisfaction of the jury. Baldwin \u00bb. State, 12 Mo. 223; State v. Smith, 53 Mo. 267. And the prisoner'is not entitled to the benefit of a mere doubt as to. his sanity. State v. Hunting, 21 Mo. 464; State \u00ab. McCoy, 34 Mo. 531; State y. Redemeier, 71 Mo. 173. The insanity which is a defense is a want of knowledge of the prisoner as to the nature and quality of the act, in that he was doing wrong. State v. Erb, 74 Mo. 199; State v. Kotovsky, 74 Id. 247. It is not necessary that the defense should be made out beyond a reasonable doubt; it is sufficient if the jury is reasonably satisfied by the weight or preponderance of the evidence that the prisoner was insane. State v. Klinger, 43 Mo. 127.\nNebraska.\u2014Where evidence of insanity is produced by the prisoner, unless the jury are satisfied that the act complained of was not the product of mental disease, they must acquit.\nBut the degree of mental unsoundness must be such as to create an uncontrollable impulse to do the act charged.\nIf the accused has ability to distinguish right from wrong, he is responsible for his acts. Wright v. People, 4 Neb. 407; Hawe v. State, 11 Id. 537.\nNew Hampshire.\u2014Where insanity is set up as a defense, the jury must be satisfied beyond a reasonable doubt of the soundness of the prisoner\u2019s mindhnd his capacity to commit the crime, upon all the evidence before them regard less of the fact whether it was adduced by the prosecution or by the defense. State v. Bartlett, 43 N. H. 224. If the prisoner had an irresistible impulse, the product of mental disease, which impelled him to commit the act, he is not responsible. State v. Jones, 50 N. H. 369.\nNew Jersey.\u2014The test is, whether the accused was capable of distinguishing between right and wrong. The burden of proof is on the accused, and the proof of insanity ought to be as clear and satisfactory, in order to acquit, as the proof of committing the act ought to be in order to find a sane man guilty. State v. Spear, 21 N. J. L. (1 Zab.) 201.\nNorth Carolina.\u2014Every one is presumed to be of sound mind till the contrary is found. On questions of sanity the doctrine of reasonable doubt does not apply, but he who alleges insanity must prove it as other material allegations are proved. State v. Starling, 6 Jones, 366. The defense of insanity must be established to the satisfaction of the jury. State v. Payne, 86 N. C. 609.\nOhio.\u2014The test is whether the prisoner ' has sufficient reason and capacity to distinguish between right and wrong, and to understand the nature of the act and his relation to the party injured. The burden of establishing insanity is on the prisoner. It is sufficient if the jury be reasonably satisfied by the weight or the preponderance of the evidence that the accused was insane. Loeffner v. State, 10 Ohio, 599. A bare preponderance in favor of the prisoner is all that is necessary. Bond v. State, 23 Ohio, 349; Bergen v. State, 31 Ohio, 111.\nPennsylvania.-\u2014A reasonable doubt of the fact of insanity is not enough. The evidence must be satisfactory, not merely doubtful. Insanity as a defense must be so great as to control the will, and take away the freedom of moral, action. Ortwein v. Commonwealth,. 76 Penn. 414; Lynch v. Commonwealth, 77 Id. 205. It is necessary that the jury should be satisfied of the insanity of the accused beyond a reasonable doubt, but there must be proof that is satisfactory, such as flows fairly from a preponderance of evidence. Meyers i>. Commonwealth, 83 Penn. 131; Pannell v. Commonwealth, 86 Id. 260; Sayres v. Commonwealth, 88 Id. 291.\nTennessee.\u2014The presumption is that the accused is sane, and the bur- . den is on the accused to prove the contrary. The test of -responsibility is, whether the accused was capable at the time of the of\u00edense of distinguishing between good and evil, and had a consciousness of doing wrong. Dove v. State, 3 Heiskell, 348.\nTexas.\u2014The accused is presumed to be sane until the contrary is proven. The test of responsibility is the capacity of distinguishing between right and wrong, and, in cases of partial insanity, whether the accused was capable of distinguishing right from wrong in the particular connection in which the unlawful act- was done. Carter n. State, 12 Tex. 500; Clark v. State, 8 Tex. App. 350. The evidence of insanity must be such as to satisfy the minds and consciences of the jury to the extent that they can say the accused is, and should be acquitted on that ground. Johnson v. State, 10 Tex. App. 571.\nVirginia.\u2014Insanity as a defense must be proved upon the whole evidence to the satisfaction of the jury. Boswell v. Commonwealth, 20 Gratt. 860; Dejarnette v. Commonwealth, 75 Va. 867.",
+        "type": "majority",
+        "author": "Rapallo, J."
+      }
+    ],
+    "attorneys": [
+      "Wm. F. Kintzing, for plaintiff in error.",
+      "John McKeon, district attorney (John Vincent, assistant), for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nFebruary, 1882.\nWALKER v. PEOPLE.\nInsanity as a Defense.\u2014Test of Criminal Responsibility.\u2014 Burden of Proof.\nThe true test of \u25a0 criminal responsibility where the defense of insanity is interposed to an indictment is, whether the accused had sufficient reason to know the nature and Quality of his act., and whether he had sufficient reason to know right from wrong.\nIn his charge the recorder refused to add to this proposition the further one, \u201cand whether or not he (the accused) had sufficient power of control to govern his actions.\u201d Held, that the refusal was proper, as the recorder had charged that the accused must have sufficient control of his mental faculties to form a criminal intent, before he .can be held responsible for a criminal act, which was as far as the court should go on the subject of control.\nWhen the judge charges in the language of the statute on a point, it is not error to refuse to adopt in his charge the phraseology of counsel on. the same point.\nIf no evidence is given on the subject of the mental condition of the accused, the presumption is that he is sane. Where evidence on the subject is offered by the defense, the prosecutor may produce answering testimony, but he must satisfy the jury on the whole evidence, that the prisoner was responsible; for the affirmative of the issue tendered by the indictment remains with the prosecution to the end of the trial (Brotherton 8. People, 75 IV, T. 159; 0\u20190onnell8. People, 87 IV T. 377).\nThe defense of insanity should not be sustained on vague and shadowy testimony, or mere conjecture. There should be clear and substantial evidence of insanity; but if there is upon the whole evidence in the case any reasonable doubt, the accused is entitled to the benefit of that doubt and to an acquittal.\nWhere the court properly submits to the jury a proposition covering the whole issue, and instructs them that they must find it beyond a reasonable doubt, he cannot be required to subdivide it, and charge separately as to each of the elements necessary to constitute the crime that it must be established beyond a reasonable doubt.\nError to the Supreme Court, General Term in the First Department, to review the judgment of affirmance in this case, reported at page 7 of this volume.\nThe points of counsel in this appeal were the same as those given in the report of this case in the Supreme Court, General Term, at page 9.\nWm. F. Kintzing, for plaintiff in error.\nJohn McKeon, district attorney (John Vincent, assistant), for defendant in error."
+  },
+  "file_name": "0022-01",
+  "first_page_order": 46,
+  "last_page_order": 56
+}

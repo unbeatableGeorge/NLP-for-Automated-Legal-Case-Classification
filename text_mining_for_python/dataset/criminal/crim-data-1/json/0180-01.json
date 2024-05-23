@@ -1,0 +1,314 @@
+{
+  "id": 1164431,
+  "name": "PEOPLE v. HOVEY",
+  "name_abbreviation": "People v. Hovey",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "180",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "42 N. Y. 271",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Hun, 562",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 N. Y. 571",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0571-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 19",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 N. Y. 378",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Hun, 76",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Sumn. 19",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "case_ids": [
+        6654373
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/25/1287-01"
+      ]
+    },
+    {
+      "cite": "17 Ala. 355",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Mass. 646",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003994
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0566-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 194",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. 519",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2003924
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/1/0519-01"
+      ]
+    },
+    {
+      "cite": "2 Wend. 555",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3516869
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/2/0555-01"
+      ]
+    },
+    {
+      "cite": "13 Johns. 82",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374430
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "182"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/13/0082-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. 298",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029557
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0298-01"
+      ]
+    },
+    {
+      "cite": "86 N. Y. 353",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        546216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/86/0353-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y. 313",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Hun, 388",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "53 N. Y. 475",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Den. 281",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0281-01"
+      ]
+    },
+    {
+      "cite": "4 Barb. 438",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777446
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/4/0438-01"
+      ]
+    },
+    {
+      "cite": "33 N. Y. 501",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2042055
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/33/0501-01"
+      ]
+    },
+    {
+      "cite": "5 Hun, 387",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Hun, 517",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 N. Y. 309",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530681
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/69/0309-01"
+      ]
+    },
+    {
+      "cite": "33 N. Y. 508",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1004,
+    "char_count": 23724,
+    "ocr_confidence": 0.541,
+    "pagerank": {
+      "raw": 1.0692444896950708e-07,
+      "percentile": 0.5593760485649936
+    },
+    "sha256": "6e4e8bed50e0b03e6dc8d4b71b488e344107de9dc8d24368e5d0bf2224bb9d98",
+    "simhash": "1:8866ee2dde30bdd0",
+    "word_count": 4230
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. HOVEY."
+    ],
+    "opinions": [
+      {
+        "text": "Brady, J.\nThe defendant was indicted and convicted of murder in the first degree for killing his sister-in-law, Fannie Yermilyea, April 20, 1882. At the time of the killing the deceased and the appellant occupied different apartments on the same floor of a boarding-house, situate at No. 273 West Thirty-eighth street, in this city. On the night preceding the homicide the deceased took from the defendant a pistol which he was in the habit of carrying, and hid it. At this time his child, who was an infant, was seriously ill with the scarlet fever.\nOn the following morning,\u2014i. e. the day of the killing,\u2014the defendant, in the presence of the deceased, wanted his wife to wash his feet, when the deceased said to him, \u201c Eddie, you ought to have more thought for your dying baby ; \u201d to which he replied, \u201c You\u2019re getting too God damned high-toned.\u201d He soon after left the house, but returned at about one o\u2019clock in the afternoon for dinner, having taken which he again left, and sometime during the afternoon went to a pawnbroker\u2019s shop, where he pawned his coat, purchased a pistol, loaded it, and, returning to his house, went to the room of the deceased and shot her, the ball passing through the lung, and death ensuing within a few minutes. This occurred about twenty-five minutes after his return. He then went out into the hallway connected with the room, where he was seen by another sister of his wife,\u2014namely Sophia McCullough,\u2014who having been called as a witness testified that having heard the shot she asked him what he had done ; to which he responded, \u201cNothing,\u201d although the pistol was still in his hand. She further testified that he then went into her sister\u2019s room again, and she ordered him out; whereupon he went across the hall to his own room where his sick child was lying. The witness then requested him not to touch the baby; to which he responded, alluding to the witness, \u201c You little son of a bitch, if you don\u2019t get out of this room I will kill yon too.\u201d\nIt appears further from the testimony of Mrs. Byrnes, that her attention was directed to the shooting by the request of the deceased, \u201c Mrs. Byrnes, save me! \u201d Whereupon she ran \u25a0 to her and caught her in her arms. While she was thus holding the deceased, the prisoner was brought into her presence, when the witness said to him, \u201c Look what you have done ! \u201d and he laughed. This was at a moment when the deceased was \u201cjust departing,\u201d to use the language of the witness, and he was in the custody of the officer\u2014indeed had walked over the dead feet of the deceased, as the witness stated. The laugh seems to have been the only indication of his consciousness of the observation which was made to him by the witness.\nThe officer who arrested him, at the time of his arrest and in the house where the shooting took place, asked him if he was the man who did the shooting ; to which he said, \u201c Yes.\u201d As they passed over the body of the deceased he said to him, \u201c Is that the woman you shot ? \u201d And the prisoner answered \u201cYes.\u201d The officer further asked him, \u201c Is that [exhibiting it] the pistol you shot her with % \u201d To which he replied \u201c Yes,\u201d saying in addition, \u201c And if I'had another bullet in that pistol you never would have taken me from that room.\u201d The officer further testified that having taken him to the station-house, the sergeant asked if he shot the woman, to which he replied, \u201c Yes.\u201d The sergeant then further asked, \u201c What did yon shoot the woman for % \u201d And the answer was that that was liis. business and not the sergeant\u2019s.\nUpon this testimony:\u2014the effect of which the appellant essayed to overcome by his story,which was that the shooting was accidental\u2014the jury found him guilty of murder in the first degree.\nThere was evidence on the part of the defense to show, doubtless to account for the possession of it, that from his boyhood it had been the habit of the defendant to carry a pistol. It will have been observed from this statement of the case that no witness was called who saw the shooting, except the defendant, who committed the deed, and therefore the importance of the circumstances mentioned must impress itself at once upon' the mind upon the question of premeditation and deliberation, which were necessary elements to establish the guilt of the appellant to the extent pronounced by the verdict herein.\nOn the night preceding the killing, as we have already seen, the deceased took the defendant\u2019s pistol and hid it, and no doubt from a good motive. It is true he says he was in the habit of giving her his pistol at night, and this necessarily involved the ceremony of returning it to him upon the following day; but on this occasion the pistol was not returned, it was hid. It is a slight circumstance, it is true, but unfortunately for the viciously inclined, the history of crime shows that violent deeds are sometimes committed upon very slight provocation.\nIn addition to this circumstance, however, as we have seen, the appellant wished his wife to wash his feet, and at a time which, in consequence of the severe illness of his child, and who died the next day, seems to have been most solemn. The deceased reminded him of that fact by saying, \u201c Eddie, you ought to have more thought for your dying baby,\u201d an observation with which he was evidently displeased, because, as we have already seen, his answer was, \u201c You are getting too God damned high-toned.\u201d The hiding of the pistol and the observation of the deceased appear to have been proper in themselves, and not calculated to produce very great excitement. They seem, however, to have aroused within him a malevolent sentiment, a passion for revenge, which was to be appeased only by slaughter. Unless we accept his story that the shooting was accidental, no other view can be taken of the occurrence.\nIt was the- feeling suggested that induced him to pawn his coat and to buy the pistol and load it. It is proper to observe here, that there is no evidence in the case, showing that he was engaged in a calling which required such a weapon for his protection, or that he was in imminent danger in any respect, and, therefore, the loading of the pistol in the pawnbroker\u2019s shop, marked by the preceding circumstances to which reference has been made, must have been with an object, and that object was the killing of the deceased, and was carried into execution within a few hours after the purchase of the pistol. \u25a0 The causes which led to the act are trivial, it is true, when judged by the ordinary standard of human action, but in a bad-tempered man, a person easily excited, quickly inflamed, destitute of a decent sense of propriety, and more particularly if a criminal by habit, they might be, and indeed in this case seem to have been, quite sufficient to instigate the crime of which the defendant was convicted. That he was a criminal by habit, or, if the word habit is not justifiable, that he was a criminal at all events, is shown by his cross-examination, for, when he was .asked how often he had been in prison, he said three times, and each time for stealing.\nThe jury took all these circumstances into consideration, and the fact also that the defendant\u2019s wife was present when the deceased was shot, and could have been called as a witness on his behalf. He failed, to call her to corroborate, if she could do so, his statement as to the shooting being accidental. It is impossible for us to say, therefore, under all the facts and circumstances to which reference has been made, that the jury were not entirely justified in finding the prisoner guilty of murder in the first degree\u2014premeditated and deliberate murder.\nThe learned judge, in charging the jury, said : \u201c There is no eye-witness who has testified to the occurrence, except the defendant. The people claim, however, and the uncontradicted evidence established that there was another eye-witness to this occurrence, namely, the wife of the defendant. You remember when the wife was offered as a witness, on behalf of the people, the court would not allow her to be examined as a witness against her husband, for in my judgment, the law does not permit it, but while that is so, the law does allow the wife to be a witness in her husband\u2019s behalf, and the people claim, that inasmuch as it appeared in evidence, that she was an eye-witness to the occurrence, accessible to the defendant, and the defendant allowed by the law to call her as his witness, and having neglected to do so, that that is a circumstance which the jury have a right to consider, on coming to a conclusion. And the people claim, moreover, that the prisoner\u2019s omission to call her as witness under the above circumstances, should be taken as a matter of evidence against him, and they claim that the fair presumption is, that if she was called, her testimony would not be favorable to the defendant.\u201d\nNo exception was taken to the observations thus quoted, but after the verdict of guilty had been rendered, and at a sitting of the court upon the 29th of September, 1882, when the appellant was arraigned for sentence, a motion was made for a new trial: First. Upon the ground that the verdict was against the weight of evidence; and, Secondly. That there was not sufficient evidence in the case to show that the act was the result of a premeditated and deliberate design to effect death. And the counsel for the defendant, in connection with these two grounds, urged the error which it was alleged had been committed by the learned judge presiding, in making the observations which have been quoted. The application was made under section 527 of the Code, which provides that in cases of this character, tried in the Court of General Sessions, the appellate court may order a new trial, if it be satisfied that the verdict against the prisoner is against the weight of evidence, or against law, or that justice requires a new trial, whether any exceptions shall have been taken or not in the court below. In the consideration of this case, the appellant should, therefore, be given the full benefit of this section.\nThe question of premeditation has already been discussed, as will have been seen, and a result arrived at unfavorable to him, and the disposition of it in the court below sustained. The verdict was not against the weight of evidence\u2014there was sufficient proof that the killing was the result of a premeditated and deliberate design to effect death.\nNo error seems to have been committed, either by the remarks of the learned judge, in reference to the omission of the defendant to call his wife as a witness. It will have been perceived, that in .commenting upon this circumstance, the learned judge merely repeated the claim made on behalf of the people,namely, that the prisoner\u2019s omission to call her as a witness, under the circumstances disclosed in the charge, should be taken as matter of evidence against him; that the fair presumption was, that, had she been called, her testimony would not have been favorable to him. It was not asserted as a conclusion of law, that such a result must follow, or that such must be the consideration given to the circumstance by the jury, but a state-' ment, merely, of the claim put forth by the prosecution of the argument on behalf of the people\u2014that the omission was one which should be regarded by the jury as prejudicial to the pris-' oner. The facts affecting it are, that his wife was in court, and ..that she was called as a witness by the prosecution, but excluded upon the objection of the prisoner\u2019s counsel. It seems to have been conceded that she was present at the time of the shooting, and, therefore, could have stated the circumstances attending the act. The charge is clearly within the rule of law as enunciated by the adjudged cases.\nIn the case of Gordon v. People, 33 N. Y. 508, it was held, that when one accused of the crime of murder was required to account for his whereabouts at' a particular time, to avoid the force of criminating circumstances, his omission to produce the evidence is not conclusive of the facts in dispute, but the force of such circumstances may be left for the consideration of the jury. The absence of such evidence, the court said, especially when it seems to be in the power of the prisoner to furnish it, creates a strong presumption of his guilt, a strong inference against him, and is a circumstance greatly corroborative of the truth of the evidence given upon the other side, and, in a doubtful case, would justify the jury in resolving the doubt against him.\nThe case of Gordon v. People is cited with approbation, and the rule is substantially reiterated in the case of Bleecker v. Johnston, 69 N. Y. 309. See also Brooks v. Steen, 6 Hun, 517 ; also the case of People v. Tweed, 5 Hun, 387, in which the learned judge, in discussing the subject, said, that the omission to furnish an affidavit denying the facts upon which an order of arrest was founded, rendered if probable that he could not truthfully do it, and the effect of it was to increase the force of the circumstances disclosed, as well as the probability that the statements made by two of his accomplices as to what really did take place, and the court then states the rule declared in the case of People v. Gordon, supra.\nUnder these circumstances, and in view of these authorities, it is quite clear that no error was committed by the learned judge in simply stating to the jury the claim made on behalf of the people, without telling them the effect of it, and without in any way expressing any opinion about it, presenting it, as he did, for the consideration of the jury, and leaving it entirely with them to determine its weight and effect.\nIt is said on behalf of the appellant, that the presumption must be that his wife was hostile to him, and that he was not, therefore, obliged to use her as a witness, or to be subjected to any. criticism because he did not call her. This view is fallacious. The presumption is that she would tell the truth, and the appellant must take the consequences of such presump-tion.\nIt is also urged that under section 2 of the Law of 1876 chapter 182, it was optional with the wife whether she would become a witness or not on behalf of her husband, that act depending upon her own will, and being free from any control of her husband. This view is predicated of this language of the section: \u201c In all criminal trials and examinations before trial, a husband or wife may be examined as a witness on behalf of the other,\u201d\u2014but it is clearly erroneous. The legislature meant to confer, and did so, upon the husband the privilege, in a criminal proceeding against' him, of calling his wife as a witness, if he chose to do so\u2014not to give her any other right than to call him, if she chose to do so, under similar circumstances. She could not decline to become a witness, or exercise any option in regard to it. If called by him she must respond, or be punished for contempt. It is the husband\u2019s right to call her, and as well the wife\u2019s right to call him, by the same section. They may be witnesses, if the right thus conferred is exercised by either, but cannot be compelled to testify against each other, at the call of any other person hostile to either. This construction of the statute is demanded by its language. If it be not, then no benefit was created by the section and it is a nullity.\nSor was it error to allow the defendant, upon cross-examination, to he asked how many times he had been in prison.\nSection 832 of the Code expressly authorizes such a line of examination. It declares that a person who has been convicted of a crime may be asked, on cross-examination, as to the facts. Hot only that, but it provides that the person cross-examining is not concluded, by his answer to such a question; so that if the witness falsely states that he was not convicted, his testimony may be disproved.\nTh\u00e9 points presented on behalf of the appellant have thus been considered, and the duty of the court requires, for the reasons stated, a declaration that he shall take nothing by his appeal, and that the judgment should be affirmed.\nOrdered accordingly.\nDavis, P. J., and Daniels, J., concur.",
+        "type": "majority",
+        "author": "Brady, J."
+      }
+    ],
+    "attorneys": [
+      "William F. Kintzing, for the prisoner, appellant.",
+      "John McKeon, district attorney, and John Vincent (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nMarch, 1883\nPEOPLE v. HOVEY.\nMubdee.\u2014Omission of Peisonee to call Eye-witness.\u2014 Husband and Wife, Testimony of.\u2014Evidence.\u2014 Peemeditation and Delibeeation.\nUpon the trial of an indictment for murder in the first degree, it appeared that the only eye-witnesses of the killing besides the parties, was the wife of the prisoner, who was not called by him, and whose testimony was rejected upon prisoner\u2019s objection, when she was called by the prosecution. The court charged the jury, . . \u201c the people claim that inasmuch as it appeared in evidence that she was an eyewitness to the occurrence, accessible to the defendant, and the defendant was .allowed by the law to call her as his witness, and having neglected to do so, that this is a circumstance which the jury have a right to consider in coming to a conclusion. And the people claim that the prisoner\u2019s omission to call her as a witness, under the above circumstances, should be taken as a matter of evidence against him, and they claim that the fair presumption is, that if she was called, her testimony would not be favorable to defendant.\u201d Meld, not error.\nUnder Laws 1876, chap. 183, \u00a7 3, the right of either a husband or wife to call the other as a witness on his or her behalf upon a criminal trial, is absolute, and does not depend on the option of the party called.\nIt is not error to allow the prosecution upon cross-examination, to ask the prisoner how many times he had \u201cbeen in prison,\u201d and whether, each time, it was \u201cfor stealing.\u201d\nThe evidence in this case fully reviewed and considered by the court, and held sufficient to show that the killing for which the prisoner was indicted, was the result of a premeditated and deliberate design to effect death.\nAppeal by defendant from judgment of the General Sessions of Hew York. .\nAn indictment of murder in the first degree was found against defendant, and was, on September 21, 1882, tried before Hon. Bufus B. Cowing, City Judge, and a jury, and resulted in a judgment convicting defendant of murder in the first degree.\nA motion for a new trial upon grounds stated in the opinion was made and denied when defendant was arraigned for sentence, and exception taken.\nThe facts, and such portions of the charge as are claimed to be erroneous, are set forth in the opinion.\nWilliam F. Kintzing, for the prisoner, appellant.\nDefendant\u2019s omission to call his wife should not have been taken against him.\nI. The evidence discloses the fact that the wife was hostile to her husband, and would not have willingly testified to anything in his favor. The principle of law that the failure to produce a material witness to an occurrence in the power of a party to produce, is a circumstance that can be argued against him, does not apply to witnesses whose competency to become such depends upon their own option. It is submitted that the words of the statute \u201c may be examined \u201d are simply permissive, ail\u2019d it was optional with the wife whether she would become a witness or not. The evidence in the case discloses the fact that the defendant\u2019s wife would not have been a willing witness for him, and, without her consent, it was impossible for the defendant to put her upon the witness stand. The competency of a wife, as a witness, depends upon her willingness to testify, without the slightest power on the part of her husband desiring the testimony, or of the court or of the law to interfere or to have a word on the subject (22 Alb. L. J. 81). Considering the position which the wife occupied in the case, the charge as to effect of the omission to call her, was clearly erroneous. In the following authorities the principle charged by the court, has been discussed. 1 Starkie Ev. \u00a7 24 ; 2 Starkie Ev. 6 Am. ed. 685 ; 1 Phillips Ev. 172 ; 2 Phillips Ev., Cow. & Hill's Notes, 459, 460 ; 3 Bl. Com. 371. See People v. Gordon, 33 N. Y. 501; People v. Dyle, 21 Id. 578; People v. McWhorter, 4 Barb. 438 ; People v. Bodine, 1 Den. 281; People v. Ormsby, 53 N. Y. 475 ; Kennedy v. People, 39 Id. 254; People v. Tweed, 5 Hun, 388; Brooks v. Steen, 6 Id. 517; Bleecker v. Johnson, 69 N. Y. 313. The close relations existing between man and wife might well cause a man to hesitate before calling her as a witness, and his failure or neglect to call her ought not to work to his injury, nor should it create any presumption against him ; she is placed in the same position as the defendant who does not avail himself of the law permitting him to be a witness in his own behalf, which does not make against him.\nII. The court erred in permitting the prosecuting officer, upon the cross-examination of the defendant, to interrogate him as follows : Q. \u201c How often have you been in prison V\u2019 A. \u201c Three times.\u201d Q. \u201c For what ?\u201d A. \u201c For stealing.\u201d Q. \u201c Each time V\u2019 A. \u201cYes, sir.\u201d Ho objection or exception was taken at the time, but it was not necessary. Code Crim. Pro. \u00a7 527. This cannot be justified under section 832 of the Code of Civil Procedure, for it was only intended to apply to civil actions and proceedings, except where otherwise provided. Perry v. People, 86 N. Y. 353. If the answer of the defendant meant or would justify the inference that he was in prison each time for stealing, serving out a sentence upon conviction for a crime, it was error, there being record evidence of the conviction and sentence. Hewcomb v. Griswold, 24 N. Y. 298. When the question involves the fact of a previous conviction, it ought not to be asked, because there is higher and better evidence which ought to be offered. 1 Greenl. Ev. \u00a7 457. See also King v. Inhabitants of Castell Careinion, 8 East 77 ; People v. Herrick, 13 Johns. 82; Hilts v. Colvin, 14 Id. 182; Jackson v. Osborn, 2 Wend. 555 ; 1 Greenl. Ev. \u00a7\u00a7 460, 461, 457, 463; 1 Taylor Ev. 292 ; 1 Phillips Ev. 291, Cow. & Hill\u2019s Notes, 540, 766; Worrell v. Parmelee, 1 N. Y. 519; People v. Wiley, 3 Hill, 194-214; Commonwealth v. Kinison, 4 Mass. 646; State v. Zellers, 2 Halst. 220 ; West v. State, 2 Zabr. 212; Davis v. State, 17 Ala. 355; Commonwealth v. Thompson, Thatcher Crim. Cas. 28; United States v. Gibert, 2 Sumn. 19; Queen\u2019s Case, 2 B. & Bing. 293; Lee v. Chadsey, 3 Keyes, 225. If the answer of the defendant meant or would simply justify the inference that his confinement in prison was only upon a charge of larceny, then it was clearly erroneous. People v. Crapo, 15 Hun, 76 N. Y. 285. See also 1 Phillips Ev. 291; Cowen & Hill\u2019s Notes, 530, 766; 2 Id. 943 (5 Am. ed.); 1 Greenl. Ev. \u00a7\u00a7 460, 461; People v. Gay, 7 N. Y. 378; People v. Genung, 11 Wend. 19; Parkhurst v. Louten, 2 Swans. 216; Jackson v. Osborn, 2 Wend. 555; People v. Brown, 72 N. Y. 571; 8 Hun, 562; Real v. People, 42 N. Y. 271; People v. Casey, 72 Id. 393.\nIII. A verdict of guilty of murder in -the first degree upon the evidence was erroneous. The act of the defendant cannot be construed as the result of \u201c deliberation and premeditation.\u201d The killing must not only have been intentional, but the result of deliberation; the intent conceived must have been nursed. The statute is not satisfied unless the intention was deliberated upon. The court should not overlook the fact that \u201c premeditation differs essentially from will, which constitutes the crime, because it supposes besides an actual will a deliberation and continued persistence which indicates more perversity.\u201d\nJohn McKeon, district attorney, and John Vincent (assistant), for the people, respondent.\n(The points presented on behalf of the people are fully covered by the opinion of the General Term.)"
+  },
+  "file_name": "0180-01",
+  "first_page_order": 204,
+  "last_page_order": 214
+}

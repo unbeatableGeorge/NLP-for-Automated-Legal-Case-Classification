@@ -1,0 +1,68 @@
+{
+  "id": 1167700,
+  "name": "PEOPLE v. PECK",
+  "name_abbreviation": "People v. Peck",
+  "decision_date": "1884-03",
+  "docket_number": "",
+  "first_page": "314",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 393,
+    "char_count": 8913,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 1.2448142541643707e-07,
+      "percentile": 0.6087681173690049
+    },
+    "sha256": "ef2a58d56ce5a258d4f6ff01dbde18d057b4f0e24e20416cf02769b86f29cf7c",
+    "simhash": "1:132b5fe7945288c9",
+    "word_count": 1569
+  },
+  "last_updated": "2023-07-14T19:46:36.421582+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Davis, P. J., and Brady J., concur."
+    ],
+    "parties": [
+      "PEOPLE v. PECK."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe indictment charged the defendant with the offense of obtaining money by means of false pretences. It was objected to as defective for failing to comply with sections 275 and 276 of the Code of Criminal Procedure. The demurrer specified three objections in which the indictment was deemed to be defective. These objections were stated in the following manner:\n1. That the indictment does not show that it was found by a grand jury, nor that it is indorsed by the foreman of the grand jury.\n2. That the indictment does not contain the title of the action specifying the name of the court to which the indictment is presented, and the names of the parties as required by section 275 of the Code of Criminal Procedure.\n3. That this indictment does not conform substantially to the requirements of sections 275 and 276 of the Code of Criminal Procedure.\nThe objection that it was not found by a grand jury, is answered by the first paragraph of the indictment itself, which states its presentment by the jurors of the people of the state of New York, in and for the body of the city and county of. New York, which has for many years, prior to the enactment of this Code, been followed, as an appropriate designation of the grand jury, and their action in the presentment of indictments. And while the Code has changed the phraseology to be made use of in an accusation of crime by the grand jury, there was no substantial departure from that formality in the presentment of this indictment.\nFor the defendant was as effectually and intelligently accused of the crime charged by the phrase that the jurors upon their oath made the presentment following this formal paragraph, as she would have been if the word \u201c accuse \u201d had been used in place of the word \u201c present.\u201d By the form which was followed no substantial departure was made from that which the Code itself has prescribed.\nThe averment that the indictment was not indorsed by the foreman of the grand jury is answered by the indorsement appearing upon the bill, by which it was stated to be \u201c a true bill, George G. Fisher, Foreman.\u201d The indictment did not contain the title of the action, or a statement of the court in which it was found and presented, but it appeared by the record made a part of it, that the grand jury was organized in the court of j General Sessions, and appeared in court and presented the indictment in the case of People against Ellen E. Peck.\nWhile these were not formal compliances with what the Code of Criminal Procedure requires in an indictment, the omissions made no substantial change to the prejudice of the defendant in the indictment. For it was entirely clear that it was found by a grand jury in the court of General Sessions of the county of New York, and in the case of the people against the present defendant. And by the express provisions of the Code contained in section 285, it has been declared that \u201c no indictment is insufficient, nor can the trial, judgment or other proceeding thereon be affected by reason of an imperfection in matter of form which does not tend to the prejudice of the substantial rights of the defendant upon the merits.\u201d No prejudice whatever could result to the defendant by reason of either of the defects in the indictment, and by the direct language of this section of the Code the court has been required to disregard them.\nThe indictment itself contains a very full, as well as a minute statement of the representations charged to have been made, the fact that they were false and that moneys were obtained by reason of them by the defendant, from the person to whom the representations were addressed. In these respects it is much more full and complete than the present Code of Criminal Procedure required it should be. There was, accordingly, no defect of substance in the indictment itself. It did charge a criminal offense with more detail and more particularity than that which is now required to be made by the Code of Criminal Procedure.\nThe demurrer which was presented to the indictment depended for its validity upon the first, second and fourth subdivisions of section 323 of the Code of Criminal Procedure. But it is not supported by these subdivisions, for it did not appear on the face of the indictment that the grand jury by which it was found, had no legal authority to inquire into the crime charged, by reason of its not being within the local jurisdiction of the county. Neither did it appear that the indictment did not conform substantially to the requirements of sections 275, 276 of this Code ; neither did it fail to state facts which constituted a crime. These were substantially the objections which were taken, and in support of them, mere in-formalities have been pointed out, presenting no substantial failure to conform to the requirements of the sections declaring the form and frame of the indictment. The same observation is equally as applicable to the substance of the indictment itself, for it does certainly contain a statement of facts constituting the crime alleged to have been committed by the defendant.\nThe judgment by which the demurrer was sustained was erroneous, and it should be reversed, and the defendant required to plead to the indictment.\nDavis, P. J., and Brady J., concur.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "Peter B. Olney, district attorney, and John Vincent (assistant), for the people, appellant.",
+      "Henry A. Meyenborg and S. D. Morris, for the prisoner, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First Department.\nMarch, 1884.\nPEOPLE v. PECK.\nIndictment\u2014form of\u2014Defects and omissions in.\nAn indictment beginning in the usual common law form: \u201c The jurors of the people of the state of New York, in and for the body of the city and county of New York, upon their oath, present, etc.,\u201d contains a sufficient statement of its finding by a grand jury, and is a substantial compliance with the requirements of Code Crim. Pro. \u00a7 276, as to form of indictments.\nSuch an indictment is sufficiently indorsed by the foreman of the grand jury, as follows: \u201cA true bill, Geo. C. Fisher, Foreman.\u201d\nThough the indictment contains neither the title of the action nor a \u00bb statement of the court in which it is found and presented, yet if it appear that it is found in the proper court and action, and that no prejudice to defendant can ensue, the court is bound, under section 285, Code Crim. Pro., to disregard such omissions.\nAppeal on the part of the people from an order made herein by Hon. Frederick Smyth, sustaining the demurrer of defendant, Ellen E. Peek, to the indictment.\nDefendant was indicted in March, 1883, in the General Sessions of Hew York, of the offense of obtaining money by false pretenses, committed in April, 1878. \u25a0 The indictment was in the common law form, beginning: \u201c City and County of Hew York, ss. The jurors of the people of the state of Hew York, in and for the body of the city and county of Hew York, upon their oath present,\u201d etc.\nIt did not contain the title of the action, nor a statement of the court in which it was found and presented, and it was endorsed, \u201c A true bill, Geo. C. Fisher, Foreman.\u201d It appeared from the record on appeal, by the certificate of the clerk of the General Sessions, to an extract from the minutes, that at said court, etc., the grand jury came into court and presented the said indictment in the above entitled action.\nDefendant demurred to said indictment upon the grounds stated in the opinion.\nThe demurrer was sustained, and plaintiff appealed.\nPeter B. Olney, district attorney, and John Vincent (assistant), for the people, appellant.\nA perfect answer to any and all defects of form that may appear upon the indictment will be found at section 684 of the Criminal Code, which is as follows : \u201cNeither a departure from the form or mode prescribed by this Code in respect to any pleadings or proceedings, nor any error or mistake therein, renders it invalid, unless it have actually prejudiced the defendant, or tend to his prejudice in respect to a substantial right.\u201d\nWith this statute in operation the old form of common law indictment is sufficient.\nHenry A. Meyenborg and S. D. Morris, for the prisoner, respondent.\nThe indictment is fatally defective, and the defendant is entitled to judgment upon the demurrer. ,(1) It does not contain the title of the action. (2) It does not specify the name of the court to which it was presented. (3) It does not contain a \u201c plain and concise statement of the act constituting the crime.\u201d (4) It is not substantially in the form required by section 276. (5) It does not appear to have been found by \u201c the grand jury,\u201d &c., but by the jurors of the people. Section 276.\nThe defendant can only be arraigned in the court in which the indictment is found, or to which it is sent or removed. He has a right to know such court before he can be called upon to plead, and it does not answer the requirements of the Code that he learns that fact aliunde the indictment (\u00a7 296). This is a substantial right, and may not be dispensed with. The defects pointed out cannot be cured by amendment under section 293."
+  },
+  "file_name": "0314-01",
+  "first_page_order": 338,
+  "last_page_order": 342
+}

@@ -1,0 +1,266 @@
+{
+  "id": 1167674,
+  "name": "MATTER OF PAUL",
+  "name_abbreviation": "In re Paul",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Cow. 588",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034905,
+        2035054
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0587-01",
+        "/cow/7/0587-02"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532810
+      ],
+      "pin_cites": [
+        {
+          "page": "2, 3"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0001-01"
+      ]
+    },
+    {
+      "cite": "31 How. 346",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "85 N. Y. 526",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2182408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/85/0526-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 196",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177216
+      ],
+      "pin_cites": [
+        {
+          "page": "202, 204"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0196-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y. 287",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166470
+      ],
+      "pin_cites": [
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/70/0287-01"
+      ]
+    },
+    {
+      "cite": "59 N. Y. 599",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        521488
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/59/0599-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 504",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2059719
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/50/0504-01"
+      ]
+    },
+    {
+      "cite": "52 N. Y. 650",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        511012,
+        510966,
+        510983
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/52/0650-03",
+        "/ny/52/0650-02",
+        "/ny/52/0650-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 204",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177206
+      ],
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0204-01"
+      ]
+    },
+    {
+      "cite": "38 N. Y. 193",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        500791
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/38/0193-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 186",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        504993
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0186-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 103",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 N. Y. 211",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 N. Y. 10",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048100
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/43/0010-01"
+      ]
+    },
+    {
+      "cite": "59 N. Y. 600",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 915,
+    "char_count": 23998,
+    "ocr_confidence": 0.529,
+    "pagerank": {
+      "raw": 5.227708491128234e-08,
+      "percentile": 0.329655705795975
+    },
+    "sha256": "3e80bddcf2ee0c644f2f469902b9a6bafebd157508cbe0a6c9e46f1cff636c11",
+    "simhash": "1:3702bbbf4d95ec71",
+    "word_count": 4272
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MATTER OF PAUL."
+    ],
+    "opinions": [
+      {
+        "text": "Finch, J.\nThe relator was arrested upon a warrant issued by a police justice of the city of Hew York, which recited an accusation upon sworn information that, \u201cDavid A. Paul committed the crime of manufacturing cigars and preparing tobacco in the house No. 375 East Eighth street, the same being a tenement house, occupied by more than three families living independent of one another therein, in rooms in said tenement house which at the time were occupied by said David A. Paul and his family as a dwelling for the purpose of living, sleeping and the doing of household work; said rooms or apartments being on the east or right hand section of the fourth floor in said tenement house, adjoining each other in a contiguous line from the windows opening into the street, to the windows opening into the yard of said tenement house.\u201d The precise offense charged, is somewhat obscured by the words describing the character of the house and the location of the rooms, but is nevertheless a specific accusation of manufacturing cigars in a room or rooms, which room or rooms were, at the same time, used as living or household rooms. In other words, the charge asserts the co-existence at the same time and in the same room or rooms of cigar manufacturing and household use.\nPrecisely this offense is described in the first section of the act under which the prosecution was instituted (laws 1883, ch. 93). That section reads: \u201c The manufacture of cigars or preparation of tobacco in any form in any rooms or apartments which in the city of Hew York are used as dwellings for the. purpose of living, sleeping or doing any household work therein is hereby prohibited.\u201d The scope of this section seems quite clear. It is not so broad as it appeared to us on the argument. It does not forbid the manufacture of cigars in a dwelling-house. It forbids it only in such rooms or apartments within the house as are at the same time used for the purposes of \u201c living, sleeping or doing any household work-therein.\u201d So that, under this section, in any dwelling house, the same room or apartment, must not, at the same time, be used for cigar-making and for family purposes. But the owner or occupant of a house may manufacture cigars in one or more rooms therein, provided that he uses them for no household purposes and separates entirely the domestic from the business uses. The prohibition is aimed entirely at the co-existence of the cigar-making, and the sleeping or living of the family in the same room or apartment. If they are kept separate, and in separate or distinct apartments it is no offense under this first section that the business use and the domestic use go on under the same roof or in the same house.\nThat the relator did not preserve such separation is the gist of the charge in the warrant. It accuses him of manufacturing cigars in rooms which, \u201c at the time,\u201d \u201c were occupied\u201d by him and his family 11 for the purpose of living, sleeping and the doing of household work.\u201d Just this offense was charged in the information. The deposition of the complainant averred that Paul manufactured cigars \u201cin rooms or apartments\u201d which \u201c were then and there used by the, said David A. Paul as a dwelling for the purpose of living and sleeping and doing household work therein.\u201d So that the complaint and the warrant alike charged the offense described in section 1.\nBut upon the hearing before the magistrate the complainant was examined as required by law (Code Crim. Proc. \u00a7 194). The witness was cross-examined in behalf of the defendant (\u00a7 195). The examination was signed by the witness and certified by the magistrate, and is before us, returned as part of the record. It tended to show that an offense had been committed under section 1, and that there was propable cause for believing the relator guilty of violating that section. After describing the location of the rooms as consisting of four, extending through from front to rear, the two middle rooms occupied as bed-rooms and the rear room as a kitchen, which left the front room capable of use as a sitting or living room, he said: \u201c there are residers in front facing the street and r.esiders in the rear facing the yard.\u201d Other statements tended in the same direction, and, while the evidence was weak and lacked precision, there was enough to call into play the discretion and judgment of the rpagistrate. lie held the prisoner for trial. Presumably the commitment was \u25a0 upon the charge made by the complainant, stated in the warrant, and investigated upon the hearing. But two facts make it possible that such presumption is ill founded. The magistrate apparently had authority to issue process of commitment for a crime developed on the examination although not charged in the original warrant (Code Crim. Proc. \u00a7 208), and the evidence tended to prove a violation of section 2 of the act. The magistrate might have held the prisoner, therefore, for a violation of either section or of both. But if not satisfied by the evidence that section 2 had been probably violated and yet of opinion that section 1 had been, he was at liberty to commit the prisoner for a violation of section 1 only,, which was precisely the crime charged in the complaint and warrant of arrest. That is exactly what the- magistrate did. To be quite sure of it requires an analysis of section 2.\nThat section provides that \u201c no part of any section of any floor in any tenement house in the city of New York, in which the manufacture of cigars or the preparation of tobacco is carried on, shall be used for dwelling purposes.\" There is no mistaking what is not, and what is the misdemeanor here prohibited. It is not the manufacture of cigars in the tenement house or the room therein devoted to that purpose. That is not prohibited. On the contrary, the section treats it as a lawful and proper trade, lawfully carried on in the locality adopted. The prohibition and the crime consist in one of two things, viz: either in beginning an occupation for family use of the three rooms in the present case, when the front room was already occupied for cigar-making; or in continuing the family use of the three rooms after the front room had become a cigar manufactory. The person guilty of this somewhat novel crime might or might not be the cigar-maker himself. If Paul had rented the front room and began his manufacture, and then a third person had moved his family into the three rooms, that third person would have been the criminal and not Paul. He could not have been lawfully arrested, nor his honest pursuit of a lawful trade interfered with. If Paul, himself, moved his family into the three rooms he could have been arrested, but for that offense and that only. His crime would not have been the manufacture of cigars in the house, for no law forbade ; nor in the room selected, for that, too, was lawful; but would have been the entirely distinct and separate act of moving his family into the three rooms, notwithstanding his lawful manufacture in the front room. It becomes thus apparent, that under the act of 1883, the manufacture of cigars never violates its terms and never becomes a crime, save in the single instance named in the first section, where it is carried on in a room or rooms used at the same time for family purposes.\nTurning now to the commitment to see for what offense the prisoner was held for trial, we find it to be \u201c willfully violating chapter 93 of the Laws of 1883 of the State of New York in manufacturing cigars at and within a tenement house at 375 East Eighth street, in said city.\u201d The warrant of commitment is required to state briefly the nature of the crime. Code Crim. Proc. \u00a7 214. This warrant does so. Making every allowance for brevity, it does not state any offense under the second section, since the manufacture of cigars is in no case under that section a crime ; but it does state one, and the only one which can possibly answer that description, under the first section. As it was of such offense that the prisoner was accused, and for such offense that he was arrested, and the commitment describes that and no other, we cannot say that he was arrested for one crime, and committed for another. If that were true, the warrant of commitment should, at least, have briefly stated what that new and distinct offense was ; the nature of the crime. It thus appears that the relator is held for a violation of section 1, and that alone. Why the magistrate did not determine that section 2 had been violated we may not inquire. Even if both the complaint and warrant of arrest may be read as charging such a violation, which is difficult, but perhaps not wholly impossible, there is no ambiguity in the warrant of commitment. It holds the prisoner for .a criminal manufacture of cigars, and no such. offense exists under section 2.\nIt is then claimed on the part of the appellant, that; at least, section 1 is unconstitutional because of a defect in the title of the act, within the provisions of section 16, article 3, of the constitution of the state. . The title of the act is, \u201c An Act to improve, the public health by prohibiting the manufacture of cigars, or the preparation of tobacco in any form., in the tenement ho usesof said city.\u201d It is not denied that the act is \u201c local,\u201d since its operation is limited to the city of New York; and being such, it is said that it relates to two distinct subjects, only one off which is mentioned in the title. We think the objection is well founded. The subject referred to in the title is the manufacture of. cigars in tenement houses. These houses, as a known and a distinct class, are recognized and defined by law. Laws 1873, ch. 335; Sanitary Cod N. Y. \u00a7 3. They are apt to be ill-ventilated, unclean, and packed full of inmates, and to become centers or radiating points of contagious disease. As such they might become the proper subjects of sanitary regulation in the interest of the public health. To such regulation in one specific respect the title of the bill fairly relates, but no one would suspect from such tille that the bill also undertook to regulate the occupation of every dwelling-house in the city. Two new crimes are created by the act. One of them has relation to the tenement houses alone; the other to the dwellings of the whole city. One of them is committed by a mode of occupying rooms in a tenement house, the other by manufacturing cigars in any family rooms. The two offenses are unlike, different, and entirely distinct and separate. The latter is not at all stated in the title, because that is narrowed so that it does not embrace it. Practically, the narrow and specific title confined entirely to tenement houses, a class of buildings known to and defined by the law, operated as a fraud and deception upon the people of the city. In Harris v. People, 59 N. Y. 600, citing also People ex rel. Lee v. Supervisors of Chautauqua, 43 N. Y. 10, it was declared to be one definite purpose of the constitutional provision to advise the public and the locality, and the representatives of the locality, and of other parts, of the general purpose of the bill, so that those interested might be on their guard as to the whole, or as to the details of the bill. The citizens of Hew York, jealous of interference with their homes, reading the title of this bill, would be deceived, misled, and thrown off their guard. Assuming that the measure proposed related to the sanitary condition of crowded tenement houses, each citizen would\u201d take no heed, and find in the end that his own dwelling house' had been regulated. The legislator who should judge of the bill by its title might deem it proper or harmless, and find too late that the period of objection or resistance was gone. If the law had borne a true and not a false label, warning would have been given. \"Where the title is such that it gives no hint of the real subject of the enactment; where it furnishes no particle of truthful information, and he who reads it is not bound to know or suspect that the actual enactment does or may exist; and where, as a consequence, the title is misleading and deceptive, it is safe and right to apply the constitutional prohibition. Most of the cases in which the question has arisen have been the precise reverse of the one before us. They have been those in which the title was so broad and general that a multitude of various details could be fairly deemed embraced within it. Of this character have been titles to legalize certain proceedings in relation to certain contracts or local improvements, and to organize or amend the charters of municipal corporations. Tifft v. City of Buffalo, 82 N. Y. 211; Re Volkening, 52 Id. 650; Village of Gloversville v. Howell, 70 Id. 290 ; Re Mayer, 50 Id. 505 ; People ex rel. City of Rochester v. Briggs, Id. 553; Matter of L. & W. Orphan Home, 92 Id. 120; Harris v. People, 59 Id. 600. The title here is not broad, but narrow; not general, but specific ; not reasonable and fair, but deceptive and misleading. Hobody would infer, and nobody was bound to imagine that under a title relating to tenement houses alone, there' was enacted in its first section a law affecting not tenement houses as such, but all the dwelling houses in the city; a law as to which the title not only did not relate, but by its narrow terms affirmatively and positively excluded it. Hor is section 1 of the act before us, saved by the doctrine which we have several times applied, that if a local act con. tains a subject which is properly expressed in the title, it is valid as to that subject, although invalid as to a subject not expressed for the doctrine applies only where there are two or more subjects, some expressed and some not expressed, while in section 1 there is but one subject, and that not expressed in the title at all. Re Sackett Street, 74 N. Y. 103 ; Re Van Antwerp, 56 Id. 261; People ex rel. City of Rochester v. Briggs, 50 Id. 353. Hor will it do to avoid the difficulty by saying that as the phrase, dwelling, includes within it tenement house, we may hold the section good as to a part of its meaning, and repudiate it as to the balance, for that, in this case, would be an act of legislation. It would require us to amend the section by striking out the general word dwelling, and substituting the phrase tenement house, and then to hold the section good as amended by the court. The constitutional provision deals with the law itself as it came from the legislature. We capnot change and narrow its terms to save it. In the room of the subject, plainly stated, we cannot put one narrower and different in order to get it within the title. The section must stand or fall just as it was enacted, and without reference to extrinsic facts developed in cases under it.' But all the reasons for holding it not within the title, culminate in this, that the title not only failed to express the subject of the section, but by its frame and phrase expressly and affirmatively excluded that subject; for when it professed to relate to tenement house, it substantially declared that it did not relate to dwelling houses generally, which was precisely the one subject to which it did relate. Where the title thus deceives and misleads, the constitutional provision should apply if it is over to be enforced.\nFor this reason we hold section 1 to be unconstitutional, and that being so, it follows that the relator is held for an alleged crime which did not exist and which he could not commit, and that he should be discharged.\nIt is not necessary to consider further the effect of this conclusion upon the remaining sections of the act nor the very grave and serious argument upon the question whether the act as a whole is within the police power of the state, and capable of being sustained under the constitution. Those questions should be reserved for an occasion, if it shall arise, when their determination is essential and necessary to the conclusion to be reached.\nThe order appealed from should be reversed and the relator discharged.\nNote.\u2014In addition to the exhaustive note on the titles of statutes in Sedgwick's Statutory and Constitutional Law (2d ed.), 518 et seq. consult for the later authorities, article, \u201cThe Titles of Statutes,\u201d 17 Am. Law Rev. 495.",
+        "type": "majority",
+        "author": "Finch, J."
+      }
+    ],
+    "attorneys": [
+      "William M. Evarts, A. J. Dittenhoefer, and Morris Wise, for relator, appellant.",
+      "Samuel Hand, Thomas Allison, John H. Strahan, and John Vincent, assistant district attorney, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nJanuary, 1884.\nMATTER OF PAUL.\nConstitutional Law.\u2014L. 1883, ch. 93.\u2014Manufacture of Cigars in Tenement Houses in New York City.\u2014What Defect in Title Renders Law Unconstitutional.\u2014 Constitution, art. 3, \u00a7 16.\nThe relator was arrested and held for trial for manufacturing cigars in rooms in a tenement-house in New York City, used for a dwelling-house for the purposes of living, sleeping,, and doing of household work, in violation of 1U 1883, ch. 93, \u00a7 1. Held, that the prohibition of that section is aimed at the\u2019 eo-existence of cigar-making and sleeping anil living in the same rooms; if they are kept separate, and in separate and distinct apartments, it is no offense under this section that the business and use go on together under the same roof, or in the same house.\nSection 2 of this act provides that no part of a section of any floor in any tenement house in New York city in which the manufacture of cigars or preparation of tobacco is carried on shall be used for dwelling purposes. Held, that the prohibition and the crime under this section consists of two things, either in beginning an occupation for family use of rooms already occupied for cigar making, or, in continuing an occupation of rooms already occupied for cigar-making, or in continuing the use of rooms after they had become a cigar \u25a0 manufactory. The person guilty of this offense may or may not be the cigar maker himself.\nThe title of the act prohibits the manufacture of cigars or tobacco \u201cin the tenement houses of said city.\u201d Section 1 of the act forbids that manufacture \u201c in any rooms or apartments\u201d used in the city of New York as dwellings for the purpose of living', sleeping, or doing of any household work therein. Held, that this section is unconstitutional being in violation of the provision of \u00a7 16, article 3, of the State Constitution, that no local act \u201cshall contain more than one subject and that shall be embraced in the title,\u201d because the act is a local one and relates to two distinct subjects, one of which, is the offense set forth in section one, which is not only not described in the title, but by the frame and phrase of that title is expressly excluded from it.\nThe doctrine that if a local act contains a subject which is fully expressed in the title, it is valid as to that one subject, although invalid as to a subject not expressed, only applies when there are two or more subjects, some expressed and some not expressed.\nAn act cannot be amended by a court by striking out general words and then after inserting more limited ones, holding the act good as amended.\nA statute must stand or fall just as it is enacted without reference to extraneous facts developed in cases under it.\nAppeal by the relator, David A. Paul, from an order of October 13, 1883, affirming an order of Hon. George C. Barrett, made at Special Term, Chambers, October 12, 1883, at Hew York, dismissing wafts of habeas corpus and certiorari, and remanding the relator to the custody of the keeper of the Third District Police Court Prison in said city.\nThe relator Paul was arrested on a warrant issued by Police Justice Pattersou in Hew York city, and held for trial on charge of violating chapter ,93 of the Laws of 1883, entitled \u201c An act to improve the public health in the city of Hew York by prohibiting the manufacture of cigars and the preparation of tobacco in any form in the tenement houses in said city.\u201d The two sections of the act which describe the offense are as follows :\nSection 1. \u201c The manufacture of cigars or preparation of tobacco in any form, in any rooms or apartments which, in the city of Hew York, are used as dwellings for the purpose of living, sleeping, or doing any household work therein, is hereby prohibited.\u201d\nSection 2. \u201cNo part of any section of any floor in any tenement house in the city of New York in which the manufacture of cigars or the preparation of tobacco is carried on, shall be used for dwelling purposes.\u201d\nIt appeared by the testimony taken before the police justice that the relator David A. Paul and his family occupied, the connected rooms on one side of the middle hallway in the fourth story of the tenement house No. 375 East Eighth street, in the city of New York. This suite of apartments runs from front to rear of the house. The rear room, with windows opening to the air, was used as the kitchen and dining-room. There were two rooms used as bed-rooms, with windows to the hallway, and the .room on\" the front of the house, with windows opening to the street. In this front room the relator made cigars.\nWilliam M. Evarts, A. J. Dittenhoefer, and Morris Wise, for relator, appellant.\n\u2014 The act is local, and embraces more than one subject. It is therefore unconstitutional under section 16, article 3 of the State\u2019 Constitution which provides that \u201c no private or local act, which may be passed bv the Legislature shall embrace more than one subject, and that shall be expressed in the title.\u201d\nInasmuch as the act under review in terms prohibits the manufacture of cigars only in the city of New York it is local. Gaskin v. Meek, 42 N. Y. 186; 8 Abb. N. S. 312; People v. O\u2019Brien, 38 N. Y. 193.\nThe offenses set forth in the first two sections of the act are two separate and distinct offences.\nThe offense mentioned in section one is not expressed in the title of the act.\nSamuel Hand, Thomas Allison, John H. Strahan, and John Vincent, assistant district attorney, for respondent.\nThe act only embraces one subject, the\" protection of the public health against dangers arising from the manufacture of cigars, and the preparation of tobacco in tenement houses in Hew York city. All its provisions are pertinent to that subject.,\nIt is objected that section 1 would embrace other prem-, ises than tenement houses. If that be granted, yet it does not follow,that the provisions therein contained are not the proper means to the end expressed in the title of the act. Certainly the enforcement of that provision' would tend to prevent,- and aid in preventing, the manufacture of cigars or the preparation of tobacco in tenement houses. That it might do more, does not make the act void within the constitutional provision referred to. That provision does not require the details of the bill to be expressed in the title of an act, but merely its subject. Tifft v. City of Buffalo, 82 N. Y. 204, 211; Matter of Volkening, 52 N. Y. 650; Matter of Mayer, 50 N. Y. 504; Harris v. People, 59 N. Y. 599; Village of Gloversville v. Howell, 70 N. Y. 287, 290.\nBut even if the first section did include matters not expressed in the title, that would be no ground for declaring the whole act void or the appellant\u2019s detention illegal. He confessedly manufactured cigars in a tenement house in Hew York city, and his offense falls under section two. The first section is a- separable one, and could be stricken from the act, and that which remains would be complete in itself and capable of being executed in accordance with the apparent legislative, intent, wholly independent of that thus rejected.\u201d Matter of Village of Middleton, 82 N. Y. 196, 202, 204; People ex rel. City of Rochester v. Briggs, 50 Id. 553, 565, 566; Kerrigan v. Force, 68 Id. 381, 383, 384; Matter of Metropolitan Gas Co., 85 N. Y. 526; Matter of Ketchum, 31 How. 346, 347, 362 ; Cooley Const. Lim. (5th ed.) 211, 212; Matter of Ryer, 72 N. Y. 1, 2, 3; Stuyvesant v. Mayor, 7 Cow. 588.\nVery elaborate points were used on both sides on the question whether the enacting of the law was or was not a constitutional exercise of the police power of the State in matters affecting public health. As the court did not pass on this question the portions of the points relating thereto are omitted."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 25,
+  "last_page_order": 35
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1167724,
+  "name": "MATTER OF GRAY",
+  "name_abbreviation": "In re Gray",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "302",
+  "last_page": "307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 11573,
+    "name": "New York Court of Oyer and Terminer, Albany County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "37 N. Y. 413",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2043954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/37/0413-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 159",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015675
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0159-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 494,
+    "char_count": 12018,
+    "ocr_confidence": 0.552,
+    "pagerank": {
+      "raw": 1.4292197538457575e-07,
+      "percentile": 0.6507035738377025
+    },
+    "sha256": "56c5af01a014844b1b1f138e4527bc405390ef8e250409b826d268e3adb18078",
+    "simhash": "1:f7bafc442727ae82",
+    "word_count": 2079
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MATTER OF GRAY."
+    ],
+    "opinions": [
+      {
+        "text": "Westbrook, J.\nThe relator, John H. Gray, who is now detained in the Albany county penitentiary under a warrant of commitment from James V. Smith, a justice of the peace of the town of Greenfield, in the county of Saratoga, asks to be relieved from such imprisonment, upon the ground that the commitment shows no offense known to the law.\nThe commitment recites that Gray was, on the 10th day of December, 1883, arraigned before a court of Special Sessions held by James V. Smith, a justice of the peace in the town of Greenfield, Saratoga county, to answer for the crime of \u201c assault and battery committed on Norman Potter,\u201d and having been \u201c convicted of said offense,\u201d the court adjudged and determined that Gray should be committed to the Albany county penitentiary, there to be kept at hard labor for the term of four months.\nIt is insisted on behalf of the relator as the principal ground for the discharge, that there is now no such crime known to the law as \u201c assault and battery,\u201d as the offense formerly known by that name is now, by the Penal Code, styled and designated an \u201c assault in the third degree.\u201d\nA reference to section 219 of the Penal Code shows that the terms 11 assault \u201d and \u201c assault and battery \u201d have not become obsolete, because that section provides that \u201c a person who commits an assault or an assault and battery ... is guilty of an assault iu the third degree.\u201d It is true that an assault and battery may be committed under such circumstances as to amount to a graver crime than an assault in the third degree. Penal Code, \u00a7\u00a7 217, 218. In charging the graver offenses, however, the commission of the acts marking them must be averred. An allegation of a simple assaulting and beating, and a conviction thereof, is only a statement of a charge and conviction of a simple assault and battery, which by the Penal Code is declared to be \u201c an assault in the third degree.\u201d The point then urged in behalf of the defendant is, that although the commitment has described the act of which the defendant has been convicted in the very language which the statute has used to mark and designate the crime of an assault in the third degree, yet, as the crime has not also been called by its technical name, his detention is illegal.\nThis position cannot be sound, because the Code itself, by using the same language in defining an assault in the third degree, makes it clear that the description of the offense in the commitment is one well known to the law. It cannot be at all important that the crime shown by the commitment should be called by its technical name, provided the description therein of the act which constitutes the offense is clear and precise, and leaves no doubt as to its exact character. No more accurate statement of the one committed by the defendant can be given than that contained in the warrant of commitment, because it is therein alleged that the defendant was charged with the commission of the very act or acts which the section referred to declares to be an assault in the third degree, and was duly convicted of the perpetration thereof. It distinctly states that the defendant was duly charged with an \u201c assault and battery committed on Norman Potter,\u201d and that he was \u201cconvicted of said offense,\u201d which is only declaring that he was, according to law, convicted of the crime of assaulting and beating Norman Potter, upon which conviction he was sentenced to imprisonment. As there is no allegation in the warrant of anything more than a simple assault and battery, we know that the crime committed, and on account of which the defendant is enduring punishment, is an assault in the third degree, as that offense is defined by the Code.\nA reference also to the record of conviction shows that the crime which the defendant committed, and which in both the warrant of commitment and record is called \u201c an assault and battery on Norman Potter,\u201d was properly so designated, for in describing the act called as assault and battery, it is further stated to have been committed by \u201c striking and punching \u201d the complainant, Norman Potter, several times with a stick, and that after having been duly arraigned upon such charge, and having pleaded not guilty, the \u201c defendant was convicted of the charges above specified.\u201d There is no allegation in the record that the beating was charged to have inflicted \u201c grievous bodily harm,\u201d nor that he was convicted of any such beating so as to make it an assault in the second degree. Penal Code, section 218. It therefore shows a conviction for a simple assaulting and beating with a stick, which is included and covered by the definition of what the Code terms and calls an \u201c assault in the third degree,\u201d\nIt was said upon the argument that the very point involved in this proceeding had been decided in the city of New York by Judge Barrett, who held that a commitment for an assault and battery could not be sustained. Such decision, if made, is of course entitled to great respect. Of the mode, however, in which the question was there presented, or of the reasons given to sustain it, no information was furnished. If the case in which the decision was made was similar to the present, it cannot be adopted as sound. When the warrant of commitment, in statingthe offense of which a prisoner has been convicted, uses the very language of the Penal Code in its definition of an assault in the third degree, and when such language, apart from the Code defines a crime well known to the law, and when the record of conviction by its more particular recital of the facts of the offense, also shows that the crime called in the Code assault in the third degree, has been committed, it would be very technical and narrow to adjudge that because the name by which the offense is now known, is not also used, that therefore the conviction and detention cannot be upheld. The right to detain depends upon the proper conviction of the defendant, of acts which constitute the crime, and when he has been adjudged guilty of such acts and been condemned to punishment therefor, all of which is fully set out in the commitment, he should not be discharged, because in addition to a complete statement of the act which he had been convicted of perpetrating, the committing magistrate did not further state the legal conclusion from the facts averred, that the technical name of the crime which the commission of such acts evinced, was an assault in the third degree. In determining whether or not an individual is guilty of a particular offense, we ask, has he committed the act or acts, which in law make and mark the crime ? The sufficiency of a commitment should be judged by the same rule; and when such an instrument shows a conviction for doing that which is a criminal offense, to hold it void, merely because it omits to give, in addition to the statement showing a due and regular conviction for the perpetration of such acts, the technical name of such offense, is the exaltation of form above substance\u2014the requirement of a name, and the rejection of a description equally exact. A pleading which avers legal conclusions and not facts, is bad. While this rule would not condemn a warrant of commitment, or a record of conviction, as bad, which stated a conviction for a crime by its technical name, without detailing the act or acts constituting it, yet the principle upon which such rule depends is certainly at variance with the hyper-criticism which declares null and incapable of enforcement a judgment of imprisonment rendered upon a conviction for perpetrating certain deeds making a crime, merely because such paper does not also declare that such acts mark a specific crime called by a certain name.\nIn charging an offense in an indictment, it has frequently been held that the exact words of the statute defining the offense need not be used ; that it is sufficient if words of a similar import to those used in the statute are employed. People v. Enoch, 13 Wend. 159; Fitzgerald v. People, 37 N. Y. 413.\nThe reasoning in the cases cited is applicable to the present. Though the crime of which the relator was convicted is not called by its technical name, it is described in language most unmistakable, and in the very words used in the statute to define the offense which the relator has committed. His discharge from imprisonment upon the ground that he has committed no offense known to the law, is clearly untenable, because an offense is plainly and clearly stated both in the commitment and record of conviction. Guilt or innocence of crime, as has previously been stated, depends upon the commission or non-commission by the accused of that which constitutes it. When a commitment shows that a person imprisoned has been, according to law, duly convicted of doing the thing which constitutes the crime, for the perpetration of which punishment is being inflicted, it is not at all important that such commitment should also designate the offense by its statute name.\nFor the reasons which have been given, the writ must be discharged, and the relator remanded to the custody of the keeper of the penitentiary.\nNote.\u2014As there is some misapprehension as to the decision of Justice Barrett (in People v. Keating) referred to on page 304, ante, the following opinion in People v. Maschke (decided 9 February, 1884), is given.\nBarrett, J.\n\" My decision upon a previous application was based upon what I understood to be a ruling of Mr. Justice Clement, of the City Court of Brooklyn. There seems, however, to be some doubt as to that ruling, there being no written opinion or statement of the precise facts, and consequently I have examined the question independently. If the judgment of the Special Sessions had simply convicted the prisoner of assault and battery, I -Should have no hesitation, even upon habeas corpus, in directing a discharge. There are assaults and batteries which are felonies as well as misdemeanors. I find, however, upon examining the copy judgment, that the prisoner whose case is now before me was convicted of the misdemeanor of assault and battery. This, I think, sufficiently describes the offense as assault in the third degree, though the precise statutory definition would have- been better. In its -lists of misdemeanors, the Code enumerates \u2018 assault in the third degree (Penal Code, \u00a7 56, subdiv. 2), while the other degrees are treated as felonies. The misdemeanor of assault and battery is that assault and battery which is not a felony. The prisoner was, therefore, convicted of the assault and battery referred to in \u00a7 219; that is the assault and battery not specified in the preceding sections, 217 and 218. In other words, of assault and battery which is not a felony, consequently of assault in the third degree. In my judgment, therefore, a conviction of \u2018 the misdemeanor of assault and battery \u2019 is equivalent to a conviction of \u2018 assault in the third degree.\u2019 As it thus appears that the court acted within its jurisdiction, the writ must be dismissed and the prisoner remanded.\u201d\nThis decision was affirmed by the General Term, ante, p. 168.",
+        "type": "majority",
+        "author": "Westbrook, J. Barrett, J."
+      }
+    ],
+    "attorneys": [
+      "T. F. Hamilton, for John H. Gray, petitioner.",
+      "D. Cady Herrick, district attorney, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Oyer and Terminer\u2014Albany County.\nJanuary, 1884.\nMATTER OF GRAY.\nWarrant or Commitment.\u2014\u201c Assault and Battery\u201d is Assault in Third Degree.\nIt is not necessary that in a warrant of commitment, the crime of which the prisoner was convicted, should be called by its technical name, provided the description of the act which constitutes the offense is clear and precise, and leaves no doubt of its exact character. Therefore a warrant of commitment which shows a conviction of \u201cassault and battery \u201d is a sufficient statement of a conviction of an assault in the third degree.\nHabeas Corpus.\nThe facts are stated in the opinion.\nT. F. Hamilton, for John H. Gray, petitioner.\nD. Cady Herrick, district attorney, for respondent.\nThe prisoner is held upon the judgment of the court, not upon the warrant of commitment. People ex rel. Evans v. McEwen, infra. The case at bar is supported by People v. Maschke, ante, p. 168."
+  },
+  "file_name": "0302-01",
+  "first_page_order": 326,
+  "last_page_order": 331
+}

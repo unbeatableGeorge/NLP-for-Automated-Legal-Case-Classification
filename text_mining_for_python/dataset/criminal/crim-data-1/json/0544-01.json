@@ -1,0 +1,66 @@
+{
+  "id": 1164490,
+  "name": "PEOPLE v. POUCHER",
+  "name_abbreviation": "People v. Poucher",
+  "decision_date": "1883-10",
+  "docket_number": "",
+  "first_page": "544",
+  "last_page": "547",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 544"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 323,
+    "char_count": 6726,
+    "ocr_confidence": 0.567,
+    "pagerank": {
+      "raw": 1.1013136015606778e-07,
+      "percentile": 0.5684466546119098
+    },
+    "sha256": "e8405b6b39ef64c55488eabdca51f21193741d1e15d6768de03cec556d012699",
+    "simhash": "1:250ae3d81db07ec2",
+    "word_count": 1147
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. POUCHER."
+    ],
+    "opinions": [
+      {
+        "text": "Hardin, J.\nInasmuch as the jury found a verdict of guilty, the prisoner was convicted of grand larceny, and sentenced for such offense, as for the offense of grand larceny in the second degree, section 534 of the Penal Code. Therefore, it is important to inquire whether the conviction of the defendant of grand larceny in the second degree, was regular and in accordance with law.\nThe indictment charged the defendant \u25a0 with obtaining one ring of the value of $8, and certain coins. There was proof that,he obtained the ring, under.such circumstances as to bring the case within the provisions of section 528 of the Penal Code. There was no proof of obtaining the coin named and described in the indictment, or of any other coin, which would amount to more than $8.25. There was, therefore, no proof of obtaining the things named in the indictment, of a value beyond $8.25, and hence the proof sustained the indictment only to the extent named, and that valuation would carry the degree of the defendant\u2019s crime within the definition of petit larceny.\nBut the respondents were allowed to substitute for the coin named another thing. They did not ask to make an amendment to the indictment which would change the description of the thing named. The name of the thing described in a general sense was coin; in a specific sense, eagle, half eagles, silver dollars. Mo proof was furnished that the name of the thing described was erroneous or imperfect.\nBut it turned out in proof that the defendant did not obtain the things named and that he did obtain currency, an entirely different thing. Section 293 of the Code of Criminal Procedure, has lodged with the court a new power in respect to indictments, and authorized their amendment in certain cases where there is a \u201c variance between the allegation therein and the proof in respect to time, or in the name or description of any place, person, or thing.\u201d . If there had been an erroneous description of the coins named in the indictment, doubtless the description might have been amended and been made to conform to the proof. But we do not see how one thing named, to wit, coin, can be stricken out, and another thing, to wit, currency, be substituted in place of the thing stricken out, under the guise of amending the description of the thing named.\nIn short, we are of the opinion that the section does not authorize an amendment of an indictment which charges the larceny of coin enumerated, by inserting an allegation of currency, or of \u201c bank-bills, lawful money of the United States of a kind, number and denomination unknown, and upon a bank unknown.\u201d\nTherefore we say the amendment was not warranted by sec-\u00bb tion 293 of the Criminal Code, and its allowance was error, prejudicial to the defendant. If the amendment had not been allowed, the grade of the offense would have been that of petit larceny; with the amendment allowed, the general verdict established an offense of the grade of grand larceny in the second degree.\nNumerous other exceptions were taken in the course of the trial, which need not be examined, as we are of the opinion that a new trial should be granted for the error we have pointed out.\nJudgment and conviction, and order amending the indictment, and the order denying a new trial reversed, and proceedings remitted to the Court of Sessions of Onondaga county, with directions for a new trial.\nSmith, P. J., and Barker, J., concur.",
+        "type": "majority",
+        "author": "Hardin, J."
+      }
+    ],
+    "attorneys": [
+      "John H. Drake, and Fuller & Kellogg, for the appellant.",
+      "H. Hoyt, district attorney, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014fourth Department.\nOctober, 1883.\nPEOPLE v. POUCHER.\nIndictment.\u2014Amendment upon trial.\u2014Larceny.\nSection 293 of the Code of Criminal Procedure gives the court upon the trial a new power authorizing the amendment of indictments in certain cases where there is \u201c a variance between the allegation therein and the proof, in respect to time, or in the name or description of any place, person or thing; \u201d but under said section the court cannot strike out from an indictment for grand larceny, a clause charging the taking of certain gold and silver coin, and substitute therefor a clause charging the taking of \u201c bank-bills, lawful money of the United States,\u201d etc.\nAppeal from a judgment of the Court of Sessions of Onondaga county, convicting the defendant of the crime of grand larceny in the second degree.\nThe appellant was convicted of grand larceny, in the Onondaga county Oourt of Sessions, and sentenced to, the State prison.\nThe indictment charges that by means of a draft for fifty-three dollars and twenty-five cents, drawn by the defendant upon II. M. Whitney, he obtained from Joseph Seymour and others, \u201c one ring of the value of eight dollars, two gold coins of the kind usually known as eagles, of the value of ten dollars each, two gold coins of the kind usually known as half eagles, of the value of five dollars each, fifty silver coins of the kind usually known as dollars, of the value of one dollar each, of the proper money\u2019s, valuable things, goods, chattels, personal propertyand effects of the said Joseph Seymour, . . . and . . . did designedly receive and obtain the said ring of the value of eight dollars, two gold coins usually known as eagles, two gold coins usually known as half eagles, fifty silver coins usually known as dollars, of the value aforesaid, of the said Joseph Seymour, . . . by means of false pretenses, and representations aforesaid and with intent, feloniously to cheat and defraud the said Joseph Seymour ... of said ring, coins, and money aforesaid, of the value aforesaid.\u201d\nBy the proof it appeared that the appellant obtained the ring described in the indictment, but did not obtain any of the other property described in the indictment, but did obtain forty five dollars in currency, and twenty-five cents in coin or change. Upon the trial the court granted an order directing, \u201c that said indictment in this action be amended by substituting therein in the place and stead of the words fifty silver coins of the kind usually known as dollars of the value of one dollar each, and in the place and stead of the property described in, and set forth as dollars and silver coins in said indictment, wherever the same occur therein, the words following, to wit: bank-bills, lawful money of the United States, of a kind, number and denomination, unknown, and upon banks unknown, of the value of forty-five dollars, a more particular description of which cannot be given.\u201d An exception was taken by the defendant when the amendment was ordered. The indictment was not changed in fact. The District Attorney refused to allow the indictment to be changed, and it never was changed, he claiming that the order operated as an amendment.\nJohn H. Drake, and Fuller & Kellogg, for the appellant.\nH. Hoyt, district attorney, for the people."
+  },
+  "file_name": "0544-01",
+  "first_page_order": 568,
+  "last_page_order": 571
+}

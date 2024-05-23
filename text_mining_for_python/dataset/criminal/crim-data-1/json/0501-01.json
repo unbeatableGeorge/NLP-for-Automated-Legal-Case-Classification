@@ -1,0 +1,97 @@
+{
+  "id": 1164496,
+  "name": "PEOPLE v. THOMPSON",
+  "name_abbreviation": "People v. Thompson",
+  "decision_date": "1883",
+  "docket_number": "",
+  "first_page": "501",
+  "last_page": "504",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 501"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "60 N. Y. 65",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wend. 237",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003227
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/1/0237-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y. 56",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523190
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/60/0056-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 497,
+    "char_count": 9158,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.30211085665612164
+    },
+    "sha256": "e45eedc6889d7f57bfca97e8f5ccdd20ad75c0dd9a9d573223946f26ebbe14de",
+    "simhash": "1:988a571eb4dcc25f",
+    "word_count": 1606
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. THOMPSON."
+    ],
+    "opinions": [
+      {
+        "text": "Pratt, J.\nThe defendant was indicted for a misdemeanor, under chapter 784 of the Laws of 1868, in that he had taken oysters from, and for disturbing oysters upon a certain oyster bed in Pumpkin Patch Channel, a part of Jamaica Bay, which oysters had been planted by one Vreeland, to whom a license by the authorities of the town of Flatlands had been granted. The defense was that the oyster bed was a part of the public domain, being a part of the tide-waters of Jamaica Bay ; that defendant was raking for clams upon a natural clam bed which existed at that point; that he had the right there to rake for clams in the public waters; and that the disturbance of the oysters was a necessary incident of his right to rake for clams. It is conceded that the object of the proceeding is to determine the validity and force of the license under the act of 1868, and the right of the license as against the public. It was admitted that this bed was within the town of Flatlands, and hence within the territory of the State of New York. It is not pretended that the town of Flatlands ever obtained any exclusive right to the fisheries within the waters which lie within its territories. There was no evidence of any grant to the- town, and no presumptive right is claimed in its behalf. The case, therefore, shows that these waters were a part of the navigable tide-water within this State. Assuming the power, could the State exercise it through the supervisor and justices of the peace of the town \\ We think the first question must be answered in the affirmative.\nThe opinion of the late Chief Justice Church, with the concurrence of all of his associates (Trustees of Brook-haven v. Strong, 60 N. Y. 56), indicates very clearly that at common law, the king had the right to grant to an individual, or to the inhabitants of a town, the lands under water, and the exclusive right to fish in the waters flowing over the same. We fail to see why the State has not exercised the same right as the king could have exercised in this respect. We find no prohibition or limitation upon that power. The State might have ceded the entire land and water to the town, or to individuals, subject only to the superior right to use the navigable water\u2019s for the purposes of commerce and navigation. \u00a1Rogers v. Jones, 1 Wend. 237; Trustees of Brookhaven v. Strong, 60 N. Y. 65.\nIt is only where it undertakes to grant the exclusive right to fisheries, disconnected with any right upon, or connected witli the soil, or in disregard of the rights of owners of the soil, that there appears to be any invasion of private right. Even in that case, it is the private right, either of the owner of the soil under or adjacent to the waters, which is disregarded or invaded. Why may not the State, as the owner of the soil and waters, subject to the public right of commerce and navigation, grant away the whole, or any part, of its own aquatic domain ? If it may grant the land and the water, why may it not grant the land without the water, or its right in the water without the land? This would seem especially plain for the purposes of planting trees, erecting or extending docks, etc., and why not for planting that kind of product which, although classed as fish, is nevertheless' a resident and dependent upon the soil almost as much as grain sown upon agricultural lands ? We cannot find the precise points decided of an original grant by the State, but it is quite plain that the State has steadily, since its organization, made analogous grants of land under water, and ratisfied old claims of that nature. The authority for such acts is too old to be questioned. If these views are correct, it would seem to follow that the State might exercise the power of leasing these lands and its right in the waters, especially for purposes which chiefly afiect the soil under the water. It would certainly authorize dumping earth at any particular point and raising an island. It could authorize the occupation of bars, or other acts, as might develope them. Why not authorize the use of the bottom for substantial sub-marine agriculture, with the incidental rights of penetrating the waters to reap the crop ? Another view\" of the subject is, that it is simply the exercise of jpolice power.\nWe come, then, to the second question. Could the State properly exercise this power through the town officials ? We \u2022 fail to discover any. restriction or hesitation in this subject. There was no delegation of the power to determine whether or not the lands and waters should be, used, but merely the selection of officers through and by whom the State should attest the fact that it had leased, and .the qualifications of the lands for the purposes of the lease, i. e., the extent in acreage, and whether or not there was a natural oyster bed.\nBesides these, the State is really, by this act, following a policy for the promotion of the public good, and the benefit of all its inhabitants. It is encouraging oyster culture, affording special inducements to those who will engage in the industry upon the public domain. It protects them from annoyance, and intrusion by others upon the special field of their operations\u2014the bottom. It is simply a police regulation ; at most an exercise of police power. Any other reasoning would lead to the conclusion that the public interest in fish culture, for the purposes of food, was wholly subservient to the individual right of each citizen to the mere pastime of catching the fish. The method by which the State shall develope its resources, especially upon the public domain, must be a matter within the discretion of the representatives of her people\u2014the legislature. We fail to see why the State should not select these town officers to exercise this right, quite as readily as it could have selected new officers for that purpose.\nWho would deny that the State, through its own constabulary, might protect its lessees and licensees in the limitations upon fishing, quite as properly as it can limit the methods of taking fish or game to particular seasons of the year % The State might well prefer to encourage the planting of oysters, rather than to preserve natural clam beds, and that is an essential feature of the bed in question. We think the bed in question was clearly within the powers of the legislature, and that it is valid. If these views are correct, it follows that the judgment and conviction must be .affirmed.\nBaui\u00edakd, P. J., and Dykmait, J., concur.",
+        "type": "majority",
+        "author": "Pratt, J."
+      }
+    ],
+    "attorneys": [
+      "Morris & Pearsall, for the prisoner, appellant.",
+      "Isaac S. Catlin, district-attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nPEOPLE v. THOMPSON.\n1883.\nNavigable Watebs\u2014Fisheries\u2014Poweb oe State to Gbant Eights in\u2014Misdemeanob\u2014L. 1868, o. 734.\nAt common law, the king had the right to grant to an individual or to the inhabitants of a town, subject to the right of navigation, the lands under navigable waters within its jurisdiction, and the exclusive right to fish in the waters flowing over the same; and the State to-day possesses the same power, and may grant in like manner the exclusive right of fishery in any portion of its aquatic domains, without granting the submerged land.\nThe State may also grant to an individual, or the inhabitants of a town, the exclusive right to use the bottom under its waters, for submarine agriculture, e. g., oyster culture, and with it the incidental right of penetrating the waters to reap the crops.\nSuch authority is also to be upheld on the ground of public interest, as an exercise of police'power.\nAccordingly, held, that it was within the inherent power of the State to authorize by chapter 734 of the Laws of 1868, certain officers of the towns of Gravesend and Flatlands, respectively, to grant licenses to individuals, giving the exclusive right to use the land under the public waters within said towns, for oyster culture, as therein prescribed; also, that it was within the power of the State to protect such licensees from all interference of others, subject only to the right of navigation, and that a conviction of misdemeanor for a violation of said act must be upheld where the evidence, is sufficient.\nAppeal from a judgment of the Court of Sessions of Kings county of May 1, 1883, convicting defendant of a misdemeanor, in violating the provisions of L. 1868, c.'734.\nIn the year 1880 J. H. Yreeland obtained a permit or license, in pursuance of chapter 734 of the Laws of 1868, to plant oysters in Jamaica Bay. In pursuance of such permit, he occupied three acres in the channel known as Pumpkin Patch Channel. The place so occupied was a natural clam bed. The defendant went upon these grounds, as he had been in the habit of doing before oysters were planted there, for the purpose of taking clams, in doing which he necessarily disturbed the oysters, for which act he was indicted, as constituting, a misdemeanor under said statute. At the close of the case defendant\u2019s counsel requested the court to direct a verdict of acquittal, on the ground the license did not protect the holder in planting oysters opon a natural clam bed. The request was declined, and exception taken.\nMorris & Pearsall, for the prisoner, appellant.\nIsaac S. Catlin, district-attorney, for the people, respondent."
+  },
+  "file_name": "0501-01",
+  "first_page_order": 525,
+  "last_page_order": 528
+}

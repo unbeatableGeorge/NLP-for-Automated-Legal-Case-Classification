@@ -1,0 +1,92 @@
+{
+  "id": 1164433,
+  "name": "AUGSBURY v. PEOPLE",
+  "name_abbreviation": "Augsbury v. People",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "299",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "83 N. Y. 465",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 N. Y. 34",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166494
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/70/0034-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 483",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 442,
+    "char_count": 7901,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 9.31052265537145e-08,
+      "percentile": 0.5128559618726806
+    },
+    "sha256": "fa98bb38b1f197f334a8f8c3c30d6aee2243123a044cfdf7b9e2380f31e30d8f",
+    "simhash": "1:35f36db4652c90e8",
+    "word_count": 1388
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AUGSBURY v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Hardin, J.\nAfter the prisoner\u2019s case in defense had been put in, the prosecution called Dr. Trowbridge and examined him, and he testified :\n(1) That he had examined the prisoner on three occasions \u201c since his incarceration in jail* especially with regard to the condition of his mind, and that lie did not notice anything in the examination of the prisoner on those three different occasions to indicate insanity.\u201d\n(2) After the witness had read the testimony of Nancy Augsbury and of Justus Chase, two witnesses who had given evidence touching the mental condition of the prisoner, he was asked if the \u201c symptoms described are indications of insanity,\u201d and his answer was that they were not.\nIn the course of the cross-examination of this witness, he was asked the following question, and to it the objections stated were made, and the objections taken were sustained and an exception taken.\nThe questions, objections and ruling appear in the case viz.: \u201c Q. Supposing a man, on a bright day, in the morning, in plain sight of a frequently traveled road, goes into a field where three of his neighbors are at work, with whom he never has had any trouble, never has threatened any personal violence against them in any way; that he passes one of these parties who says: \u2018 Good morning, uncle Dave,\u2019 and he bows in return; he passes on to another of the neighbors who is working with a team in the field ; that he says to him, \u2018 Sam, I see you are at it again;\u2019 Sam replies in substance, \u2018 I have got the farm, and got to get in my crops;\u2019 before he finishes that sentence, the prisoner shoots him through the chest; he then turns around and fires at the person he has passed, shooting him through the fleshy part of the arm; he .then turned to the person whom he addressed as Sam, says to him again, \u2018 Sam, you have commenced this thing, now we must have blood for blood,\u2019 and shoots him again in the hip; the other of those neighbors rushes up calling on him to stop, attempted to unfasten the horses, who are restive, from the drag; as he stoops down, he shoots him in the hip, and as he rises, in the shoulder; then passes off and passes on to his house, and goes deliberately to the jail; would you say that was any indication of insanity?\u201d Objected to by the prosecution that there is no foundation laid for it in the evidence, and secondly as re-opening the defense. Objection sustained. Defense except.\nIf the ruling rested upon the objection that the defense could not re-open the case, and was made in the reasonable exercise of the discretion of the trial court, we could not review it to any advantage of the plaintiff in error, unless we could say there had been an abuse of discretion. Williams v. Sargent, 46 N. Y. 483 ; People v. Cook, 4 Seld. 67.\nSo, too, if the ruling is sustainable it must be upheld on the precise grounds specified at the trial. Tooley v. Bacon, 70 N. Y. 34; Matter of Crosby v. Day, 81 Id. 245.\nBefore we can say that the ruling was justifiable upon the ground that the defense had no right to re-open the case, we must determine that the evidence was not allowable for the purpose of testing the skill and the capacity and the opinion of the expert.\nWe think for the latter purpose it was admissible and a legitimate question to be put for such a purpose. Therefore, there is no force in the objection that \u201c no foundation had been laid for it \u201d in the evidence. After the very general opinions given by the Dr. Trowbridge, based upon personal examinations of the prisoner and upon the evidence of two of his important witnesses, adverse to the defense interposed, there was the jnost ample foundation laid for a thorough searching and critical cross-examination of the witness.\nThe question propounded was hypothetical, and evidently intended to be based upon the evidence in the case and the theory maintained by the prisoners counsel as to the evidence offered, and therefore the question was allowable. Cowley v. People, 83 N. Y. 465 ; Guiterman v. L. S. Co., 83 Id. 366 ; Dilleber v. Home Ins. Co., 87 Id. 83.\nThe defendant in error, is not in a situation to say that some slight mistake was made in reciting the evidence alluded to in the hypothetical question. That position would not accord with the doctrine of the cases we have quoted. Besides, it must be assumed that no such position was taken before the trial court, as it does not appear in the objections there taken, and to them the people must be now confined.\nWe cannot say that the erroneous ruling with which we are dealing caused no harm to the prisoner.\nDr. Trowbridge had given very important evidence upon the essential points of the defense, and the counsel of the prisoner in preserving the rights of the prisoner adopted a mode in his cross-examination that has the sanction of almost an every day practice in the leading trials of criminals when expert testimony is used.\nUpon the evidence in the case as it has come to ns, there is much tending to support the defense of insanity and we are not at liberty to say that the error we pointed out worked no harm to the plaintiff in error. He is entitled to have a jury pass upon his defense when they have heard all the evidence fro and con, witnesses tested and sifted according to the rules for examination and cross-examination. The latter ought not in such a case as this to be unduly cut off, by too strict rulings or too narrow a range of discretion.\nFor the error we have pointed out, we are of the opinion a new trial should be granted.\nConviction and judgment reversed and proceedings remitted to the Court of Sessions of Jefferson county with directions for a new trial.\nSmith, P. J., and Macombek, J., concur.",
+        "type": "majority",
+        "author": "Hardin, J."
+      }
+    ],
+    "attorneys": [
+      "Joseph Mullen, for plaintiff in error.",
+      "E. C. Emerson, district attorney, for the people, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Courtt\u2014General Term\u2014first Department.\nJanuary, 1883.\nAUGSBURY v. PEOPLE.\nExperts\u2014Cross-examination of.\u2014Insanity.\u2014Trial.\u2014Keopening Defense. \u2014Appeal.\u2014Objections.\nUpon the trial of an indictment for assault with intent to kill, to which the defense was insanity, after the defendant had rested, the prosecution called as an expert, a physician who testified from personal examination of the accused, and upon the testimony of two of the important witnesses for the defense, to his general opinion that the accused was not insane, and upon cross-examination lie was asked a hypothetical question embracing facts in the case and evidently intended to be based upon the evidence and the theory maintained by the defense, calling for his opinion as to the accused\u2019s sanity, which question was objected to by the prosecution, upon the ground that there was no foundation laid for it in the evidence, and also that it re-opened the defense, and the objections were sustained. Held, that, under the circumstances, a basis had been laid for a thorough and searching cross-examination, and that the question was admissible for the purpose of testing the skill, capacity and opinions of the expert, though some slight mistakes were made in reciting the evidence, and that its rejection was ground for a new trial.\nFurther Held, that if the ruling rested upon the objection that the defense could not re-open the case, and was made in the reasonable exercise of the discretion of the trial court, it could not be reviewed to the advantage of plaintiff in error, unless there was an abuse of discretion.\nFurther Held, that the ruling, if sustainable, must be upheld upon the precise grounds taken on the trial.\nWrit of error to reverse a conviction of the plaintiff in error, in the Court of Sessions of Jefferson county, for the crime , of assault with intent to kill, in having shot one Samuel Zoller in the town of Pamelia, on a farm formerly owned by the plaintiff in error.\nDefense was insanity. Verdict guilty, and prisoner sen- \u25a0 fenced to seven years in Auburn prison.\nThe facts are stated in the opinion.\nJoseph Mullen, for plaintiff in error.\nE. C. Emerson, district attorney, for the people, defendant in error."
+  },
+  "file_name": "0299-01",
+  "first_page_order": 323,
+  "last_page_order": 327
+}

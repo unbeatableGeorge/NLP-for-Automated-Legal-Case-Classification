@@ -1,0 +1,90 @@
+{
+  "id": 1167725,
+  "name": "PEOPLE ex rel. KNOWLTON v. SADLER",
+  "name_abbreviation": "People ex rel. Knowlton v. Sadler",
+  "decision_date": "1884-09",
+  "docket_number": "",
+  "first_page": "438",
+  "last_page": "441",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 438"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "60 N. Y. 559",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523196
+      ],
+      "pin_cites": [
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/60/0559-01"
+      ]
+    },
+    {
+      "cite": "32 Hun, 536",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 324,
+    "char_count": 5237,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 1.606997171242164e-07,
+      "percentile": 0.6848285363355161
+    },
+    "sha256": "7631a3e262696b5d84f9698007d8e75a32c3fd21a11411a1acd3350a912e5e70",
+    "simhash": "1:743d622eb60eee51",
+    "word_count": 916
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE ex rel. KNOWLTON v. SADLER."
+    ],
+    "opinions": [
+      {
+        "text": "Vann, J.\nThe return shows that, on the 21st of August, 1884, at a court of Special Sessions, held by a justice of the peace, the relator was duly convicted of the crime of petit larceny, and was thereupon sentenced to imprisonment in the Onondaga county penitentiary for the term of one year. A commitment in the usual form, reciting these facts, constitutes the authority and true cause of the imprisonment of the relator.\nBy section 56 of the Code of Criminal Procedure, jurisdiction is conferred upon courts of Special Sessions to hear and determine certain charges, and among others petit larceny. By section 535 of the Penal Code, petit larceny is declared to be a misdemeanor, and by section 15 a person convicted of a crime declared to be a misdemeanor, for which no other punishment \u25a0is specially prescribed by statute, is punishable by imprisonment in a penitentiary or county jail for not more than one year, or by a fine of not more than $500, or by both. There seems to be no other provision of law now in force fixing the punishment for this offense.\nBy section 717 of the Code of Criminal Procedure, the greatest punishment that can be inflicted by a court of Special Sessions upon any offender convicted before it, is a fine not exceeding $50, and imprisonment not exceeding six months. The magistrate who imposed sentence upon the relator apparently had in mind section 15 of the Penal Code, and disregarded section 717 of the Criminal Code. The sections cited from the Penal Code do not expressly nor impliedly repeal the section cited from the Criminal Code, as will be seen by comparing the last section of both Codes. Each Code provides that when construed in connection with other statutes, it must be deemed to have been enacted on the fourth day of January, 1881. Criminal Code, \u00a7 963; Penal Code, \u00a7 727. Nor does it necessarily follow that' the two Codes are inconsistent, for it may have been the intention of the Legislature when it conferred exclusive jurisdiction upon courts of Special Sessions to hear in the first instance a large number of offenses, to prevent those courts, usually held by inexperienced men, from inflicting as severe punishment for an offense as could be imposed by a court of record upon the removal of the case thereto. Code Crim. Pro. \u00a7\u00a7 56, 57.\nIt is conceded on the part of the people that the court of Special Sessions had no power to sentence the relator for the term of one year. It is, however, contended that the whole sentence is not void, but only so much thereof as was unauthorized, arid that hence the prisoner should be detained for the longest term that the court could have legally imposed.\nIf under any circumstance, or upon any state of facts, the court of Special Sessions, had power to inflict the punishment specified in the commitment, it might be held that the error was not one that could be reviewed upon habeas corpus. People ex rel. Devoe v. Kelly, 32 Hun, 536. In such a case the relator might not be entitled to the writ, because his detention would be by virtue of the final judgment of a competent tribunal of criminal jurisdiction, and hence his only remedy would be to appeal, and have his sentence modified or corrected in that way. Id.; Code of Civ. Pro. \u00a7 2016. But this commitment shows upon its face that it was issued to enforce a judgment that the court not only had no power to render, but was actually prohibited from rendering. The judgment was not merely erroneous. It was not merely unauthorized. It was forbidden by law. The statute says that the court of Special Sessions may render judgment \u201c of fine or imprisonment, or both, but the fine cannot exceed fifty dollars, nor the imprisonment six months.\u201d Code Cr. Pro. \u00a7 717.\nThe judgment is, therefore, one that the court could not under any circumstances have pronounced, and is as absolutely void as if the relator had been sentenced to death. People ex rel. Tweed v. Liscomb, 60 N. Y. 559, 568. It is my duty to' order the discharge of the prisoner.\nNote.\u2014There is an obvious distinction between the present case and People ex rel. Devoe v. Kelly, ante, p. 428. In the case at bar, the relator was undergoing a void sentence, in the latter case the prisoner was still in custody of the sheriff, under a valid judgment, and the void sentence had not yet been executed.",
+        "type": "majority",
+        "author": "Vann, J."
+      }
+    ],
+    "attorneys": [
+      "M. E. Driscoll, for relator.",
+      "C. H. Lewis, district attorney, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014Chambers\u2014Fifth District.\nSeptember, 1884.\nPEOPLE ex rel. KNOWLTON v. SADLER.\nImprisonment Under Void Judgment.\nA defendant imprisoned under a commitment which shows on its face that it was issued to enforce a judgment which the court under no circumstances could pronounce, will not be forced to appeal, but will be released on habeas corpus.\nThe powers of courts of Special Sessions as to inflicting punishment are not enlarged by section 717 of the Code of Criminal Procedure. A fine not exceeding fifty dollars, or an imprisonment of six months, or both, is still the extent of the judgment which such courts can render.\nWbit of habeas corpus to inquire into the cause of the detention of Adsin Knowlton, the relator, by Ambrose Sadler, superintendent of the Onondaga county penitentiary.\nThe facts appear in the opinion.\nM. E. Driscoll, for relator.\nC. H. Lewis, district attorney, for respondent."
+  },
+  "file_name": "0438-01",
+  "first_page_order": 462,
+  "last_page_order": 465
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1164500,
+  "name": "PEOPLE v. NOBLES",
+  "name_abbreviation": "People v. Nobles",
+  "decision_date": "1883-04",
+  "docket_number": "",
+  "first_page": "459",
+  "last_page": "462",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 459"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Sess.",
+    "id": 10462,
+    "name": "New York Court of Sessions"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 364,
+    "char_count": 6383,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 1.7410139935871477e-07,
+      "percentile": 0.7070201776242553
+    },
+    "sha256": "e9356bf0ea6a614c7068dba53005561ce13123e856ddb466941db4e94e69ff38",
+    "simhash": "1:d7bdff14e608634d",
+    "word_count": 1134
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. NOBLES."
+    ],
+    "opinions": [
+      {
+        "text": "The statute is: as follows :\n\u00a7 1. No' person, company or corporation shall manufacture or have in this State, or deal in, sell or give away, for illuminating or heating purposes in lamps or stoves within the State, oil or burning fluid, whether the same be composed wholly or in part of naptha, coal oil, petroleum or products manufactured therefrom, or of other substances or materials, which shall emit an inflammable vapor, which will flash at a temperature below one hundred degrees by the Fahrenheit thermometer, according to the instrument and methods approved by the State Board of Health of Hew York.\n*******\n\u00a7 3. It shall be the duty of the State Board of Health of Hew Y ork to recommend and direct the nature of the test and instruments by which the illuminating oil, as hereinbefore described, shall be tested in accordance with this act. It shall be the duty of the public analysts, who may now be employed by the State Board of Health, or who may be hereafter appointed, to test such samples as may be submitted to them, under the rules to be adopted by the said board, for which service the said board shall provide reasonable compensation; at the first quarterly meeting of the State Board of Health held after the passage of this'act, it shall adopt such measures as may seem necessary to facilitate the enforcement of this act. .\nSection 4 excepts from the above, in certain cases, naphtha and other light products of petroleum.\nThe evidence on behalf of the prosecution showed that defendant, a dealer in oils, had at divers times sold to one Delano, a retail grocer, in the course of his business, kerosene oil claimed to be below the standard degree; that said grocer had retailed it to his customers; that a certain instrument for testing oils under said act had been prescribed by the State Board of Health. The analyst of the said board for the western district of Hew York (S. A. lattimer, Prof, of Chemistry, Boehester University), testified that he had tested samples of the oil so sold, with the prescribed instrument, and found that the samples flashed at from 11 degrees to 94 degrees. It also appeared that the oil sold was not naphtha, or other light product of petroleum, to be used in accord anoe with \u00a7 4 of the act.\nThe defendant testified that he bought the oil of the Phoenix Oil Company, of Buffalo, supposing it to be of the required standard. He knew Delano was in the grocery business, but refused to state that he knew for what purpose the oil was purchased.\nThe testimony of B. A. Stranahan', an officer of said company, given in behalf of the defense, tended to show that the oil sold defendant, when tested by said company, by an instru- , ment in use by them and different from that prescribed by the State Board of Health, flashed at 104 degrees.\nThe prosecution called, in rebuttal, Dr. E. G-. Love, one of the public analysts of the southern district of Mew York, who testified that the instrument used for tests by Stranahan was not correct; that oil would not flash at as low a temperature under that test as under the one authorized by the Board of Health ; that the_ burning point had nothing to do with the flashing point, as the latter is the point at which the oil gives out an inflammable vapor which ignites, whereas the oil itself may not ignite.\nThe Court charged the jury, in substance, as follows:\nFirst. That the question of the quality of the oil was to be decided, for the purpose of the trial, by the tests, methods, and instruments established by the State Board.\nSecond. That if the jury found that Mobles knew, when Delano purchased the oil, it was to be retailed to customers for \u2022the ordinary purpose, of heating and illuminating, he was liable under the act; that if was not a defense for Mobles to plead that he had no personal'knowledge of the quality of the oil.\nMobles, like every other citizen, was bound to know the law. That if the regulation in regard to testing had been incorporated in the Statute, there could be no question about Mobles having received proper notice; but it was insisted, on the part of the defense, that the question of the methods and regulations regarding the testing having been referred to another body, i. e., the State. Board of Health, for determination, the same rule did \u25a0not apply, and that the people must prove that Mobles received actual notice of these rules and regulations before making the sale ; but the ruling is that as Mobles knew of the passage of the act and the time it was to take effect, the jury would inquire and determine whether it was not his duty to inform himself within a reasonable time as to what rules and regulations had been adopted by the Board of Health.\nThe jury brought in a verdict of guilty.\nISTo appeal was taken.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "G. E. North, district attorney,, and W. P. Prentice, counsel for the State Board of Health, for the people, plaintiff.",
+      "George Bowen, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Sessions\u2014Genesee County.\nApril, 1883.\nPEOPLE v. NOBLES.\nMisdemeanor.\u2014Intent.\u2014Evidence.\u2014L. 1882, c. 292.\u2014 Illuminating Oils.\nUpon the trial of an indictment for selling illuminating oil which was not of the requisite standard under L. 1882, c. 292, the question of the quality of the oil is to be decided by the tests, methods and instruments prescribed by the State Board of Health.\nWhere a wholesale dealer sells such oil to a grocer who retails it in the course of his business, said wholesale dealer is liable under the Act, if the jury find that at the time of such ,sale he knew that said oil was purchased by the grocer to be retailed to customers for the ordinary purposes of heating and illuminating.\nIt is no defense that said wholesale dealer had no personal knowledge of the quality of the oil.\nWhere the tests, methods and instruments to be prescribed by the State Board of Health are, by the terms of the Act, made decisive and controlling, it is for the jury to say whether one who has offended against said law, and who knew of its passage and when it was to take effect, was not in duty bound to inform himself of those regulations, etc., within a reasonable time.\nTrial at the General Sessions of Genesee County of an indictment for violation of L. 1882, c. 295-, entitled An act to> regulate the standard of illuminating oils and fluids, for the better protection of life, health, and property.\u201d Hon. Myron H. Peck, County Judge, presiding.\nG. E. North, district attorney,, and W. P. Prentice, counsel for the State Board of Health, for the people, plaintiff.\nGeorge Bowen, for the defendant."
+  },
+  "file_name": "0459-01",
+  "first_page_order": 483,
+  "last_page_order": 486
+}

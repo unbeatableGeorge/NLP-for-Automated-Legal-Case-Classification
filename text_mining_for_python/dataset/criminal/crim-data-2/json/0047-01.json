@@ -1,0 +1,163 @@
+{
+  "id": 1167687,
+  "name": "PEOPLE v. IRVING",
+  "name_abbreviation": "People v. Irving",
+  "decision_date": "1883-10",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "51",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 47"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "83 N. Y. 460",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 N. Y. 593",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2171434
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/79/0593-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 350",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Hun, 68",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 N. Y. 571",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0571-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 19",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 N. Y. 291",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 N. Y. 63",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549438
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/87/0063-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 265",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        505042
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "270"
+        },
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/42/0265-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 535,
+    "char_count": 9868,
+    "ocr_confidence": 0.549,
+    "pagerank": {
+      "raw": 4.1609461100656854e-07,
+      "percentile": 0.9118606914920523
+    },
+    "sha256": "3bb144a0f6bfda6f1d492ba067035867ec284b46cfdde877c72ba4d670e82a34",
+    "simhash": "1:b8c213567b86c469",
+    "word_count": 1719
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Davis, P. J., and Brady, J., concur."
+    ],
+    "parties": [
+      "PEOPLE v. IRVING."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe act for which the defendant was convicted was striking the complaining witness twice upon his head with a pistol, thereby cutting his head and inflicting a wound upon it about an inch and a half in length; and this was sufficient under the Penal Code to create the offense of an assault in the second degree, for that may be done by inflicting a wound \u25a0 upon another with, or without, a weapon, or by the use of an instrument or thing likely to produce grievous bodily harm. Pen. Code, \u00a7 218, subd. 3, 4.\nAnd such an instrument as was in the hands of and used by the defendant would be likely when so Used to produce grievous bodily harm. Certainly there was such a degree of probability that it might be productive of that result as to require the case upon that point to be submitted, as it was upon the trial, to the consideration of the jury.\nUpon the cross-examination of the defendant, who was sworn in his own behalf as a witness upon the trial, he was asked whether he had not committed other assaults at other times-upon other persons, and the questions propounded to him for that purpose were objected to-. T.he objection was overruled and exceptions to- the decisions were taken- These inquiries may very well have been suggested or induced by similar questions put to the complaining witness upon his cross-examination by the defendant\u2019s counsel. But while that might form such excuse for following the same course in the cross-examination of the defendant, it still would not justify the rulings which were made, if they were erroneous. And that they were erroneous may probably with safety be assumed; for while the defendant may be cross-examined as to other acts of misconduct not involved in the issue to'be tried which may affect his credit as a witness in the case, the inquiry should be limited to acts reasonably attended with that result. Brandon v. People, 42 N. Y. 265 ; Real v. People, Id. 270; People v. Brown, 72 Id 571; People v. Crapo, 76 Id. 288; Ryan v. People, 79 Id. 593. The cross-examination should be restricted to such acts as bear \u201c directly upon the present character and moral principles of the witness, and therefore, essential to the due estimation of his testimony by the jury.\u201d 1 Greenl. Ev. 7th ed. \u00a7 459. And that the defendant may have upon other occasions committed an assault upon other persons would not seem to' be within this principle, for the fact itself would not necessarily or properly tend to impeach his moral character or impair his credit as a witness. \u2022\nBut all, except two, of the inquiries made were answered in the negative by the defendant, and could not, therefore, have prejudiced him in the least upon the trial. In his answers to the other two he stated that he did strike the persons mentioned in the inquiries, and if the answers had ended there the case Avould probably have required another trial to correct this error. But it did not, for the defendant proceeded to state and explain the circumstances under which he struck these persons, showing that he was excusable for what he did. And in view of the explanations made, the fact that he did strike other persons on two different occasions could have had no effect Avhatever in the way of- prejudicing, the jury against him in this case. Whatever effect might otherwise have been given to the facts themselves was removed by the explanations Avhieli the witness added. In Nolan v. Brooklyn, etc. R. R. Co., 87 N. Y. 63, the witness was asked whether he had not been expelled from the Fire Department, and the court held the question to be \u201c improper, because the fact sought to he proved was neither pertinent to the issue, nor did it relate to any specific fact which tended to discredit the witness or impeach his moral character.\u201d But inasmuch as he added an explanation of the cause of his removal relieving him from the charge of misconduct, it was held that the error was productive of no injurious effect, and, therefore, should form no ground for the reversal of the judgment. Ib. 68. By section 542 of the Code of Criminal Procedure the observance of this principle has now been positively enjoined upon the courts. For it has been provided that after hearing the appeal, the court must give judment without regard to technical errors, or defects, or to exceptions which do not affect the substantial rights of the parties. Those which have been considered are exceptions of this description. As the answers were explained they did not affect any substantial right of the defendant in this case.\nThe evidence was such as to require the court to submit the case to the jury. Their verdict was reasonably well supported, by it, and the judgment in the case should be affirmed.\nDavis, P. J., and Brady, J., concur.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "Charles Spencer, attorney, and Thomas F. Grady and W. Burke Cochran, of counsel, for the prisoner, appellant.",
+      "John McKeon, district attorney, and John Vincent (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First Department.\nOctober, 1883.\nPEOPLE v. IRVING.\nAssault in Second Degree.\u2014Evidence.\u2014Former Offense. Impeachment of Witness.\nStriking a person upon the\u2019head with a pistol, thereby inflicting severe injuries, is sufficient, under Pen. Code, \u00a7 218, subd. 3, 4, to create an assault in the second degree, since that may be done by inflicting a wound upon another with or without a weapon, or by the use of any instrument or thing likely to produce grievous bodily harm. And the question whether such instrument was likely to produce said result is properly submitted to the jury.\nDefendant;, a witness in his own behalf, was asked on cross-examination whether he had not committed other assaults at other times upon other persons, and the questions were allowed. Held error; that cross-examination as to acts of misconduct not involved in the issues, should be restricted to such as bear directly upon the present character and moral principles of the witness.\nThe answers to such questions were in the negative, except in two instances, and as to those, the defendant explained the assaults made by him, showing that he was excusable therefor. Held, that as the error worked no prejudice to defendant, it must, under \u00a7 542, Code Crim. Pro., be disregarded on appeal.\nAppeal from judgment of the General Sessions of New York, convicting defendant of assault in the second degree, rendered May 28, 1883, before Gildersleeve, J.\nThe complainant and another witness, testified that defendant and one McDermott, with a female companion, about three o\u2019clock on the morning of December 27, 1882, went to the liquor store of complainant, who refused to admit them, as his store was closed, he also informing them that he did not allow women in his place; that they went away, but shortly after-wards returned, and while complainant was in the act of locking the door, defendant pushed it open, and after calling complainant a vile name, struck him twice on the left side of the head with the butt-end of a pistol, severely injuring him.\nDefendant testified that he went to the store, asked for a cigar, which was refused by complainant, who took up a bottle and went towards him, and the defendant left. Defendant\u2019s testimony was in some degree corroborated by five other witnesses.\nThe jury found the defendant guilty.\nA motion for a new trial upon the ground that the verdict was against evidence, and upon the exceptions which appear in the opinion, was made and denied.\nThe defendant was sentenced to imprisonment in the penitentiary of the city of Hew York for two years, and to pay a fine of $250, and that he stand committed until the same be paid, not exceeding one day for each dollar of the fine imposed, from and after the termination of the two. years imprisonment.\nCharles Spencer, attorney, and Thomas F. Grady and W. Burke Cochran, of counsel, for the prisoner, appellant.\nDefendant should not have been confronted, on the trial of an assault made in 1882, with alleged assaults made years before. An accused person is called on to meet the specific charge made against him, and not to defend every act of his life. People v. Crapo, 76 N. Y. 291; People v. Gay, 7 Id. 378; People v. Genung, 11 Wend. 19; People v. Brown, 72 N. Y. 571; Therasson v. People, 20 Hun, 68. Any such examination as to other offenses disconnected with the specific act, to be admissible, must have a direct bearing on the charge made. Portius v. People, 82 N. Y. 350. In the nature of things the testimony in question could have no bearing on the charge made, and it therefore was error to admit it. Ryan v. People, 79 N. Y. 593. See also, People ex rel. Phelps v. Oyer and Terminer, 83 N. Y. 460.\nThe conviction must be maintained under subd. 3, 4, \u00a7 218, Pen. Code. The pistol with which the assault is alleged to have been committed was nowhere described in the evidence. It appeared that it was not used as a fire-arm, and therefore lost its distinctive character as a weapon. As an instrument likely to produce bodily harm the jury could only consider it in the light of the description as to size, weight and formation, which was not given, nor was it present in court. The'wound was not shown to have been originally dangerous or grievous. If any wound was committed, it was assault in the third degree.\nJohn McKeon, district attorney, and John Vincent (assistant), for the people, respondent.\nThe verdict should not be disturbed. The evidence was conflicting, and the jury chose to believe the people\u2019s witnesses.\nThe questions objected to were proper as designed to impeach defandant\u2019s general moral character and his credibility as a witness, because they related to transactions of an illegal character, in which he was engaged. It was in the discretion of the trial court to admit, them under People v. Crapo, 76 N. Y. 291; and Ryan v. People, 79 N. Y. 593.\nThe witness having waived his privilege, and answered, denying the assaults, the prosecution was bound by his answers, and could not legally contradict; no damage was done to the prisoner, and hence no error was committed."
+  },
+  "file_name": "0047-01",
+  "first_page_order": 71,
+  "last_page_order": 75
+}

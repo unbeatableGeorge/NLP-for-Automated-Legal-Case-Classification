@@ -1,0 +1,145 @@
+{
+  "id": 1164422,
+  "name": "PEOPLE v. GIBBS",
+  "name_abbreviation": "People v. Gibbs",
+  "decision_date": "1883-10",
+  "docket_number": "",
+  "first_page": "472",
+  "last_page": "476",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 472"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "82 N. Y. 339",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177156
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0339-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 328",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hun, 596",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 N. Y. 555",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158441
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0555-01"
+      ]
+    },
+    {
+      "cite": "88 N. Y. 192",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550741
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/88/0192-01"
+      ]
+    },
+    {
+      "cite": "4 Gray, 41",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075621
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/70/0041-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 555",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158441
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/58/0555-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 473,
+    "char_count": 8734,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 7.329215401274014e-08,
+      "percentile": 0.4400327972789147
+    },
+    "sha256": "f4bbcf260732f8cb0860389ce8b026f07aa0e75d1998aa706d5d8f0d67eb5015",
+    "simhash": "1:cee26474e462d829",
+    "word_count": 1540
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. GIBBS."
+    ],
+    "opinions": [
+      {
+        "text": "Miller, J.\nThe defendant was indicted for the crime of an assault with intent to kill one Mabee. He was tried at the Tompkins County Sessions, and convicted of the crime of ah assault with intent to do bodily harm. The evidence upon the trial showed that the alleged assault took place at or near the premises which were then occupied in part by Mabee, between the hours -of seven and eight o\u2019 clock of the evening of the 20th of May, 1882. Mabee was in possession of the premises, and the defendant claimed the right to enter upon the same, his wife having been in occupation of a portion thereof, which she had left in the charge of Mabee. The defendant fired his pistol in different parts of the house, threatening to kill the people therein, and there was proof showing that one or more of the shots came very near the persons of some of the inmates, of whom Mabee was one, and that defendant\u2019s intention was to have them do so. After this affray the defendant set fire to a bed, bedstead, and slats, which he had thrown out of the window into the yard. The proof shows that while this fire was burning Mabee came out on the porch, and the defendant fired two shots at him; After this, and at about half-past nine o\u2019clock, one Johnson and two other persons came to this place while the fire was still burning, and an altercation then ensued between the defendant and Johnson, and the defendant used harsh and violent language in regard to Mabee, and Johnson defended him. Under the objection of defendant\u2019s counsel the prosecution then proved an affray between the defendant and Johnson, in which the defendant drew a pistol and attempted to fire it. The pistol went off in the scuffle, and Johnson knocked the defendant down, and with the aid of two other persons tied him fast. The defendant was also indicted for this last offense. The objection made was not to the language which the defendant used in regard to Mabee, but to the evidence showing the affray between him and Johnson, and we think it was well taken. The effect of the evidence was to present to the jury testimony relating to another assault and to an entirely different transaction, which might well tend to prejudice their minds against the defendant in reference to the- charge for which he was on trial. The allegation in the indictment was that he intended to kill Mabee, and testimony showing an intent to kill another person instead of Mabee could throw no light upon the question whether in the previous affray he had intended to kill Mabee. Mabee was not present at the time of the last affray, and no act of violence of the defendant toward Johnson could possibly affect or injure Mabee. The judge, in his charge, referred to the transaction as evidence tending to throw light upon the temper or feeling of the defendant toward Mabee. It is difficult to see how the assault upon Johnson could bear upon the question as to defendant\u2019s intention while engaged in an affray, some two hours previously, with Mabee.\nThe principle upon which evidence is admitted of other offenses to show the intent of the defendant in reference to the one for which he is upon trial, has no application to a case of this kind. Evidence may be given upon an indictment for passing counterfeit money to establish the passing of other bills of a similar character, for the purpose of showing the intent of the defendant in reference to the passing of the bill for which he is upon trial. So, also, where guilty knowledge is an ingredient of the offense, evidence may be given of the commission of other acts of a like character where they are necessarily connected with that which is the subject of the prosecution, either by some connection of time or place, or as furnishing a clue to the motive on the part of the accused, as in the case of receiving stolen goods, knowing them to be such. Coleman v. People, 58 N. Y. 555.\nBut this rule can have no application to two different assaults, committed at different times and at different places, and upon different persons, where the motive in the one case could upon no sound principle be the same as in the other. It is very manifest that the defendant in the assault upon Johnson could not possibly have intended to kill Mabee, and the testimony relating to the same could have no bearing whatever upon the offense-for which the defendant was upon trial. Uor can the evidence be justified upon the ground that it was a part of the res gestae.' The assault proven occurred some time after the assault upon Mabee, for which the defendant was upon trial, and was at a different place. . It did not arise directly from the altercation with Mabee, but originated in a quarrel with another and a different person in Mabee\u2019s absence, and without any intent at the moment to injure Mabee. Johnson had offended the defendant, and he assaulted him with great violence, attempting to use his pistol, which was taken from him, and his aim and object was to injure Johnson. In the case considered, the res gestae was the assault made by the defendant upon Mabee, and the assault upon Johnson did not in any form constitute a part of the former act.\nUnder the circumstances it is clear that the evidence was inadmissible, and it being apparent that it had no relation to the case upon trial it was erroneously received.\nAs the judgment must be reversed for the error already stated, it is not necessary to consider the other questions raised.\nThe judgment and conviction should be reversed and new trial granted.\nAll concur.\nNote.\u2014Consult, as bearing on this case, the points of counsel in People v. Ware, ante, pages 168, 169.",
+        "type": "majority",
+        "author": "Miller, J."
+      }
+    ],
+    "attorneys": [
+      "S. D. Halliday, for defendant, appellant.",
+      "Clarence L. Smith, district attorney, for the people, respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nOctober, 1883.\nPEOPLE v. GIBBS.\nEvidence.\"\u2014Assault with Intent to Kill.\u2014Evidence of other Assault on Different Person, not Admissible to show Intent.\nUpon the trial of defendant for assault with intent to kill one M., evidence was admitted to show intent and throw light on the temper and feeling of defendant toward M., that some two hours after the assault on M. defendant, in the absence of M. and at a different place, had an altercation with one J. in reference to his difficulties with M., and that defendant then assaulted J. Held, that the admission in evidence of the second assault was error.\nThe rule admitting evidence of similar acts, to show guilty knowledge, intent or motive is not applicable to two different assaults at different times and places, and upon different persons,\nThe second assault was not admissible in evidence as part of the res gestae, being too remote as to time and place, and forming no part of the first transaction.\nAppeal from a judgment of the General Term of the Supreme Court in the Third Department, July 14, 1883, affirming the conviction of defendant in the Court of Sessions of Tompkins county.\nThe defendant, Anderson D. Gibbs, was indicted June 9, 1882, for an assault with intent _ to kill one Samuel Mabee. Upon his trial at the Tompkins County Sessions, Marcus Lyon, County Judge, presiding, defendant was, October 12, 1882, convicted of assault with intent to do bodily harm.\nA memorandum for affirmance of the judgment was written in the Supreme Court, General Term, by Boabdman, J. (Bocees, J., concurring). Learned, P. J., wrote a dissenting opinion. The facts fully appear in the opinion.\nS. D. Halliday, for defendant, appellant.\nThe evidence of the altercation (except declarations of defendant as to his assault on Mabee) and fight with Johnson was improper, for it does not bear on defendant\u2019s motives for committing a previous offense.\nClarence L. Smith, district attorney, for the people, respondents.\nWhat occurred between Gibbs and Johnson is admissible as part of the res gestee. Johnson and the other witnesses who testified as to the second transaction had been sent for to quell the disturbance made by Gibbs in his assault on- Mabee, and must have arrived within a few minutes after Gibbs had fired his last shot at the latter. An altercation with Johnson as to the previous assault on Mabee immediately ensued, followed by the assault on Johnson. What Gibbs said and did was under the immediate spur of the first transaction, and thus became a part of it. This evidence was therefore admissible. 1 Wharton Crim. Law, 635 ; 1 Greenleaf Evid. (Redfield\u2019s ed.) 108; Commonwealth v. Harwood, 4 Gray, 41; Schnicker v. People, 88 N. Y. 192; 1 Russell on Crimes (9th ed.) 288 ; Coleman v. People, 58 N. Y. 555: 1 Hun, 596 ; Pontius v. People, 21 Hun, 328; affirmed 82 N. Y. 339; Hope v. People, 83 Id. 418; Shipply v. People, 86 Id. 375 ; McKee v. People, 36 Id. 113 ; Walters v. People, 6 Park. 15 ; Rex v. Ellis, 6 Barn, & Cress. 145; 3 Russell on Crimes, 287; 288; 2 Colby Crim. Law 192 ; Jordon v. State, 22 Georgia, 545."
+  },
+  "file_name": "0472-01",
+  "first_page_order": 496,
+  "last_page_order": 500
+}

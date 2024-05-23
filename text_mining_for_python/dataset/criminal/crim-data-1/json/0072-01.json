@@ -1,0 +1,253 @@
+{
+  "id": 1164465,
+  "name": "PEOPLE v. SMITH",
+  "name_abbreviation": "People v. Smith",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "72",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "30 Cal. 316",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2205242
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/30/0316-01"
+      ]
+    },
+    {
+      "cite": "36 Ala. 236",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5484421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/36/0236-01"
+      ]
+    },
+    {
+      "cite": "33 Ala. 353",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 Ala. 472",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8498494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/37/0472-01"
+      ]
+    },
+    {
+      "cite": "18 Ill. 407",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        438661
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/18/0407-01"
+      ]
+    },
+    {
+      "cite": "22 Pick. 476",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2045786
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/39/0476-01"
+      ]
+    },
+    {
+      "cite": "4 Gray, 29",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075637
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/70/0029-01"
+      ]
+    },
+    {
+      "cite": "36 Iowa, 343",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2301345
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/36/0343-01"
+      ]
+    },
+    {
+      "cite": "84 Penn. 187",
+      "category": "reporters:state",
+      "reporter": "Penn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 N. Y. 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2038609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/29/0523-01"
+      ]
+    },
+    {
+      "cite": "111 Mass. 395",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2113039
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/111/0395-01"
+      ]
+    },
+    {
+      "cite": "36 Iowa, 348",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2301320
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/36/0348-01"
+      ]
+    },
+    {
+      "cite": "30 Cal. 316",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2205242
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/30/0316-01"
+      ]
+    },
+    {
+      "cite": "18 Ill. 407",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        438661
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/18/0407-01"
+      ]
+    },
+    {
+      "cite": "22 Pick. 476",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2045786
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/39/0476-01"
+      ]
+    },
+    {
+      "cite": "4 Gray, 29",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/70/0029-01"
+      ]
+    },
+    {
+      "cite": "84 Penn. 187",
+      "category": "reporters:state",
+      "reporter": "Penn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 7590,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.286816465871733e-07,
+      "percentile": 0.6188596323569444
+    },
+    "sha256": "e9f5ab7f13183ef6adb57f95f78a09db5bd6c6f3f6027e85bfc486b7cb0def4c",
+    "simhash": "1:974db9c72f4e0000",
+    "word_count": 1320
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. SMITH."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\n\u2014The defendant was convicted of the offense of violating the excise laws by making a sale of beer in quantity less than five gallons without license to the complainant witness. The evidence was wholly given by him to establish the alleged violation of the statute, and it was insisted in the defendant\u2019s behalf that she could not be convicted upon it, without further proof tending to connect her with the commission of the offense.\nThis objection was presented under section 399 of the Code of Criminal Procedure, which has in terms prohibited a conviction upon the testimony of an accomplice, unless he be corroborated by such other evidence as tends to connect the defendant with the commission of the crime. But this witness in no manner participated in the act declared by the statute to be an offense. That was made out by the .sale itself, without license, and the person making the sale is the only one declared by the law to be criminal. The purchaser has been subjected to no criminal accountability whatsoever, and by the mere purchase he could not be a participant in the performance of the act which the statute has declared to be an offense... That was.performed wholly and conclusively by the defendant,, for she, unaided by the purchaser,\u2019 acted alone in making the sale. An accomplice is a person involved, either directly or indirectly, in the commission of the crime. To render him such, he must, in some manner, aid or assist, or participate in the criminal act, and by that connection he becomes equally involved in guilt with the other party by reason of the criminal transaction. This witness incurred no such relation to the offense committed, and therefore was not an accomplice within the meaning of this section of the Code. A point similar to this arose in Commonwealth v. Willard, 22 Pick. 476, and Commonwealth v. Downing, 4 Gray, 29, and it was held by the court pronouncing those decisions that such a purchaser was not an accomplice. A similar principle was also observed and applied in Campbell v. Commonwealth, 84 Penn. 187; State v. McKean, 36 Iowa, 348; President, &c. of St. Charles, v. O\u2019Malley, 18 Ill. 407; Smith v. State, 37 Ala. N. S. 472; People v. Farrell, 30 Cal. 316.\nIt has been urged that the question whether this witness was an accomplice or - not should have been submitted to the jury, but that point was not raised upon the trial. And if it had been, the case of Commonweath v. Glover, 111 Mass. 395, differed so far in its controlling circumstances from the present case, as to render it inapplicable to the one now before the court upon the point.\nThe judgment from which the appeal has been taken should be affirmed.\nDavis, P. J., and Beady, J., concur.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "Howe & Hummel, for appellant.",
+      "John Vincent, assistant district attorney, for the People, respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nJanuary, 1883.\nPEOPLE v. SMITH.\nExcise Laws.\u2014Accomplice.\u2014Evidence.\u2014Code of Criminal Procedure, \u00a7 399.\nUnder the excise laws of this State it is the unauthorized sale of liquors which constitutes the .offense. The purchaser thereof is in no sense a participant of the act forbidden by the statute, and therefore is not an accomplice under section 399 of the Code of Criminal Procedure, which, to justify conviction upon the testimony of an accomplice, requires such corroboration of his testimony as tends to connect the accused with the commission of the offense.\nAppeal from a judgment of the General Sessions of Hew York, by which the defendant was convicted of a misdemeanor in violating the excise laws.\nThe facts appear in the opinion.\nHowe & Hummel, for appellant.\nJohn Vincent, assistant district attorney, for the People, respondents.\n\u2014The complainant cannot be held to be an accomplice, for the utmost that can be urged is that he assisted in the sale of the liquor by becoming the purchaser, yet it cannot be contended that his assistance was in any wise criminal in its character. In becoming a purchaser he violated no law, committed no crime, and his act of purchasing the liquor cannot be characterized as criminal. He did nothing that can be so constrned as to make him a participant in the common felonious design. The crime consisted of the selling alone, and not the buying.\nThe plain intention of section 399 of the Code of Criminal Procedure is to protect the defendant against the danger of an over-anxious companion in crime, who, to secure immunity from punishment, might swear away the liberty of his co-defendant, in. his anxiety to secure his own release. Webster\u2019s definition of an accomplice is as follows: \u201c A co-operator or associate in general; an associate in crime; a partaker or partner in guilt.\u201d\nIn the case of People v. Dunn, being an indictment for procuring a pregnant woman to take medicine to produce- a miscarriage, Denio, J., says, \u201c that the female does not legally stand in the situation of an accomplice ; for, although she no doubt participated in the moral offense imputed to the defendant, she could not have been indicted for that offense.\u201d People v. Dunn, 29 N. Y. 523. Can it be said of the complainant (the alleged accomplice) in the case at bar, that he was even guilty of a moral offense in purchasing the liquor ? As to the distinction in fact and principle between an informer and an accomplice, see Reg. v. Mullin, 3 Cox Crim. Cas. 526-531; Campbell v. Commonwealth, 84 Penn. 187; State v. McKean, 36 Iowa, 343.\nThe Iowa Revised Code contains a provision similar to section 399 of our Code. See Iowa Rev. Code, \u00a7 4559.\nIn State v. McKean, the defendant was convicted of horse stealing. A detective named Weeks was hired by certain parties to catch a band of horse thieves, and was promised good pay if he succeeded. He associated himself with them, saw the theft committed, and then testified against them in court. The court charged the jury that if Weeks assisted in the stealing of the horse with felonious intent, then he was an accomplice, and that the laws of the State (Iowa) expressly prohibited a conviction on the uncorroborated testimony of an accomplice; but if from the beginning Weeks intended to act the part of a detective,'to ferret out and make known the crimes and secret frauds of defendant, then he was not an accomplice. On appeal, the conviction was affirmed, the language of the charge approved, the court citing Rex v. Despard, 28 Howell St. Tr. 345; Commonwealth v. Downing, 4 Gray, 29; Commonwealth v. Willard, 22 Pick. 476.\nIn Commonwealth v. Hilliard, the court says that in every case of selling there must also be a buying, and that fact must have been known to the legislature; and when it forbade the selling, but remained silent on the subject of buying, it must be presumed that it did not intend to make buying a crime, and that a buyer could not be prosecuted.\nIf a buyer is an accomplice, then he is liable as a principal, the offense being misdemeanor. Chapter 165 of the Laws of 1882 forbids the selling or giving away of opium,-to be smoked in an opium \u201c joint,\u201d or the resorting thereto for the purpose of smoking it, thus threatening both dealer and customer with punishment.\nBut since our laws nowhere forbid the buying of lottery-tickets or liquor, it follows that a purchaser is not an accomplice of the seller, and need not be corroborated on the trial. of the offender.\nThe following cases, if it be necessary to go any further in discussing the question, will be found to hold substantially the same doctrine: 1 Greenl. Ev. \u00a7 382; President, &c., of St. Charles v. O\u2019Malley, 18 Ill. 407; Smith v. State, 37 Ala. 472; Davidson v. State, 33 Ala. 353; Harrington v. State, 36 Ala. 236; People v. Farrell, 30 Cal. 316."
+  },
+  "file_name": "0072-01",
+  "first_page_order": 96,
+  "last_page_order": 99
+}

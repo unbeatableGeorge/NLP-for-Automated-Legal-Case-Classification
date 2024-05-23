@@ -1,0 +1,205 @@
+{
+  "id": 1164444,
+  "name": "PEOPLE v. BURLEIGH",
+  "name_abbreviation": "People v. Burleigh",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "522",
+  "last_page": "529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 522"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "64 How. 461",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Hun, 640",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 N. Y. 363",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2022914
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/20/0363-01"
+      ]
+    },
+    {
+      "cite": "16 Hun, 426",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Hun, 289",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 N. Y. 668",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "669"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Penn. St. 89",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        481553
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/42/0089-01"
+      ]
+    },
+    {
+      "cite": "45 How. 97",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 N. Y. 406",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/74/0406-01"
+      ]
+    },
+    {
+      "cite": "16 Hun, 387",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 N. Y. 330",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509414
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/47/0330-01"
+      ]
+    },
+    {
+      "cite": "64 N. Y. 21",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 N. Y. 209",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/69/0209-01"
+      ]
+    },
+    {
+      "cite": "17 Hun, 505",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 N. Y. 22",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 N. Y. 616",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 707,
+    "char_count": 16121,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 1.9267952427624402e-07,
+      "percentile": 0.7337194176185562
+    },
+    "sha256": "541b63a46a3e7ff8a6081fe1dc35ffa6931842416ac7bd84b6cb260a420f46eb",
+    "simhash": "1:bd3feea799ceb9e3",
+    "word_count": 2801
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. BURLEIGH."
+    ],
+    "opinions": [
+      {
+        "text": "Bockes, J.\nThe arrest conviction and sentenco of the defendant in this case were in all respects strictly in accordance with section 17 of chapter 628 of the Laws of 1857, as amended by section 2 of chapter 856 of the Laws of 1869, except as to the alleged error of the magistrate in' refusing the demand for a jury trial before that officer.\nIntoxication in a public place is, by the act referred to, declared an offense punishable by law, and provision is made for the arrest, trial, conviction and sentence of such offender. The mode of procedure is declared with particularity. The offender may be arrested without warrant, and the trial is made summary by and before the magistrate on whom jurisdiction is conferred. That officer is required, under penalty for refusal, forthwith to try the person charged with the offense, with no right of bail ' for his appearance at the Oyer and Terminer or Sessions, and sentence at once follows conviction. Thus it is seen that the entire proceeding for the punishment of the offense, is made special and exceptional. The disgusting character of the act, and its immoral tendency, make it a very proper subject for summary disposition and speedy punishment without the usual formalities provided by law in dealing with ordinary but less repulsive matters of public offense. But it is insisted that the provisions of this law are superseded and repealed by the Oode of Criminal Procedure; that proceedings for the punishment of the offense of public intoxication must now be taken under and pursuant of the Code, and we are cited to subdivision 12 of section 56 and to sections 58 and 211 (amended by Laws of 1882, chap. 360) in support of this claim. On referring to these sections it will be seen that courts of special sessions are authorized with some exceptions, unnecessary here to notice, to hear and determine charges for \u201coffenses against the laws relating to excise and the regulation of taverns, inns and hotels\u201d (sub. 12, sec. 56); and that in the cases so designated, the person charged has the right to give bail for his appearance at the next succeeding court having authority to inquire, by the intervention of a grand jury, into the offense (sec. 58, 211). The inquiry now arises, do these or any other provisions of the Code of Criminal Procedure, supersede or repeal the act of 1857, as amended by the act of 1869, in so far as they relate to the offense of public intoxication? We are of the opinion that this question must be answered in the negative. We are not cited to any express provision of law declaring such repeal; nor have we been able to find any such repealing statute. If the provisions referred to be superseded or repealed, it must be by implication only. But a repeal by implication is not favored by the courts, and will not be allowed save from the necessity of the case Mongeon v. People, 55 N. Y. 616; Hankins v. Mayor, 64 N. Y. 22; People ex rel. Robinson v. Supervisors, 17 Hun, 505 ;f and the controlling question in such case is whether the statutes are inconsistent with or repugnant to each other, whether both can stand and be enforced without conflict, as regards the offense declared or the proceedings for their separate enforcement. As stated in Hankins v. Mayor (supra), \u201c the rule is, that a statute only operates as a repeal of a former one to the extent that the two are repugnant; if both can stand, and to the extent that they can stand and have effect, they will both have effect.\u201d Again, if it be admitted that the offense of public intoxication is germain to the subject of \u201c excise \u201d the question still remains whether it falls within the provisions of subdivision 12 of section 56 above cited, which speaks of \u201c offenses against the laws relating to excise.\u201d A general law will not be deemed to repeal a special law relating to a particular subject unless the intent to effect that result is clearly manifest. Matter of Delaware & Hudson Canal Co., 69 N. Y. 209; Hankins v. Mayor, 64 N. Y. 21, 22; Smith v. People, 47 N. Y. 330 ; Mayor v. Hart, 16 Hun, 387; People ex rel. Bobinson v. Supervisors, 17 Hun, 505. Ho such intent is here apparent, nor, as we think, can such intent be deemed probable in view of the nature of the offense, and of the special provisions made for its punishment. Ho direct reference is made in the Code to this offense, which as may fairly be supposed, would have been the case, had it been intended to bring such offense within its provisions. Should it not rather be inferred that the ordinary subject of excise, to wit: the regulating of the sale of intoxicating liquors by license and the imposition of fines, penalties and forfeitures because of prohibited and illegal sales of such liquors, were alone intended by the phrase \u201c offenses against the laws relating to excise? \u201d Public intoxication is quite a different matter from fines, penalties and forfeitures declared against prohibited and illegal sales of ardent spirits, although, as above suggested, germain to the subject of excise. This offense, too, is given particular significance under a special statute where its manner of punishment is expressly and solely provided for. In one sense it is collateral to the general subject of excise. We do not think it was intended that it should be brought within the purview of a general law having direct reference to other matters, when by sucli construction the particular offense would generally pass without summary and speedy rebuke. We are, therefore, led to .the conclusion that the provisions of the act of 1857, as amended by the act of 1889, relating to the offense of public intoxication and its punishment, remain in full force and effect as regards the'question of the repeal. Those provisions, as we think, stand to be enforced, not by- a court of Special Sessions, but by-the magistrate before whom the offender shall be brought according to law, the same since the Code went into effect as prior to that time.\nIt is however urged that the provisions of law above referred to, and under which the defendant was convicted, are repugnant to the constitution and void, because the accused is thereby deprived of the right of trial by a. common law jury after indictment. We are of the opinion that this position is untenable. It is claimed, and it may be admitted, that public intoxication was an offense at common law, that is, that the offender might be proceeded against criminally as a disorderly person ; but was he entitled, under the constitution, which provides that the trial J)y jury in all cases \"in which it has been heretofore used shall remain inviolate forever (art. 1., sec. 2), to demand and have a trial by .common law jury ? It was decided in People v. Justices 74 N. Y. 406, that this constitutional provision did not apply to the petty offenses triable before a court of Special Sessions. The learned judge in giving the opinion of the court in that case, says \u201c no jury was permitted in those cases until 1824, when the legislature provided for a jury of six to be selected from twelve to be drawn, if demanded by the accused, and this is the law throughout the State.\u201d In People v. Putnam, 3 Park. 386, 388, Judge Pratt says \u201c there was always a class of persons or offenders, who from the commencement of the government have been accustomed to b\u00e9 dealt with summarily before inferior magistrates and to whom the right of trial by jury has not been granted. These were classed under the head of vagrants and disorderly persons. Among the latter, by the Pevised Statutes, were classed drunkards. Persons found intoxicated \u25a0 in the public streets and places of the city might therefore well be classed in the same category, and provisions be made for their summary conviction and punishment,\u201d and the learned judge further says \u201c I may premise in the first place that there is no constitutional difficulty in the way of making this offense (public intoxication) punishable summarily.\u201d This decision was prior to the amendment of 1869, which amendment cured the defect pointed out by Judge Pratt as existing in the act of 1857, and deplored by him (See page 390). The decision in People v. McCarthy (45 How. 97), is to the same effect as those above cited. Judge Davis here says \u201c Both in England and in this state long prior to the earliest of our state constitutions, vagrants and disorderly persons, as defined by statute, were made subject to summary trials without jury and frequently from time to time, in both countries, additions have been made by statute to the classes known as disorderly persons, with provisions subjecting them to arrest and trial in the same form; \u201d and he adds, \u201c there can be no question in view of the statutes and authorities that trial by jury had, before the constitution, never been used in the disposition of vagrants and disorderly persons, and consequently was not intended for such persons, so far as they were defined by the then existing legislation. That the legislature has power to enlarge the class of persons to be affected by laws against disorderly persons and to be summarily tried by the magistrates of the state, seems to be well settled by the authorities above cited.\u201d To those authorities referred to by Judge Davis, and particularly to the case of Byers v. Commonwealth 42 Penn. St. 89, attention is here invited. See also remarks of Judge Wright in Board of Excise v. Barrie (34 N. Y. 668, 669). Without further examination of authorities we must hold that the provisions of law here challenged are not obnoxious to the charge of unconstitutionality.\nThe question still remains whether the defendant had the right of trial before the magistrate with a jury of six. This right was denied him. The constitutional provision above considered does not touch this question as that provision relates, and has application only to the right of trial by a common law jury of twelve.\nMow, on recurring to the law as amended in 1869, it will be observed that the right of trial by a jury of six is not taken away in express terms; and it is insisted that the right therefore remains in accordance with the practice observable on the trial of offenders in courts of Special Sessions. But the very manifest intent of the law is that the trial should be had by the magistrate without jury. It is made the duty of the magistrate forthwith to try the offender, and upon his conviction by that officer, sentence must be pronounced. The fair reading of the act is to the effect that the entire proceeding shall be had by the magistrate. To him is given exclusive jurisdiction to examine, to try, and to convict. The entire proceeding is made special. Special jurisdiction is conferred to be exercised summarily, as above suggested, without the usual formal proceedings necessary to be observed on complaints and trials in courts of Special Sessions. In this respect the case differs from People v. Baird (11 Hun, 289), where the city judge was authorized to hold courts of Special Sessions writh all the powers a,nd jurisdiction of such courts as regulated by statute; and from People v. James (16 Hun, 426), where it was held that the police justice, acting as a court of Special Sessions, was governed by all statutory provisions applicable to those courts generally, except as was otherwise provided. The decision in Hill v. People, 20 N. Y. 363, was made before the amendment of 1869, and must be construed in the light of the cases hereinabove, cited.\nWe are of the opinion that the record in this case is free from error, hence that the judgment of the Sessions affirming the conviction and sentence of the defendant by the magistrate must be affirmed.\nMem. The question whether an appeal was authorized in this case, from the judgment of the magistrate to the Court of Sessions, was not raised on the argument in this case, hence we have not considered it here. But had we here examined this question and reached the conclusion that the appeal to the Sessions was without authority of law, the result would have been practically the same, as we now affirm the judgment. If, without authority, then the proceeding and judgment in the Court of Sessions were without jurisdiction, and while we would be compelled to reverse the judgment of Sessions, we should also have dismissed the appeal to that Court, in which case the judgment by and before the magistrate would remain in force. On the question of the authority to appeal to the Sessions see People v. Trumble (1 JV.Y. Orim. Rep. 443), decided at this term, wherein this subject was examined.\nLearned and Boardman, JJ., concur.\nAnd see numerous case cited in Sedgwick Statutwy and Oonst. Law, 98 a.\u2014Ed.\nAnd see People v. Mallory, 3 T. & 0. 76.\u2014Ed.\nAlso Wallace v. Swinton, 64 N. T. 188; Matter of Hanover, 3 Red. 91; Van Denbough v. Greenbush, 06 TV. T. 1; Whipple v. Christian, 80 TV. 7. 533; Nichols v. Mase, 35 Hun, 640; McKenna \u00bb. Edmundstone, 91 TV\". 7. 331; 64 How. 461.\nSee Matter of Hoffman, ante, p. 484.\u2014Ed.",
+        "type": "majority",
+        "author": "Bockes, J."
+      }
+    ],
+    "attorneys": [
+      "Charles Kellogg, for defendant, appellant.",
+      "H. Barclay, district attorney (John E. Smith, acting assistant), for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Third Department.\nJanuary, 1883.\nPEOPLE v. BURLEIGH.\nRepeal by Implication.\u20141857, Ch. 628, \u00a7'17, amended by L. 169, Ch. 856, \u00a7 2.\u2014Excise Law, not repealed by Code Grim. Pro.\u2014Public drunkenness triable by Magistrate.\nA repeal by implication is not favored by the courts and will not be allowed save from the necessity of the case.\nA statute only operates as a repeal by implication of a former one to the extent that they are.repugnant. If they both can stand, and to the extent that they can stand and have effect, they will both have effect.\nA general law will not be deemed to repeal a special law relating to a particular subject unless the intent to effect that result is clearly manifest.\nNor is it the policy of the law to bring an offense previously punishable by a special statute within the purview of a general law having direct reference to other matters, when by the effect of such a construction the offense would generally pass without summary and speedy rebuke.\nThe provisions of the Excise Law, L. 1857, ch. 638, \u00a7 17, amended by L. 1869, ch. 856, \u00a7 3, providing for the punishment of public intoxication are not repealed by Code of Criminal Procedure, \u00a7 56, subd. 13* but remain in full force .and .effect.\nThese provisions of the Excise Law in relation to public intoxication are to be enforced, not .by a court of Special Sessions, but by the magistrate before whom the offender shall be brought, according to law.\nThe offender is not entitled to a trial either by a common law jury of twelve or a jury of sis?.\nThe provisions of the Excise Law in relation to the trial of persons publicly intoxicated are not unconstitutional as repugnant to the provision of the state constitution ,(art. 1, \u00a73) that the trial by jury in all cases in which it has been heretofore used shall remain inviolate forever, because this offense was not triable by jury before the adoption of the constitution.\nThe jury referred in this provision of the constitution is a common law jury of twelve.\nThe legislature has power to enlarge the class of persons to be affected by laws against disorderly persons and to be summarily tried by magistrates.\nAppeal from the judgment of the Court of Sessions of Madison county affirming the judgment of the police magistrate of Chittenango, convicting defendant, Julius W. Burleigh, of public intoxication.\n' The defendant, Julius W. Burleigh, was arrested for public intoxication, in the streets of Chittenango in Madison county, and taken before a magistrate in that village. He offered bail to appear and answer to an indictment, which the magistrate refused to accept. Then he demanded to be tried by a jury, which was refused, and the magistrate then proceeded and tried him. He was found guilty, sentenced to pay a fine of $3, and \u00a74 costs, and be imprisoned until paid, not to exceed ten days. An appeal was taken by the defendant to Madison County Sessions, where the conviction was affirmed. The defendant then appealed to this court.\nCharles Kellogg, for defendant, appellant.\nH. Barclay, district attorney (John E. Smith, acting assistant), for the people."
+  },
+  "file_name": "0522-01",
+  "first_page_order": 546,
+  "last_page_order": 553
+}

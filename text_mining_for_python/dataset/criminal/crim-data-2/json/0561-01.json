@@ -1,0 +1,123 @@
+{
+  "id": 1167689,
+  "name": "PEOPLE v. AUGSBURY",
+  "name_abbreviation": "People v. Augsbury",
+  "decision_date": "1884-11",
+  "docket_number": "",
+  "first_page": "561",
+  "last_page": "565",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 299",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164433
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0299-01"
+      ]
+    },
+    {
+      "cite": "87 N. Y. 79",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549361
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/87/0079-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 355",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164495
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0355-01"
+      ]
+    },
+    {
+      "cite": "92 N. Y 29",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2190172
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/92/0029-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 460,
+    "char_count": 9351,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 4.89950402824256e-08,
+      "percentile": 0.3073679199057551
+    },
+    "sha256": "784e07d2929aa7e1a31da93647f7d6ee0e554a550e12978bb7596d25963fb866",
+    "simhash": "1:94bfac07730ecca2",
+    "word_count": 1615
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All councur except Danforth, J., not voting."
+    ],
+    "parties": [
+      "PEOPLE v. AUGSBURY."
+    ],
+    "opinions": [
+      {
+        "text": "Rapallo, J.\nThe indictment in this case was found in June, 1881. The review of the judgment is therefore governed by the laws in force before the Code of Criminal Procedure took effect. People v. Willett, 92 N. Y 29 ; 1 N. Y. Crim. Rep. 355.\nThe defendant was convicted in November, 1881, in the Court of Sessions of Jefferson county, of shooting Samuel Zoller with intent to kill him. The judgment of the Court of Sessions was reversed and a new trial granted by the Supreme Court, and the people now bring their writ of error to review that judgment of reversal.\nThe ground upon which the Supreme Court reversed the conviction, was that the Court of Sessions erred in excluding a question put by the prisoner\u2019s counsel to one of the witnesses for the prosecution on his cross-examination. The defense interposed by the prisoner was insanity.\nAfter he had produced witnesses to maintain that defense and had closed his testimony, the prosecution called in rebuttal Trowbridge, a physician, who had made a personal examination of the prisoner after his arrest, and he testified to the result of his examination at that time, and also gave his opinion as to symptoms exhibited by the prisoner, as described by two witnesses for the defense, and stated that those symptoms did not indicate insanity.\nOn cross-examination the prisoner\u2019s counsel asked Dr. Trowbridge several hypothetical questions based upon facts proved, or claim to have been proved, on the part of the prisoner, and also some theoretical questions.\nThese questions were not objected to as out of order, at that stage of the trial, and were allowed and answered. After this line of examination had been pursued for a considerable time and the witness had testified that the commission of a great crime, without any apparent motive, was some evidence of insanity, the prisoner\u2019s counsel asked the witness the following question:\n\u201c Supposing a man on a bright day in the morning in plain sight of a frequently traveled- road, goes into a field where three of his neighbors are at work, with whom he has never had any trouble, never has threatened any personal violence against them in any way, that he passes one of those parties, who says, \u201c Good morning, uncle Dave,\u201d and he bowed in return. He passes on to another of the neighbors, who is working with a team in the field. That he says to him, \u201c Sam, I see you are at it again.\u201d Sam replies, in substance, I have got the farm and got to get in my crop. Before he finishes that sentence the prisoner shoots him through the chest.\u201d\nThe question then goes on to detail the shooting of the others of the three neighbors and a second shooting of \u201c Sam,\u201d who is the person named in the indictment, and also a second shooting of one of the others, and concludes by asking the witness whether the case supposed would indicate insanity.\nThe case supposed in the question was so much at variance with the facts appearing in evidence upon the trial that it would be idle to contend that the question would have been a proper one to have been put by the defense on the direct examination of one of its own witnesses. Both by its assumptions and its suppositions the question suggested a case entirely dissimilar to the one on trial, and was a mere abstract inquiry. It was designed to depict a murderous assault, without any motive or provocation, upon three neighbors of the assailant with whom he had never had any trouble, but was on amicable terms, exchanging ordinary morning salutations and who were peaceably at work in their field; whereas, the facts in evidence were, that these three \u201c neighbors \u201d with whom the prisoner had never had any trouble, were Samuel Zoller and his two sons, who were claiming the right under a lease from John A. Augsbury, to work the farm on which the prisoner had long lived and which had belonged to him until he had been forced by pecuniary embarrassments to convey it to J. A. Augsbury.\nThat at the time of the assault in question, John A. Augsbury was endeavoring to obtain possession of the farm and had instituted summary proceedings for that purpose, the hearing of which had been adjourned to May 26, 1881, the day following the assault which was committed on May 25, 1881.\nThe prisoner had declared his determination that these three \u201cneighbors,\u201d the Zollers, should not have possession under J. A. Augsbury\u2019s lease, had warned them off and had threatened to sue them in trespass every time they came on the farm, and had actually brought an action of trespass against them for an entry on the 11th of May, 1881, and another like action for a second entry on the 12th of May, 1881, all .of which actions were pending at the time of the assault.\nThere is much other evidence in the case showing a bitte.r feeling on the part of the prisoner toward these three \u201c neighbors \u201d and none which would sustain the theory that they were on the amicable terms implied in the question, or that their presence on the farm occupied by the defendant, was regarded by him as anything but hostile.\nThe question put to the witness was objected to by the prosecution, two grounds of objection being specified ; one, that there was no foundation for the question in the evidence, and the other that it was re-opening the defense.\nIf either of the objections was sound, it was a sufficient answer to the claim of the prisoner, as matter of legal right to put the question, and even though the court might in its discretion have allowed it, the refusal to do so, was not error.\nThe objection that there was no foundation for the question in the evidence was, in our judgment, sufficient to authorize the court to exclude it. Hypothetical questions are allowed to be put to experts, but the hypothesis upon which they are examined must be based upon facts admitted or established by the evidence, or which, if controverted, the jury might legitimately find, on weighing the evidence. Purely imaginary or abstract questions, assuming facts or theories for which there is no foundation in the evidence, are not admissible as matter of right. On cross-examination such abstract or theoretical questions, not founded upon the facts of the case on trial, may be put for the purpose of testing the knowledge and information of the witness as to the subject upon which he has been examined, and his competency to give the opinion which he may have pronounced on his direct examination. But the allowance of such questions, like other collateral inquiries touching only the credibility of the witness, rests in the discretion of the court, and when the discretion is fairly exercised, it is not error to exclude them. Dilleber v. Home Life Ins. Co., 87 N. Y. 79-88; La Bean v. People, 34 Id. 223. Were the rule otherwise, there would be no limit to the cross-examination of a witness called as an expert. It could be protracted as long as the fertility of the imagination of the examining counsel might enable him to suppose cases, and the mental and physical powers of endurance of the witness would permit him to frame answers.\nIn our judgment the exclusion of the question put to Dr. Trowbridge was a fair exercise of the discretion of the court, and therefore not error, and did not justify the Supreme Court in reversing the conviction. We have examined the other-exceptions contained in the case and find nothing in them warranting the reversal.\nThe judgment of the Supreme Court should therefore be reversed and that of the Court of Sessions of Jefferson county affirmed.\nAll councur except Danforth, J., not voting.",
+        "type": "majority",
+        "author": "Rapallo, J."
+      }
+    ],
+    "attorneys": [
+      "E. C. Emerson, district attorney, for the people, plaintiff in error.",
+      "Joseph Mallin, for the prisoner, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nNovember, 1884.\nPEOPLE v. AUGSBURY.\n(Reversing 1 N. Y. Crim. Rep. 299.)\nEvidence\u2014Hypothetical and abstract questions\u2014Limits as TO DISCRETION.-WRIT OE ERROR-WHEN PROPER.\nHypothetical questions are allowed to be put to experts, but the hypothesis upon which they are examined must be based upon facts admitted as established by the evidence, or which, if controverted, the jury might legitimately find on weighing the evidence.\nPurely imaginary or abstract questions, assuming facts or theories lor which there is no foundation in the evidence, are not admissible as matter of right.\nOn cross-examination such abstract questions not founded on the facts of the case on trial, may be put for the purpose of testing the knowledge and information of the witness as to the subject upon which he has been examined, and his competency to give the opinion which he may have pronounced on his direct examination.\nBut the allowance of such questions, like other collateral inquiries touching only the credibility of the witness, rests in the discretion of the court, and when the discretion is fairly exercised, it is not error to exclude them.\nThe indictment in this case was found in June, 1881,\u2014Beld, that the review of the judgment is governed by the laws in force before the Code of Criminal Procedure took eSect.\nWrit of error to General Term of the Supreme Court, for the fourth judicial department, to review a judgment and order of that court reversing a conviction of the defendant in error, David Augsbury, for the crime of assault with intent to kill, in the Court of Sessions of Jefferson county and ordering a new trial.\nThe facts fully appear in the opinion.\nE. C. Emerson, district attorney, for the people, plaintiff in error.\nJoseph Mallin, for the prisoner, defendant in error."
+  },
+  "file_name": "0561-01",
+  "first_page_order": 585,
+  "last_page_order": 589
+}

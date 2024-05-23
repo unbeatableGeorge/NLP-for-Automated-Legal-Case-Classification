@@ -1,0 +1,115 @@
+{
+  "id": 1164421,
+  "name": "PEOPLE v. CORNETTI",
+  "name_abbreviation": "People v. Cornetti",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "303",
+  "last_page": "306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Abb. N. Cas. 261",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        626339
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/10/0261-01"
+      ]
+    },
+    {
+      "cite": "88 N. Y. 117",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550768
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/88/0117-01"
+      ]
+    },
+    {
+      "cite": "43 Cal. 344",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1935296
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/43/0344-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 484",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173233
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/80/0484-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 369,
+    "char_count": 6594,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 1.40990577368406e-07,
+      "percentile": 0.6467633827300356
+    },
+    "sha256": "9f4f374905004c3126796adb3240cd2cafeb42cfc6bcfd07caa38b13097c17be",
+    "simhash": "1:7fff2ddde256ccd7",
+    "word_count": 1162
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. CORNETTI."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, J.\nThe defendant was convicted at the Court of Oyer and Terminer of Westchester county, held in June, 1882, of the crime of murder in the first degree, in killing one Daniel Cash, by stabbing, in the mess room of the state .prison at Sing Sing on the ,31st day of December, 1881. The prisoner and Cash were convicts in the prison at the time of the homicide, and were assigned to duty in the mess room. The evidence shows that on the morning of the day of the homicide, another prisoner, after sharpening a case knife used by him laid it down and went to another part of the room. The prisoner was within a few feet of the place where the knife was left, in a position where he could have seen it. The convict who sharpened and left the knife, returned after a short absence to the place where he had left it and found that it had been taken away. In a few moments the prisoner was seen to-approach the deceased, and when he came near him struck him twice in the neck with a knife. The deceased immediately cried out that he was cut, and started to leave the room. He was taken to the hospital and died in about twenty minutes. It was found that the knife had severed the internal jugular vein.\nThe knife with which the blow was struck was taken from the hands of the prisoner. It was identified as the one which had been sharpened and laid down by the convict before referred to. Two witnesses of the transaction testified that no words passed between the prisoner and deceased before the homicide, and that there was no assault or provocation by the latter.\nThe evidence on the part of the people does not disclose any motive for the homicide.\nIt appears that the prisoner and the deceased had been witnesses. on the trial of another convict by' the name of Mongano, on opposite sides, but whether any ill feeling between them grew out of this circumstance does not appear. The prisoner was examined on his own behalf and testified that the deceased before the day of the homicide called him bad names, and had threatened to kill him, and that, just before the homicide had struck him and drew a knife upon him. The question whether the killing was in self-defense or under an apprehension on the part of the prisoner'of personal injury was submitted to the jury.\nThe case as presented upon the record leaves no doubt upon our minds that it was one of deliberate and premeditated murder, and no other reasonable conclusion could have been reached by the jury,\nTwro exceptions- were taken by the prisoner\u2019s counsel on impanelling the jury. The juror Onderdonk was challenged by the prisoner\u2019s counsel for principal cause, and testified on his examination- in chief that he had read and talked about the case and had formed' an opinion as to the guilt or innocence of the accused, but he subsequently declared in substance that such opinion would not, as -he believed, influence his verdict, and that he could render an impartial verdict according to the evidence. The' court, therefore, overruled the challenge, and the juror was sworn. The exception taken to this ruling is answered by section 376 of the Code of Criminal Procedure, which is a re-enactment of chapter 475 of the Laws of 1875, which was considered in Balbo\u2019s Case, 80 N. Y. 484.\nIn the case of the' juror Harris, the same ruling wras made under similar circumstances, but this juror was peremptorily challenged by the prisoner\u2019s counsel and did not sit in the case. The point is here taken that the court of Oyer and Terminer, by which the prisoner was tried, was not legally constituted, the allegation being that the justices of the sessions, who in part-composed it, were not legally designated or elected.\nThis point is taken here for the first time. It was not jaised at the trial, and there is no evidence and no exception bearing upon it. It must be assumed, therefore, that the court was properly constituted, and that the justices of the sessions, who acted, were duly designated according to law.\nThere are no other points presented as ground of reversal, and no other exceptions of any moment beside those considered.\nThere is no error in the judgment, and it should therefore be affirmed.\nAll concur.",
+        "type": "majority",
+        "author": "Andrews, J."
+      }
+    ],
+    "attorneys": [
+      "E. T. Lovatt, E. G. Baird, and John Gibney, for defendant and appellant.",
+      "Nelson H. Baker, district attorney for the people, respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nMarch, 1883.\nPEOPLE v. CORNETTI.\nMurder.\u2014Premeditation.\u2014Competency of Juror.\u2014Objection to Constitution of Court.\nThe defendant, a convict at Sing Sing prison, took a knife, passed over to where the deceased, a fellow prisoner, stood, and stabbed him twice, \"causing death. Two witnesses testified that no words passed between defendant and deceased, and that there was no provocation or assault by the latter. No motive for the homicide was disclosed by the people. Defendant testified that deceased before the day of the homicide had insulted him and threatened to kill him, that just before the homicide deceased had struck him and drawn a knife on him, and that he killed deceased in self-defense. Held, that the transaction was a deliberate and premeditated murder.\nA juror is competent who has read and talked about the case, and has formed an opinion of the guilt or innocence of the accused, but who declares that his opinion would not influence his verdict, and that he could render an impartial verdict according to the evidence.\nThe point is taken in this court for the first time in the case, that tire court of Oyer and Terminer, by which the prisoner was tried, was not legally constituted, because the justices of the sessions who in part composed it, were not legally designated or elected. Held, that the point not having been raised on the trial, and there being no evidence or exception bearing upon it, it will be assumed that the court was properly constituted, and that the justices of the sessions who acted were duly designated according to law.\nAppeal from a judgment of December 12,1882, of- the General Term of the Second Department of the Supreme Court, affirming a conviction of murder in the first degree, in the Court of Oyer and Terminer of Westchester county\nThe opinion of the court fully states the facts.\nE. T. Lovatt, E. G. Baird, and John Gibney, for defendant and appellant.\nNelson H. Baker, district attorney for the people, respondents.\nIt is only necessary that the act of killing be preceded by a concurrence of will, deliberation, and premeditation, and if this is the case, the killing is murder in the first degree, no matter how rapidly these acts of the mind may succeed each other, or how quickly they may be followed by the act of killing. People v. Williams, 43 Cal. 344; People v. Leighton 88 N. Y. 117; affirming 10 Abb. N. Cas. 261."
+  },
+  "file_name": "0303-01",
+  "first_page_order": 327,
+  "last_page_order": 330
+}

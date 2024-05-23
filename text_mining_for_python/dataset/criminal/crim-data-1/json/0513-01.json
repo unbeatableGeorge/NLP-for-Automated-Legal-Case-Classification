@@ -1,0 +1,91 @@
+{
+  "id": 1164502,
+  "name": "PEOPLE, ex rel. DOUGLASS v. NAEHR",
+  "name_abbreviation": "People ex rel. Douglass v. Naehr",
+  "decision_date": "1883-09",
+  "docket_number": "",
+  "first_page": "513",
+  "last_page": "518",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Hun, 292",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Hun, 181",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Hun, 181",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 499,
+    "char_count": 9917,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 2.8104135351563027e-07,
+      "percentile": 0.8375370533185525
+    },
+    "sha256": "ce55fcdbabd2b164d0da9facafc053465b14eeb299e5bcb7fb97b2e78435dda2",
+    "simhash": "1:6e7206ecc61594d0",
+    "word_count": 1760
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE, ex rel. DOUGLASS v. NAEHR."
+    ],
+    "opinions": [
+      {
+        "text": "Pratt, J.\nThe relator has been adjudged a disorderly person, in that he abandoned, neglected and refused to support his wife, within the meaning of chapter 395, Laws of 1870, and as amended by chapter 171, Laws of 1882. This statute relates to the county of Kings. Its material provisions are as follows: \u201c All persons who abandon or threaten to- run away and leave their wives and children, or either of them, without adequate support, a burden on the public, or who shall leave them in danger of becoming a burden on the public, or who shall neglect to provide for them according to their means, against whom a warrant shall be issued upon a complaint made upon oath to any justice of the peace or police justice in the county of Kings, shall be brought before the justice of the peace or police justice who issued said warrant, and if it shall appear by the confession of the offender or by competent testimony that the person so charged is guilty, the justice of the peace or police justice before whom the said offender is brought shall make an order in which he shall specify the sum of money to be paid weekly by said person for the support of the wife or children, or either.\u201d\nIt seems that while the relator and his wife were living together in Hew York city a quarrel arose, and that she left him, and came to reside with their daughter, in Brooklyn, where she has ever since lived. He remained in Hew York for a time, and then went to Hew Jersey. He contributed to her support to some extent from time to time, and finally came to Brooklyn, where he now resides. She at last complained to the commissioners of charities,, one of whom presented this charge against the relator.\nThe judgment recites that the conviction was in part upon his own confession as well as upon the evidence, but the proceedings upon the trial are all returned under the certiorari, and the question arises whether or not this charge was fairly established by the proofs.\nIt is obvious that the wife had the opinion that the relator had been unfaithful to her, and that she had determined to live with him no more. Before leaving Hew York'he offered to provide a separate house for her in that city, but this she refused. The extent of the relator\u2019s means was not very clearly shown, but he had 'offered to do something by way of contributing to her support after he came to live in Brooklyn.\nThe determination of the questions of fact raised by the relator involves a careful consideration of the object of the statute, and the nature and degree of proof required in the proceedings under it. The statute was designed to protect the public against the burden of supporting wives and children when their husband, without just cause, neglected or refused to perform their legal obligations in that regard. It was not intended to give the wife any new remedy, either directly or indirectly. Bayne v. People, 14 Hun, 181. Interpreted literally, it might seem to warrant a conviction when the husband, possessed of proper means, for any cause refused to support his wife. We do not think, however, such could have been the legislative intent. It authorizes a criminal proceeding, and declares that to be a crime which was not theretofore punishable as an offense. It must therefore be strictly construed with reference to the object in view and the general policy of the law existing at the time it was passed. We do not think it imposed any new duty upon a husband toward his wire. It simply declares that unreasonable neglect, or refusal to perform certain existing obligations, in cases when such conduct will result in imposing a burden upon the public, shall be punishable as a crime. Any other view would result in a most serious disturbance of the reciprocal rights and duties which are founded upon the marital relation.\nThe wife is entitled to reasonable support by the husband. It is her duty as well as right to live with him in such proper place as he provides. He is entitled to determine not only the place, but their style of living, and it is her plain duty to follow him wherever his interest, necessity, or reasonable wish, may lead. It is only when he neglects or refuses to properly provide, or maltreats her, or is guilty of infidelity to her, that she is justified in refusing her submission to his reasonable requirement in this respect.\nThen, as general fundamental rules, they are of such importance to the public weal that courts will most jealously guard and enforce them, and every new piece of legislation affecting them has always received strict construction, even as between the parties directly interested. It is our duty to construe this act in aid rather than in hostility to these rules. In this view, it is difficult to find in this act anything more than authority for a criminal proceeding against the husband who so unreasonably neglects or refuses to perform existing legal obligations towards his wife that she has become or is likely to become a public burden. Neither was this statute intended to apply to a case where a wife capriciously and without cause refuses to accept reasonable provision for her support at the place which the husband may have selected, even though she is liable to become a public burden.\nThe questions here must be tested, not alone by the measure of the relator\u2019s pecuniary ability, but by the conduct of the wife and his disposition to recognize his pecuniary obligations to her. Is her want of support due to his refusal to provide for her, or to her unwillingness to perform the duties of a wife and live with him % She testified that she was unwilling to live with him. This refusal was not justified by any legal proof in the case of infidelity or cruelty upon his part. If there is any foundation for the suggestion that relator has committed adultery, the wife has an ample remedy in a suit for divorce and alimony.\nWhen we look into the case for proof of a refusal to provide, we find nothing but an original demand for a separate maintenance on the part of the wife. This part of the case is bare of that certainty of demonstration that overcomes all reasonable doubt\u2014which distinguishes the criminal from a civil proceeding.\nA careful reading of the case cannot fail to impress upon the mind the belief that the conviction was obtained through an erroneous view of the object and scope of the statute. According to our view of the statute, there is an utter failure to make out a case to warrant a conviction of the offense charged.\nThe judgment should be reversed.\nBarnard, P. J., and Dykman, J., concur.",
+        "type": "majority",
+        "author": "Pratt, J."
+      }
+    ],
+    "attorneys": [
+      "Charles J. Patterson, for appellant.",
+      "A. Simis, Jr., for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014 General Term\u2014Second Department.\nSeptember, 1883.\nPEOPLE, ex rel. DOUGLASS v. NAEHR.\nAbandonment\u2014L. 1870, o. 395, Amended L. 1882, o. 171.\nThe Law of 1870, c. 395 (amended L. 1882, c. 171), was designed to protect the public against the burden of supporting wives and children when the husband, without just cause, neglects or refuses to perform his legal obligations in that regard, and it was not intended to give the wife any new remedy.\n3The statute was not intended to apply to a case where a wife capriciously aud without cause refuses to accept reasonable provision for her support, at the place the husband may have selected, even though she is liable to became a public burden.\nThough the wife is entitled to reasonable support by the husband, he has the right to determine the place and style of living, and it is only when he neglects or refuses to properly provide for, or maltreats her, or is guilty of infidelity to her, that she is justified in refusing her submission to his reasonable requirements in regard thereto.\nWrit of certiorari to Charles \u00a1Naehr, Esq., a police justice of the city of Brooklyn, to review the proceedings upon the conviction of one Edward 1ST. Douglass, as a disorderly person, under L. 1870, c. 395, and L. 1882, c. 171, in that he had abandoned his wife, and neglected to support her according to his means.\nThe facts appear in the opinion.\nCharles J. Patterson, for appellant.\nI. In order to convict the relator it was necessary to prove both that he had abandoned his wife and that he had neglected to support her according to his means. The language of the act is as follows: \u201c \u00a7 1. All persons \"who abandon or threaten to run away and leave their wives and children, or either of them, without adequate support, a burden on the public, or who shall leave them in danger of becoming a burden on the public, or who shall neglect to provide for them according to their means, shall,\u201d &c.\nThe. words in italics were added by the amendment of 1882. Under this statute an abandoment, actual\" or threatened, is an essential element of the offense in either case mentioned. The title of the act shows that abandonment is an essential element of the offense, for it is \u201c An Act in relation to persons who abandon or threaten to abandon their families,\u201d &e. The only purpose of the amendment of 1882 was to obviate the decisions of this court, in which it was held that it was necessary that the wife should actually become a burden on the public before the offense was complete. Bayne v. People, 14 Hun, 181; People ex rel. Kehlbeck v. Walsh, 11 Id. 292.\nII. Under this statute, it is essential to a conviction that the act of abandoning or leaving the family shall take place within the county of Kings. It is not enough that the abandonment take place in another locality, and the parties afterward come and reside in the county. Bayne v. People, 14 Hun, 181.\nIII. This court has uniformly held that these proceedings cannot be maintained where the wife is unwilling to return to her husband and live with him. People ex rel. Kehlbeck v. Walsh, 11 Hun, 292; People v. Bayne, 14 Id. 181.\nIV. The proceeding before the magistrate was simply an effort on her part to gain the benefits of a limited divorce and alimony without the customary proceedings to that end.\nA. Simis, Jr., for respondent."
+  },
+  "file_name": "0513-01",
+  "first_page_order": 537,
+  "last_page_order": 542
+}

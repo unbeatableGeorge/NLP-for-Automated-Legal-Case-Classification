@@ -1,0 +1,79 @@
+{
+  "id": 1164450,
+  "name": "MATTER OF HOFFMAN",
+  "name_abbreviation": "In re Hoffman",
+  "decision_date": "1883-10",
+  "docket_number": "",
+  "first_page": "484",
+  "last_page": "486",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 484"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "62 How. 352",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 284,
+    "char_count": 5163,
+    "ocr_confidence": 0.526,
+    "pagerank": {
+      "raw": 3.375654554570519e-07,
+      "percentile": 0.8760865980989625
+    },
+    "sha256": "bab68d21805c90779bcdd24122838ca040eff2427431559b0a5cc00a8de2eee0",
+    "simhash": "1:b5b2ed6ed81786d1",
+    "word_count": 886
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MATTER OF HOFFMAN."
+    ],
+    "opinions": [
+      {
+        "text": "Westbrook, J.\nThe prisoner must be discharged, because the magistrate had no power to impose a sentence in the disjunctive. Either a fine or an imprisonment, or both, should have been imposed, but the sentence should state whether it was one of the two, or both, which the prisoner was to suffer. By the language of the commitment, the prisoner is adjudged either to pay a fine of fifty dollars or to be imprisoned for three months, but it is not definitely and distinctly stated which one will satisfy the judgment. Undoubtedly, the magistrate could impose a fine and also adjudge the' length of imprisonment to be endured if such fine was not paid. This, however, is not the form of the judgment, but the sentence is simply in the disjunctive, without any declaration that by the payment of the fine the condemned will escape the imprisonment.\nThere is another- question which the sentence imposed involves, and it is this : Conceding that such sentence only imposes an imprisonment provided the fine is not paid, is not the power-to imprison for one year in case of non-payment- of the fine, conferred by chapter 18 of the laws of 1876, taken away by section 718 of the Code of Criminal Procedure, which declares that the imprisonment to be endured in case a fine is not paid \u201c cannot exceed one day for every one dollar of the fine.\u201d The former is a special statute and the latter a general one, but does not the policy of the law require judges to hold that a subsequent general statute prescribing the maximum of punishment for an offense is a repeal of a prior special statute authorizing a greater .penalty for the same offense ? This question, however, is not' decided (see Matter of'Wacher, 62 How. 352; People v. Coffee, Id. 445, and note, page 449 ; Matter of Bayard, 61 Id. 294; Matter of Coughlin, 62 Id. 34), as it has not been argued. It is sufficient to justify the prisoner\u2019s discharge that the penalty imposed is not specific. In other words, the magistrate has not exercised the discretion conferred upon him by statute by specifying clearly the punishment he intended to inflict. The general principle of law which condemns the commitment as bad is expressly recognized in our Code (\u00a7 718), which, in addition to the limitation upon the length of the imprisonment hereinbefore stated, also declares \u201c a judgment that the defendant pay a fine may also direct that he be imprisoned until the fine be satisfied.\u201d In other words, both the general law and the Criminal Code require, if a fine is the punishment inflicted, that the sentence and commitment shall so state, and the right to imprison shall only exist if such fine is not paid.\nFor the reasons stated, the prisoner is entitled to his discharge. 1",
+        "type": "majority",
+        "author": "Westbrook, J."
+      }
+    ],
+    "attorneys": [
+      "H. Hale, for the prisoner.",
+      "L. W. Rhodes, district attorney, for the people, opposed."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014Special Term\u2014Albany County.\nOctober, 1883.\nMATTER OF HOFFMAN.\nCommitment\u2014Statement oe Punishment.\u2014Repeal oe Special Statute eelating to Punishment, by Subsequent Oenebal Statute.\u2014L. 1876, c. 18.\u2014 Code. Cbiminal Pbooedube, \u00a7 718.\nWhere the statute prescribing the penalty for an offense, provides for a fine or imprisonment, or both,, the commitment under which the prisoner is held, after conviction and. sentence, should definitely and distinctly state what will satisfy the judgment. The magistrate, in such case, has no power to impose a sentence in the disjunctive, and where judgment is so rendered and the commitment,\u2014e. g., under a conviction.of assault and battery,\u2014states that it was adjudged that the prisoner should \u201c pay a fine of $30 or be committed to and be confined at hard labor in the county jail .... for the term of three months,\u201d the prisoner cannot be held thereunder.\nWhether L. 1876, c. 18, in relation to the Police and Justice Courts of the city of Troy, prescribing the penalty for said offense, is not, in that respect, modified by section 718 of the Code of Criminal Procedure, which declares that imprisonment, in case a fine is not paid, \u201c cannot exceed one day for every one dollar of the fine,\u201d queere.\nIt seem\u00e9, that the policy of the law requires judges to hold that a subsequent general statute prescribing the maximum of punishment for an offense, is a repeal of a prior special statute, authorizing a greater penalty for the same offense.\nApplication by habeas corpus for the discharge of Andrew Hoffman from imprisonment in the Albany Penitentiary, who was there detained under a commitment issued by a police magistrate of the city of Troy.\nThe commitment recited a formal conviction of Hoffman on September 28, 1883, of the crime of an assault and battery upon the person of Harriet Lawrence. The trial was by jury, and upon the rendition of the verdict of guilty, as the commitment stated, the \u201c court did adjudge and determine that the said defendant should, for the offense aforesaid, pay a fine of fifty dollars, or be committed to and be confined at hard labor in the county jail of Rensselaer county for the term of three months.\u201d\nIt was claimed, in behalf of the prisoner, that the sentence could not be enforced, because it did not specify which one of the penalties specified was imposed.\nH. Hale, for the prisoner.\nL. W. Rhodes, district attorney, for the people, opposed."
+  },
+  "file_name": "0484-01",
+  "first_page_order": 508,
+  "last_page_order": 510
+}

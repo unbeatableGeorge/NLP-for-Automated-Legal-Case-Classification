@@ -1,0 +1,90 @@
+{
+  "id": 1167679,
+  "name": "PEOPLE v. MARTIN",
+  "name_abbreviation": "People v. Martin",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "51",
+  "last_page": "53",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Gen. Sess.",
+    "id": 9672,
+    "name": "New York Court of General Sessions"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "92 U. S. 542",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8758
+      ],
+      "pin_cites": [
+        {
+          "page": "555, 556"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/92/0542-01"
+      ]
+    },
+    {
+      "cite": "7 Pet. 142",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 239,
+    "char_count": 3931,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 2.943258198705265e-07,
+      "percentile": 0.8482641265957976
+    },
+    "sha256": "fae89d4d1ba0127a82b664a95cc6db72f5eabbe4855ba5f2500e65f48b9fc259",
+    "simhash": "1:a87fe6cdd56bee45",
+    "word_count": 679
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. MARTIN."
+    ],
+    "opinions": [
+      {
+        "text": "Rufus B. Cowing, City Judge.\nOn November 20, 1883, an indictment was filed in this court, charging the defendant, Lewis B. Martin, and others, with forgery in the first degree.\nThe defendant, Martin, demurs to the indictment, for the reason, as alleged, that the indictment does not contain sufficient facts to constitute a crime; in that it does not set forth the name of the person whom the defendants intended to have defrauded, or assign any reason for the omission. The people have joined in the demurrer; and this court is called upon to settle the question of law thus raised.\nOn the argument, the counsel for the defendant conceded, that the indictment sufficiently charges forgery in the first degree against the defendant, if subdivision 5 of section 718, of the Penal Code, is constitutional. This subdivision reads as follows: \u201c Where an intent _ to defraud constitutes a part of a crime, it is not necessary to aver or prove an intent to defraud any particular person.\u201d\nIn my judgment, the above section of the Penal Code is constitutional; and, therefore, the indictment need not allege an intent, on the part of the defendant, to defraud any particular person, but only to defraud in general.\nThe statutory definition recites the general intent to defraud; and the evident intent of one who commits forgery is general, for his intent undoubtedly is, to defraud any one upon whom he can put off his forged writing or instrument.\nThe defendant who commits forgery intends to defraud any one he can, without knowing at the time who it will be. I can see no injustice to the defendant, in making his intent, by way of allegation, as general, as is his intent, in point of fact.\nTo be sure, the defendant is entitled to know the nature of the charge made against him : first, that he may know exactly what he is called upon to defend himself against, and to be prepared to meet, upon his trial; and second, that he maybe able to plead the indictment, when he is called upon a second time to defend himself against the same charge. .\nIn my opinion this indictment is sufficiently definite to meet both of these requisites.\nI know of nothing, either in the constitution of this state, or in that of the United States, restricting the legislature in determining what acts shall constitute a crime or in determining, by way of procedure, what the indictment should contain, to properly set it forth; so long as it contains sufficient of allegation to warn the defendant of the nature of the accusation made against him, and to enable him to prepare his defense, and to use the indictment as a bar to a second prosecution fpr the same offense. I consider this indictment sufficiently definite to meet all these requirements.\nJudgment is ordered for the people upon the demurrer, and the defendant is allowed to answer over.",
+        "type": "majority",
+        "author": "Rufus B. Cowing, City Judge."
+      }
+    ],
+    "attorneys": [
+      "Peter Mitchell, for defendant.",
+      "Peter B. Olney, district attorney, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "General Sessions\u2014County of New York.\nJanuary, 1883.\nPEOPLE v. MARTIN.\nIndictment.\u2014Co. Crim. Pro. \u00a7 718, sued.- 5,\u25a0 constitutional.\nThe provision of Co. Crim. Pro. 718, subd. 5, that \u201c where an intent to defraud constitutes part of a crime, it is not necessary to aver or prove an intent to defraud any particular pqrson,\u201d is constitutional.\nAn indictment is sufficiently definite if it contains sufficient to inform defendant of the nature of the accusation against him, to enable him to prepare his defense, and to use the indictment as a bar to a second prosecution for the same of\u00edense.\nDemurrer to an indictment of defendant, Lewis B. Martin, for forgery in the first degree.\nThe facts appear\u2019 in the opinion.\nPeter Mitchell, for defendant.\nCo. Crim. Pro. \u00a7 718, subd. 5, is unconstitutional because it is in conflict with the provisions of amended art. 6 of the U. S. Constitution, that the accused \u201c be informed of the nature and cause of the accusation.\u201d United States v. Hills, 7 Pet. 142; United States v. Cruikshank, 92 U. S. 542, 555, 556.\nPeter B. Olney, district attorney, for the people."
+  },
+  "file_name": "0051-01",
+  "first_page_order": 75,
+  "last_page_order": 77
+}

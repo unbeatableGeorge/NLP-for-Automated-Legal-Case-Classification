@@ -1,0 +1,145 @@
+{
+  "id": 1164504,
+  "name": "CARNCROSS, et al. v. PEOPLE",
+  "name_abbreviation": "Carncross v. People",
+  "decision_date": "1883-06",
+  "docket_number": "",
+  "first_page": "518",
+  "last_page": "521",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "56 N. Y. 363",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519180
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/56/0363-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 144",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Lans. 462",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4842626
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/lans/6/0462-01"
+      ]
+    },
+    {
+      "cite": "45 N. Y. 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2049834
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/45/0153-01"
+      ]
+    },
+    {
+      "cite": "4 Ben. 367",
+      "category": "reporters:federal",
+      "reporter": "Ben.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Barb. 642",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Wend. 423",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Den. 91",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187544
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0091-01"
+      ]
+    },
+    {
+      "cite": "22 N. Y. 180",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 453,
+    "char_count": 8064,
+    "ocr_confidence": 0.571,
+    "pagerank": {
+      "raw": 6.089666416864809e-08,
+      "percentile": 0.38027352173813994
+    },
+    "sha256": "32a0cc1f8bcd3bd116c5765b81a413b554a2d37a0cbffb6deba59962a8d8b3d4",
+    "simhash": "1:b56ed41d3346d6a8",
+    "word_count": 1396
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARNCROSS, et al. v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Hardin, J.\nSection 5, 3 R. S. 2483 (7th ed.), contains .the language under which the plaintiffs in error were indicted, as principal and accessory before the fact; and upon the indictment found under that section their conviction was had. By that section, the burning of any building \u201c which shall be at that time insured against loss or damage by fire, with intent to prejudice such insurance . . .\u201d shall be arson in the third degree. Facts which show that the accused is brought within the terms of the statute must be alleged in the indictment. Dedieu v. People, 22 N. Y. 180.\nThe acts which are charged as constituting the offense must be charged with such- certainty as to identify aiid distinguish it from other transactions, and that the prisoner may know what crime he is called upon to answer. People v. Taylor, 3 Den. 91. \u2019\nIn the first and fourth courts of the indictment before us, the felonious burning of a dwelling-house is averred, \u201c being then and there, to wit, at the time of such burning, insured against loss or damage by fire in and by the Fire Association of Philadelphia, the same being a corporation duly organized, and empowered to take and issue such insurance, with intent to injure, prejudice and defraud said Fire Association against the form of the statute . . .\u201d We think the indictment sufficient to admit proof of the facts required by the statute to make out the crime\u2014first, the burning of the building ; second, that the building was insured against loss by fire; third, the intent to prejudice such' insurer. The case differs from People v. Henderson (1 Park. 563), as in that case the intent to defraud the Poughkeepsie Mutual Insurance was averred, but it was not averred that the house burned was insured. It is clear that the indictment before us alleges a corporation duly organized, and empowered to take insurance, and that it was that corporation the prisoners intended to prejudice and injure. In Cohen v. People (5 Park. 330), the indictment, after stating the corporation injured, said, viz.: \u201c A corporation created by and existing under the laws of the State of Massachusetts.\u201d The objection, which was sustained by the court, was that there was no evidence proving the existence of the corporation alleged.\nThe statute under which this indictment was found aims to punish offenses against all insurers, and is not limited to such as are natural persons, or organized under the laws of the state and we think where the insurer is named, be it an individual or a corporation,, the proof of his residence, or the mode of its incorporation or manner of coming into existence may be shown, although not specifically averred in the indictment. People v. Stearns, 21 Wend. 423; aff\u2019d 23 Id. 634; People v. Jackson, 8 Barb. 642 ; Mackesey v. People, 6 Park. 119.\nThe act of incorporation of the insurance company, with proof of user under it, was sufficient to establish the existence of the corporation. People v. Beigler, Lalor's Sup. 133 ; Johnson v. People, 4 Ben. 367. The c\u00e1se of McGary v. People (45 N. Y. 153) was where the name was erroneously stated in referring to a corporation, and the variance was held fatal, and nothing in that case conflicts with what has already been said by us.\nSecond. It was not error to receive proof that the Fire Association had complied with the laws of the state, and was authorized to transact business in this state. It was a fact tending to show the validity of the insurance.\nThird. The fire was on February 19, 1879, and Clark says, a. few days before it occurred an agreement was come to between him and Carncross and Cota that the building should be rifled and burned; that Carncross would give each of them $200 for doing the job. The principal direct evidence tending to establish the conspiracy or plot to burn the building was given by Clark, the accomplice. The People called David. Carncross, who was a cousin of the defendant Carncross, who had had difficulty with him, and he was allowed to testify, against objection and exception, that in 1875, 1876, he had a conversation with defendant Carncross \u201c in regard to putting a stock of furniture in \u201d the building, and that defendant Carncross said \u201c he thought it would be & profitable investment to put in furniture; he said \u201c it could be bought very cheap in the rough, and be stained and varnished.\u201d We had several conversations in regard to it. . . . He came in, one day, and said to me, \u201c I will tell you how some money might be made,\u201d (here was an objection and exception) and witness was allowed to say, viz. : \u201c He said we might stock up this building with furniture, build up a good fire, and go a-visiting. I told him I thought it would hardly do. I don\u2019t remember anything further. I think this was in April, 1875.\u201d\nWe think this evidence was worse than immaterial; it tended to injure the defendants before the jury, and to prejudice them against the defendants. It violated the rule which excludes from the jury evidence of a crime, or proposition for the commission of a crime, other than the one named in the indictment. To receive it was error. Rosenweig v. People, 6 Lans. 462 ; People v. Kennedy, 32 N. Y. 144 ; People v. Dibble, 5 Park. 28 ; People v. Corbin, 56 N. Y. 363 ; People v. Coleman, 55 Ib. 81; Copperman v. People, 56 Ib. 591; People v. Brown, 72 Ib. 571; People v. Crapo, 76 Ib. 291. If the conversation had been after the confederation sworn to by Clark had been made, a very different question would have been presented.\nThere should be a new trial. The conviction and judgment should be reversed.\nFourth. As a new trial must be had because of the error occurring upon the trial, it is not necessary to examine the motion for a new trial or newly discovered evidence.\nConviction order and judgment reversed, and proceedings remitted to the Court of Sessions of Wayne County, with direction for a new trial.\nSmith, P. J., and Barkeb, J., concur.\nAs to admissibility of evidence of subsequent offense, see People v. Gibbs, ante, p. 472.\nNow embodied in Penal Code, \u00a7 488. As to destruction of property \u2022with intent to defraud or prejudice the insurer, under such circumstances that the offense is not arson, see Penal Code, \u00a7 578. ' ' >",
+        "type": "majority",
+        "author": "Hardin, J."
+      }
+    ],
+    "attorneys": [
+      "De L. Stow, for the prisoners, plaintiffs in error.",
+      "J. W. Hoag & Raines Bros., for the people, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014fourth Department.\nCARNCROSS, et al. v. PEOPLE.\nJune, 1883.\nArson.\u2014Burning Building to Defraud Insurer.\u2014Indictment and Proof, Sufficiency of.\u2014Evidence.\u2014 3 R. S. (7th ed.) 2483.\nTo sustain an indictment for arson in the third degree, under 3 R. S. (7th ed.) 2483, for burning a building with intent to defraud the insurer thereof, facts which show that the accused is brought within the terms of the statute must be alleged in the indictment with such certainty as to identify the offense, and distinguish it from other transactions; but where the insurer is named,\u2014e. g., Eire Association of Philadelphia,\u2014the residence, mode of incorporation, or manner of coming into existence, may be shown, though not specifically averred in the indictment.\nThe act of incorporation, with proof of user under it, is, in such a case, sufficient to establish the existence of the corporation.\nWhere the insurer is a foreign corporation, proof that it has complied with the laws of this state and is authorized to transact business here, is admissible, as tending to show the validity of the , insurance.\nProof of a proposition of the accused to burn the building in question, made several years before the commission of the act for which he was indicted, to one not connected with the of\u00edense, is not competent, and its admission is ground for reversal.\nWrit, of certiorari to the Wayne Sessions, to review a conviction of Cota as principal, and Carneross as accessory before the fact, of the crime of arson in the third degree, for the burning of a building, with intent to injure an insurer, and also to review an order denying a motion for a new trial.\nThe facts and exceptions sufficiently appear in the opinion.\nDe L. Stow, for the prisoners, plaintiffs in error.\nJ. W. Hoag & Raines Bros., for the people, defendant in error."
+  },
+  "file_name": "0518-01",
+  "first_page_order": 542,
+  "last_page_order": 545
+}

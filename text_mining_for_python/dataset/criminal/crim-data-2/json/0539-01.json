@@ -1,0 +1,338 @@
+{
+  "id": 1167707,
+  "name": "IN THE MATTER OF JACOBS",
+  "name_abbreviation": "In re Jacobs",
+  "decision_date": "1885-01",
+  "docket_number": "",
+  "first_page": "539",
+  "last_page": "552",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 539"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 N. Y. Crim. Rep. 346",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167711
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/2/0346-01"
+      ]
+    },
+    {
+      "cite": "1 Cranch, 137",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        6760011,
+        6759998,
+        12121622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dc/1/0137-02",
+        "/dc/1/0137-01",
+        "/us/5/0137-01"
+      ]
+    },
+    {
+      "cite": "110 U. S. 421",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3504440
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/110/0421-01"
+      ]
+    },
+    {
+      "cite": "8 Wall. 603",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3443990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/75/0603-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 421",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 N. Y. 302",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/35/0302-01"
+      ]
+    },
+    {
+      "cite": "64 N. Y. 91",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2161847
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/64/0091-01"
+      ]
+    },
+    {
+      "cite": "70 Ill. 191",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5309355
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/70/0191-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532810
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/72/0001-01"
+      ]
+    },
+    {
+      "cite": "78 N. Y. 232",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        544432
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/78/0232-01"
+      ]
+    },
+    {
+      "cite": "47 Barb. 64",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946999
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/47/0064-01"
+      ]
+    },
+    {
+      "cite": "16 Wall. 36",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        411261
+      ],
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/83/0036-01"
+      ]
+    },
+    {
+      "cite": "109 Mass. 315",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2108164
+      ],
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/109/0315-01"
+      ]
+    },
+    {
+      "cite": "16 Pick. 121",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2022321
+      ],
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/33/0121-01"
+      ]
+    },
+    {
+      "cite": "7 Cush. 84",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 N. Y. 509",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534700
+      ],
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/74/0509-01"
+      ]
+    },
+    {
+      "cite": "111 U. S. 746",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3506390
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/111/0746-01"
+      ]
+    },
+    {
+      "cite": "90 N. Y. 48",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2186313
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/90/0048-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y. 378",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        494205
+      ],
+      "pin_cites": [
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/13/0378-01"
+      ]
+    },
+    {
+      "cite": "13 Wall. 177",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Wheat. 419",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1429870
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/25/0419-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1223,
+    "char_count": 30468,
+    "ocr_confidence": 0.575,
+    "pagerank": {
+      "raw": 1.5463680833845417e-07,
+      "percentile": 0.6738676656438272
+    },
+    "sha256": "e6484ba464973ac49a9e64de6d2ea0c441feb90c00da694622e871297d4f4a66",
+    "simhash": "1:b560fa07438ea9f3",
+    "word_count": 5309
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur."
+    ],
+    "parties": [
+      "IN THE MATTER OF JACOBS."
+    ],
+    "opinions": [
+      {
+        "text": "Earle, J.\nThe relator, Jacobs, was arrested on the 14th day of May, 1884, on a warrant issued by a police justice in the city of New York under the act, ch. 272 of the Laws of 1884, passed May 12, entitled, \u201c An act to improve the public health by prohibiting the manufacture of cigars and preparation of tobacco in any form in tenement houses in certain cases, and regulating the use of tenement houses' in certain cases.\u201d On the evidence of the complainant he was by the justice committed for trial, and thereafter upon his petition, a justice of the Supi\u2019eme Court granted a writ of habeas corpus to which a return was made, and upon the hearing thereon the justice made an order dismissing the writ and remanding him to prison. From that order he appealed to the General Term of the Supreme Court, which reversed the order and discharged hiin from prison, on the ground that the act under which he was arrested was unconstitutional, and therefore void. The district attorney on behalf of the people then appealed to this court, and the sole question for our determination is whether the act of 1884, creating the offense for which the relator was arrested, was a constitutional exercise of legislative power.\nThe facts as they appeared before the police justice were as follows: The relator at the time of his arrest lived with his wife and two children in a tenement house in the city of New York, in which three other families also lived. There were four floors in the house, and seven rooms on each floor, and each floor was occupied by one family living independently of the others, and doing their cooking in one of the rooms so occupied. The relator at the time of his arrest was engaged in one of his rooms in preparing tobacco and making cigars, but there was no smell of tobacco in any part of the house except the room where he was thus engaged.\nThese facts showed a violation of the provisions of the act, which took effect immediately upon its passage and the material portion of which was as follows:\n\u201c \u00a7 1. The manufacture of cigars or preparation of tobacco in any form on any floor, or in any part of any floor, in any tenement house is hereby prohibited, if such floor or any part of such floor, is by any person occupied as a home or residence for the purpose of living, sleeping, cooking, or doing any household work therein.\n\u201c \u00a7 2. Any house, building, or portion thereof, occupied as the home or residence of more than three families living independently of one another, and doing their cooking upon the premises, is a tenement house within the meaning of this act.\n\u201c \u00a7 3. The first floor of said tenement house on which there is a store for the sale of cigars and tobacco shall be exempt from the prohibition provided in section one of this act.\n\u201c \u00a7 5. Every person who shall be found guilty of a violation of this act, or of having caused another to commit such violation shall be deemed guilty of a misdemeanor, and shall be punished for every offense by a fine of not less than $10 and not mure than $100, or by imprisonment for not less than ten days and not more than six months, or both such fine and imprisonment.\n\u201c \u00a7 6. This act shall apply only to cities having over 500,000 inhabitants.\u201d\nWhat does this act attempt to do ? In form it makes it a crime for a cigar maker in Hew York and Brooklyn, the only cities in the State having a population exceeding 500,000, to carry on a perfectly lawful trade in his own home. Whether he owns the tenement house or has hired a room therein for the purpose of prosecuting his trade, he cannot manufacture therein his own tobacco into cigars, for his own use or for sale, and he will become a criminal for doing that which is perfectly lawful, outside of the two cities named, everywhere else, so far as we are able to learn, in the whole world. He must either abandon the trade by which he earns a livelihood for himself and family, or if able, procure a room elsewhere, or hire himself out to one who has a room upon such terms, as under the fierce competition of trade and the inexorable laws of supply and. demand, he may be able to obtain from his employer. He may choose to do his work where he can have the supervision of his family and their help, and such choice is denied him. He may choose to work for himself rather than for a taskmaster, and he is left without freedom of choice. He may desire the advantage of cheap production in consequence of his cheap rent and family help, and of this he is deprived. In the unceasing struggle for success and existence which pervades all societies of men, he may be deprived of that which will enable him to maintain his hold and to survive. He may go to a tenement house, and finding no one living, sleeping, cooking or doing any household work upon one of the floors, hire a room upon such floor to carry on his trade, and afterward some tone may commence to sleep or to do some household work upon such floor, even without his knowledge, and he at once becomes a criminal in consequence of another\u2019s act. He may go to a tenement house, and finding but two families living therein independently, hire a room, and afterward by subdivision of the families, or a change in their mode of life, or in some other way, a fourth family begins to live therein independently, and thus he may become a criminal without the knowledge or possibly of the means of knowledge that he was violating any law. It is therefore plain that this law interferes with the profitable and free use of his property by the owner or lessee of a tenement house who is a cigar maker, and trammels him in the application of his industry and the disposition of his labor, and thus in a strictly legitimate sense it arbitrarily deprives him of his property and of some portion of his personal liberty.\nThe constitutional guaranty, that no person shall be deprived of his property without due process of law, may be violated without the physical taking of property for public or private use. Property may be destroyed, or its value may be annihilated ; it is owned and kept for some useful purpose, and it has no value unless it can be used. Its capability for enjoyment and adaptability to some use are essential characteristics and attributes without which property cannot be conceived; and hence any law which destroys it or its value, or takes away any of its essential attributes, deprives the owner of his property. The constitutional guaranty would be of little worth if the legislature could, without compensation, destroy property of its value, deprive the owner of its use, deny him the right to live in his own house or to work at any lawful trade therein. If the legislature has the power under the constitution to prohibit the prosecution of one lawful trade in a tenement house, then it may prevent the prosecution of all trades therein.\n\u201c Questions of power,\u201d says Chief Justice Marshall, in Brown v. State of Maryland, 12 Wheat. 419, \u201c do not depend upon the degree to which it may be exercised. If it may be exercised at all, it must be exercised at the will of those in whose hands it is placed.\u201d Blaokstohe, in his classification of fundamental rights, says: \u201c The third absolute right inherent in every Englishman is that of property, which consists in the free use, enjoyment and disposal of all his acquisitions, without any control or diminution, save only by the law of the land.\u201d 1 Com. 138.\nIn Pumpelly v. Green Bay Co., 13 Wall. 177, Miller, J., says: \u201c There may be such serious interruption to the common and necessary use of property as will be equivalent to a taking within the meaning of the constitution.\u201d\nIn Wynehamer v. People, 13 N. Y. 378, 398, Comstock, J., says : \u201c When a law annihilates the value of property and strips it of its attributes, by which alone it is distinguished as property, the owner is deprived of it according to the plainest interpretation, and certainly within the constitutional provision intended expressly to shield personal rights from the exercise of arbitrary power.\u201d\nIn People ex rel. Manhattan Sav. Inst. v. Otis, 90 N. Y. 48, Andrews, J., says: \u201c Depriving an owner of property of one of its attributes is depriving him of his property within the constitutional provision.\u201d\nSo too, one may be deprived of his liberty, and his constitutional rights thereto violated, without the actual imprisonment or restraint of his person. Liberty, in its broad sense, as understood in this country, means the right, not only of freedom from actual servitude, imprisonment, or restraint, but the right of one to use his faculties in all lawful ways, to live and work where he will, to earn his livelihood in any lawful calling, and to pursue any lawful trade or avocation. All laws, therefore, which impair or trammel these rights, which limit one in his choice of a trade or profession, or confine him to work or live in a specified locality, or exclude him from his own house, or restrain his otherwise lawful movements (except as such laws may be passed in the exercise by the legislature of the police power, which will be noticed later) are infringements upon his fundamental rights of liberty which are under constitutional protection.\nIn Butcher\u2019s Union Company v. Crescent City Co., 111 U. S. 746, Field, J., says \u201c that among the inalienable rights as proclaimed in the declaration of independence is the right of men to pursue any lawful business or vocation in any manner not inconsistent with the equal rights of others, which may increase their property or develop their faculties, so as to give them their highest enjoyment. The common business and callings of life, the ordinary trades and pursuits which are innocent in themselves and have been followed in all communities from time immemorial, must therefore be free in this country to all alike upon the same terms. The right to pursue them without let or hindrance, except that which is applied to all persons of the same age, sex, and condition, is a distinguishing privilege of citizens of the United States, and an essential element of that freedom which they claim as their birthright.\u201d In the same case Bradley, J., says: \u201c I hold that the liberty of pursuit\u2014the right to follow any of the ordinary callings of life\u2014is one of the privileges of a citizen of the United States,\u201d of which he cannot be deprived without invading his right to liberty within the meaning of the constitution.\nIn Live Stock, etc. Association v. Crescent City, etc. Co., 1 Abb. U. S. 398, the learned presiding justice says : \u201cThere is no more sacred right of citizenship than the right to pursue unmolested a lawful employment in a lawful manner. It is nothing more nor less than the sacred right labor.\u201d\nIn Wynehamer v. People, Johnson, J., says : _ \u201c That a law which should make it a crime for men either to live in, or rent, or sell their houses,\u201d would violate the constitutional guaranty of personal liberty.\nIn Bertholf v. O\u2019Rielly, 74 N. Y. 509, 515, Andrews, J., says, that one could \u201c be deprived of his liberty in a constitutional sense without putting his person in confinement,\u201d and that a man\u2019s right to liberty includes \u201c the right to exercise his faculties and to follow a lawful vocation for the support of life.\u201d\nBut the claim is made that the legislature could pass this act in the exercise of the police power which every sovereign State possesses. That power is very broad and comprehensive, and is exercised to promote the health, comfort, safety, and welfare of society. Its exercise in extreme cases is frequently justified by the maxim salus populi suprema lex. It is used to regulate the use of property by enforcing the maxim sic utere tuo ut alienum non loedas. Under it the conduct of an individual and the use of property may be regulated so as to interfere, to some extent, with the freedom of the one and the enjoyment of the other ; and in cases of great emergency engendering overruling necessity, property may be taken or destroyed without compensation, and without what is commonly called due process of law. The limit of the power cannot be accurately defined, and the courts have not been able, or willing, definitely to circumscribe it. But the power, however broad and extensive, is not above the constitution. When it speaks its voice must be heeded. It furnishes the supreme law, the guide for the conduct of legislators, judges and private persons, and so far as it imposes restraint the police power must be exercised in subordination thereto. Judge Cooley, speaking of the regulation by the legislature under the police power of the conduct of corporations holding inviolable charters, says : \u2018\u2018 The limit to the exercise of the police power in these cases must be this; the regulations must have reference to the comfort, safety and welfare of society, they must not be in conflict with any of the provisions of the- charter, and they must not under pretense of regulation take from the corporation any of the essential rights and privileges which the charter confers. In short, they must be police regulations in fact and not amendments of the charter in curtailments of the corporate franchise.\u201d Con. Lim. (4th ed.) 719.\nIn Potter\u2019s Dwarris on Stat. 458, it is said, that \u201c the limit to the exercise of the police power can only be this; the legislation must have reference to the comfort, the safety or the welfare of society; it must not be in conflict with the provisions of the Constitution.\u201d\nIn Commonwealth v Alger, 7 Cush. 84, Shaw, Ch. J., says, that the police power \u201c was vested in the legislature by the Constitution, to make, ordain, and establish all manner of wholesome and reasonable laws, statutes and ordinances, either with penalties or without, not repugnant to the Constitution, as they shall judge to be for the good and welfare of the Commonwealth, and of the subjects of the same. It is much easier to perceive and realize the existence and sources of the power than to mark its limitations or prescribe limits for its exercise.\u201d\nIn Austin v. Murray, 16 Pick. 121, 126, it is said: \u201c The law will not allow the rights of property to be invaded under the guise of a police regulation for the promotion of health when it is manifest that such is not the object and purpose of the regulation.\u201d\nIn Watertown v. Sawyer, 109 Mass. 315, 319, Colt, J., says: \u201c The law will not allow rights of property to be invaded under the guise of a police regulation for the preservation of health or protection against a threatened nuisance, and when it appears that such is not the real object and purpose of the regulation, courts will interfere to protect the rights of the citizen.\u201d\n\u201cIn the Slaughter-house cases, 16 Wall. 36, 87, Field, J., says : \u201c All sorts of restrictions and burdens are imposed under the police powers, and when these are not in conflict with any constitutional prohibitions or fundamental principles they cannot be successfully assailed in a judicial tribunal..... But under the pretense of prescribing a police regulation, the State cannot be permitted to encroach upon any of the just rights of the citizen which the Constitution intended to secure against abridgment.\u201d\nIn Coe v. Schultz, 47 Barb. 64, a learned judge, speaking\" of the constitutional limitations upon the police power, says : \u201c I am not willing to concede that the legislature can constitutionally declare an act or thing to be a common nuisance which palpably, according to our present experience or information, is' not and cannot be under any circumstances a common nuisance. By the common law definitions or common law decisions, I am not willing to conclude that the legislature can constitutionally declare or authorize any sanitary commission or board to declare the keeping or the use in any way of sugar or vinegar to be a common nuisance because the one is sweet and the other sour, or for any other reason. By such an unlimited power it is easy to see that any citizen might be deprived of his property without compensation, and without any color-able pretext that the public good required such deprivation.\u201d See also in the Matter of Cheesebrough,78 N. Y. 232.\nThese citations are sufficient to show that the police power is not without limitation, and that in its exercise the Legislature must respect the great fundamental rights guaranteed by the Constitution. If this were otherwise, the power of the Legislature would be practically without limitation. ,In the assumed exercise of the public power in \u2018the interest of the health, the welfare or the safety of the public, every right of the citizen might be invaded and every constitutional barrier swept away.\nGenerally it is for the Legislature to determine what laws and regulations are needed to protect the public health and secure the public comfort and safety, and while its measures are calculated, intended, convenient and appropriate to accomplish these ends, the exercise of its discretion is not subject to review by the courts! But they must have some relation to-these ends. Under the mere guise of police regulations, personal rights and private property cannot be arbitrarily invaded, and the determination of the legislature is not final or conclusive. If it passes an act ostensibly for the public health, and thereby destroys or takes away the property of a citizen, or interferes with his personal liberty, then it is for thp courts to scrutinize the act and see whether it really relates to and is convenient and appropriate to promote the public health. It matters not that the legislature may in the title11 to the act, or in the body declare that it is intended for the improvement of the public health. Such a declaration does not conclude the courts, and they must yet determine the fact declared and enforce the supreme law.\nIn Matter of Ryers, 72 N. Y. 1, Folger, J., speaking of the Drainage act then under consideration, says : \u201cThe Legislature has done no more than the Constitution permitted in providing in general terms a way for the promotion and preservation of the public health. It is still for the judiciary to see to it that each occasion presents the necessity for the work, and that the purpose to be reached is public.\u201d\nIn Town of Lake View v. Rose Hill Co., 70 Ill. 191, the court, speaking of the police powers, says: \u201cAsa general proposition, it may be stated, it is in the province of the lawmaking power to determine whether the exigencies exist calling into exercise this power. What are the subjects of its exercise is clearly a judicial question.\u201d Even the power of taxation, which is one of the broadest possessed by the Legislature, is not without its limitations, and its action in reference thereto may be scrutinized by the court; and that which is done under the guise of taxation may be condemned as sheer spoliation and confiscation without due process of law. Weismer v. Village of Douglass, 64 N. Y. 91; Stuart v. Palmer, 74 Id. 183; People v. Equitable Trust Co., 96 Id. 387. The legislature may condemn or authorize the condemnation of private-property for public use, and it may in the exercise of its discretion determine-when and upon what property the power of eminent domain may be exercised; but its exercise is not beyond the reach of judicial inquiry. Whether or not a use is a public one which will justify the exercise of the power is a judicial question. It may be difficult sometimes to determine whether a use is public or private. Although the legislature may declare it to be public, that does not necessarily determine its character; it must in fact be public, and if it be not, no legislative fiat can make it so, and any owner of property attempted to be taken for a use really private, can invoke the aid of the courts to protect his property rights against invasion. Rockwell v. Nearing, 35 N. Y. 302 ; Matter of Townsend, 39 Id. 171; Matter of Deansville Cemetery Association, 66 Id. 569; Matter of Eureka Basin Warehouse & Manufacturing Co., 96 Id. 42. The general government is one of limited powers particularly specified in the Federal Constitution. But in addition to the powers granted it is provided in the Constitution that Congress shall have power \u201c to make all laws which shall be necessary and proper for carrying into execution the foregoing powers.\u201d Under this provision Congress is not the final judge of what is \u201c necessary and proper,\u201d but its laws must have a legitimate end in view, must be within the scope of the Constitution, must be appropriate and plainly adapted to that end, and not prohibited by, but consistent with the letter and spirit of the Constitution, and whether the laws passed under the implied powers contained in the section cited are of the character mentioned, and thus justified, is always open to judicial inquiry. McCulloch v. Maryland, 4 Wheat. 421; Hepburn v. Griswold, 8 Wall. 603 ; Legal Tender cases, 12 Id. 457; Legal Tender cases, 110 U. S. 421.\nIf it were for congress to determine when these implied or incidental powers should be exercised, its powers would be without any restraint, and instead of being a body with limited powers, it would in its own discretion have general and unlimited power of legislation. \u201c Whatever meaning,\u201d says Mr. Madison (1 Annals of Congress, 1848), \u201c the clause of the Constitution conferring all necessary and proper means to carry into effect the enumerated powers may have, none could be admitted that would give an unlimited discretion to Congress and in Marbury v. Madison, 1 Cranch, 137, Marshall, Ch. J., says: \u201c To what purpose are limitations committed to writing if those limits may at any time be passed by those intended to be\" restrained % The distinction between a government with limited and unlimited powers is abolished if those limits do not confine the persons on whom they are imposed.\u201d These citations are apt to show how the police power may and how it ought not to be exercised, and how far its exercise is subject to judicial inquiry. A law enacted in the exercise of the police power must in fact be a police law. If it be a law for the promotion of the public health, it must be a health law, having some relation to the public health.\nWe will now once more recur to the law under consideration. It does not deal with tenement houses as such ; it does not regulate the number of persons who may live in any one of them, or be crowded into one room; nor does it deal with the mode of their construction for the purpose of securing the health and safety of their occupants or of the public generally. It deals mainly with the preparation of tobacco and the manufacture of cigars, and its purpose obviously was to regulate them. We must take judicial notice of the nature and qualities of tobacco. It has been in general use among civilized men for more . than two centuries. It is used in some form by a majority of the men in this state; by the good and bad, the learned and unlearned, the rich and the poor. Its manufacture into cigars is permitted without any hindrance, except for revenue purposes, in all civilized lands. It has never- been said, sd far as we can learn, and it was not affirmed even in the argument before us, that its preparation and manufacture into cigars were dangerous to the public health. We are not aware, and are not able to learn, that tobacco is even.injurious to the health of those who deal in it, or are engaged in its production or manufacture. We certainly known enough about it to be sure that its manipulation in one room can produce no harm to the health of the occupants of other rooms in the same house. It was proved in this case that the odor of the tobacco did not extend to any of the other rooms of the tenement house.\nMr. Secretary McCullough, in his late annual report to Congress, in which he recommends the removal of the internal tax from tobacco, that it might thus be placed upon a footing with other agricultural products, says: \u201cAn article which is so generally used, and which adds so much to the comfort of the large numbers of our population who earn their living by manual labor, cannot properly be considered a luxury.\u201d\nTo justify this law, it would not be sufficient that the use of tobacco may be injurious to some persons, or that its manipulation may be injurious to those who are engaged in its preparation and manufacture; but it would have to be injurious to the public health. This law was not intended to\" protect the health of those engaged in cigar-making, as they are allowed to manufacture cigars everywhere except in the forbidden tenement houses.\nIt cannot be preceived how -the cigar-maker is to be improved in his health or his morals by forcing him from his home and his hallowed associations and beneficent influences, to ply his trade elsewhere. It was not intended to protect the health of that portion of the public not residing in the forbidden tenement houses, as cigars are allowed to be manufactured in private houses, in large factories and shops in the two crowded cities, and in all other parts of the state. What possible relation can cigar-making in any building have to the health of the general public? if or was it intended to improve or protect the health of the occupants of tenement houses. If there are but three families in the tenement house, however numerous and gregarious their members may be, the manufacture is not forbidden, and it matters not how large the number of the occupants may be if they are not divided into more than three families living and cooking independently.\nIf a store is kept for the sale of cigars on the first floor of one of these houses, and thus more tobacco is kept there than otherwise would be, and. the baneful influences of tobacco, if any, is thus increased, that floor, however numerous its occupants, or the occupants of the bouse, is exempt from the operation of the act.\nWhat possible relation to the health of the occupants of a large tenement house could cigar-making in one of its remote rooms have ? If the legislature had in mind the protection of the occupants of tenement houses, why was the act confined in its operation to the two cities only ? It is plain that this is not a health law, and that it has no relation whatever to the public health. Under the guise of promoting the public health the Legislature might as well have banished cigar-making from all the cities of the State, or confined it to a single city or town, or have placed under a similar ban the trade of a baker, of a tailor, of a shoemaker, of a wood-carver, or of any other of the innocuous trades carried on by artisans in their own homes. The power ,would have been the same, and its exercise, so far as it concerns fundamental constitutional rights, could have been justified by the same arguments. Such legislation may invade one class of rights to-day, and another to-morrow, and if it can be sanctioned under the Constitution, while far removed in time we will not be far away in practical statemanship from those ages when governmental prefects supervised the building of houses, the rearing of cattle, the sowing of seed, and the reaping of grain, and governmental ordinances regulated the movements and labor of artisans, the rate of wages, the price of food, the diet and clothing of the people, and a large range of other affairs long since in all civilized lands regarded as outside of governmental functions. Such governmental interferences disturb the normal adjustments of the social fabric, and usually derange the delicate and complicated machinery of industry, and cause a score of ills while attempting the removal of one.\nWhen a health law is challenged in the courts as unconstitutional, on the ground that it arbitrarily interferes with personal liberty and private property without due process of law, the courts must be able to see that it has at least in fact some relation to the public health, that the public health is the end actually aimed at, and that it is appropriate and adapted to that end.\nThis we have' not been able to see in this law, and we must therefore pronounce it unconstitutional and void. In reaching this conclusion we have not been unmindful that the power which courts possess to condemn legislative acts which are in conflict with the supreme law, should be exercised with great caution and even with reluctance. But as said by Chancellor Kent (1 Com. 450): \u201c It is only by the free exercise of this power that courts of justice are enabled to repel assaults and to protect every part of the government and every member of the community from undue and destructive innovations upon their charter rights.\u201d\nThe order should be affirmed.\nAll concur.",
+        "type": "majority",
+        "author": "Earle, J."
+      }
+    ],
+    "attorneys": [
+      "Peter B. Olney, District Attorney (Jno. Vincent, assistant), for the people.",
+      "Wm. M. Evarts, A. J. Dittenhoefer and Morris S. Wise, for Jacobs, relator."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appelas.\nJanuary, 1885.\nIN THE MATTER OF JACOBS.\n(Affirming 2 N. Y. Crim. Rep. 346.)\nConstitutional Law.\u2014Polios Power.\u2014Tenement House Cigar Act (L. 1884, o. 272), Unconstitutional.\nA law which interferes with the profitable use of property and the application of a person\u2019s industry, which limits one in his choice of a trade or profession, or confines him to work in a specified locality, or excludes him from working in his own home, or restrains his otherwise lawful movements, except as such law may be passed in the exercise of the police power, is an infringement upon the fundamental rights of liberty and property which are constitutionally protected.\nIn the exercise of the police power the legislature must respect the fundamental rights guaranteed by the constitution, and cannot under its guise arbitrarily invade personal rights and private property.\nA declaration in the title or body'of an act of its purpose,\u2014e. g., that it is intended for the improvement of the public health does' not conclude the courts, and they will determine whether or not such law was passed for such purpose.\nThe \u201c Tenement House Cigar Act \u201d (L. 1884, c. 373),\u2014forbidding the preparation of tobacco and the manufacture of cigars in tenement houses in cities of more than 500,000 inhabitants,\u2014is unconstitutional.\nAppeal by relator Peter Jacobs from an order of the General Term of the Supreme Court in the First Department, reversing an order made by Justice Donohue, May 15 1884, dismissing writs of habeas corpus and certiorari and remandl ing relator to imprisonment.\nThe facts appear in the opinion.\nFor the briefs of counsel see report of this case at General Term, ante, p. 346.\nPeter B. Olney, District Attorney (Jno. Vincent, assistant), for the people.\nWm. M. Evarts, A. J. Dittenhoefer and Morris S. Wise, for Jacobs, relator."
+  },
+  "file_name": "0539-01",
+  "first_page_order": 563,
+  "last_page_order": 576
+}

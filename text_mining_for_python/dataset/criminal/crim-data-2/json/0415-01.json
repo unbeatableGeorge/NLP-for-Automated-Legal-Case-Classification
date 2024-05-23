@@ -1,0 +1,595 @@
+{
+  "id": 1167716,
+  "name": "PEOPLE v. BURNS",
+  "name_abbreviation": "People v. Burns",
+  "decision_date": "1884-06",
+  "docket_number": "",
+  "first_page": "415",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "80 N. Y. 645",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173185,
+        2173247
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0645-02",
+        "/ny/80/0645-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 138",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. Crim. 252",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164464
+      ],
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0252-01"
+      ]
+    },
+    {
+      "cite": "29 Hun, 383",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Hun, 490",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Cow. 258",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0258-01"
+      ]
+    },
+    {
+      "cite": "4 Den. 260",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485417
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0260-01"
+      ]
+    },
+    {
+      "cite": "91 N. Y. 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2188453
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/91/0241-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. 154",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164416
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0154-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y 473",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "69 N. Y. 158",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530715
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0158-01"
+      ]
+    },
+    {
+      "cite": "10 N. Y. 207",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2013404
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/10/0207-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 96",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Hun. 468",
+      "category": "reporters:state",
+      "reporter": "Hun.",
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "85 N. Y. 76",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "88, 89"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "88 N. Y. 193",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Abb. Pr. 345",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        1886298
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/17/0345-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 472",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0472-01"
+      ]
+    },
+    {
+      "cite": "84 N. Y. 656",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2180943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0656-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 485",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 N. Y. 594",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 566",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hun, 6",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hun, 657",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 N. Y. 583",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2161938
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/64/0583-01"
+      ]
+    },
+    {
+      "cite": "8 Pick. 354",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013250
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/25/0365-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0137-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 5",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 N. Y., 599",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 N. Y. 291",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 462",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164480
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0462-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 555",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158441
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0555-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 283",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177258
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0283-01"
+      ]
+    },
+    {
+      "cite": "87 N. Y. 148",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549500
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/87/0148-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 47",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Hun, 272",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Den. 153",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485350
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0153-01"
+      ]
+    },
+    {
+      "cite": "4 Gray, 41",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075621
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/70/0041-01"
+      ]
+    },
+    {
+      "cite": "39 N. Y. 39",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502255
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/39/0039-01"
+      ]
+    },
+    {
+      "cite": "44 Barb. 636",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1945486
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/44/0636-01"
+      ]
+    },
+    {
+      "cite": "46 Barb. 625",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5151117
+      ],
+      "pin_cites": [
+        {
+          "page": "627"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/46/0625-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. 193",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492128
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/2/0193-01"
+      ]
+    },
+    {
+      "cite": "19 Pick. 112",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2037559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/36/0112-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. 495",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164428
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0495-01"
+      ]
+    },
+    {
+      "cite": "94 N. Y. 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2192088
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/94/0137-01"
+      ]
+    },
+    {
+      "cite": "1 Daly, 380",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Hun, 167",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 N. Y. 358",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2016236
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/12/0358-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 260",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 N. Y. 565",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517430
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/55/0565-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 555",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158441
+      ],
+      "pin_cites": [
+        {
+          "page": "561"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/58/0555-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1152,
+    "char_count": 29187,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 8.431403558356252e-08,
+      "percentile": 0.4840612329135791
+    },
+    "sha256": "6f7bcb32908c7439393c648a46a4616905f8a213e400b981759d26ebc8996461",
+    "simhash": "1:f3f941a77fde2283",
+    "word_count": 5237
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Hardin, P. J., and Merwin, J., concur."
+    ],
+    "parties": [
+      "PEOPLE v. BURNS."
+    ],
+    "opinions": [
+      {
+        "text": "Follett, J.\nThe defendant was convicted before the court of Sessions of Jefferson county, of burglary in the third degree. The defendant appeals from the judgment, and asks for a reversal and a new trial, upon the ground that errors were' committed in the reception and rejection of evidence, and in the charge to the jury.\nAbout 6 A. M., December 9, 1883 (Sunday), the defendant was found by a police officer in a grist mill.\nIn the office of the mill were a safe and money drawer, which some one had attempted by violence to open. These facts were not denied on the trial. Defendant testified that he entered the mill,- but how, when, or for what purpose, he said he was unable to explain by reason of intoxication on the occasion in question.\nThe defendant was arrested at Ms mother\u2019s house, about an hour after he was discovered in the mill. The officer making the arrest testified that he was met by the defendant\u2019s mother at the outside door of the hall, who upon inquiry said defendant was within.\nThe mother went back into the kitchen, apparently to call her son, and upon returning said, \u201c He (defendant) had gone out of the back door.\u201d Hpon reeeiviug the answer, the officer started to enter the kitchen, the mother trying to stop him, and on reaching the kitchen, found defendant concealed behind a door about six feet from where the conversation occurred between the officer and the mother.\nThe remark above quoted was objected to by the defendant, upon the ground that the declaration of the witness was not made in defendant\u2019s presence and was incompetent.\nThe evidence was admissible, because, (1) The facts justified the inference that the answer was made by defendant\u2019s direction. At first the mother told the officer the truth, but after returning from the room where the son was found, told a falsehood in defendant\u2019s interest, and with the evident intent of enabling the defendant to escape; (2) The facts justified the inference that the defendant, who was concealed behind an open door, but six feet from the mother, was within hearing, and unless he wished to be bound by her remark should have spoken; (3) The falsehood of the mother, told under the circumstances described, and her attempt to prevent the officer from entering the room where the defendant was concealed, justified the inference that they were acting with a common purpose and design to enable defendant to escape, and the acts and declarations of the mother were for this reason admissible against the defendant. Kelley v. People, 55 N. Y. 565.\nOne of the defendant\u2019s witnesses testified on cross-examination that he had been three times convicted for being drunk and disorderly (misdemeanors).\nThe defendant objected to this evidence, on the ground that it was immaterial. It was immaterial to the issue, but was admissible as affecting the credibility of the witness. Code Civ. Proc. \u00a7 832; Pen. Code, \u00a7 714.\nThe defendant insists that the sections cited, simply changed the mode of proving the fact of conviction, but do not affect the common law rule of the competency of the particular conviction offered to be proved ; and that unless the conviction is for an infamous offense, or for an offense which directly affects moral character, proof of the conviction is incompetent for the purpose of affecting credibility.\nBefore the adoption of these sections the rule as to the class of convictions which might be proved to affect credibility, was not uniform, and depended mainly upon the opinion of the court as to whether the particular conviction was for an infamous or immoral offense.\nIn Carpenter v. Nixon, 5 Hill, 260 ; Lake v. People, 1 Parker, 495 ; aff\u2019d, 12 N. Y. 358 ; People v. Satterlee, 5 Hun, 167, it was held that the fact that a witness had been convicted of petit larceny (a misdemeanor) was competent as affecting credibility; while in Greaton v. Smith, 1 Daly, 380, it was held incompetent to prove that the witness had been convicted of intoxication (a misdemeanor) for such purpose.\nIn People v. Noelke, 94 N. Y. 137; 1 N. Y. Crim. 495 ; the defendant was sworn in his own behalf, and was asked on cross-examination if he had been convicted in a Federal court of mailing lottery circulars (a misdemeanor under the statute of the United States). The question was objected to, but the witness was required to answer, and answered in the affirmative. This was held competent under the sections above cited. This decision is decisive on this question.\nThe design and the effect of the sections is to establish a uniform rule, and permit the conviction for any crime to be proved, and whether it should affect the credibility of the witness is a question for the jury.\nSuch is the rule in England, \u201c A witness may be questioned as to whether he has been convicted of any felony or misdemeanor.\u201d Taylor's Ev. 6th ed. p. 1244, \u00a7 1294. Any other rule would be difficult of application, and dependent upon the view of the trial judge as to whether the particular conviction should or might affect credibility.\nIn the opinion of this court, those convictions for drunkenness and disorderly conduct tend to affect the credibility and moral character of the witness; but the extent to which it should affect, is dependent upon the circumstances of the offense. In some cases the conviction of a particular misdemeanor might not and should not impair the credibility of a witness while a conviction of the same statutory misdemeanor under other circumstance should and would affect credibility.\nA witness employed in the mill who carried the key to, and whose duty it was each evening to close and lock a particular outside door, testified that he did not remember doing so on the evening before the burglary, but that it was his custom to do so every night. The defendant objected to proving the custom of the witness, but stated no ground, except as it may be inferred that it was on the ground that the custom was incompetent. Without stopping to consider the sufficiency of the objection, or whether the evidence was not competent within the rule, that presumably a person performs a particular act which he has long and regularly performed at stated times at short \u00edntevals, as a duty, and in the regular course of Ms daily vocation (Skilbeck v. Garbett, 7 Q.B.N.S. 846; Dana v. Kemble, 19 Pick. 112 ; People v. Bush, 3 Parker, 552), it is sufficient to say on this question, that McDonald and Graves testified they together closed and left the mill at 9 n. m., before the burglary ; and McDonald swears he observed that this particular door was locked, and Graves testified that his attention was called to the fact that McDonald examined the door.\nThe defendant though sworn in his own behalf, did not testify that he entered through an open door, and no evidence of any kind was given or offered tending to show that such might have been the fact. \u201c The rule undoubtedly is, that when a fact is conclusively proved by competent evidence so that the court can see no prejudice or injury could possibly have resulted from the admission of incompetent evidence to prove the same fact, its admission will not be cause for interfering with the result or reversing a judgment, but the rule is to be cautiously applied in criminal cases.\u201d Coleman v. People, 58 N. Y. 555, 561. Erroneous rulings ou a trial by jury in civil or criminal cases should be disregarded on appeal if it clearly appears that the appellant was' not injured thereby. Shorter v. People, 2 N. Y. 193 ; Patterson v. People, 46 Barb. 625, 627; Page v. Ellsworth, 44 Barb. 636. Such was the rule before the Code of Criminal Procedure, which provides that on appeal the court must give judgment without regard to technical errors, defects or exceptions which do not affect the substantial rights of the appellant (\u00a7 542,) and the rules of evidence are the same in civil and criminal cases, except as otherwise provided by the Code Crim. Pro. (\u00a7 392).\nNo error was committed in the direction to the jury as to the effect which should be given to the defendant\u2019s evidence that he was intoxicated upon the occasion in question. The evidence bearing upon this question was recited by the court, and the jury plainly charged in this connection, that they must be satisfied beyond a reasonable doubt that the defendant intended to commit a crime. This in effect was three times charged; and the court also said, \u201c Y ou may take into consideration the intoxication of the defendant in determining the intent with which the defendant entered the building in question.\u201d It was unnecessary to again repeat the instruction and employ the language of counsel.\nNo errors were committed in refusing to instruct the jury as to the rules applicable to cases resting on circumstantial evidence. This was not such a case. The mill was entered by violence. The money-drawer and the lock of the safe had been tampered with. The defendant was found in the mill, and was unable to give a satisfactory explanation of his presence there. These facts were testified to by eye-witnesses.\nThe judgment must be affirmed, the stay vacated, and the sheriff directed to carry into effect the judgment of the court of Sessions.\nHardin, P. J., and Merwin, J., concur.",
+        "type": "majority",
+        "author": "Follett, J."
+      }
+    ],
+    "attorneys": [
+      "Hannibal Smith, for the prisoner, appellant.",
+      "E. C. Emerson, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fourth Department.\nJune, 1884.\nPEOPLE v. BURNS.\nBurglary.\u2014Circumstantial Evidence.\u2014Admissions and Declarations.\u2014Testimony or Convict.\u2014Custom.\u2014Immaterial Errors.\nUpon the trial of an indictment for burglary, where it appeared, by the testimony of eye-witnesses, that the building in question was entered by violence; that the money-drawer and lock of the safe had been tampered with; that defendant was found in the mill, and was unable to give a satisfactory explanation of his presence there, Held, not a case, where the proof rested on circumstantial evidence, and therefore that it was not error to refuse to instruct the jury as to the rules of law applicable to such cases.\nAbout an hour after defendant was found on the building in question, a police officer called at the house of defendant\u2019s mother, and was met by her at the front door, and told that defendant was within. She then went back into the kitchen, apparently to call her son, and on returning, said he had gone out of the back door. The officer then went into the kitchen, the mother trying to stop him, and there found the defendant concealed behind a door, about six feet from the spot where the above conversation was had. Held, that evidence of the false statement made by the mother was admissible, on the ground that the facts justified the following inferences : (1) That the false statement was made by defendant\u2019s direction; (2) That defendant heard it, and should have spoken if he did not wish to be bound; (3) That the defendant and his mother were acting with a common purpose to enable defendant to escape, and the acts and declarations of the mother were therefore admissible against defendant.\nThe design and effect of Code Civ. Proc., \u00a7 832, and Pen. Code, \u00a7 714, is to establish a uniform rule in regard to the testimony of convicts, and to permit the conviction for any crime to be proved; and whether it should affect the credibility of the witness is a question for the jury. Accordingly, held, competent to ask a witness if he had been convicted of the misdemeanor of drunkenness and disorderly conduct.\nWhether the testimony of a witness employed in the building in which the burglary was committed, to the effect that he was employed therein, and carried the key to a certain door, which it was his duty and custom to lock every night, is competent to show that the door was locked on the night in question, though the witness has no recollection of doing so on said night, guare.\nThe admission of such evidence, even if erroneous, must be disregarded on appeal, under Code Crim. Proc. \u00a7 592, when the fact in question clearly appears by the uncontradicted testimony of other witnesses.\nAppeal by defendant John Burns from a judgment of the Court of Sessions of Jefferson county entered February 18, 1884, convicting him of the crime of burglary in the third degree.\nThe indictment was found in December, 1883. The defendant pleaded not guilty and was tried in February, 1884, and found guilty, whereupon he was sentenced to be confined in the state prison at hard labor for the term of three years.\nThe crime for which the defendant was indicted and convicted was committed on Sunday morning, December 9, 1883, at the Union Mills, in the city of Watertown. These mills were the property of Isaac A. Graves and Gilbert Bradford, and were situated on the corner of Mill and Biver streets. The office was in the corner of the mill facing these streets. It was entered from a door on River street. There was one office window facing River street and two facing Mill street. The mill proper was entered from the office through a door which springs together. There was a high desk or counter in the office running parallel with it, in which was a money-drawer. Behind this desk in a recess in the wall of the office the safe was located. There was one door that lead into the mill from River street. The only other entrance to the mill was through a double door on the Mill street side that opens into the mill proper. Graves carried the only key to the office door. McDonald, a workman in the mill, carried the-only key to the River street mill door, and Smith, another workman, carried the only key to the double doors opening on Mill street. The wooden panels of the Mill street double doors extended about 3 1-2 feet from the floor, above which the doors are made of sash and glass. There were six panes of glass in each door 10 by 15 inches. The doors were old and somewhat shrunken. There was a lock screwed on the inside surface of one of these double doors, the bolt from which slid into an iron catch screwed on the inside surface of one of these double doors, the bolt from which slid into an iron catch screwed on the inner surface of the other half of the door. There was also a staple at the bottom of these doors where they came together which sprang into a mortice in the floor. This bolt projected about 6 inches above the the floor, the top being turned over, forming a kind of ring on the end. There was a corresponding bolt on the top of the doors that sprang into a mortice on the frame above the doors. .From this upper bolt a wire about 18 inches long was suspended, with a ring on the end for the purpose of unloosing it. Sometime before December 9 the lower pane of glass in one of the doors and directly on a line with these bolts was broken out and a piece of cardboard or flour-sack was nailed over the hole on the inside and remained there till the time in question. The ring from the upper bolt could be reached from the outside through this\u00abhole in the window; but the lower one could not be without some instrument to pull it up, as the top of the lower bolt was 3 feet below the spring in the door. The defendant worked for Graves a short time in the mill, about a year before this. The week in question defendant worked about a day and a half for Graves in the mill the middle of the week. He came there again on Saturday and worked during the afternoon. He was paid off at 6 o\u2019clock and left. Before he left Graves informed him he didn\u2019t want him any longer. Graves and McDonald were the last ones to leave the mill on Saturday night, December 8. They left the mill about 9 P. M. When they left the River street door was locked and the Mill street double doors were locked and bolted, and the cardboard or sack nailed over the hole in the door. They left the mill lantern out in the middle of the mill about 30 feet from the office. They locked the safe and money drawer and opened the blinds and ran up the shades to the office windows, and as they left locked the outside office door.\nThe next morning, shortly before daylight and a little after six o\u2019clock, the attention of Van Wormer, a night policeman, was called to the Mill street doors being partly opened. In company 'with Armstrong, a bank watchman, he entered the mill through this door and found the defendant in the office. On inquiry from the policeman as to what he was doing there' defendant answered he was working for Graves and had a right there. The officers did not make a thorough examination of the mill at the time. Armstrong left, leaving \"Van Wormer and defendant in the mill, and went up to Streeter corner. On examining the Mill street double doors it was found that the cardboard or paper sack had been torn off from the place where the pane -of glass was gone. The bolts at top and bottom had been drawn out of the mortices and the doors thus pressed open, the bolt not having been turned back with a key but still protruding from the lock. On inquiry from Van Wormer as to where the bey was to this door defendant answered that he carried it. He pretended to look for it, but not finding any key they sprung the doors together, the defendant then found an old bey that had the ring on the end broken off and with a pair of .pinchers unlocked the River street door and Van Wormer left through that door, leaving defendant in the mill. Van Wormer then met Armstrong at the Streeter corner and together they went to the residence of Graves. They returned to the mill with Graves in about half an hour and found the defendant was gone. On examination they found that the Eiver street door he let Yan Wormer out of was closed but not locked. They found the mill lantern in the office, the stove hearth lay on the office floor and strips of partially burned paper were scattered around the floor. The blinds to the office windows were all closed and the shades down. The dial on the safe and knob that turned the combination was bruised and battered up. An expert had to be employed to drill into the safe, and on opening it, it was found that the knob had been pulled out about one quarter of an inch by some instrument which had been used as a pry so as to displace the tumblers The cuts or bruises on the dial were one-sixteenth of an inch deep. There was a piece of brass nailed over the money drawer where the bolt enters the catch or mortice, and this was found pounded up and bent nearly double. A warrant was procured at once for defendant\u2019s arrest, and he was arrested at his mother\u2019s house about 8 o\u2019clock in the morning. He was found concealed behind a door. When informed of his arrest he said he expected they would be after him. Further facts as to defendant\u2019s arrest appear in the opinion.\nThe only defense interposed was that of intoxication. It appeared that defendant was around with his brother playing billiards and pool till about 11 o\u2019clock Saturday night. He and his brother both resided with their mother. The brother started for home about 11 o\u2019clock and left the defendant on a street corner. About that time the defendant was seen by a policeman, who testifies that while he had been drinking he could walk perfectly straight. The officers who found him in the mill testified that he was not intoxicated ; that while he had been drinking some he could talk and get around as well as anyone. Defendant testified that he did not know how he came in the mill; that the officers woke him up ; that he did not know that he did anything wrong; that he was not conscious that the safe had been touched : that he did not enter the mill with the intent of doing any wrong. He had never been arrested before or accused of any crime.\nHannibal Smith, for the prisoner, appellant.\nI. The declarations of defendant\u2019s mother were not in his presence nor made by his authority. They were very prejudicial to the prisoner ; and being incompetent and inadmissible, it was error to admit the testimony. Lanergan v. People, 39 N. Y. 39; Commonwealth v. Harwood, 4 Gray, 41; Wharton's Crim. Ev. \u00a7 225 ; People v. Parish, 4 Den. 153 ; Weil v. Stewart, 19 Hun, 272; People v. Cox, 21 Hun, 47; McCarthy v. Whalen, 87 N. Y. 148; People v. National Trust Co., 82 N. Y. 283. The evidence being incompetent and not conclusively innoxious, there must be a reversal. Coleman v. People, 58 N. Y. 555.\n. II. One Burns gave important testimony for the defense. The district attorney on cross examination was allowed to ask this witness the following question: Q. \u201cYou have been convicted of being drunk and disorderly ?\u201d This was error. Wright v. People, 1 N. Y. Crim. Rep. 462 ; People v. Crapo, 76 N. Y. 291-293; Ryan v. People, 79 N. Y., 599-601.\nIII. The' defendant\u2019s counsel objected to the testimony of Smith, that he bolted the door on Mill street December 8, because he swore to it from his custom, and not from knowledge. This testimony was material and being incompetent as to character it was error.\nIV. In this case the evidence against the prisoner being circumstantial only, and the circumstance itself being only a conditional one, or one simply consistent with the crime charged, and not causal or effectual in relation thereto, it was error for the court to refuse to severally charge as requested : 1. That the evidence of the guilt of the prisoner must exclude every hypothesis except the actual guilt of the prisoner. 2. That in order to convict the defendant, the jury must find the evidence is inconsistent with his innocence and consistent only with the guilt of the crime charged. 3. That the circumstances must point with moral certainty to the guilt of the prisoner, etc. As to circumstantial evidence, Wills\u2019 4th rule is: \u201c In order to justify the inference of guilt the inculpatory facts must be incompatible with the innocence of the accused, and incapable of explanation upon any other reasonable hypothesis than that of his guilt.\u201d Wills Circumstantial Ev. 188, 189, 5 ed.; Stephens v. People, 4 Park, 396 ; Jefferds v. People, 5 Park, 522 ; People v. Cunningham, 6 Park, 398; People v. Schryver, 42 N. Y. 5, 6. Greenleaf on Evidence, section 13 A, says, where the circumstance does not necessarily point to the conclusion of guilt: \u201c The evidence must exclude every other hypothesis but that of the guilt of the party.\u201d See also People v. Bennet, 49 N. Y. 137.\nE. C. Emerson, district attorney, for the people, respondent.\nI. The evidence shows the absurdity of defendant\u2019s story. The manner in which entrance was effected by tearing off the covering of the broken panes and reaching in with an instrument to unfasten the bolts, indicates a guilty purpose. This also appears from his lowering the shades and closing the blinds to the office windows. He also carried the mill lantern into the office and lighted it to aid him. The bruises on the safe and money drawer are also most significant. When asked why he was there, defendant stated that he worked for Graves and had a right in the mill. This was a lie and he knew it, and was said to put the officers of their guard. His pretense to be looking for the key to the Mill street door was done for the same purpose, as he never had the key, and he knew it all the while. His leaving the mill as soon as the officers were safely out of sight, his attempt to elude them at his mother\u2019s house and his declaration when arrested that he expected they would be after him are all in harmony with the theory of the prosecution, and are corroborative of his guilty purpose.\nII. The facts proven were amply sufficient to constitute the crime of burglary in the third degree. (1.) This offense is defined to be the breaking and entering a building with intent to commit a crime therein. Pen. Code, \u00a7 498. A building is defined to be any erection or enclosure. Pen. Code, \u00a7 504. (2.) The opening by any means whatever of any outer door of a building is a sufficient breaking to constitute burglary. Pen. Code, \u00a7 499. The facts of this case constitute a sufficient breaking even at common law. Comm. v. Stephenson, 8 Pick. 354 ; McCourt v. People, 64 N. Y. 583 ; Tickner v. People, 6 Hun, 657; People v. Bush, 3 Park, 552 ; 1 Russ. Crimes, 787; 2 Bish. Cr. Law (6th ed.) \u00a7 91; People v. Edwards, 1 Wheel. C. C. 371; 1 Colby Cr. Law, 519 ; People v. Myers, 2 Hun, 6. (3.) It further appears that the door leading from the mill into the office was closed with a spring. The opening of this door was a sufficient breaking of an inner door to constitute burglary irrespective of the manner an entrance was effected to the mill. Pen. Code, \u00a7 499 ; 1 Russell on Crimes, 787, 790, 791; 1 Colby Cr. Law, 518-519 ; 2 Whart. Cr. Law, \u00a7 15-36; 2 Bish. Cr. Law, \u00a7 97. (4.) It was not necessary that any crime should have in fact been committed in the building. A breaking and entering with-intent to commit a crime is sufficient. Pen. Code, \u00a7 498, 506 ; People v. Myers, 2 Hun, 6; 2 Whar. Cr. Law, \u00a7 1600; 1 Bish. Cr. Law, (6 ed.) \u00a7 437.\nIII. The exception taken to the question asked the witness Smith, as to his custom to bolt the double doors at night is untenable. The witness had already testified that it was his duty to see that the door was fastened. In such cases it is not to be expected that the witness would have a present recollection of performing such routine duties. Therefore .the only way it could be proven was to show that it was customary for him to perform that duty. It was a proper circumstance for the consideration of the jury, and as such was competent. People v. Bush, 3 Park, 552.\nIt was competent to prove the statements made by defendant\u2019s mother as to his whereabouts on the occasion of his arrest. The case is brought within the well settled rule that a party is bound by a statement made by another in his presence and hearing which calls upon him to speak but which he does not do. 1 Bish. Cr. Pro. (3d ed.) \u00a7 1254; Kelley v. People, 55 N. Y. 566 ; Lanergan v. People, 39 N. Y. 39; McGuire v. People, 5 T. & C. 682. The evidence clearly showed an attempt on the part of defendant to evade arrest. This fact is always competent to prove. Ryan v. People, 79 N. Y. 594; People v. Meyers, 2 Hun, 6, 30. The mother wras assisting in this attempt, because she not only told the officers the defendant was not in the room, but tried to prevent them entering the house. Her complicity in the attempt of defendant to-evade arrest was properly derivable from all the circumstances. Kelley v. People, 55 N. Y. 566. Under such circumstances what was said and done by the mother was part of the res gestee and could be proven against defendant although not said in his presence or hearing. Farrell v. People, 21 Hun, 485; S. C., aff\u2019d 84 N. Y. 656; Ormsby v. People, 53 N. Y. 472; People v. Monnais, 17 Abb. Pr. 345 ; Schnicker v. People, 88 N. Y. 193 ; Remsen v. Hay, 14 Week. Dig. 443 ; Greenfield v. People, 85 N. Y. 76, 88, 89; S. C., 23 Hun. 468, 469; People v. Davis, 56 N. Y. 96; Moore v. Meacham, 10 N. Y. 207; Apthorp v. Comstock, 2 Paige, 482; Twomley v. Central Park R. R., 69 N. Y. 158; Merchants\u2019 Bank v. Griswold, 72 N. Y 473. It was proper to prove that the witness Michael Burns had been convicted of being drunk and disorderly. It is now provided by statute that the conviction of a witness for any crime may be proved on his cross-examination for the purpose of affecting his credibility. Penal Code, \u00a7 714; Code Civil Pro. \u00a7 832; People v. McGloin, 1 N. Y. Crim. 154; 91 N. Y. 241. A crime is defined to be any act or omission forbidden by law and punishable by fine or imprisonment. Penal Code, \u00a7 3. Public intoxication is an act forbidden by law and is punishable by a fine. 3 N. Y. R. S. (7th ed.) 1982, \u00a7\u00a7 16, 17. Therefore by the terms of the Penal Code, the act for which the witness was convicted, was a crime. It was also held to be a crime under the provisions of the Eevised Statutes. People v. Putnam, 3 Park, 386; People ex rel. Post v. Supervisors of Ontario, 4 Den. 260; People v. Smith, 5 Cow. 258; People v. Crandon, 17 Hun, 490. See also as cases where this same class of evidence was admitted. People v. Hovey, 29 Hun, 383; People v. Noelke, 1 N. Y. Crim. 252, 495.\nIV. There was no error committed in refusing to charge that the evidence must exclude every hypothesis except the defendant\u2019s guilt, that the evidence must not only be consistent with his guilt but inconsistent with his innocence, and that the circumstances must point with moral certainty to his guilt These propositions of law are only applicable to cases solely depending on circumstantial evidence. People v. Bennett, 49 N. Y. 138; Lowenstein\u2019s Trial, 330; Poole v. People, 80 N. Y. 645 ; Stephens v. People, 4 Park, 397 ; Jefferds v. People, 5 Park. 522 ; People v. Cunningham, 6 Park. 398. When a case contains any direct evidence at all against the prisoner the rules above quoted have no application. People v. Kaatz, 3 Park. 129. This was not a case depending solely on circumstantial evidence. Evidence is defined to be circumstantial where the main fact is deduced from a series of collateral facts by a process of reasoning. Best on Presumptions, 12, 246; 1 Green Ev. \u00a7 13; 3 Black. Com. 371; 1 Phil. Ev. 598. In this case the defendant was caught in the act of committing the offense. The primary fact of guilt arises from the facts proven without resorting to any process of reasoning. Hence it is a case depending on direct and not circumstantial evidence."
+  },
+  "file_name": "0415-01",
+  "first_page_order": 439,
+  "last_page_order": 452
+}

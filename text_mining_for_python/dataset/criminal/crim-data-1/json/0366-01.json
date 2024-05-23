@@ -1,0 +1,126 @@
+{
+  "id": 1164442,
+  "name": "PEOPLE v. McDONNELL",
+  "name_abbreviation": "People v. McDonnell",
+  "decision_date": "1883-05",
+  "docket_number": "",
+  "first_page": "366",
+  "last_page": "368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 366"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 105",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164483
+      ],
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0105-01"
+      ]
+    },
+    {
+      "cite": "64 N. Y. 485",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2161814
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/64/0485-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 500",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0500-01"
+      ]
+    },
+    {
+      "cite": "2 R. 8",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 N. Y. 348",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/40/0348-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 236,
+    "char_count": 3585,
+    "ocr_confidence": 0.608,
+    "pagerank": {
+      "raw": 4.7817273071113374e-08,
+      "percentile": 0.29980666826521546
+    },
+    "sha256": "3099fdc4614c40579a5a1a50b922b176a59a64024e32a76e281d6343fc730ef4",
+    "simhash": "1:bb55f00354aa271f",
+    "word_count": 606
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. McDONNELL."
+    ],
+    "opinions": [
+      {
+        "text": "Danforth, J.\nThe indictment accused Thomas McDonnell of the crime of murder. He pleaded \u201c guilty of manslaughter in the first degree,\u201d and after sentence by the General Sessions and judgment thereon, appealed to the Supreme Court, where the judgment was affirmed.\nIn this conclusion we find no error. The indictment charges the commission of the offense under circumstances constituting its highest degree. Upon trial he might have been convicted of a lower degree (2 R. S. 702, \u00a7 27; Keefe v. People, 40 N. Y. 348), and in that case could not again be tried nor convicted of a different degree thereof. 2 R. 8. 702, \u00a7 28. The same result follows a plea of guilty. It was not necessary to aver in the indictment the facts or circumstances which, if proven, would constitute the lesser crime.\nThese are matters of evidence for the benefit of the accused.\nPeople v. Butler (3 Park. 377), cited by the appellant, is not to the contrary, but recognizes the rule that an indictment under the common law form is sufficient notwithstanding the statute, and permits a conviction for the offense charged in any degree according to the evidence. Nor do the cases referred to by his counsel support his contention.\nThe judgment should be affirmed.\nAll concur.",
+        "type": "majority",
+        "author": "Danforth, J."
+      }
+    ],
+    "attorneys": [
+      "William F. Kintzing, for defendant, appellant.",
+      "John McKeon, district attorney, John Vincent, assistant, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nMay, 1883.\nPEOPLE v. McDONNELL.\nIndictment foe Murder in First Degree\u2014Conviction of Inferior Degree of Offense charged. .\nUnder 2 R. S. 702, \u00a7 27, an indictment for murder in the first degree, in the common law form, permits a conviction of manslaughter in the first degree upon a plea of guilty to said last-named offense.\nIt was not necessary to aver in the indictment, the facts or circumstances which if proven would constitute the lesser crime. These are matters of evidence, for the benefit of the accused.\nAn indictment in the common law form, is sufficient notwithstanding the statute, and permits a conviction for the offense charged in any degree, corresponding to the evidence.\nAppeal by defendant from the General Term of the Supreme Court, First Department, affirming judgment of the General Sessions of New York, convicting defendant of manslaughter in the first degree.\nDefendant was indicted for murder in the first degree, and on his arraignment in General Sessions, December 28, 1881, Frederick Smyth, recorder, presiding, pleaded guilty of manslaughter in the first degree, whereupon the court sentenced him to hard labor for life.\nThe indictment was in the common law form.\nWilliam F. Kintzing, for defendant, appellant.\nThe court erred in permitting a plea of manslaughter in' the first degree to be entered. To have justified the acceptance of such a plea the indictment should have charged that the killing was committed while in the perpetration of or attempt to perpetrate, some crime or misdemeanor, other than the act which was itself the cause of death and for which the defendant was indicted. Dedieu v. People, 22 K. Y. 180. Under the similar statute (L. 1876, ch. 333), making killing while in the commission of a felony murder in the first degree, it has been the uniform practice to set forth some separate and distinct felony disconnected from the act of violence causing the death. Cox v. People, 80 N. Y. 500 ; Dolan v. People, 64 N. Y. 485 ; McGloin v. People, 1 N. Y. Crim. Rep. 105, 154. It was the intention of the Legislature that in both murder and manslaughter in the first degree the felony and misdemeanor should be some other offense than the one causing the death of the person killed.\nJohn McKeon, district attorney, John Vincent, assistant, for the people, respondent."
+  },
+  "file_name": "0366-01",
+  "first_page_order": 390,
+  "last_page_order": 392
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1167705,
+  "name": "PEOPLE v. HUSTIS",
+  "name_abbreviation": "People v. Hustis",
+  "decision_date": "1884-02",
+  "docket_number": "",
+  "first_page": "448",
+  "last_page": "450",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "70 N. Y. 38",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166449
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/70/0038-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. 644",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517338
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/55/0644-01"
+      ]
+    },
+    {
+      "cite": "26 N. Y. 203",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2033146
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/26/0195-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 4913,
+    "ocr_confidence": 0.571,
+    "pagerank": {
+      "raw": 7.903932100147133e-08,
+      "percentile": 0.4607608397246326
+    },
+    "sha256": "5919b492ddbbdf4c641c642c9ce6a4904724e32e9703a2213a35161ad80f6a92",
+    "simhash": "1:bb03356f1830a21c",
+    "word_count": 833
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. HUSTIS."
+    ],
+    "opinions": [
+      {
+        "text": "Barnard, P. J.\nThe Court of Appeals have settled the question presented by this appeal adversely to the appellant. Assuming that there was proof that the seduction was accomplished under a promise of marriage conditioned upon pregnancy resulting therefrom, such a promise is sufficient under chapter 111, Laws of 1848. It is not necessary that the promise should be a valid and binding one between the parties. The offense consists in seducing and having illicit connection with an unmarried female under promise of marriage. It is enough that a promise is made which is a consideration for or inducement to the intercourse. Kenyon v. The People, 26 N. Y. 203. This case is approved in Boyce v. People, 55 N. Y. 644. In that case the promise was one conditioned upon a consent to illicit connection. That consent, based upon such a promise was within the law. It was held, in Armstrong v. People, 70 N. Y. 38, that the question was not presented by the case. The court cited with approval the cases cited, Boyce v. People, and Kenyon v. People.\nThe conviction should therefore be affirmed.\nDtkmast, J., concurred.",
+        "type": "majority",
+        "author": "Barnard, P. J."
+      },
+      {
+        "text": "Pratt, J. (Dissenting.)\nThis case fairly raises the question whether a promise of marriage, upon condition that the intercourse results in pregnancy, falls within the statute making seduction under promise of marriage a crime. The judge charged the jury \u201c that if the promise of marriage was conditional, in that the defendant promised to marry the prosecutrix in the event of her becoming pregnant from the connection charged, then such promise is within the statute upon which this indictment is found \u201d and defendant excepted thereto. This was a material question in the case arising out of the testimony of the prosecutrix herself.\nIt has been held that a promise conditional upon immediate intercourse is within the statute, but in such case the condition is performed and the promise becomes absolute at once ; or in other words, the seduction is accomplished under a promise of marriage. How can it be claimed that seduction is accomplished when there is no promise to marry except upon an event that may never occur ? The offense consists in seducing under a promise of marriage, and while it is not essential that the promise shall be valid and binding between the parties, it is necessary that the party seduced should rely upon the promise and be influenced thereby to submit, and hence the law implies a mutual promise on the part of the female if she yields to the solicitations of a seducer made under his promise to marry. Take the case of a female yielding to embraces under a promise that the man would marry her in case his wife then living, should die within the year, could it be seriously claimed that the statute was intended to cover such a state of facts ? The plain object of the statute was to punish fraud and deceit, and at the same time protect the innocent and confiding against falsehood and fraud. It was passed in the interest of good morals, and not to set a premium upon licentiousness. It had in view to guard the pure and unsuspecting from illicit connection where they submit solely because they are led to believe that they are under a meritorious promise of marriage with the seducer. Any other construction would have a tendency to subvert good morals and furnish a cover for licentiousness and blackmail. The words seduction, under the promise of marriage, imply that the seduction is accomplished under or by means of an absolute promise, or one that becomes absolute, the moment the illicit connection is accomplished.\nIf the defendant was guilty under the statute, he became so when the connection was had, but there was no promise to marry, then, nor until pregnancy intervened. To be within the statute, the promise must precede the illicit intercourse, otherwise it is not had under a promise of marriage.\nUnder all the evidence in the case the jury might well have found that if any promise was made by the defendant, it was upon the condition that the prosecutrix became pregnant by the intercourse, had they not been instructed as before stated. Upon such a finding of fact the ease would not fall within the statute.\nIf these views are correct it follows that the conviction should be set aside, and a new trial granted.\nConviction and judgment affirmed.",
+        "type": "dissent",
+        "author": "Pratt, J. (Dissenting.)"
+      }
+    ],
+    "attorneys": [
+      "W. I. Thorn, for appellant.",
+      "Wm. Wood, district attorney, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Deparment.\nFebruary, 1884.\nPEOPLE v. HUSTIS.\nSeduction under Promise of Marriaoe.\nA promise of marriage upon condition that the intercourse results in pregnancy falls within the statute (L. 1848, ch. Ill,) making seduction under promise of marriage of an unmarried female of previous chaste character a crime.\nAppeal by defendant Edgar Hustis from a judgment of the court of Sessions of Putnam county, convicting him of seduction under promise of marriage.\nW. I. Thorn, for appellant.\nWm. Wood, district attorney, for the people.\nNow Penal Code, \u00a7\u00a7 284-386."
+  },
+  "file_name": "0448-01",
+  "first_page_order": 472,
+  "last_page_order": 474
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1164462,
+  "name": "PEOPLE v. MONGANO",
+  "name_abbreviation": "People v. Mongano",
+  "decision_date": "1883-02",
+  "docket_number": "",
+  "first_page": "411",
+  "last_page": "417",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 411"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 283",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164429
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-crim/1/0283-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 567,
+    "char_count": 12466,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 8.327020957768565e-08,
+      "percentile": 0.48038630823650336
+    },
+    "sha256": "f3d563f1dd25796bf40e6ef9354eaa3febb8776ff88cd58ce7bed9b17c525298",
+    "simhash": "1:0ae4a84da8053cf3",
+    "word_count": 2148
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. MONGANO."
+    ],
+    "opinions": [
+      {
+        "text": "Cullen, J.\nThe prisoner, a life convict, was convicted of murder in the first degree for killing a fellow-convict, Williams, at the Sing Sing state prison.\nTwo exceptions were taken to the charge of the court. It is urged that it was error to charge \u201c that no length of time is required \u201d previous to striking the blow in which to premeditate and deliberate. If it were conceded that such a statement standing by itself were erroneous, I do not think the exception- here well taken. The expression was'not a single isolated proposition submitted to the jury, but must be construed in connection with the whole contents of the charge on that point. The district attorney asked the court to charge in the language above given. \u201cBy the court.\u2014I will charge that no particular length of time is required, but that no time is required I will not chai -ge. (Defendant excepts). Mr. Baker.\u2014I mean no appreciable length of time. The court.\u2014I will charge that no length of time is required, but there must be deliberation and premeditation. (Defendant excepts).\u201d\nTaking all of this together, the charge was unobjectionable in my opinion. In effect, it was that no particular time was necessary, provided there was deliberation and premeditation. Upon being requested to charge that the word \u201c deliberate \u201d has a different meaning and signification from the word \u201cpremeditated,\u201d the court said: \u201c 1 suppose there is a slight shade of difference; I will so charge.\u201d To the first statement the prisoner excopted. We think there is substantial difference between those two terms as used in the statute. But we think no question was raised by the exception. The court charged as required.\nIt had already defined the meaning of these terms accurately. If the prisoner wished such definition made with greater minuteness, there should have been a direct request to that effect. We think, therefore, neither exception tenable. But the question is presented to us, a motion for a_new trial having been made, that the verdict is against the evidence; that is, that there was no sufficient evidence of deliberation to justify the conviction in the first degree. Formerly in criminal cases courts could not grant new trials on such ground. How by the express terms of the law a motion for that purpose can be made, and an appeal from the judgment brings before us for review the decision of such motion as well as the proceedings upon trial. The power of interfering with the verdict in a criminal case is doubtless to be exercised with caution, especially where the question of fact to be determined is one incapable of direct proof and only to be established by inference from other facts. The old decisions denied not only the- power but the propriety of vesting such power in the courts; but the legislature having cast upon the courts such duty, we are bound to exercise it. The history of this case is brief. There is little or no conflict between the witnesses or dispute as to the fact. Its salient features are beyond dispute. The deceased, one Cornetti (an Italian) and the prisoner were all at work in the prison peeling potatoes. Cornetti applied some opprobrious epithet to the ' deceased, upon which the deceased struck Cornetti with a stick. . Cornetti then seized a stick or stool and attacked the deceased.\nWhile this altercation was transpiring, the prisoner picked up a broom and also attacked the deceased. One Coburn, a convict, but a sort of overseer over the others, slipped between the parties to stop the conflict, and' seized the defendant. A convict named Cash took the broom from the prisoner and thrust him aside the distance of two or three barrels, when the prisoner immediately took the knife which he had used in his work, rushed towards the deceased and struck him, inflicting the fatal blow. It was proved there was no dispute or ill-feeling between the parties prior to this occurrence. The whole affray lasted, according to one witness, five minittes; the others place it at from two to three minutes. The time that elapsed between the disarming of the prisoner by Cash and the striking of the blow with the knife was, according to One witness, \u201c half a second,\u201d according to another it was \u201c instantly.\u201d This is substantially the whole occurrence. How is there sufficient evidence in it to warrant the finding of the jury of deliberation on the part of the prisoner? It is true that such deliberation is incapable of proof, save as an inference from other facts. But that does not authorize the jury to arbitrarily draw such inference as they see fit. The facts must point to and warrant the inference, otherwise a verdict cannot stand. This undoubtedly is the rule in civil cases. It should hardly be less potent where life is involved. The inference is generally proved1 by the nature of the occurrence, the manner in which the crime is committed, the weapon, threats, or expression of hostile feeling toward the deceased, or preparation on the part of the prisoner. But this case seems barren of all such features. There is not ground even for suspicion that prior to the altercation the prisoner meditated an injury to the deceased. When the fight between deceased and Cornetti occurred the prisoner attacked the deceased, but with a weapon not calculated to inflict fatal or even serious injuries. For, while many blows were struck by Cornetti and the deceased, who were similarly armed, no serious results followed to either party.' When disarmed by Cash, the prisoner took from his person 'the knife, not possessed byJiim for any unlawful purpose, but used in the work in which he had heen engaged, and immediately stabs the deceased. The use of the deadly weapon and the thrust at the vital part would warrant the conclusion that the prisoner intended to take life, and therefore that the act was premeditated. But there is nothing to show deliberation, but on the contrary, the facts of the transaction negative that conclusion.\nAs we have said, there is a substantial difference between premeditation, and deliberation\u2014a difference more readily appreciated than to be accurately defined. An apt statement is. to be found in the opinion of Judge Daniels in People v. Leighton, speaking of the elements necessary to constitute murder in the first degree, he says: \u201c The- execution of the guilty purpose is required to be settled and determined upon reflection, before the crime of murder in the first degree can be committed. A full and determined purpose is rendered necessary as distinguished from a mere impulsive fatal act.\u201d \u00a1No particular period of time is requisite for the deliberation, but still deliberation must take place. We do not say that in no supposable case could deliberation be consummated in so brief a period as that occupied by the broil in which this crime was committed; but we do say that in this case there is nothing to show deliberation, but rather a passionate, vicious impulse. ' The result of these views is that the prisoner obtains practical immunity for his crime; for being a prisoner for life nothing, save a capital execution can increase his punishment. We can not but think that this consideration affected the verdict.' But the law recognizes no distinction between one in the condition of this prisoner and a free person. If it be necessary for the purposes of prison discipline, or to protect the lives, whether of keepers or convicts, that offenses committed by prisoners shall be punished more severely than those committed by others the remedy is with the legislature. The courts must carry out the law as they find it, and not strain it to punish even the greatest of offenders.\nThe conviction and judgment should be reversed and a new trial ordered.",
+        "type": "majority",
+        "author": "Cullen, J."
+      },
+      {
+        "text": "Pratt, J.\u2014[Concurring.]\nI concur in the opinion of Justice Cullen, hut as the point is made that the Oyer and Terminer is the only court that can grant a new trial in this case, on the ground that the- evidence is insufficient to sustain a conviction of murder in the first degree, it is proper to make a few suggestions upon that subject.\nPrior to the adoption of the new Code of Criminal Procedure, it may be conceded that there was no power, either in the Oyer and Terminer or the General Term of the Supreme Court, to grant a new trial upon the merits.\nBy section 465 of the Code of Criminal Procedure (par. 6), the court in which the trial is had has power to grant a new trial, when the verdict is contrary to law, Or clearly against evidence.\u201d\nIt is claimed from this that the court only in which the trial was had has power to grant anew trial upon the grounds stated.\nThe answer to this proposition is made plain by referring to the other provisions of the Code, relating to the review of criminal trials.\nSection 485 provides for the form and contents of the judgment roll. Par. 6 says that the roll shall contain, among other matters, \u201c a copy of the minutes of any proceedings upon a motion either for a new trial or in arrest of judgment.\u201d\nBy section 517, \u201c An appeal to the Supreme Court may be taken by the defendant from the judgment on a conviction after indictment, and upon the appeal. Any actual decision of the court in an intermediate order or proceeding forming a part of the judgment roll, as prescribed by section 485, may be reviewed.\u201d\nIt thus seems clear that, inasmuch as a motion may be made for a new trial, in the court in which the trial is had, upon the ground that the verdict is contrary to law, or against the weight of evidence, and such motion and decision therein being an intermediate order or proceeding forming a part of the judgment roll, it may be reviewed by the General Term, in like manner as a bill of exceptions.\nIf these views satisfactorily answer the question of power the only remaining point to be considered is, whether the verdict was contrary to law, and against the weight of evidence. It seems to me that the opinion of Mr. Justice Otjllen fairly disposes of that question.\nJudgment reversed, and,new trial ordered.\nBarnard, P. J., dissented.\nNote.\u2014An appeal was taken by the people to the Court of Appeals from this judgment of reversal.\nThe Court of Appeals, June 14, 1883, dismissed the appeal, holding (orally) that that court will not review an appeal from a decision of the General Term of the Supreme Court in a criminal case, unless it is certified by that court that the case was decided on questions of law only. See People v. Hovey, 1 N. Y. Crim. Rep. 283; People v. Boas, Id. 287.",
+        "type": "concurrence",
+        "author": "Pratt, J.\u2014[Concurring.]"
+      }
+    ],
+    "attorneys": [
+      "Francis Larkin, Michael J. Keogh and Isaac N. Mills, for the appellant.",
+      "C. Frost, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nFebruary, 1883.\nPEOPLE v. MONGANO.\nMotion fob New Trial.\u2014Appeal.\u2014Premeditation and Deliberation.\nSince the adoption of the Code of Criminal Procedure, a motion for a new trial in a criminal case may be made on the ground that the verdict is against the evidence, and an appeal from the judgment brings up for review the decision of such motion as well as the proceedings on the trial.\n*A charge which in effect states that to constitute murder in the first degree, no particular time is necessary previous to the killing in which to deliberate and premeditate, provided there be premeditation and deliberation, is correct and presents no ground of exception by the prisoner.\nWhere, in response to a request by the prisoner to charge that the word \u201c deliberate \u201d has a different meaning and signification from the word \u201c premeditated,\u201d the court says: \u201c I suppose there is a slight shade of difference, I will so charge,\u201d no question is raised by a general exception. If the prisoner wishes, the terms defined with greater minuteness, he must make a direct request to that effect.\nThe jury are not authorized to arbitrarily draw an inference of premeditation as they see fit; the facts must point to and warrant it, otherwise a verdict cannot stand.\nThe execution of the guilty purpose is required to be settled and determined upon reflection, before the crime of murder in the first degree can be committed, and a free and determined purpose is rendered necessary, as distinguished from a mere impulsive fatal act. The facts in this case reviewed by the court, and held insufficient to' establish premeditation.\nAppeal by defendant from judgment entered upon verdict\" of jury, and from an order denying a motion for a new trial, made under section 465, of the Code of Criminal Procedure.\nThe facts and exceptions appear in the opinion.\nFrancis Larkin, Michael J. Keogh and Isaac N. Mills, for the appellant.\nC. Frost, for the people, respondent."
+  },
+  "file_name": "0411-01",
+  "first_page_order": 435,
+  "last_page_order": 441
+}

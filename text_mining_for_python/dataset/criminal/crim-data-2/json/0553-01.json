@@ -1,0 +1,114 @@
+{
+  "id": 1167712,
+  "name": "FADNER v. PEOPLE",
+  "name_abbreviation": "Fadner v. People",
+  "decision_date": "1884-05",
+  "docket_number": "",
+  "first_page": "553",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 553"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Hun, 455",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Barb. 560",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936218
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/8/0560-01"
+      ]
+    },
+    {
+      "cite": "1 Wend. 198",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003385
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/1/0198-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 778",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2159664
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/9/0818-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 639,
+    "char_count": 17286,
+    "ocr_confidence": 0.579,
+    "pagerank": {
+      "raw": 4.997003888345105e-07,
+      "percentile": 0.9359763831790966
+    },
+    "sha256": "f7a577d7b7e8ad60e97265f537da4e39e512bd2af1a0bf38d030578e01075fae",
+    "simhash": "1:84d32896b3f7b242",
+    "word_count": 3088
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Smith, P. J., and Haedin, J., concurred."
+    ],
+    "parties": [
+      "FADNER v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Barker, J.\nThe first point made by the plaintiff in error is, that the facts set forth in the second count of the indictment, and upon which he was convicted, do not constitute the crime of forgery, nor was that offense proved by the evidence produced on the trial.\nAs the count in the indictment upon which the defendant was found guilty, only charges the publishing and uttering of a forged and counterfeited impression of the seal of the county clerk of the city and county of New York, that act must be declared a crime by some provision of the statute relative to forgery, or the same is not an indictable offense in this State.\nBy the common law it was not forgery, to make and publish, as true, a false and forged impression of a seal, but it was high treason in a subject of the realm of England to counterfeit the king\u2019s great or privy seal. 4 Black. Com. 83, 247; 1 Colby's Crim. Law, 567.\nUnder our statute it constitutes forgery to make and forge an impression purporting to be the impress of a genuine seal of a public officer authorized by law to have and keep a seal. The entire provision is as follows: Section 24. \u201c Every person who shall forge or counterfeit the great or privy seal of this state ; the seal of any public officer authorized by law; the seal of any court of record, including Surrogate\u2019s court, or the seal of any body corporate, duly incorporated by or under the laws of this State, or who shall falsely make, forge, or counterfeit any impression pui'porting to be the impression of any such seal, with an intent to defraud, shall, upon conviction, be adjudged guilty of forgery in the second degree.\u201d 2 R. S. m. p. 671.\nPrior to this enactment there was no provision by statute creating and defining the offense which is mentioned therein. (See the reviser\u2019s note to this section.) It will be observed that there is no provision in this section of the statute against uttering and publishing a false impression of a seal. The act declared to be a forgery is the making of a forged and counterfeit seal, or the false making of an impression purporting to be the impression of a genuine seal.\nIf no other provision can be found in the statute than that contained in the 24th section, then, under the laws of this State, it is not forgery or a crime of any character, to utter and publish as true a false impression of the seal of a court of-record, and it was so conceded by the learned district attorney. It is argued in behalf of the people, in support of the conviction, that the false and forged impression of a court of record is a \u201c counterfeit instrument,\u201d within the meaning of the provisions contained in section 39, which declares that \u201c every person who shall be convicted of having uttered and published as true, and with intent to defraud, any forged, altered or counterfeited instrument, or any counterfeit gold or silver coin, the forging, altering or counterfeiting of which is hereinbefore declared to be an offense, knowing such instrument or coin to be forged, altered or counterfeited, shall suffer the same punishment herein assigned for the forging, altering or counterfeiting the instrument or coin so uttered, except as in the next section specified.\u201d Such was the construction put upon this section of the statute by the court below, and the jury were instructed that a false impression of a genuine seal purporting to be the impression of such seal, was a written instrument, within the purview of the statute.\nIn disposing of the case as now presented, we shall not enter upon a discussion of this question, but leave the same unsolved, and assume, for the purposes of this case, that the act of the defendant in uttering the false impression of the seal falls within the condemnation of section 39, and constitutes the crime of forgery, if the same is published in connection with and as a part of any certificate, which a county clerk, as keeper of the seal, is authorized to make in his official capacity.\nTo constitute the complete crime of forgery in falsely making and forging an impression purporting to be the impression of the official seal of the clerk of the court, as mentioned in the 24th section, the same must be impressed upon a paper of some kind purporting to be a legal and valid document, and also purporting to be duly authenticated. The mere forging the impression of an official seal, disconnected from a certificate made by the clerk, could not deceive any person. So, to constitute forgery, in uttering and publishing as true, a false and counterfeit impression of the seal, it is also necessary that the impression so published should be in like form and manner attached to and be a part of certification, purporting to be made by the clerk of the court. No one but the clerk, or some one of his deputies, is authorized by law to use the seal of the court. Unless the impression of the seal is made to accompany the clerk\u2019s certificate, attached to some record or document in his official custody, or placed in his hands for his certification in his official capacity, it is a misuse of the same which the law presumes every citizen knows. The statute on the subject authorizes seals to be made, kept and used by the county clerk, for these purposes and none other, and he is made the sole and only lawful custodian of the same. On the back of the paper writing, purporting to be a decree in a divorce suit, the impression was made. The inscription on the face of the true seal was \u201c New York Seal.\u201d On the face of the counterfeit impression, the same words appear in like juxtaposition. On the right hand of the impression are the following words: \u201c Final August 14th, 1879.\u201d \u201c A copy.\u201d \u201c Hubert O. Thompson, clerk.\u201d No other words or figures are written near the impression, or over it, of what purports to be the signature of the clerk. The paper or document, upon which the seal is impressed and the certificate written, purports to be a decree in a suit in which the defendant is plaintiff and Alta Fadner defendant, granted at a Special Term of this court held in and for the city and county of New York, and the same was offered in evidence in the Oneida county Court of Sessions, and the same was received by the court as proper and competent evidence, on the trial of the defendant, on an indictment charging him with the crime of bigamy. If these documents had been genuine and in due form, they would have constituted competent and material evidence in his behalf. He was acquitted on the trial by the verdict of the jury. The people on the trial of the case now here, gave evidence tending to prove that the paper purporting to be a decree was wholly false and fabricated, and that there was no record of the same in the office of the clerk of this court in and for the city and county of Hew York.\nThe evidence also tended to show that the impression of the seal alleged to be forged and counterfeited, was in form and similitude like the genuine seal kept and used by the county clerk, but that in fact .it was false, forged and counterfeited.\nWe now come to what I regard as the important question we have before us, and it is whether the making the false impression of the seal and forging of the clerk\u2019s certificate, constituted the crime of \u25a0 forgery under the law of this state.\nThe rule, as now established, is this, if the instrument be invalid on its face, it cannot be the subject of a forgery. Forging any instrument or writing which, as appears on its face, would have been void, if genuine, in not an indictable offense. People v. Shall, 9 Cow. 778 ; People v. Fitch, 1 Wend. 198 ; People v. Stearns, 21 Id. 409; People v. Harrison, 8 Barb. 560 ; Cunningham v. People, 4 Hun, 455 ; 2 Bishop's Crim. law, \u00a7 538 ; Warburton's Am. Crim. Law, paragraph 1438.\nThe English cases are to the same effect, and the rule applies as well to the statutory offense of forgery as to common law cases. If the impression of the seal had been taken from the true one and the clerk\u2019s certificate had been ungenuine, the certificate would have been incomplete and imperfect, and did not authorize the court to receive in evidence the documents to which they were attached. That paper purported to be a judgment of this court, and was offered and received in evidence in another tribunal, and could not have been legally used as evidence, without a certification in form and to the effect as provided by law. By section 933 of the Code, provision is made that copies of papers duly filed, kept and recorded in the office of one of the clerks of this county, may be read in evidence in place of the originals when properly certified by the clerk. The form and contents of such certificate, and the mode and manner of attestation, are contained in sections 957 and 958. The officer making the certificate must state therein that the paper or document has been compared by him with the original, and that it is a correct transcript therefrom and of the whole of the original, and the certificate must then be attested by the official seal of the officer.\nThis certificate, if genuine, is clearly defective in form and substance. The defect is fatal to the validity of the same, and it is apparent on the face of it. It ought not to have deceived any one. Because it did deceive the court below, undoubtedly through inadvertence, cannot in law make it a iorgery. It was decided in People v. Harrison (supra) that an indictment would not lie for forging a certificate of an acknowledment of a deed, when the certificate did not state that the grantor acknowledged the execution of the conveyance, the statute requiring the certificate to state that fact.\nIn People v. Cunningham (supra), it was said criminal forgery cannot be made out by imputing a possible or even actual ignorance of the law, to the person intended to be defrauded. If, therefore, a statute authorizes an instrument not known to the common law, and so prescribes its form as to render any other form null, forgery cannot be committed by making a false statutory one, in a form not provided by statute, even though it is so like the form prescribed as to be liable to deceive most persons. 2 Bishop, \u00a7 538; People v. Harrison, supra.\nIn People v. Shall (supra), the indictment charged the defendant with making and forging an instrument in the following form: \u201c Three months after date, I promise to pay Sebastian I. Shall, or bearer, the sum of three dollars in shoe-making, at cash price, the work to be done at his dwelling-house.\u201d It was held that the forging and passing an instrument in that form did not constitute the crime of forgery, the instrument on its face,being invalid and not enforceable against its maker, as it did not express any consideration. The court remarked that the instrument, to be the subject of forgery, must purport on the face of it to be good and valid for the purpose for which it was created.\nFor the reason that criminal forgery was not averred in the second count in the indictment, nor proved on the trial, the conviction should be reversed and a new trial awarded. We have not inspected the evidence for the purpose of determining whether it was sufficient to warrant the conviction under the count charging the defendant with making and forging the seal, as that question was withdrawn from the consideration of the jury-\nWe entertain very serious doubts as to the correctness of some of the rulings receiving evidence over the defendant\u2019s objection, and if there should be a retrial upon some of the other counts of the indictment, it is not likely that the same class of evidence will be offered in the same form and for the same purpose as it was upon this, and we therefore pass over these exceptions.\nAt the time of the trial of and sentence, the Code of Criminal Procedure was in full force and effect, and the proper manner of bringing the case into this court for review, was by appeal and not by writ of error; but, as the district-attorney has waived the point, that the case is not properly here, we give the defendant the benefit of the errors which have been pointed out, and reverse the judgment, and grant a new trial on the indictment in the Oneida county Court of Sessions.\nSmith, P. J., and Haedin, J., concurred.",
+        "type": "majority",
+        "author": "Barker, J."
+      }
+    ],
+    "attorneys": [
+      "J. I. Sayles, for the prisoner, plaintiff in error.",
+      "William A. Matteson, district attorney, for the people, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fourth Department.\nMay, 1884.\nFADNER v. PEOPLE.\nForgery\u2014Seal of Court\u2014Uttering false Impression of same\u2014Instrument forged must be apparently valid.\nForging any instrument or writing which, as appears on its face, would have been void, if genuine, is not an indictable offense.\nThe plaintiff in error on a trial for bigamy, put in evidence an alleged copy of a decree granting him a divorce from his first wife, and he was thereby acquitted. On the back of the paper was an impression purporting to be the seal of New York county, and also the following writing: \u201cFiled August 14, 1879. A Copy. Hubert O. Thompson, clerk.\u201d He was indicted for forgery in having uttered a false and forged impression of the seal of the supreme court with intent to defraud, and it appeared on the trial that no such judgment had ever been granted, and that the alleged copy was a forgery.\nHeld, that assuming the act of the prisoner in uttering the false impression of the seal falls within the condemnation of 2 B. S. p. 674, \u00a7 39, and constitutes forgery, if the same is published in connection with, and as any part of a certificate which the county clerk, as keeper of the seal, is authorized to make, in his official capacity; yet, as the pretended certificate was not in the form prescribed by Code Civ. Proc. \u00a7\u00a7 633, 957, 958, it was void on its face, and the alleged decree was inadmissible in evidence, and the acts specified did not furnish the basis for an indictment for forgery.\nWrit of error to the Court of Sessions of Oneida county, to review the trial and conviction of the plaintiff in error Frederick C. Fadner of forgery.\nThe plaintiff in error was tried and convicted in the Oneida county Court of Sessions, Hon. H. B. Sutton, County Judge, presiding, with associates, and sentenced to state prison for the period of seven years and six months.\nThe indictment was found in January, 1881, and contained four counts. In the first Fadner is charged with forging the impression of the seal of Hew York county, which is the seal of the Supreme Court in and for the county of New York. In the second count he is charged with having uttered a false and forged impression of the same seal, with an intent to defraud, knowing the same to be forged. In the third count he is charged with having forged the seal of the county of New York, that is, the metallic instrument with which the impression is made. In the fourth count it is averred that he uttered the forged seal, that is, put in circulation the metallic instrument, purporting to be the genuine seal of said county.\nThe trial court ruled, that upon the evidence, there could be no conviction upon the first, third and fourth counts of the indictment, and so instructed the jury.\nIn the second count the jury rendered a verdict of guilty as charged therein.\nIn the second count of the indictment, it is charged, that the defendant feloniously and falsely did utter and publish as true, with intent to injure and defraud (certain specified persons), a certain false, forged, falsified and counterfeit impression of a certain seal, purporting to be the impression of the county seal, and of the clerk of the county of New York, and of the courts of record in and for said county and of the supreme court in and for said county, which said last mentioned false, forged, falsified and counterfeited impression of said seal, purported to be the impression of the seal of said county, and of the clerk of said county and of said court, is as follows -, that is to say (full description of seal) ; the same being fitted and impressed on and to a certain instrument in writing, purporting to be a certificate, order, judgment, decree, allowance and proceeding of the Supreme Court of the state of New York, and for the county of New York, the same being a competent court, and purporting to be for that court and entered in said court in the words and figures following: that is to say (here follows judgment and decree).\nThe decree puiported to have been entered August 14, 1879, in an action brought by the prisoner Fadner against Alta Fadner, his wife, at a special term of the Supreme Court, in and for New York county, at which Hon. Charles H. Van Brunt, presided, and it also purports to grant to the plaintiff therein (the prisoner), a divorce from the defendant therein, his said wife, on the ground of her adultery. At the end of the paper in the usual place was a signature which purported to be that of said justice in his official capacity, and on the back thereof, were the impression of the seal and the certificate of the clerk. The indictment did not charge, that, the paper purporting to be a decree was false or counterfeited.\nThe defendant took divers exceptions, which bring up the question whether or not the offense of forgery was proved. On the same grounds defendant moved in arrest of judgment.\nFurther facts appeared in the opinion.\nJ. I. Sayles, for the prisoner, plaintiff in error.\nWilliam A. Matteson, district attorney, for the people, defendant in error."
+  },
+  "file_name": "0553-01",
+  "first_page_order": 577,
+  "last_page_order": 584
+}

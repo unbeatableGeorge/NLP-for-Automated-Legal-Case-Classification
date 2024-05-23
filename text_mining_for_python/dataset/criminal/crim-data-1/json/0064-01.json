@@ -1,0 +1,110 @@
+{
+  "id": 1164476,
+  "name": "PEOPLE v. COURTNEY",
+  "name_abbreviation": "People v. Courtney",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "64",
+  "last_page": "72",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "53 N. Y. 472",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/53/0472-01"
+      ]
+    },
+    {
+      "cite": "21 Wend. 309",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2151873
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/21/0309-01"
+      ]
+    },
+    {
+      "cite": "26 Iowa, 80",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Denio, 83",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484105
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 694,
+    "char_count": 16260,
+    "ocr_confidence": 0.499,
+    "pagerank": {
+      "raw": 1.0179803751495393e-07,
+      "percentile": 0.54400893642834
+    },
+    "sha256": "1d6f63e5d665438c3782bbbcaa22d8102f00ac9dfb436a3a4d176b7404918c48",
+    "simhash": "1:390ddc0cf18aa802",
+    "word_count": 2784
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. COURTNEY."
+    ],
+    "opinions": [
+      {
+        "text": "Brady, J.\nThe defendant was indicted in the Court of General Sessions of the City and County of Hew York,.for the crime of forgery in the third degree. He was tried and convicted, and sentenced to five years\u2019 imprisonment in the State Prison. The main witness on behalf of the people was an accomplice, and it is insisted on behalf of the appellant that there was no corroboration of his evidence such as is contemplated by section 399 of the Code of Criminal Procedure, as amended by chapter 360 of the Laws of 1882, and which is in the following language, namely: \u201c A conviction cannot be had upon the testimony of an accomplice, unless he be corroborated by such other evidence as tends to connect the defendant with the commission of the crime.\u201d\nIt was conceded upon the trial that the check was a forgery, and the following is the statement made by the respondent\u2019s counsel, of the evidence on the part of the prosecution given by the accomplice. It is accepted as correct for the purpose of discussing the question to be considered.\nBarton, the accomplice, testifies that he knew defendant since January last. That on May 16, or four days before check in question was given to him by Courtney, he opened an account in the Pacific Bank under the fictitious name of Horton, depositing therein the sum of $200, and that Courtney furnished him the money, suggested the fictitious name, and directed him to open the account about noon on May 16. He met Courtney by appointment at Canal street and the Bowery, Courtney having stated to him that he expected to get a check on that day.\nAt this meeting, Oourtney told him he had not yet got the check for him\u2014to return in a half hour. A half hour later, he met Courtney on Canal street near the Bowery. They met under an awning ; Courtney took the check in question out of his pocket, handed it to him, and directed him to give it to a boy (Albert Woodman) who was waiting at Earle\u2019s Hotel, and have him get it certified at the Marine Bank.\" He gave the check to the boy, and Courtney followed to see that the boy took it to the bank. The boy returned the certified check to him, Courtney following the boy. He and the boy went and deposited the certified cheek in the Pacific Bank, after which he returned and met Courtney at the corner of Center and Bowery. By direction of Courtney, he afterwards drew by checks $2,170 in all, which he paid over to Courtney.\nAfter making the depbsit in Pacific Bank, he met Courtney ; they walked down Grand street, and met W oodman. Courtney said the boy ought not to see them together, and they immediately separated so as to avoid the boy.\nIt is conceded also, by the learned counsel for the respondents, that the only evidence of corroboration in the case is, first, the testimony of Woodman, the boy, who testifies that he had the check certified at the request of Barton, the accomplice, at about 1 p. m. on the 16th of May,\"that he returned it to him and then -went to the Pacific Bank with him, where they separated, and that he (Woodman) then went through Grand street. And he then further said : \u201c Coming through Crosby street, I seen this man Barton and Courtney together,\u201d and that this was about fifteen minutes after the deposit of the check was made in the Pacific Bank; and further, that when he got near them, Barton turned round and went the other way, and Courtney turned and commenced looking up at the buildings; second, that William Bohncke, a witness, stated that he saw Barton and the appellant together; third, that Louis Oppikofer testified that he saw Barton and the appellant at his place with each other during the afternoon and forenoon of the month of May, every day for a fortnight. And fourthly, the testimony of Rogers, who arrested Courtney and Barton whilst in company with each other.\nIn this statment is presented the entire evidence of corroboration, which was offered as tending to connect the defendant with the commission of the crime charged.\nThe appellant denied expressly and positively all participation in the crime, and it appears from his evidence that when arrested he demanded an immediate trial. Is this evidence, thus stated, sufficient to justify the conviction, under section 399 of the Code of Criminal Procedure ? Or, in other words, has the testimony of the accomplice been corroborated by other evidence which tends to connect the defendant with the commission of the crime %\nThe section under consideration is new, and changes the law of this State with regard to convictions upon the testimony of accomplices, which were sustained, although based on such evidence alone (People v. Costello, 1 Denio, 83), the question of credibility being one for the jury. Similar statutes exist in other States of the Union (see Bishop on Crim. Pro. 3 ed. \u00a7\u00a7 1169, 1170, note), and amongst others, in- the State of Texas. The statute in that State forbids a conviction on the testimony' of an accomplice, unless corroborated by other evidence tending to connect the defendant with the offense committed, and is, therefore, substantially the same as ours.\nThe Supreme Court held, in considering it in Coleman v. State (44 Texas, 109), that the rule -of law forbidding a conviction on the testimony of an accomplice, unless corrobo-, rated by other testimony tending to connect the defendant with the offense committed, was under the statute positive and peremptory, and that however much the jury might be disposed to credit the accomplice, the defendant could not be convicted legally, unless the evidence of the accomplice was confirmed in some material matter tending to show the defendant\u2019s guilt. And the learned justice said in that case, \u201c To allow convictions1 to stand where the corroboration is only in immaterial matters, would be to violate both the letter and spirit of the statute, and to disregard those precautionary rules which experienced and wise jurists have deemed it necessary to adopt in order to guard against erroneous convictions based on evidence unreliable, because coming from a corrupt source.\u201d And in the case of State v. Thornton (26 Iowa, 80) the court, in considering a Statute similar to the one under consideration, said, \u201c Admitting, as we do, that corroborating evidence; to be sufficient, must not merely relate to the commission of the offense or the circumstances thereof, but must be evidence of a character that shall connect the defendant with the commission of the alleged criminal act, it is the opinion of the court that evidence of this character was. produced by the State.\u201d The corroborative evidence must be of some material fact, and this was the rule in reference to the evidence of accomplices in this State, if corroboration were relied upon, and indeed, the general rule. What appears to be required (See Roscoe Tr. 122, 6 Am. ed.), is, that there should be some fact deposed, independently altogether of the evidence of the accomplice, which, taken by itself, leads to the inference not only that a crime has been committed, but that the prisoner is implicated in it. In the case of the People v. Davis (21 Wend. 309), the charge excepted to was that the accomplices of the prisoner were not to be believed by the jury unless confirmed by other credible witnesses in respect to the facts connecting the prisoner with the possession of the forged bills, or with the manufacture of them; but the court declared that no error had been committed, because it was not necessary by existing rules that every part of the testimony should be confirmed, the question usually being whether the jury will believe the witness in such parts of his narrative as the confirmation extends to, and quoted with approbation the observation of Mr. Justice Andeeson in summing up the case of Bex v. Wilkes (7 Carr. & P. 272), namely, that the confirmation he always advised juries to require, was a confirmation of the accomplice in some facts which went to fix the guilt on the particular person charged. The confirmation in People v. Davis, supra, was the possession by the prisoner of the forged bills, which if not of the essence, went to the point of the offence charged, and if believed, the court said, pressed strongly against him and laid a foundation for giving credit to the narrative of his associates.\nThe only evidence, however, of corroboration, as we have already seen, is that the appellant was observed frequently in the society of the accomplice, and under circumstances of a suspicious character. But there is no other evidence in the case affecting him\u2014no proof that he participated in the money which was received by the check, no proof that he was in any way concerned with its preparation or presentation, no proof of bad character; whilst he most positively denies all participation in the criminal act.\nThe case, therefore, is one in which the accomplice proves all the material facts. The defendant denies them, his character is unassailed, and for that reason, presumed to be good\u2014and the only circumstance which favors the truthfulness of the statement made by the accomplice is, that he had been seen in the society of the latter, and once at least, under circumstances of a suspicious character.\nThis is not the evidence contemplated under the section referred to. It is not a confirmation of the testimony. of the accomplice in some material facts tending to.show the defendant\u2019s guilt. The fact that another was in the company of a person who committed a.larceny, while well calculated to excite suspicion, was held to be no evidence that she knew the person with whom she was thus associating had any design to steal, and the fact of her going with such person even into the place where the theft was committed, was regarded as consistent with entire innocence, and being so was not proof of guilt. Ormsby v. People, 53 N. Y. 472.\nThe language of the statute, as we have seen, is that the accomplice must be corroborated by such other evidence as tends to connect the defendant with the commission of the crime. The existence of intimate relations is not a circumstance from which participation in the guilty acts of an associate is to be presumed, because it is consistent with innocence.\nThe association may be continued \u2022 and may be marked by all the circumstances which characterize the association of the accomplice and the appellant herein, and yet be an innocent one. In other words, the appellant might not have been advised in any way of the intended crime by the accomplice. It is not, in the language of the section, such other evidence as tends to connect the appellant with the commission of the crime. And this view of such a relation presents itself with peculiar force when the associate, upon his trial for an offence charged against him, the proof of which rests chiefly upon the testimony of the accomplice, solemnly denies all participation in the crime charged.\nFor these reasons, it is thought that the statute has been violated in this case and the conviction was improper. The judgment should therefore be reversed.\nDaniels, J., concurs.\nDavis, P. J.\n\u2014It is a grave mistake, I think, to assume that the testimony given by the defendant in this case, can have any legitimate effect upon the question whether there was corroborating evidence tending to connect the defendant with the commission of the crime.\nHis testimony and its contradictions of the evidence on the part of the People could only operate to produce an issue of fact for the consideration of the jury; and his denial of the truth of any evidence which tended to connect him with the commission of the crime, could not have any effect to diminish that tendency, however much it might impair the credibility of the evidence itself. When the question was raised that the evidence did not tend to comply with the requirements of the Code, that question was one of law, to be disposed of by the court, untinged by any other evidence which simply conflicted with its truth. We are, therefore, to look at the corroborating evidence alone to see if it tended to connect the prisoner with the commission of the offense. If it did, no matter how slightly, then the requirement of the Criminal Code is satisfied, and the question of the credibility of the. accomplice and the satisfactory character of this testimony becomes one for the puy-\nIn this case, there can be no doubt that the accomplice was to some extent corroborated. The prisoner was brought by other testimony than that of the accomplice, into connection with him, under circumstances of grave suspicion. Under the former rule, the court could properly have held that the evidence, if credited by the jury, did corroborate, with greater or less force, the testimony of the accomplice.\nBut that fact does not answer the requirements of the Code. Under the new rule, the testimony must not only corroborate, but must tend to connect the accused with the commission of the crime. In this case, the crime was shown to have been committed by the uttering of the forged check. My brother Bkady\u2019s examination satisfies me that the corroboration was not of the character which the Code demands, because it did not tend to connect the accused with the commission of the crime. The testimony of the accomplice did that; but the Code will not be satisfied unless the accomplice is corroborated by evidence which tends to show the participation or immediate contact of the prisoner with the acts which constitute the crime. I am, therefore, obliged to concur with the conclusion that the-judgment should be reversed.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Brady, J. Davis, P. J."
+      }
+    ],
+    "attorneys": [
+      "W. F. Howe, for defendant, appellant.",
+      "John McKeon, district attorney; John R. Fellows, assistant, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nJanuary, 1883.\nPEOPLE v. COURTNEY.\nAccomplice.\u2014Evidence.\u2014Code of Criminal Procedure, \u00a7 399.\nUnder section 899 of the Code of Criminal Procedure, as amended in 1883, a conviction cannot be had upon the unsupported testimony of an accomplice. There must be some fact deposed independently of the evidence of the accomplice, which of itself leads to the inference,, not only that a crime has been committed, but that the prisoner is implicated in it.\nEvidence showing that a prisoner charged with uttering a forged check was seen in the company of the accomplice at and about the time of the commission of the crime, and under suspicious circumstances, does not, of itself, afford such confirmation of the testimony of the accomplice, as is required by said section 399, especially when all participation in the criminal act is denied by the prisoner.\nWhether the corroborating evidence meets the requirements of section 899, is a question of law to be decided by the court, independently of any other evidence, which simply conflicts with its truth, and it is not affected by the prisoner\u2019s denial of participation in the crime. (Per Davis, P. J.)\nAppeal by defendant from a conviction, at the General Sessions of New York, under the second count of the indictment, for uttering a forged bank check, of which check the following is a copy:\n\u201c $3310t5-0<l. New Yoke, May 19, 1882.\n\u201c Marine National Bank, Pay to the order of H. S. Horton, thirty-three hundred and ten -\u00a35\u00b0T dollars.\n\u201c H. J. Jewett, President. B. W. Spencer, Treasurer.\nNo. 22620.\u201d\nAt the close of the case for the people, counsel for the prisoner moved that the court advise the jury not to convict upon either count of the indictment, inasmuch as the main witness for the prosecution was an accomplice, and there was no corroborating evidence tending to connect the prisoner with the commission of the crime. The motion was denied and an exception taken.\nAt the close of the whole case, counsel for prisoner moved for a new trial, upon the same ground, and also upon the minutes and exceptions. The motions were denied and exceptions taken.\nFurther facts appear in the opinion.\nW. F. Howe, for defendant, appellant.\nJohn McKeon, district attorney; John R. Fellows, assistant, for the people, respondent.\nThe evidence of Woodman alone is a corroboration of Barton tending to connect Courtney with the commission of the crime of uttering the forged check in question, and his evidence, undenied and unexplained by the defendant, is quite enough to sustain the verdict of the jury, especially so when we consider that the evidence of Barton was in no wise weakened by cross-examination."
+  },
+  "file_name": "0064-01",
+  "first_page_order": 88,
+  "last_page_order": 96
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1164473,
+  "name": "PEOPLE v. SPEAR",
+  "name_abbreviation": "People v. Spear",
+  "decision_date": "1883-12",
+  "docket_number": "",
+  "first_page": "538",
+  "last_page": "543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 538"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 11596,
+    "name": "New York Court of Oyer and Terminer, Oneida County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 587,
+    "char_count": 10815,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 7.089148340265424e-07,
+      "percentile": 0.9665939983373548
+    },
+    "sha256": "41c5ff486368ab64092c254b8a081196ef7cedf1610296988beace3c3d714a1c",
+    "simhash": "1:ab341c42450b768d",
+    "word_count": 1919
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. SPEAR."
+    ],
+    "opinions": [
+      {
+        "text": "Vann, J.\nOn November 25, 1882, the defendant was arrested upon a warrant charging him with the crime of procuring an abortion upon one Eliza Lawrence, which resulted in her death. He waived an examination and gave bail in the sum of $10,000 for his appearance, if the grand jury should find an indictment against him. The undertaking was signed by his wife, Alice F. Spear, and by his son-in-law, Abram Smith, as sureties. On February 3, 1883, the grand jury presented to this court a true bill against the defendant, for said crime. A bench warrant was thereupon issued for his arrest, but he had fled to Canada and has not since been within the state. The bond was promptly forfeited, and suit was brought against the sureties. Mrs. Spear, who had previously indemnified her co-surety against loss on account of signing said bond, deposited with the county treasurer ample security for the payment of the entire sum called for by the undertaking, and then caused this motion to be made for the remission of the whole or a part of the penalty. In her affidavit she alleges that she is the wife of the defendant and had lived with him since 1848, until his departure; that she is sixty-two years of age, has been in poor health for many years, and was so depressed by the charge against her husband as to become sick and confined to her bed for some months; that her husband assured her of his innocence, and she believed him when she signed his bond; that she could not avoid sympathizing with him, who was her husband and the father of her children; that she had no suspicion that he would run away and no thought of protecting him from the consequences of any crime; that she was greatly surprised when he disappeared and has no knowledge of his whereabouts; that she had advanced $3,000 to her husband to be used in his defense, and has no information as to the purposes for which such money was actually expended; that she formerly had considerable property in her own right, which came to her through a deceased brother, but that she is now worth not to exceed the sum of $20,000, or $22,000, over and above her debts; that she is unable to do any work for the support of herself or children; that her five children, whose ages do not appear, are scattered, engaged in various employments; that she has secured to the county of Oneida the payment of the whole amount of said bond, in case it shall be exacted, and now throws herself upon the mercy of the court and asks to be relieved from a part at least of the penalty.\nAccording to the papers read in opposition by the district attorney, a case of great strength and aggravation was made out against the defendant before the grand jury. An affidavit, made upon information and belief only, was also read, tending to show that the defendant\u2019s departure was known to and connived at by Mrs. Spear. The persons who furnished this information refused to make an affidavit. Statements sworn to upon information and belief cannot be received as proof of any fact, but they may furnish good ground for a reference, so that the persons refusing to make affidavit can be compelled to be sworn. -No reference, however, is necessary, as this motion can be safely decided upon the case presented by Mrs. Spear, assuming all of her allegations to be true.\nIt is provided by section 597 of the Code of Criminal Procedure, that after the forfeiture of an undertaking given by a person for his appearance to answer a charge of crime to be preferred against him, the court directing the forfeiture, or the county court of the county, may remit th6 forfeiture, or any part thereof, upon such terms as are just. The next section provides for a notice of at least five days to the district attorney of the county; for service upon him of copies of the affidavits and papers upon which the application is founded, and enacts that the motion can be granted only upon payment of the costs and expenses incurred in the proceedings for the enforcement of the forfeiture. These are the Only provisions of law upon the subject to which my attention has been called.\nIt is obvious that this statute clothes the court with a wide discretion. Formerly, power was given to the county court to remit any fine, forfeiture or recognizance \u201c upon good cause shown,\u201d and upon such terms as to the court should appear just and equitable. 3 R. S. 6th ed. 773, \u00a7 38; Code of Procedure, \u00a7 30, subd. 12; L. 1818, 307, \u00a7 8. But the present statute, which is new, seems to make the discretion almost absolute, for it fails to require, at least expressly, even that the court should act upon good cause shown. Such a power should be discreetly used. It cannot be that the Legislature intended it should be exercised according to caprice or sentiment, but that it should be based upon some principle, that would best promote the welfare of the public, including as a part thereof the sufferers by the forfeiture. On the one hand due regard should be had to the effect of the precedent, as it tends to encourage or repress crime and on the other to see that no case of extreme hardship occurs that will cause destitution to a family, deprive children of support and education, or creditors of their just debts. The case under consideration is not one of extreme hardship. A lady of respectability,'in poor health, and somewhat advanced in years, is suddenly deprived of nearly half her fortune, but is still left with means for a comfortable support. She is entitled to sympathy in her misfortune, and the strength and weakness of her position in that sympathy is all it has to rest upon. That is not enough.\nA person who is, upon this motion, presumed to be guilty of an atrocious crime, has fled from justice and cannot be brought to punishment. The one who is presumed to have known him best and to have had the greatest interest in his escape from punishment had become surety for his appearance and \u25a0 had promised, in effect, to produce him when wanted, or pay \u00a710,000. She does not produce him, but asks relief from the penalty. If the court yields to sympathy and grants the petition, what effect will its action have ? So far as the act can speak, it will say to criminals under bail, \u201crun away and leave your sureties to trust to the sympathy of the public and the courts for relief.\u201d The interest of the people requires that a sterner rule should prevail. That rule should require sureties to produce their prisoner or pay the bond. That should be the rule, and the exception should be to remit the forfeiture only in a case of extreme hardship.\nAside from the sympathy which it is natiual that one should feel for the person upon whom the loss must fall, what reason is there for remitting this forfeiture ? 'Because the penalty of the bond was too large ? But it-was not large enough to secure the attendance of the accused, which was its only object. Because, as it is claimed, it has not been customary to enforce such bonds ? Perhaps if a different custom had prevailed the defendant would now be here for trial and punishment. Because the surety needs the money and the people do not need it ? But the people do need this money, if they are fairly entitled to it, as they expend each year large sums to detect, punish and prevent crime. Moreover, this argument would apply to almost every ease with as much'force, and to yield to it would make the giving of bail in a criminal action a mere form without real meaning. Because the forfeiture punishes the innocent and does not punish the guilty % The payment of the bond is only the discharge of a legal obligation, voluntarily assumed, and cannot be regarded as a punishment of the surety. While it may not punish the guilty, its tendency is to cause him to appear, as in that event the forfeiture would doubtless be remitted, and the money, even if paid, restored. Certainly the remission of the penalty cannot induce the defendant to appear.\nWhile the only proof produced by the surety upon this application is her own affidavit, of -which an analysis has already been given, there was also presented a petition signed by a large number of leading tax-payers and representative men of the county of Oneida, asking that the forfeiture be reduced to an amount not exceeding $5,000 and the costs of suit. At the head of this petition stands the name of one of my honored predecessors in office, who for many years presided with dignity and ability over this court. Such a petition cannot be lightly disregarded. I have carefully considered it. While it raises no doubt in my mind as to what my duty is, it does cause embarrassment in the discharge of that duty. But the importance of the precedent must prevail, even over such a petition. This decision, so far as it has force as an example, must either tend to looseness in the administration of justice or to the strict enforcement of law. I intend it to mean that the signing of a bail bond in a criminal case requires the production of the prisoner or the payment of the bond; that this- rule should only be relaxed, in exceptional cases of extreme hardship; that sympathy for the misfortune of a surety is not a valid reason for relaxing the rule; and that even the petition of many leading citizens, which alleges no fact to guide the action of the court, except their sympathy for the unfortunate surety, is not a sufficient reason for remitting the penalty.\nThe application is denied and an order may be entered accordingly.",
+        "type": "majority",
+        "author": "Vann, J."
+      }
+    ],
+    "attorneys": [
+      "W. A. Matteson, district attorney, for the people.",
+      "Miller & Fincke, for surety."
+    ],
+    "corrections": "",
+    "head_matter": "Oyer and Terminer\u2014Oneida County.\nDecember, 1883.\nPEOPLE v. SPEAR.\nFoefeitube of Undertaking\u2014Remission of.\u2014Code Criminal Procedure, \u00a7\u00a7 597, 598.\nWhile sections 597, 598, of the Code of Criminal Procedure, in terms, give to the court an almost absolute discretion to remit the forfeiture of undertakings given for the appearance of a person to answer a criminal charge, yet the exercise of this power must be limited by some principle thpt will best promote the welfare of the public, including, as a part thereof, the suSerers by the forfeiture. The rule should require the sureties to produce the prisoner or pay the amount named in the undertaking, and it should be relaxed only in cases of extreme hardship,\u2014e. g., such as will cause destitution to a family, deprive children of support and education, or creditors of their just debts,\u2014and not for reasons founded only on sympathy or sentiment.\nAccordingly, held, in this case, that the amount of the undertaking, $10,000, must be paid.\nMotion at Oyer and Terminer, Vann, J., presiding, by a surety for remission of the forfeiture of an undertaking given on behalf of the defendant for his appearance to answer to the charge of causing the death of a woman, while procuring a miscarriage.\nThe facts appear in the opinion.\nW. A. Matteson, district attorney, for the people.\nMiller & Fincke, for surety."
+  },
+  "file_name": "0538-01",
+  "first_page_order": 562,
+  "last_page_order": 567
+}

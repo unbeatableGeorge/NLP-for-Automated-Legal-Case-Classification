@@ -1,0 +1,73 @@
+{
+  "id": 1164503,
+  "name": "PEOPLE v. WIGGINS",
+  "name_abbreviation": "People v. Wiggins",
+  "decision_date": "1883-05",
+  "docket_number": "",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 296"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. 7",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 92,
+    "char_count": 876,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3766045819659756
+    },
+    "sha256": "0d11f59c8ecd5c37f22a21368895af71dd99934b67fbd559cf8a2d9563d5ac8d",
+    "simhash": "1:5780a1566696824a",
+    "word_count": 152
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. WIGGINS."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.\nThe proof was ample to convict the defendant of the crime for which she was indicted,-and there was no error in the charge of the judge. It was not necessary for the people to call Mrs.. Curtis as a witness. There was sufficient evidence that she was the person in Macy\u2019s store; that she owned the pocket-book, and that the defendant took it from her against her will, and without her consent, for the purpose of stealing it.\nThe judgment should be affirmed.\nAll concur.",
+        "type": "majority",
+        "author": "Earl, J."
+      }
+    ],
+    "attorneys": [
+      "Howe & Hummel, for the defendant, appellant.",
+      "John McKeon, district attorney, and A. J. Requier (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nMay, 1883.\nPEOPLE v. WIGGINS.\n(Affirming 1 W. 7. Grim. Rep. 290.)\nAppeal by defendant from a judgment of the General Term of the Supreme Court, affirming a judgment of conviction of the General Sessions of New York (reported ante, page 290).\nHowe & Hummel, for the defendant, appellant.\nJohn McKeon, district attorney, and A. J. Requier (assistant), for the people, respondent."
+  },
+  "file_name": "0296-01",
+  "first_page_order": 320,
+  "last_page_order": 320
+}

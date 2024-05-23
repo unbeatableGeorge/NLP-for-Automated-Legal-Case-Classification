@@ -1,0 +1,99 @@
+{
+  "id": 1167703,
+  "name": "PEOPLE v. PERSONS",
+  "name_abbreviation": "People v. Persons",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "114",
+  "last_page": "117",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "32 N. Y. 525",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16297
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/32/0525-01"
+      ]
+    },
+    {
+      "cite": "18 Hun, 330",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 N. Y. 534",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Hun, 330",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 365,
+    "char_count": 5594,
+    "ocr_confidence": 0.595,
+    "pagerank": {
+      "raw": 4.528016890924663e-07,
+      "percentile": 0.9238359070355067
+    },
+    "sha256": "900d5489d13b2e0f678453f4be559bf224bc322e17f99c411bf2857930c295d9",
+    "simhash": "1:49166dc6bfd3d3fa",
+    "word_count": 987
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Smith, P. J., and Barker, J., concur."
+    ],
+    "parties": [
+      "PEOPLE v. PERSONS."
+    ],
+    "opinions": [
+      {
+        "text": "Hardin, J.\nAfter Gertie Adams had detailed the acts and doings of the defendant, which were alleged as the evidence of the crime, she was asked by the people: \u201c What did your grandmother say when you went home?\u201d This was objected to, and an exception taken to the ruling allowing the question. The answer was: \u201c She asked me what I had done when I went there ;\u201d I told her. \u201c She asked me how long it had been going on.\u201d I told her. . . . \u201c I can\u2019t tell all she said.\u201d Then the witness was asked, viz.: \u201c Has she let you go there since ?\u201d This was objected to and overruled, and an exception taken. The answer was, \u201c She has not.\u201d\n1. The first question quoted called -for a conversation held in the absence of the defendant, and was inadmissible. It was immaterial what the grandmother said to the witness, after occurrences had taken place, which were complained of. The child had Hot been injured by any violence, had suffered no bodily harm, of which she was complaining, at the time of the conversation, and in no sense was the conversation between her and her grandmother a part of the res gest\u0153. It being incompetent evidence, should not have been received.\n2. The question as to whether the girl Gertie had been restrained from visiting the house of Persons after the occurrences of May 18, called for an immaterial fact. What had been the action of the grandmother in that regard did not tend to establish any of the ingredients of the alleged crime. It must have been introduced with -the view of giving the court to understand what was the judgment of the grandmother in respect to the matters which she had learned by conversation with the girl Gertie. The grandmother had no personal knowledge of the crime; her conclusion and action upon the matters, as she had heard them told, was immaterial, yet her action in restraining the girl may have had some influence with the court in dealing with the evidence, and considering whether a conviction of the defendant should be had.\nAgain. The evidence tended very strongly to establish that all that was done by defendant was with the assent of the girl. There is no pretense that there was any rape, attempt at rape or illicit intercourse.\nThe improprieties alleged and shown by the evidence came short of making out any such case. Considering the evidence of Gertie and the declarations of defendant, and the conversations of his proved by the people\u2019s witnesses and by defendant\u2019s witnesses, as well as his testimony, it is more than probable that the girl assented to all that occurred. The cases cited by Porter, J., in his opinion in People v. Bransby, 32 N. Y. 534, and what was said by the court in that case, as well as the opinion of the court in People v. Special Sessions, 18 Hun, 330, indicate that the assent of- .the child, though of such tender years, may be established as a defense to a charge of indecent assault. In the errors pointed out, there should be a reversal.\nConviction and judgment reversed, and a new trial granted.\nSmith, P. J., and Barker, J., concur.",
+        "type": "majority",
+        "author": "Hardin, J."
+      }
+    ],
+    "attorneys": [
+      "E. W. Gardner, for defendant, appellant.",
+      "O. O. Armstrong, district attorney, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fourth Department.\nJanuary, 1884.\nPEOPLE v. PERSONS.\nIndecent Assault on Child.\nThe assent of a child, even of tender years, is a defense to a charge of indecent assault.\nDeclarations of the injured child after .the assault, in reference to it, defendant not being present, and there being at the time no complaint of injury by the child, are incompetent.\nEvidence that in consequence of these declarations of the assaulted child, her grandmother detained her from going to defendant\u2019s house, are incompetent.\nAppeal by defendant, Austin Persons, from a judgment of affirmance of conviction of assault and battery, at a Court of Sessions of. Ontario County, Hon. Wm. H. Smith, County Judge, presiding, April 11, 1883.\nThe alleged offense was committed on May 18, 1881, and the defendant was convicted by a police justice of Canandaigua, August 7, 1881.\nThe defendant, who was a man of seventy years of age, was arrested upon a charge that he unlawfully and maliciously assaulted and beat one Gertie C. Adams, a female under ten years of age, and unlawfully and maliciously took indecent liberties with her person, with intent to pollute and prostitute said child.\nThe evidence strongly tended to show that the acts complained of were done with the consent of the child.\nE. W. Gardner, for defendant, appellant.\nOf course it is not necessary that there should be that resistance required, as in an older person, but in any case where it appears that this offense charged was done with the assent of the girl the defendant cannot be convicted even of an assault.\nIn the case of People ex rel. Engel v. Justices of Special Sessions, 18 Hun, 330, this principle is distinctly held. People v. Bransby, 32 N. Y. 525. Roscoe in his Criminal Evidence, 7th ed., p. 301, says: \u201c But if the indictment is for an \u00a3 indecent assault \u2019 only, and it appears that the child consented, the defendant must be acquitted.\u201d And he cites upon this question : R. v. Read, 2 C. & K. 957; R. v. Johnson, 61 E. C. L. R. 632, 34 L. J. M. C. 192.\nTo the same effect, 1 Barbour\u2019s Crim Law, 3d ed., bottom paging 413, note, citing: Reg. v. Cockburn, 3 Cox Crim. Cas. 543; Reg. v. Read, 2 Car. & K. 957, 61 Eng. Com. Law ; Rex v. Wehegan, 7 Cox Crim. Cas. 145.\nIn the case of Regina v. Woodhurst, 12 Cox Crim. Cases, 443, also reported in 1 Crim. Law Reps. (Green), 313, by Lust, Justice\u2014\u201c You cannot convict if there has been co\u00f1sent, as an assault excludes consent. Consent means consent of will,\u201d &c.\nO. O. Armstrong, district attorney, for the people."
+  },
+  "file_name": "0114-01",
+  "first_page_order": 138,
+  "last_page_order": 141
+}

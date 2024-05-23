@@ -1,0 +1,76 @@
+{
+  "id": 1164486,
+  "name": "BERRY v. PEOPLE",
+  "name_abbreviation": "Berry v. People",
+  "decision_date": "1879-04",
+  "docket_number": "",
+  "first_page": "57",
+  "last_page": "57",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 57"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Gray, 29",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/70/0029-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 145,
+    "char_count": 1526,
+    "ocr_confidence": 0.507,
+    "pagerank": {
+      "raw": 6.395754449267727e-08,
+      "percentile": 0.39616498876961553
+    },
+    "sha256": "3b4ccfa8c571e7ced86573fbea5d8dd1b0477441c3a506ecaa12b66c9925110f",
+    "simhash": "1:18fc5669aac18bd2",
+    "word_count": 267
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BERRY v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014We have examined the various questions presented on the trial, and so far as they present reviewable questions of law, we concur with the opinion of Ingalls, J., delivered at the General Term.\nThe refusal to charge the requests, in respect to the credibility of the two detectives, or informers, was not error, for the reason that one of the requests was to charge that they were accomplices, and the other assumed that they were such. Commonwealth v. Downing, 4 Gray, 29. We agree with the counsel for the prisoner, that the testimony of such witnesses should be viewed with caution, and even distrust; but it is, after all, a question for the jury, whether they shall be believed.\nThe judge submitted that question to the jury, and whether his comments were just or not, they are not reviewable, and no exception was taken to them.\nThe exception to the closing remarks of the judge, urging an agreement, is not tenable, for the reason stated in the opinion. We cannot think that these remarks are capable of so harsh a construction, as the counsel for the prisoner gives to them. The alleged threat to lock up the jurors, if they failed to agree, was, we think, only intended as a statement that the jury would have to remain over night, as the court would adjourn. Nothing like a threat of imprisonment or punishment could have been intended.\nThe judgment must be affirmed.\nAll concur, except Rapallo, J., absent at argument.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nApril, 1879.\nBERRY v. PEOPLE.\n(Affirming 1 N. 7. Grim. JRep. 43.)"
+  },
+  "file_name": "0057-01",
+  "first_page_order": 81,
+  "last_page_order": 81
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1164452,
+  "name": "PEOPLE ex rel. BURGESS v. RISLEY",
+  "name_abbreviation": "People ex rel. Burgess v. Risley",
+  "decision_date": "1883-09",
+  "docket_number": "",
+  "first_page": "492",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "55 N. Y. 31",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517506
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/55/0031-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 358,
+    "char_count": 6126,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 8.490011498157266e-08,
+      "percentile": 0.48609243241594396
+    },
+    "sha256": "2e34c9edb92ed79f1efc2ac80e23d38151b910e4e9caddda3bd8df1f28053e40",
+    "simhash": "1:ae85ad085d036fcd",
+    "word_count": 1058
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE ex rel. BURGESS v. RISLEY."
+    ],
+    "opinions": [
+      {
+        "text": "Westbrook, J.\nThe relator, George Burgess, has been committed by a magistrate of the county of Ulster in default of bail to await the action of the grand jury upon a charge of burglary. The Court of Oyer and Terminer to be held in and for the County of Ulster, at which the case will be presented for the action of the grand jury, convenes on November 19 next.\nThe sheriff of Ulster county, in whose custody as the keeper of the common jail the relator is, acting in good faith and under advice which he believes to be correct, refuses to his counsel, William D. Brinnier, a private interview with him. The relator asks for an order allowing such an interview.\nThe Constitution of the state (article 1, section 6) provides that \u201c in any trial, in any court whatever, the party accused shall be allowed to appear and defend in person and with counsel, as in civil actions.\u201d\nIn People ex'rel. Garling v. Van Allen (55 N. Y. 31), the provision of the constitution just quoted was held applicable to a court-martial.\nPerhaps the letter of the constitutional provision would be complied with by allowing to the accused the benefit of counsel upon the \u201c trial,\u201d but such a construction would illustrate the truth of that part of the old maxim which declares \u201cThe letter killeth,\u201d and disregard its conclusion, \u201c while the spirit giveth life.\u201d Undoubtedly the clause of the constitution under consideration was adopted to secure to the accused person all the benefits which could flow from the employment of counsel to conduct his defense; and to give him those it is essential that he should be allowed to consult with his counsel not only during the actual trial, but prior thereto, in order to prepare for his defense. Where a right is conferred by law, everything necessary for its protection is also conferred, although not directly provided for. The privilege of the presence of counsel upon the trial would be a poor concession to the accused, if the right of consultation with such counsel prior to the trial was denied. To give life and effect, therefore, to the provision of the constitution under consideration, it must be held to confer upon the relator every privilege which will make the presence of counsel upon the trial a valuable right, and this must include a- private interview with his counsel prior to the trial.\nIt is said, however, that there is no indictment as yet against the relator, and that therefore the constitutional provision does#-not apply. This is also, it seems to me, a narrow interpretation of the fundamental law. The relator is in jail and adjudged probably guilty of a grave crime. He has rights even before indictment. He may claim, perhaps, that his detention is illegal; that the evidence taken before the magistrate was insufficient, and may desire, through counsel, to obtain a writ of habeas corpus, or some other process, to inquire into the legality of his . imprisonment. He needs for all this, counsel competent to advise, and a private interview for consultation. Is he to be deprived of this because the letter of the fundamental law does not give it ? Or shall the spirit which procured the adoption of the provision be invoked to give it life? What was that spirit ? Manifestly it was a recognition of the great doctrine that, \u201c With us it is a universal principle of constitutional law that the prisoner shall be allowed a defense by counsel.\u201d Cooley\u2019s Cons. Lim. 334.\nHo good reason can be assigned why the word trial, occurring in the constitution, should be construed to mean the final inquiry upon the accusation only, and not any and every step which may be taken to inquire into the imprisonment. It should, to give force and effect to the spirit which prompted it, be so construed as to give to every one accused of or arrested for crime the benefit of counsel at every step and stage of the proceeding.\nThis construction is demanded by every consideration of humanity, and the enlightened views of personal rights resulting from Christian civilization.\nWhilst holding these views no censure is imposed either upon the sheriff or district attorney. They have' both acted in good faith and with due regard for the public interests, their care and vigilance having been aroused by what they deemed to be suspicious conduct on the part of the prisoner. The time of the convening of the grand jury is, however, now so near that the request of the prisoner for a private interview with his counsel should be granted. The sheriff may, of course, take proper precautions to see that no instrument of escape shall be conveyed to the prisoner, and may also, i-f he d\u00edas good reason to suppose that the consultation with the prisoner will be used .for an improper purpose, apply to the court for further instructions.\nUpon the facts now before me, no reason sufficient to prevent an interview by the counsel employed with the relator is shown, and the private consultation asked for be allowed.",
+        "type": "majority",
+        "author": "Westbrook, J."
+      }
+    ],
+    "attorneys": [
+      "William D. Brinnier, for prisoner and motion.",
+      "A. T. Clearwater, district attorney, for the people, opposed."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014Special Term\u2014Ulster County.\nSeptember, 1883.\nPEOPLE ex rel. BURGESS v. RISLEY.\nConstitutional Law.\u2014-Right oe Pbisonek to Inteeview with Counsel.\nIn the provision of the State Constitution (Art. 1, \u00a7 6),.that \u201cIn any trial, in any court whatever, the party accused shall be allowed to appear and defend in person and with counsel as in civil actions,\u201d the -word \u201ctrial\u201d cannot be limited to the final inquiry upon the accusation, but it means any and every step which may be taken to inquire into the imprisonment, and the provision should be so construed as to give to every one accused of or arrested for crime, the. benefit of counsel at every step of the proceeding.\nAccordingly, held, that a prisoner who has been committed by a magistrate to await the action of the grand jury upon a charge of burglary, is entitled to an interview with his counsel, in a case within the spirit of the above provision.\nMotion for a' mandamus to compel the Sheriff of Ulster county to allow the relator a private interview with his counsel.\nThe facts appear in the opinion.\nWilliam D. Brinnier, for prisoner and motion.\nA. T. Clearwater, district attorney, for the people, opposed."
+  },
+  "file_name": "0492-01",
+  "first_page_order": 516,
+  "last_page_order": 519
+}

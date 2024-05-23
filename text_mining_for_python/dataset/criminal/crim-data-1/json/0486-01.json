@@ -1,0 +1,109 @@
+{
+  "id": 1164491,
+  "name": "PEOPLE v. WELCH",
+  "name_abbreviation": "People v. Welch",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "486",
+  "last_page": "492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 486"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "83 N. Y. 457",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 N. Y. 467",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 N. Y. 458",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 N. Y. 277",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534706
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/74/0277-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 513",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 N. Y. 494",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 566,
+    "char_count": 12505,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 9.541715829666713e-08,
+      "percentile": 0.5248809872699142
+    },
+    "sha256": "81e0b62c14d34c689b2ac23687458151049a2ffca36571d347ed5e9191ebc3ba",
+    "simhash": "1:810f60613ea59cb0",
+    "word_count": 2208
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. WELCH."
+    ],
+    "opinions": [
+      {
+        "text": "Hardin, J.\nAs this trial which we are called upon to review, took place at the Herkimer County Oyer and Terminer, in June, 1882, the Code of Criminal Procedure is applicable to it. That Code took effect September 1, 1881. Code Crim. Pro. \u00a7 963 ; L. 1881, c. 442.\nTo George Snyder, a juror, a \u201c challenge for actual bias \u201d was taken by the defendant, as by sections 386, 368 and 366, he was authorized to do. Facts upon which the challenge rested being denied, the trial of the challenge was to be, and was, had before the court.\nSection 383 of the Code of Criminal Procedure is, viz. : \u201cUpon the trial of a challenge to an individual juror, the juror challenged may be examined as a witness to prove or disprove the challenge\u201d .... Section 384, declares, viz.: \u201cOther witnesses may also be examined on either side \u201d.....\nNo other witness was examined upon the trial of the challenge to Snyder, and the conclusion upon the question of fact involved in the trial was reached by the trial court, in the exercise 'of a sound discretion (\u00a7 376), that George Snyder was a competent juror, after hearing and considering the testimony of Snyder, the juror. The same rules of evidence are applicable to such trial of a challenge as apply to the trial of \u201c other issues.\u201d Code Crim. Pro. \u00a7 384.\nIt is expressly provided in section 465,of the Code of Criminal Procedure, that an exception may be taken to a decision \u201c in admitting or rejecting testimony on the trial of a challenge for actual bias to a juror .... or in allowing or disallowing such challenge.\u201d In section 395 of the Code of Criminal Procedure, it is declared that \u201ca challenge is an objection to trial jurors\u201d . . . . either to the panel or \u201c to an individual juror.\u201d Section 370 divides challenges into two kinds, viz. : \u201c Peremptory,\u201d or, \u201c second, for cause;\u201d and a challenge for cause is an objection to a particular juror, and it may be either general or particular. It is general when the objection is that the juror is \u201cdisqualified from serving in any case,\u201d or, secondly, it may be \u2022\u201c particular, that he is disqualified from serving in the case on trial.\u201d \u00a7 375.\nBy section 376, \u201c particular causes of challenge are of two kinds the first is when there is \u201c simple bias,\u201d and the second is when there is \u201cactual bias.\u201d The latter is the character of the challenge taken in the case now before us. That section sets down a rule for determining the question presented here, and we must consider the second subdivision of the section, which is as follows, viz.: \u201cSecond. For the existence of a state of mind on the part of a juror, in reference to the case or either party, which satisfies the court, in the exercise of a sound discretion, that such juror cannot try the issues impartially and without prejudice to the substantial rights of the party challenging, and which is known in this Code as actual bias.\u201d......\nIt was the duty of the court, when the challenge was upon trial, to consider whether Snyder, the juror challenged, then had the existence of \u201c a state of mind \u201d in reference to the case or the defendant which satisfied the court, in the exercise of a sound discretion, \u201cthat the juror could not impartially and without prejudice to the substantial rights\u201d of the defendant try the issue formed by the allegations of the indictment and the denial thereof by means of the plea of not guilty interposed by the defendant.\nIn considering the evidence furnished by the examination of the juror, the court was called upon to observe the language and spirit of that portion of section 376 of the Code of Criminal Procedure, which is a substantial re-enactment of the statute of 1872, in respect to the formation or expression of an opinion or impression by a juror. That portion of the section reads, viz.: \u201c But the previous expression or f ormation of an opinion or impression in reference thereto is not a sufficient ground of challenge for actual bias, to any person, otherwise legally qualified, if he declares on oath that he believes that such opinion or impression will not influence his verdict, and that he can render an impartial verdict according to the evidence, and the court is satisfied that he does not entertain such present opinion or impression as would influence his verdict.\u201d\nUnder the act of 1872, which has been the subject of frequent judicial interpretation, several cases have been considered, and from those cases we may deduce the following results:\n(1.) That the legislature intended to remove the strict and stringent rule existing before the legislation to which we have referred, which attached a disqualification to the fact of forming and expressing an opinion, which led Marshall, Oh. J., to say, in 1 Burr Trial, 416, of such a juror, \u201c that the law will not trust him; \u201d and which led to holding in many other cases, that a hypothetical opinion, or an impression simply, of the guilt or innocence of the prisoner, derived from rumor, or from reading newspaper accounts of the transaction, tended strongly to support a \u00a1challenge for principal cause. Balbo v. People, 80 N. Y. 494.\n(2.) That the fact that a juror has formed an opinion of the guilt or innocence of a prisoner \u201c is no longer in any'case a legal disqualification, provided the juror makes the declaration specified in the statute.\u201d Cox v. People, 80 N. Y. 513.\n(3.) That the question of a juror\u2019s competency is to be determined, in \"each case, as a question of fact, and each case must rest upon its own peculiar features. Balbo v. People, supra.\n(4.) That when a juror has read in a newspaper the evidence taken in-a former trial, and formed an opinion therefrom, in a case where the evidence is circumstantial, and where the testimony is likely to be repeated, and the juror would hear it with its result already lodged in his mind, \u201c he ought not to be permitted to sit.\u201d Greenfield v. People, 74 N. Y. 277, and the opinion of Pinch, J., in People v. Oyer and Terminer, 83 N. Y. 458, and of Talcott, J., in Manke v. People, 17 Bun, 411, referring to the Greenfield case.\n(5.) That although a juror has read about a case in a newspaper, but has not a fixed and settled opinion, but has an impression based upon a certain fact or condition of facts if proved to be true, and with such an opinion he would be governed by the evidence and render a verdict accordingly, he may be allowed to sit, if the court, under the circumstances disclosed by him, after seeing and hearing the juror, is of the opinion that he is unbiased. Abbott v. People, 86 N. Y. 467; opinion of Miller, J. See Manke v. People, supra.\nNow, with these cases before us, we are called upon to review the conclusion of the court below, that the juror Snyder had not such a state of mind \u201c in reference to the case of the defendant as to render him incapable of trying the issue impartially, and without prejudice to the substantial rights of the party challenging.\u201d\nThe juror was a farmer, residing in the town of Horway, some twenty miles away from Little Falls, where the murder occurred. He was fifty-eight years of age, and he read an account of it in the \u201c Journal and Courier,\u201d published at Little Falls. When asked if he had read the evidence as published in that paper, or what purported to be the evidence, he answered, \u201c I am rather inclined to think I did ; could not be positive.\u201d He had read the editorial comments, though he could recollect no \u201c particulars about it.\u201d He said he formed an opinion, and it would take evidence to remove it, and he would not go into the-jury-box with a mind free from prejudice, free from opinion ; and he said, \u201c I don\u2019t know as I should require a great deal of preponderance of evidence on the part of the prisoner to remove my impressions, but I should require some.\u201d Later on in his testimony, he was asked, viz. : \u201c If you were accepted as a juror in the case, and the oath administered to you, and you took your seat in the box, would yon lay aside and leave any former impression you may have had upon the subject and receive the evidence and act impartially ?\u201d His answer was, viz.: \u201c That is what I would act upon wholly.\u201d Again, he was asked, viz.: \u201cAs a juror you would act entirely upon the evidence which was produced here upon the trial?\u201d His answer was, viz.: \u201c Yes, sir;\u201d and he added, he thought no information or impression which he had gained would influence him in any particular in his action as a juror. Some other statements appear in his evidence in respect to the impression made by reading the newspaper, and he stated that he understood that when he got i\u00bb the jury-box he would be controlled, by the evidence entirely. He y^as quite as well qualified as the juror Toplitz in People V. Oyer and Terminer, referred to in the opinion of Finch, J., 83 N. Y. 457. Heading his evidence carefully through, as we find it in the appeal book, and bearing in mind the precedent to which we have referred, we cannot say that the trial court did not, in the exercise of a \u201c sound discretion,\u201d come to a proper conclusion.\nGiving that conclusion its proper influence upon us, coming as it does from a court that heard and saw the juror, we do not see any feature of the evidence in the case which should lead us to differ with the trial court, and we cannot declare \u201cthat the juror possessed any \u201cactual bias\u201d against the defendant or his case, after applying the rule laid down in section 376 of the Code of Criminal Procedure and the cases to which we have adverted. We may conclude what we have to say with the language of Judge Milleb, found at page 469 of 86 JY. Y. in Abbott\u2019s case, where he says, viz.: \u201c It was very evident that the alleged opinion was merely an impression which would not affect the juror in the conscientious discharge of his duty, and the court, under the circumstances, seeing the juror and his manner of testifying, .were justified in holding that he was competent.\u201d\nHo other question arises upon the appeal book. We must affirm the conviction and judgment.\nJudgment and conviction affirmed, and proceedings remitted to the Herkimer Oyer and Terminer.\nSmith, P. J., concurred.",
+        "type": "majority",
+        "author": "Hardin, J."
+      }
+    ],
+    "attorneys": [
+      "Sewell S. Morgan, for the prisoner, appellant.",
+      "A. B. Steele, district attorney, and Albert M. Mills, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014fourth Department.\nJanuary, 1883.\nPEOPLE v. WELCH.\nJurors\u2014Challenge for Actual Bias\u2014Grounds of\u2014Opinion, when Disqualification\u2014Trial of Challenge.\n.By the statute of 1812 (re-enacted in section 376 of the Code of Criminal Procedure), in respect to- the formation or expression of an- opinion by a juror, as to the guilt or innocence of the prisoner, the legislature intended to remove the strict rule theretofore existing, which attached a disqualification to the fact of forming and expressing such opinion. That a juror has formed such an opinion is no longer, in any case, a legal disqualification, provided he makes the declaration specified in the statute.\nThe question of a juror\u2019s competency is to be determined as a fact, and each case must rest upon its own peculiar features.\nWhere the juror has read in a newspaper the evidence taken in a former trial, and formed an opinion therefrom, in a case where the evidence is circumstantial and the testimony is likely to be repeated, the juror should not be permitted to sit.\n'Although a juror has read about a case in a newspaper, yet if he have not a fixed and settled opinion, but merely an impression based upon a certain fact, or condition of facts, if proved to be true, and with such an opinion he would be governed by the evidence and render a verdict accordingly, he may be allowed to sit, if the court, under the circum- \u2022 stances, after seeing and hearing the juror, is of opinion that he is unbiased.\nIn the case at bar, a juror upon a murder trial was challenged under said _ section 376 for actual bias, and the only testimony taken upon the trial of the challenge was that of the juror. The court, after a review thereof, applying the above principles, held that the juror was competent.\n, Appeal from a judgment of the Herkimer County Oyer and Terminer, entered in June, 1882, upon a verdict of murder in the second degree.\nThe indictment charged the defendant with murder in the first degree, for deliberately and premeditately having caused the death of his wife, Margaret Welch, at the town of Little Falls, February 5, 1882. The defendant was sentenced to- the Auburn state prison for life, and is now serving out his sentence.\nFurther facts appear in the opinion.\nSewell S. Morgan, for the prisoner, appellant.\nA. B. Steele, district attorney, and Albert M. Mills, for the people, respondent."
+  },
+  "file_name": "0486-01",
+  "first_page_order": 510,
+  "last_page_order": 516
+}

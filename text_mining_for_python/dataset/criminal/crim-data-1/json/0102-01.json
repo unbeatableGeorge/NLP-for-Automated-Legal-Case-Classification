@@ -1,0 +1,79 @@
+{
+  "id": 1164420,
+  "name": "PEOPLE v. MURPHY",
+  "name_abbreviation": "People v. Murphy",
+  "decision_date": "1882-10",
+  "docket_number": "",
+  "first_page": "102",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 102"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. 386",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2004038
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/1/0386-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 5046,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 4.5330875625009783e-08,
+      "percentile": 0.2838068937609876
+    },
+    "sha256": "3c4c81cb3d83328538267e2ed0f08212d7f3cef770bdbd5f3b88e2a5513590b6",
+    "simhash": "1:3b396bac17119870",
+    "word_count": 888
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. MURPHY."
+    ],
+    "opinions": [
+      {
+        "text": "Davis, P. J.\nThe appellant was convicted of the crime of larceny from the person, and sentenced to imprisonment in the State prison for the term of four years. The crime was alleged to have been committed upon the person of one John Olson. Olson had been committed as a witness, to' the house of detention, and afterwards had been discharged on giving bail for his appearance as a witness on the trial of the charge. In the recognizance given for his appearance, he described himself as residing at Ho. 3 Henry Street, in the city of Hew York, and his surety Edward Maher described himself as residing at Ho. 118 White street, in said city. Maher justified as bail, deposing that he was the owner of two lots, numbers T06 and 108 Eeade street, in said city, of the value of one hundred thousand dollars, which were incumbered for sixty thousand dollars. Olson failed to appear, as a witness at the trial,, and it was sought to make use of his deposition taken before the police magistrate at the time the complaint was made, I nder the provisions of section 8 of the Code of Criminal Procedure, which allows depositions in certain cases to be read at the trial \u201c upon it being satisfactorily shown to the court that he (the witness) is dead or insane, or cannot with due diligence be found in the State.\u201d It was not shown that Olson was either insane or dead, and for the purpose of showing due diligence, officer William Plynn was called, who testified in substance that a few days before the trial, by the direction of the district attorney, he made efforts to find Olson, and for that purpose went to Oliver street, in the city of Hew York, and made inquiry of divers persons, but could learn nothing of Olson\u2019s whereabouts, but was told that he had not resided there for some two years. The reason assigned by the officer for going to Oliver street was that the complainant Olson told him that he was stopping there, \u201c the night before he made complaint at the Tombs.\u201d H o inquiry was made at Ho. 3 Henry street, and none at Ho 118 White street, the residence of Olson\u2019s bail; and none of the bail anywhere.\nIt was objected by counsel for the prisoner that sufficient proof of diligence had not been given to warrant the reading of the deposition in evidence. This objection was overruled, and the counsel duly excepted. We think this exception was well taken. What the officer had done was under the circumstances quite insufficient. The witness had not given Oliver street as his place of residence, but at most had stated that he had stopped there the night before he w'as examined. In his deposition he said he had no home, but in his recognizance he declared himself a resident of Ho. 3 Henry street, and the surety he gave also specified in the same instrument his residence. Diligence certainly required that Olson should be sought for at Ho. 3 Henry street, and if his whereabouts could not be ascertained, then that inquiry should be made of his surety at the residence of the latter; for the reasonable presumption is that the surety could give information that would enable the officer to ascertain definitely whether Olson could or could not be found in the State.\nWithin the authority of Barr v. People (1 N. Y. 386), there seems to us no question that the effort to find the complainant was not sufficient to justify the reading of the deposition.\nWithout considering the other questions in the case, we are of opinion that the judgment must be reversed and a new trial ordered, for the error already considered.\nBeady and Daniels, JJ., concur.",
+        "type": "majority",
+        "author": "Davis, P. J."
+      }
+    ],
+    "attorneys": [
+      "Howe & Hummel, for the defendant, appellant.",
+      "John McKeon, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nOctober, 1882.\nPEOPLE v. MURPHY.\nEvidence.\u2014Deposition of Absent Witness.\u2014Due Diligence. \u2014Code of Oeiminal Peooeduee, \u00a7 8.\nWhere it is sought, under section 8 of the Code of Criminal Procedure, to read in evidence the deposition of a witness, absent at the trial, taken before the committing magistrate, due diligence in seeking for said witness within the State, is not shown by the testimony of a police officer, employed by the district attorney, to the effect that a few days before the trial lie made inquiries of divers persons at a certain place in New York City, where the witness had told the officer he was stopping \u2018 \u2018 the night before he made complaint, \u201d and could learn nothing of witness\u2019s whereabouts, and was informed that he had not resided there for two years; it also appearing that no inquiries were made at the place in said city given by witness in his recognizance as his residence, nor at the residence in said city of his surety, nor of the surety at any place.\nAppeal from judgment of the Court of General Sessions of the city and county of Hew York.\nThe defendant was indicted in General Sessions for larceny from the person, and tried August 16, 1882, Gildebsleeye, J., presiding, and convicted. An exception to the admission of certain evidence was taken by defendant at the trial, which is fully set forth in the opinion.\nHowe & Hummel, for the defendant, appellant.\nJohn McKeon, for the people, respondent."
+  },
+  "file_name": "0102-01",
+  "first_page_order": 126,
+  "last_page_order": 129
+}

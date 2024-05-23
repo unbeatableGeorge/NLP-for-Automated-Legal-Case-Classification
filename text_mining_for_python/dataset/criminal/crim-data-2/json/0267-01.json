@@ -1,0 +1,360 @@
+{
+  "id": 1167690,
+  "name": "PEOPLE v. D'ARGENCOUR",
+  "name_abbreviation": "People v. D'Argencour",
+  "decision_date": "1884-04",
+  "docket_number": "",
+  "first_page": "267",
+  "last_page": "278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Johns. 320",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128320
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/1/0320-01"
+      ]
+    },
+    {
+      "cite": "9 Barb. 664",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4898471
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/9/0664-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 526",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2055415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/15/0467-01"
+      ]
+    },
+    {
+      "cite": "51 Vt. 105",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 N. J. L. 365",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        351460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/39/0365-01"
+      ]
+    },
+    {
+      "cite": "62 N. Y. 304",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hill, 491",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Barb. 560",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936218
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/8/0560-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. 320",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132706
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0320-01"
+      ]
+    },
+    {
+      "cite": "1 Wend. 198",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003385
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/1/0198-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 778",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2159664
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/9/0818-01"
+      ]
+    },
+    {
+      "cite": "4 Hun, 456",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 283",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164429
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0283-01"
+      ]
+    },
+    {
+      "cite": "21 Wend. 409",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2151949
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/21/0409-01"
+      ]
+    },
+    {
+      "cite": "24 Hun, 270",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ala. 748",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Leigh, 471",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        4445298
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/32/0180-01"
+      ]
+    },
+    {
+      "cite": "1 Dall, 462",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Serg. & Rawle, 203",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8878224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/12/0203-01"
+      ]
+    },
+    {
+      "cite": "7 Mon. 585",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Pick. 293",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2010275
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/20/0293-01"
+      ]
+    },
+    {
+      "cite": "25 Wend. 472",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026575
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/25/0361-01"
+      ]
+    },
+    {
+      "cite": "11 Ohio, 255",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        589514
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/11/0218-02"
+      ]
+    },
+    {
+      "cite": "12 Ohio, 150",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 B. 8",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 B. 8",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 B. 8",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Wend. 309",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2151873
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/21/0309-01"
+      ]
+    },
+    {
+      "cite": "24 Hun, 270",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Wend. 472",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/25/0361-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 924,
+    "char_count": 24443,
+    "ocr_confidence": 0.543,
+    "pagerank": {
+      "raw": 1.204854644122055e-07,
+      "percentile": 0.594571343734712
+    },
+    "sha256": "3d39924313f249e000f2cc0635a9f22677c0aabf3c8326a5ab0177f10f99b689",
+    "simhash": "1:af86f6ebd712beca",
+    "word_count": 4387
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur."
+    ],
+    "parties": [
+      "PEOPLE v. D'ARGENCOUR."
+    ],
+    "opinions": [
+      {
+        "text": "Miller, J.\nThe defendant was indicted and convicted for the crime of forgery in the second degree, on the first count contained in the indictment. .This charged that the defendant made, and engraved, and caused and procured to be made and engraved a plate in the form and similitude of a promissory note, issued by a bank at Havana, in the Island of Cuba for the payment of fifty centavos, said bank being a bank incorporated -under the laws of the kingdom of Spain, without the authority of said bank and in violation of the statutes of the state.\nThe counsel for the appellant insists that the court erred in refusing to advise the jury to acquit on the ground that there was no legal evidence offered by the people that the alleged bank was incorporated under the laws of the kingdom of Spain.\nUpon the trial a witness was introduced and sworn on behalf of the people, who testified that he was a banker in New York city ; that lie had been in the bank named in the alleged forged note ; that the bank issued notes which were received as money; that his firm were the agents of said bank in the city of New York; that when he was in this bank at Havana, he saw banking business carried on. He further testified that the said bank was incorporated under the laws of Spain. That he saw the articles of incorporation in a book which was in the court room on the .day of the trial, that from what he saw there and also from what he saw in the official organ, the paper of \u25a0the Spanish government, he believed it to be so; that this \u25a0official paper was published by the government, and only contains official news, the chief laws, and any change in the administration that-interests the public. The fact of the bank \u00a1being incorporated was also proved by the engraver connected with the American Bank Note Company, and that it had en.-graved the plates from which the genuine notes of the bank were printed and which plates were then in the vaults of said company.\nWe think that this evidence was sufficient to show the existence of the bank without producing the law to establish the. fact that the bank had been incorporated, and the act of incorporation, and that there was no error in the refusal of the court to advise the jury as requested.\nThe rule has long been established. in this state, that it is not necessary, on an indictment for forgery of bank notes, to prove by direct evidence the incorporation of the bank, and that, testimony of the most general character is sufficient for such a-purpose. In People v. Davis (21 Wend. 309) it was held, on an indictment for having in possession, with intent to pass, bank notes purporting to have been issued by a banking corporation of a state other than that of New York, that it was not necessary to show that there was, in fact, such a corporation in existence; at all events, proof of the most general character of its existence would be sufficient. The same rule is applicable here, and the proof introduced was clearly sufficient to establish the legal existence of the bank within the authority cited. Any other or different rule would cause great difficulty on a trial of this description, and very greatly interfere with the administration of justice in such cases. The general practice has been in cases of this character to produce general evidence as to the incorporation of the bank upon which the alleged forgery was committed. Such being the rule in this state, it would seem to be unnecessary to examine whether the same or a different rule exists elsewhere. The case of People v. Peabody (25 Wend. 472), cited by the appellant\u2019s counsel, is not adverse to the rule laid down in People v. Davis (supra), as that was a case where an intent was charged to defraud-, the bank, and it is there laid down that to constitute the- offense of forgery, in counterfeiting the notes of a bank, it is not necessary that such bank as the notes purport to have been issued by, should have a legal existence, and it is enough that the notes purport to have been issued by a corporation \u00a9r company duly authorized to issue notes.\nThe provisions of the Code of Civil Procedure, sections 956-7-8 and 942, have no application to an indictment for counterfeiting bank notes. The. rule- in civil cases in regard to proof of this character is different, and the proof of the existence of the bank upon which the- forgery was committed was entirely sufficient in the case at bar.\nIt is further insisted that the court erred in refusing to advise the jury to acquit, upon the ground that the indictment does not set forth any instrument which purports to be a pecuniary obligation of the bank. This point relates to the allegation in the indictment that the note alleged to have been made and engraved was for the payment of \u201c fifty centavos,\u201d and the claim is that the terms employed do not show of themselves that \u201c centavos \u201d are money, or that the alleged promise involved any pecuniary obligation to pay on the part, of the bank. The charge in the indictment which is referred to, is for making and engraving, and causing and procuring to be made and engraved, a plate in the form and similitude of a promissory note in violation of the statute (3 R. S. 7th ed. 2488, \u00a7\u00a7 30, 31), and it was not necessary to sustain the allegation, to define the meaning of the word referred to. It is of no importance whether an explanation was given to the word \u201c centavos \u201d or not.\nIf that word had not been engraved upon the plate, the engraving and making of the plate unfinished would have been in violation of the statute, and the indictment was clearly good without defining or attempting to give a definition to the word \u201c centavos.\u201d The appellant\u2019s counsel relies upon the case of' Sanabria v. People (24 Hun, 270), but that case is entirely different from the one at bar. The indictment there was for attempting to forge an instrument purporting to be a pecuniary obligation of the Empire of Brazil, which was set forth in the Portuguese language with an English translation which did not define what was meant by the terms there used for money in the Portuguese language, and it was held that as the term used was not money of this country, and as the court could not take judicial notice that it was a coin at all, it did not appear that the instrument involved any pecuniary demand or obligation upon the part of the Empire of Brazil, and that the indictment was insufficient. It will be observed that the charge related to the forging of an instrument which created a pecuniary obligation, and sufficient did not appear upon the face of the indictment to show that any such obligation was forged, and thus no crime was alleged. The allegation here is entirely different, and a crime would be made out if the engraving had been but partially completed, and hence the case cited is not applicable.\nNor was any error committed by the court in refusing to advise the jury to acquit upon. the ground that there was no evidence showing the want of authority on the part of defend ant to make the plate- The evidence of such want of authority we think was sufficiently established by the agent of the bank in this country, who testified that no one save the Bank Note Company had been authorized through him to do any engraving for the bank, and the lithographer whose company had the genuine plates in its possession. The proof was positive that plates had been manufactured for the bank by the American Bank Note Company, who retained possession of the same, and the agent\u2019s testimony therefore tends to show that the defendant had no authority for any such purpose. In view of this testimony it is not probable that any other person was authorized to engrave plates for the bank, and it devolved upon the defendant to establish to the contrary if such was the fact. The people were not bound, in view of the proof given, to show a negative, and the evidence introduced by the defendant, for the purpose of establishing authority, was not of itself sufficient for that purpose. As the case stood it was for the jury to determine whether a want of authority was established, and it cannot as a matter of law be held, that there was a failure of the prosecution in this respect.\nIt is further objected that the indictment was fatally defective in not charging an intent to defraud some individual or corporation. The indictment charged an offense in violation of the provisions of sections 30 and 31 of the Revised Statutes (supra). There is nothing in these provisions which requires that there should be an intent to defraud any individual or corporation. The offense was committed in September, 1882, before the Penal Code went into effect, and hence the charge made in the indictment must be in accordance with the provisions of the statute cited, and therefore it was not necessary to allege any such intent. But aside from this view of the question presented, and assuming that the provisions of section 511 of the Penal Code are applicable, it is a sufficient answer to the point urged to say that the question was not raised so as to be available to the defendant. Section 469, of the Code of .Criminal Procedure required a motion to be made for that purpose before or at the time when the defendant was called for judgment. This was not done but a motion was made in arrest of judgment, and for a new trial, the grounds of which were confined to the exceptions taken at the trial and to the judge\u2019s charge, and did not therefore include this alleged defect. By failing to present the question, the defendant waived the right to object that the indictment was defective for want of an averment of an intent to defraud. The provisions of section 527 of the Code of Criminal Procedure do not aid the defendant, as the power conferred upon the Supreme Court to grant a new trial, when the verdict is against the weight of evidence, or against law, or when justice required a new trial, whether any exception shall have been taken or not in the court below, is a discretionary one, and as it cannot be said that the discretion has been abused by the Greneral Term of the Supreme Court, the decision is not revi\u00e9wable upon appeal to this court.\nIt is also insisted that there was no proof of an intent on the part of the defendant to defraud. The question of intent was one for the jury. Although the plate was not entirely complete, yet it was sufficiently so, to evince that it was intended for the printing of notes of the description of those issued by the bank named thereon. This is shown by the description given by one of the witnesses upon the trial. It conforms to similar parts of a genuine plate. The question of defendant\u2019s good faith was for the jury, and in view of the evidence it cannot be said that there was no ground for claiming that the act of the defendant was without any intent to defraud or to commit a crime in violation of the statute. The judgment should be affirmed.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Miller, J."
+      }
+    ],
+    "attorneys": [
+      "Wm. F. Kintzing and Geo. L. Simonson, for defendant appellant.",
+      "Peter B. Olney, district attorney (Jno. Vincent, assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nApril, 1884.\nPEOPLE v. D'ARGENCOUR.\nFoegeby in Second Degeee.\u2014Peoof of Incoepobation of Fobeign Bank.\u2014Code Civ. Peo. \u00a7\u00a7 956-958.\u20142 E. S. 672, \u00a7 30.\u2014Penal Code, \u00a7 511.\u2014Code Ceim. Peo. \u00a7\u00a7 469-527.\nUpon the trial of an indictment for forging the notes of a bank of a state or country, other than Hew York, the incorporation of the bank need not be proved by direct evidence. Upon this point general evidence is sufficient.\nThe provisions of Code Civ. Pro. \u00a7\u00a7 956, 958, 942, as to proof of the laws \u25a0 of other states and countries have no application to a trial upon an indictment for counterfeiting bank notes.\nUnder an indictment for making and engraving and causing and procuring, to be made and engraved a plate, in the form and similitude of a promissory note in violation of 2 B. 8. 672, \u00a7\u00a7 30, 31 (3 B. 8. 7 ed. 2488, \u00a7\u00a7 30, 31), the making and engraving of an unfinished plate, is an offense, before any denomination of money is engraved upan it. Therefore, when such an indictment sets forth that the note alleged to have been made and engraved for the payment of \u201cfifty centavos,\u201d it is good without defining the meaning of the word \u201c centavos.\u2019\u00bb\nThe agent in this country of the bank, whose notes are alleged to have been forged testified that no one save the American Bank Note Company had been authorized by him to do any engraving for the bank, and it was proved that said company retained possession of the plates manufactured for said bank. Held, sufficient evidence of a want of authority of defendant to make the plates, to throw upon him the burden of proving the contrary.\nThe offense having been committed before the Penal Code went into effect and there being nothing in the previous statute, 2 B. 8. 672, \u00a7\u00a7 30, 31 (8 B. 8. 7 ed. 2488, \u00a7\u00a7 30, 31) requiring an intent to defraud any individual or corporation, it was not necessary to allege such intent in the indictment.\nEven under Code Civ. Pro. \u00a7 515, an objection to the indictment, in that it does not contain an allegation of such intent can only be raised (Code Grim. Pro. \u00a7 469) before or at the time when defendant is called for judgment.\nThe power conferred upon the Supreme Court by the provisions of \u00a7 527 of the Code of Criminal Procedure to grant a new trial when the verdict is against the weight of evidence, or against law, or when justice requires a new trial, whether any exception shall have been taken or not in the court below is a discretionary one, and where it cannot be said that this discretion has been abused the decision of the Supreme Court will not be reviewed upon appeal to the court of appeals.\nAppeal by defendant Louis D\u2019Argencour from a judgment of March 7, 1884, of the General Term of the Supreme Court in the First Department affirming a judgment of the Court of General Sessions of the city and county of New York, April 11, 1883, Hon. Henry A. Gildersleeve presiding, convicting defendant of forgery in the second degree.\nThe offense was committed on September 28, 1882, before the Penal Code went into effect, and the indictment was found March 22, 1883.\nThe conviction was under the first count contained in the indictment, which was in the following form :\n\u201c The Grand Jury of the city and county of Mew York, by this indictment, accuse Louis D\u2019Argenconr of the crime of forgery in the second degree, committed as follows: The said Louis D\u2019Argencour, late of the city and county of Mew York, on the 28th day of September, in the year of our Lord one thousand eight hundred and eighty-two, at the city and county aforesaid, with force and arms feloniously made and engraved, and caused and procured to be made and engraved a plate in the form and similitude of a promissory note, issued by El Ban-co Espa\u00f1ol de la Habana, for the payment of fifty centavos, the said El Banco Espa\u00f1ol de la Habana being a bank incorporated under the laws of a foreign country, to wit: under the laws of the Kingdom of Spain, without the authority of the said bank, against the form of the statute in such case made and provided, and against the peace of the People of the State of Mew York and their dignity.\u201d\nThe following testimony was adduced at the trial:\nAndrew L. Drummond testified on behalf of the people, as follows : That he is an officer in the Secret Service Bureau of the United States Treasury Department. He arrested the defendant on the 29th day of September 1882, at number 303 Elizabeth street, Mew York City. That on the 28th day of September 1882, he searched the room occupied by defendant. The defendant was not present. He found an engraver\u2019s complete outfit. Also a plate having an impression of a postage stamp, having a partially engraved counterfeit of a bank note for fifty centavos on the bank El Banco Espa\u00f1ol de la Habana. They were all found in a trunk in defendant\u2019s room. When he arrested defendant he took from defendant\u2019s pocket a key which unlocked the trunk, and a key which unlocked the door to his room. Defendant would not answer any questions put to him.\nJuan M. Ceballos, Jr., testified on behalf of the people, that he was a member of the firm of J. M. Ceballos & Co. bankers, Mo. 69 Wall street. The translation of El Banco Espa\u00f1ol de la Habana means the \u201c Spanish Bank of the Island of Cuba.\u201d The name of the bank as interpreted in English was the \u201c Spanish Bank of Havana \u201d up to the year 1881, when it was changed to the \u201c Spanish Bank of the Island of Cuba.\u201d It is the same bank. It issued bank notes which are received as money. His firm were the agents of said bank. He has been in the bank building in Havana, and has seen them carry on business. The bank is incorporated under the laws of Spain. Has seen the articles of incorporation. Has read the account given by the Spanish Government for the establishment of this new bank m the official Spanish newspaper. Derives his knowledge of the incorporation of the bank from the Spanish official paper, and from seeing the bank and acting as its agent and having met the chief officers' thereof. The outstanding notes of the Spanish Bank of Havana are still in circulation and received as the currency of this bank.\nJames McDonough, called on behalf of the people, testified that he is a bank note engraver connected with the American Bank Note Company, and formerly with the National Bank Note Company. He is familiar with the manufacturing part of the business of that company. The original notes for the Spanish Bank at Havana were engraved by the National Bank Note Company, and the notes shown witness are genuine. The plate shown witness, as having been taken from defendant, is an unsuccessful attempt to imitate the face of a fifty centavo note which we engraved for the Spanish Bank of Cuba. It is not a complete engraving. The title, the promise to pay and the vignette are unfinished. The simple lettering, the microscopic lettering, is just attempted. The counter and border are unfinished, and the signature is not on. The impressions shown me from this plate are counterfeits.\nIn 1872 we were authorized by the bank to engrave the notes. We have the plates now from which the genuine notes were engraved. They are steel plates. They are in our vaults.\nThe prisoner was convicted and sentenced to three years and a half imprisonment, and upon appeal to the Supreme Court General Term the conviction was affirmed.\nWm. F. Kintzing and Geo. L. Simonson, for defendant appellant.\nI. There was no legal evidence the bank was incorporated under the laws of Spain. Lewis v. Bank of Kentucky, 12 Ohio, 150 ; Ingraham v. Hart, 11 Ohio, 255 ; Story Conflict of Laws, 528 ; Nat. Bank v. De Bernales, 1 Carr. & P. 569. The bank must be shown to be a real body capable of being defrauded. 2 Russ. Crimes, 353-367; People v. Peabody, 25 Wend. 472 ; 3 Phill. Ev. 1136, and note ; Raynham v. Carter, 3 Pick. 293; Taylor v. Bank of Illinois, 7 Mon. 585 ; Kean v. Rice, 12 Serg. & Rawle, 203 ; Thomas v. Masser, 1 Dall, 462; Biddle v. James, 6 Binney, 321; Taylor v. Bank of Alexander, 5 Leigh, 471, State v. Givens, 5 Ala. 748.\nThat the El Banco Espa\u00f1ol de la Habana was a bank authorized by the law of the Kingdom of Spain must be proved as a matter of fact by legal evidence of the act of incorporation; such proof not having been given, the defendant was entitled to an acquittal.\nII. The indictment does not set forth any instrument which purports to be a pecuniary obligation of the bank.\nThe indictment was clearly defective in not showing what money the \u201c fifty centavos\u201d were, and the court cannot take judicial notice that a \u201c contavo \u201d is a coin at all, and the promise set forth in the indictment did not involve any pecuniary obligation or demand. Sanabria v. People, 24 Hun, 270 ; Rex v. Warshauer, 1 Mood. Cr. Cas. 466.\nIII. There was no evidence showing the want of authority on the part of defendant to make the plate.\nThe testimony of Ceballos, Jr., and McDonough prove nothing, except by the one, that his firm did not authorize any one, and by the other that they were authorized in 1872 by the bank to make the plates, and they have got the plates now. The character and intent of the agency of Ceballos\u2019 firm is not disclosed by the testimony, and therefore the Court cannot assume that his firm\u2019s agency extended to the authorization of any person for the making of such plates. The whole of his testimony may very well be true, and yet neither he or his firm, have had the shadow of authority to have authorized the making of the plates.\nIV. The first count of the indictment under which defendant was convicted is fatally defective in not charging an intent to de-: fraud some individual or corporation.\nThe averment to defraud some person or corporation was an essential and necessary one, and in fact the very essence of the crime.\nAt common law an indictment for forgery, or uttering forged instruments, must charge the offense to have been done with the intent to defraud some particular person or corporation. See Russ. Crimes, 6th ed. 361-367. Under the Revised Statutes an indictment was fatally defective if it did not aver an intent to injure or defraud some person or body corporate. People v. Stearns, 21 Wend. 409.\nThe court below erred in supposing that this point could not be entertained by them, for the reason that no motion on arrest of judgment was made upon that point, and the defendant consequently by his own act deprived himself of the right afterwards to complain. That the indictment was defective for the want of an averment of an intent to defraud, was conceded.\n' ' In treating of appeals to the Supreme Court, section 527, Code of Criminal Procedure, was enacted to clothe the Supreme Court (General Term) with full power to review the whole case, and do substantial justice, regardless of the fact as to whether the prisoner\u2019s counsel through ignorance, inadvertence, or mistake failed to protect his legal rights. And this section has been construed by the Court of Appeals in Hovey v. People, 1 N. Y. Crim. Rep. 283 ; People v. Boas, Id. 287.\nThis court can see, that the motion in arrest of judgment and motion for a new trial were made formally and together, and that the motion in arrest of judgment could not have been connfied to exceptions taken upon the trial and to the Judge\u2019s charge, as section 497, Code Crim. Pro., clearly confines such motions to defects in the indictment solely. See sections 467, 469, 323, subd. 4, Code Crim. Proc.\nThe point was overruled in the court below, upon the want of power to entertain, although conceding the point to have been well taken, and the defect complained \"of fatal to the sustaining of the verdict. The case of Sanabria v. People, supra, holds that such an \"objection might be taken after verdict and judgment.\nThere was no proof of the intent on the part of the defendant to defraud.\nThe plates in this case were not completed or finished; no impression of any promissory note could have been taken from them. Ho evidence has been adduced to show that any injury had or could have been done to anybody, from those plates, in their then condition. If the statute means anything, it means the engraving, &c. of a plate,, not a partial plate. Defendant might have commenced these plates in good faith, and having proceeded with them .to their present condition, stopped his work for further evidence of the lawfulness of his labor. A thousand conjectures may be made in favor of his innocence; not one of his guilt. Guilt may be proven directly or indirectly, but it must be proven. Cunningham v. People, 4 Hun, 456; People v. Shall, 9 Cow. 778; People v. Fitch, 1 Wend. 198; People v. Wilson, 6 Johns. 320; People v. Stearns, 21 Wend. 409 ; People v. Harrison, 8 Barb. 560; People v. Cady, 6 Hill, 491; People v. Gardiner, 62 N. Y. 304; 1 Bishop Cr. Law (7th Ed.) \u00a7\u00a7 287, 301, 304; 2 Russ. Crimes (9th Ed.) 774 ; 2 Archb. Crim. Pr. and Pl. (8th Ed.) 1566, Pomeroy\u2019s Notes ; Keer v. Force, 3 Cranch C. Ct. 43 ; State v. Ridstrake, 39 N. J. L. 365 ; State v. Shulters, 51 Vt. 105; Phillips v. State, 17 Geo. 461; Com. v. Ladd, 15 Mass. 526 ; Rex v. Morton, 7 Carr. & P. 549 ; Rex v. Holden, 2 Taunt. 334; Reg. v. Cohen, 8 Cox Cr. Cas. 150 ; Reg. v. Allday, 8 Carr. & P. 160; Harris v. People, 9 Barb. 664; People v. Curling, 1 Johns. 320.\nPeter B. Olney, district attorney (Jno. Vincent, assistant), for the people, respondent.\nAs the opinion of the Court of Appeals covers the points decided at the General Term the opinion of the latter is not given."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 291,
+  "last_page_order": 302
+}

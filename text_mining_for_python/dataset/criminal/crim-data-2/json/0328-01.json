@@ -1,0 +1,158 @@
+{
+  "id": 1167698,
+  "name": "PEOPLE v. DURRIN",
+  "name_abbreviation": "People v. Durrin",
+  "decision_date": "1884-10",
+  "docket_number": "",
+  "first_page": "328",
+  "last_page": "335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 18658,
+    "name": "New York Court of Oyer and Terminer, Warren County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "70 Mo. 355",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8851759
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/70/0355-01"
+      ]
+    },
+    {
+      "cite": "81 N. Y. 532",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175354
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/81/0532-01"
+      ]
+    },
+    {
+      "cite": "6 Baxt. 338",
+      "category": "reporters:state",
+      "reporter": "Baxt.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Ark. 524",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1900487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/38/0524-01"
+      ]
+    },
+    {
+      "cite": "27 N. Y. 329",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2035352
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/27/0329-01"
+      ]
+    },
+    {
+      "cite": "12 Cal. 294",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Cow. 655",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 How. Pr. 383",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2196823
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/10/0383-01"
+      ]
+    },
+    {
+      "cite": "36 Barb. 628",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2430687
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/36/0628-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 575,
+    "char_count": 14649,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 2.9876198283442354e-07,
+      "percentile": 0.8514689466451519
+    },
+    "sha256": "7d15f6f21214baa4bed567567cd889bc310469189bbb73ea5c8dc91ede7835b9",
+    "simhash": "1:b2ba47a33008ae54",
+    "word_count": 2614
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. DURRIN."
+    ],
+    "opinions": [
+      {
+        "text": "Potter, J.\nThe defendant was indicted for the crime of bigamy at a term of this court held in Warren county on September 13, 1883. The indictment charges that the defendant on February 25, 1869, married Mary Wallace, and that on July 7, 1877, he married Eunice T. Tuesdale, and that the said Mary Wallace to whom he was first married, was alive on said July 7, 1877.\nTo this indictment the defendant demurred upon the ground that the indictment contained matter which, if true, would constitute a -legal bar to the prosecution, in this: that^it charged the said crime of bigamy to have been committed on July 27, 1877, and it shows the said indictment to have been found on September 13, 1883, a period of more than five years after the alleged crime was committed. The first question is whether the defense of the statute of limitations to the crime charged in this indictment, can be presented by way of a demurrer. I may say at the outset that the authorities upon this question are by no means numerous, and those to be found in the states where the question had been raised, are not uniform.\nIt will not be questioned that under the Code of Civil Procedure, as well as under the system of pleading which prevailed before the adoption of that Code, a defendant could not demur to the complaint, upon the ground that the statute of limitations had run upon the demand, where such fact appeared upon the face of the complaint. The Objection that the cause of action-was barred by the statute of limitations, must be raised by answer. Sands v. St. John, 36 Barb. 628, and the cases referred to in the opinion in that case.\nIt was also held in numerous cases that by both systems of pleadings in civil actions, it was not proper to allege in a complaint any facts to avoid the statute of limitations\u2014such as that the defendant has not resided in the state within six years before the commencement of the action. Lefferts v. Hollister, 10 How. Pr. 383; Butler v. Mason, 16 Id. 546. The object and purpose of pleadings in civil and criminal actions are substantially- the same. They are to produce material issues of fact or of law, and to provide the most convenient and approved modes of trying the issues. While the rules are not always the same in civil as in criminal actions, yet, where a cause of action and \u00e1 criminal offense are or may be barred by a statute of limitations and the operation of the statute of limitations is avoided in both cases by the same fact or condition, I apprehend, the rule or modes of pleading such fact or condition should be substantially the same. 1 Bish. Crim. Pro. \u00a7 321.\nThis, no doubt, is the general rule ; but at the same time it is subject to exception or modification by any well considered precedent to the contrary, by a court of the same state as that in which the question may subsequently arise, or the appositeness of the matter to the allegations of the complaint and indictment, or by the completeness of the analogy between the matters, which avoids the operation of the defense in a civil or criminal action.\nThe operation of the statute of limitations in this state is suspended in both civil and criminal actions by the absence of the- defendant from the state. In civil actions we have seen that the statute of limitations cannot be presented by demurrer but must be by answer, and that it is not correct pleading to allege in the complaint the matter which would suspend the operation of that statute. Lefferts v. Hollister supra ; Butler v. Mason, supra. Accordingly, we do not find a criminal case in this state, in which a demurrer to an indictment, showing that the period of limitation had expired after the time of the commission of the crime, and before the finding and filing of the indictment for such crime.\nThe case of People v. Roe, 5 Parker, 231, was a case where it appeared upon the face of the indictment that the offense was committed some twelv\u00e9 years before the indictment therefor was found, and the defendant interposed a plea of the statute of limitations.\nIn People v. Van Stanvoord, 9 Cow. 655, the indictment charged that the crime was committed more than three years before the indictment was found. The defendant pleaded not guilty, and upon a trial was convicted notwithstanding the statute of limitations upon a motion in arrest upon the ground that the statute had run against the offense, as appeared from the record, the conviction was sustained.\nThe court held that the day laid in the indictment must be regarded as immaterial for all purposes, and that it was tp be intended after conviction that the offense found upon the trial was within the three years.\nIf a motion in arrest of a judgment showing upon its face that the statute of limitations had run upon the offense when the indictment was found, would not avail to reverse the conviction, how should a demurrer to an indictment alleging the offense to have been committed more than the period of limitation, defeat the prosecution ?\nThe time alleged is not material and the prosecution would be allowed to depart from the time alleged and prove the time of the commission of the offense was within the period of limitation. As was said by the court in 9 Cow. supra, after conviction it would be intended that the offense proved was within the then three years, so Kin case of a demurrer where the time alleged is without the period, the prosecution will be allowed to prove the offense was committed within the time. Pursuing the same line of reasoning, it has been held that a motion to quash an indictment, upon the ground that its allegations showed the offense was committed without the period of limitations, would be denied. United States v. Cook, 17 Wallace, 179. The reason assigned for such holding is that \u201c such a proceeding would deprive the prosecutor of the right to reply or give evidence that the defendant fled from justice and was within the exception or suspension of the statute.\nA demurrer upon that ground to such an indictment is subject to the same objection for it would practically hold the prosecutor to a time which is immaterial, and always variable by proof.\nBishop in his work upon criminal proceedings, at section 741, says, \u00a3 But this plea, demurrer, is not very frequently resorted to in practice, since the defendant may take advantage of the same exceptions after a conviction, by motion in arrest of judgment.\u201d But it has been held in People v. Van Santvoord that a motion in arrest of judgment upon that ground appearing in the record will not avail to reverse the conviction.\nhTor can the indictment in this case be brought within the principle applicable to a class of offenses which are so defined by the statute that an exception forms a part of the indictment or is so incorporated into the clause of the statute in relation to the offense as to form a part of the crime.\nIn such case the pleader should set out the offense and the exception, affirming the offense and negativing the exception.\nBut if the language of the statute defining the offense is so distinct from the exception as to be in separate or subsequent statutes, or that in stating or describing the offense, no statement or preference to the exception is necessary or proper, the indictment may omit such exception or any reference to it. United States v. Cook, supra.\nI am not inclined to the opinion that the statute of limitations is of the nature or character of an exception as exceptions are treated and discussed in pleadings.\nBut if the statute of limitations was of that nature, it is not mentioned in the enactment or clause of the statute in relation to the crime of bigamy, nor in any manner referred to in that statute.\nThe enactment of the statute in relation to bigamy was along time before the present statute of limitations, and has been substantially re-enacted since the statute of limitations. The statute of limitations applicable to the offense in this case was not only enacted at a different time, but is contained in a different statute, from a statute in relation to bigamy, and is applicable not alone to the crime of bigamy, but is applicable to all offenses save murder and a few offenses for which special limitations are provided. Code Crim. Pro. \u00a7 142.\nMy conclusion is that by the decisions of this state, as well as by the decisions of the U. S. Supreme Court (17 Wallace, supra), and by the text writers (Ball on Lim. 209-216; Bishop's Crim. Pro. 2nd ed. \u00a7\u00a7 465, 632, 638, 639 and 743 ; Wharton Am. Crim. Law, 4th ed. \u00a7 445), a demurrer upon the ground of the statute of limitations is not a proper plea.\nIt is true as before stated that the decisions in some of the other states are in conflict with the rule which I think prevails in this state and in the U. S. Supreme Court. Among such decisions will be found, State v. Ryan, 10 Louisiana, 435; People v. Miller, 12 Cal. 294; McLane v. State, 4 Georgia, 340.\nThe only remaining question is whether the Code of Criminal Procedure or Penal Code has changed the rule, or the conclusion I have reached. As before remarked, these two Codes are in different statutes, and were passed by the legislature at different times. The definition of the crime charged in the indictment by the former statute is the same or substantially the same as in the Penal Code.\nHas the Code of Criminal Procedure changed the rule of pleading, or does the due administration of criminal justice or the rights and the protection of persons charged with the commission of crime require a different rule or practice than prevailed under the former law %\nAs we have seen from precedents in this and other states, the defense of the statute of limitations could be presented by a special plea in bar (5 Parker, supra), or such defense can be well made under the plea of not guilty. 17 Wallace, supra; People v. Van Santvoord, 9 Cow. opinion of Judge Spencer, 660 ; Code Crim. Pro. \u00a7 339. By this section all matters of fact tending to establish a defense, except a former judgment of conviction or acquittal of the crime charged, may be given in evidence under the plea of not guilty. Indeed, these are the only special pleas now allowed to an indictment.\nThere would now be no propriety in a special plea of the statute of limitations for the reason that such defense can be proved under the general issue of not guilty, and there is no reply allowed to the prosecution. Hence no more definite or pointed issue of fact to the statute of limitations could be formed than results from the plea of not guilty, and the evidence that may be given under it, in relation to such defense.\nBy section 323, Code of Criminal Procedure, the defendant may demur to the indictment upon the several grounds specified in that section. The ground presented by the demurrer in this case is, that the indictment contains matter, which if true, constitutes a legal bar to the prosecution. The indictment in effect charges that the defendant committed the crime of bigamy on July 27,1877. By section 143 Code of Criminal Procedure, it is provided that no time during which the defendant is not an inhabitant of or usually resident within the state is a part of the limitation.\nHow the indictment is entirely silent upon the subject of residence within or without the state.\nThe defendant may or may not have been an inhabitant, or a usual resident within the state for a day after the commission of the crime. If he was not, the statute has not run against the prosecution of the crime, and the defendant has no defense upon that ground.\nIt is essential to the running of the statute that the defendant should have been within the state.\nWhether he was within or without the state does not appear from the indictment and hence it cannot be claimed that the indictment contains matter which is a legal bar. All the matters contained in the indictment may be true and yet not be a legal bar for the reason that the defendant has not been within the state since the crime was committed. Hence the indictment does not contain matter which, if true, would constitute a legal bar to the prosecution.\nIn order to be a bar, the defendant must have been within the state for the period of the limitation and that fact does not appear upon the face of the indictment.\nThe demurrer must be overruled, but the defendant is allowed to plead, or in default of so doing, a plea of not guilty to be entered for him.\nNote.\u2014In Fleming v. People, 27 N. Y. 329, it was held that an indictment for bigamy need not negative the exceptions of the statute, although they are referred to in the section defining the offense, and that as a matter of pleading as well as of proof it lies upon the defendant to bring himself within the exceptions.\nAn indictment which shows that the offense was committed beyond the period of the statutory bar is good on demurrer. Gill v. State, 38 Ark. 524.\nIn Tennessee it has been held that the indictment should show some time within the statute of limitations. State v. Gibbs, 6 Baxt. 338.\nIt is not necessary that the exception be contained in the enacting clause; if it constitute a part of the definition of the offense. Territory v. Scott, 2 Dak. T. 212.\nSee Harris v. White, 81 N. Y. 532. Such negative averments should be set forth, even though the burden of proving that negative may be on the defendant. State v. Meek, 70 Mo. 355 ; 35 Amer. Rep. 427.",
+        "type": "majority",
+        "author": "Potter, J."
+      }
+    ],
+    "attorneys": [
+      "J. M. Whitman, attorney, for Henry Durrin, defendant.",
+      "H. A. Howard, district attorney, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Oyer and Terminer\u2014Warren County.\nOctober, 1884.\nPEOPLE v. DURRIN.\nPlea op Statute of Limitations not to be raised by DEMURRER.\nA demurrer cannot be interposed upon the ground that it appears by the indictment that the prosecution is barred by the statute of limitations.\nThe indictment in this case showed that the offense was committed more than five years before it was found and filed. It was silent as to the presence in or absence of the defendant from, the state, during the time between the commission of the offense and the time when it was \u2022found. Defendant demurred upon the ground (Code Grim. Pro. \u00a7 323, subd. 5) that the indictment contained matter which if true would constitute a legal bar to the prosecution. Held, that such an indictment was good. The statute of limitations is not of the nature or character of an exception which forms part of the offense, and it need not be set out and negatived in the indictment.\nThe defense of the statute of limitations cannot be set up by special plea, under the Code of Criminal Procedure, but may be proved under the general issue of not guilty.\nDemurrer to an indictment.\nThe facts appear in the opinion.\nJ. M. Whitman, attorney, for Henry Durrin, defendant.\nH. A. Howard, district attorney, for the people."
+  },
+  "file_name": "0328-01",
+  "first_page_order": 352,
+  "last_page_order": 359
+}

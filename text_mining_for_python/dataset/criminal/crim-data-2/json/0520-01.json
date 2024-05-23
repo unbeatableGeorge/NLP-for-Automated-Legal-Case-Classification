@@ -1,0 +1,148 @@
+{
+  "id": 1167728,
+  "name": "PEOPLE v. THOMPSON",
+  "name_abbreviation": "People v. Thompson",
+  "decision_date": "1884-10",
+  "docket_number": "",
+  "first_page": "520",
+  "last_page": "528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 520"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "56 N. Y. 591",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519290
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0591-01"
+      ]
+    },
+    {
+      "cite": "108 Mass. 488",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2106112
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/108/0488-01"
+      ]
+    },
+    {
+      "cite": "95 N. Y. 545",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 N. Y. Crim. Rep. 171",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167688
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/2/0171-01"
+      ]
+    },
+    {
+      "cite": "1 Park. Cr. 198",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "case_ids": [
+        11258908
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/park-crim-rep/1/0198-01"
+      ]
+    },
+    {
+      "cite": "12 Ga. 293",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        589427
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/12/0293-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. 427",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1933949
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/2/0427-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 786,
+    "char_count": 17698,
+    "ocr_confidence": 0.58,
+    "pagerank": {
+      "raw": 2.928230521833211e-07,
+      "percentile": 0.847150162036474
+    },
+    "sha256": "63e06b1071af144d1197535eb8d022d13b466bfd35265050d8cf7f3137ee16ee",
+    "simhash": "1:b6a1d068c806d4c9",
+    "word_count": 3180
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur."
+    ],
+    "parties": [
+      "PEOPLE v. THOMPSON."
+    ],
+    "opinions": [
+      {
+        "text": "Earle, J.\nThe indictment against the defendant was framed and the crime charged, under section 558 of the Penal Code. That section, leaving out what- is now immaterial, provides as follows: \u201c A person who knowing the contents thereof, and with intent by means thereof to extort or gain any money or other property . . . sends . . . any letter or writing threatening (1) to accuse any person of a crime ... or (4) to expose or impute to any person any deformity or disgrace, is punishable by imprisonment for not more than five years.\u201d And section 561, of the same chapter, provides that' \u201cit is immaterial whether a threat made as specified in this chapter is of things to be done or omitted by the offender, or by any other person.\u201d To make out the crime specified in section 558, it is not needful for the prosecution to show that the threat was against the person to whom the letter was sent or addressed, or that the writer or sender of the letter was the one threatening to do the wrongful act. The crime may be committed by one who sends a letter conveying a threat of some other person to do the forbidden acts, provided he sends the letter for the unlawful purpose mentioned in the act. Nor is it needful, to constitute the crime, that the threat should inspire fear, or, as claimed by the learned counsel for the defendant, that it should be calculated to produce terror. If the threat be of the kind mentioned in the statute, and be made or conveyed with the view and intent mentioned, the crime has been committed, however far the threat may have fallen short of its purpose. It would be quite foreign and immaterial for the court or jury to enter upon an inquiry as to the probable force or power of the threats. The statute defines the crime in plain language, and there is no occasion for limitations or qualifications which are not there found. The statute cannot be evaded under the guise of friendship. No precise words are needed to convey a threat. It may be done by innuendo or suggestion. To ascertain whether a letter conveys a threat, all its language, together with the circumstances under which it was written, and the relations between the parties, may be considered, and if it can be found that the purport and natural effect of the letter is to convey a threat, then the mere form of words is unimportant. Here the defendant had been concerned in the prosecution of Julian Winnnie, before the justice. The letters purported to have been written from the office of the district attorney, and he had previously said to Cornelius Winnie that he was deputy district attorney. He represents the danger of some movement to indict his son as imminent, and that he has it in his power to arrest the movement, and that the plan suggested will save him and his folks \u201c some trouble and expense, as well as the stink, and show that a friend in the right place is worth something sometimes.\u201d Taking the whole letter, the inference is quite strong, if not irresistible, that either he or some one else had some intention of renewing the prosecution against the son by appearing before the grand jury. Unless the letters mean that, they had no purpose whatever. It was upon that ground that the money was requested. The letters are fairly susceptible of the construction that they conveyed a threat that either he or some one else would proceed to procure an indictment against the son, and thus accuse him of crime, and expose him and his relatives to disgrace. The trial judge, therefore, did not err in submitting the letters to the jury, for them to determine their meaning and effect. It matters not that the son had been dis \u2022 charged upon the examination before the justice, as that discharge was no bar to a subsequent indictment and conviction for the crime charged, and certainly no bar to a subsequent accusation of the same crime. Nor does it matter, that in fact no person was proceeding or threatening to indict the son, and that all the pretenses in that respect were in fact false. It is sufficient that the letters on their face convey the threat. There was no error in receiving in evidence and submitting to the jury certain conversations had between the defendant and Cornelius Winnie prior to the sending of the letters, in which he made statements similar to those contained in the letters, and requested money to stop proceedings which he claimed were imminent to indict the son. These conversations were material and proper, as bearing upon the criminal intent of the defendant in writing the letters.\nThe judgment should therefore be affirmed.\nAll concur.",
+        "type": "majority",
+        "author": "Earle, J."
+      }
+    ],
+    "attorneys": [
+      "Lynes & Pierce, and James A. Lynes, for the prisoner appellant.",
+      "Clarence L. Barber, district attorney, for the people respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nOctober, 1884.\nPEOPLE v. THOMPSON.\nBlackmail\u2014what constitutes.\u2014Theeatening Lettees\u2014what CONSTITUTES THBEAT.-EVIDENCE.-INTENT\nTo show the crime specified in \u00a7 558 Penal Code, in relation to the sending of letters with intent to extort money, etc., it is not. needful to prove that the threat was against the person to whom the letter was sent or addressed, or that the writer or sender of the letter was the one threatening to do the wrongful act.\nNor is it needful that the threat should inspire fear or be calculated to produce terror. The probable force or power of the threat is immaterial.\nNo precise words are needed to convey a threat. It may be done by innuendo or suggestion. To ascertain whether a letter conveys a threat, all its language together with the circumstances under which it was written, and the relations between the parties, may be considered, and if it can be found that the purpose and natural effect of the letter is to convey a threat, the mere form of words is unimportant.\nIn this case, defendant, a lawyer, had been engaged in the prosecution of Julian Winnie, a son of complainant, before a justice of the peace, on a criminal charge, and thereafter he sent to complainant letters, purporting to be written from the district-attorney\u2019s office, he having previously said to complainant that he was deputy district attorney, in which letters,under the guise of friendship,he represented as imminent the danger of some movement to indict the son, and that he (defendant) had it in his power to arrest the movement,and that the plan suggested would save complainant and his folks \u201csome trouble and expense as well as the stink, and show that a friend in the right place is worth something some times.\u201d The whole letter contained an inference that either defendant or some-one else had some intention of renewing the prosecution against the son by appearing before the grand jury, and upon that ground money was requested.\nHeld, that the trial judge properly submitted the letters to the jury to determine their meaning and effect;\nThat it was immaterial that the son was discharged before the justice that being no bar to an indictment and conviction, and certainly not to an accusation of the same crime;\nThat it was immaterial that all the pretenses as to the probable prosecution of the son were false, it being enough that the letters on their face conveyed the threat;\nThat evidence of conversations between defendant and complainant prior to sending the letters, in which conversations defendant made similar statements and a like request for money to stop proceedings, was competent to characterize the criminal intent of defendant in sending .the letters in question.\nAppeal by defendant Julius A. Thompson, from a judgment of the General Term of the Supreme Court affirming a judgment of conviction for blackmail.\nThe defendant was indicted at the Oyer and Terminer of Otsego county, September 15, 1883, for the crime of blackmailing, and he was tried and convicted in the Otsego Sessions before Hon. Samuel A. Bowen, County Judge, with associates, and a jury, and sentenced to the state prison at Auburn for one year. The crime was alleged to have been committed by means of two letters written and sent by the defendant to Cornelius Winnie of which the following are copies :\n\u201c Office of Dist. Att\u2019y Otsego Co.,\nE. M. Townsend, Dist. Att\u2019y.\nCoopebstown, N. Y., May 6, 1883.\n\u201c Friend Winnie :\u2014\n\u201c I had a long talk with District Attorney Townsend to-day, and gave him the full particulars about Jule\u2019s case. He asked me what I thought about the matter; I told him I did not think he could be indicted. He said he would not issue any subpoena in the case. So you need not give yourself any trouble in the matter. I have it killed thus far. If there should be any further move made, I can kill it, as Leslie E. Ferry and J. Stanley Brown of Schenevus are grand jurors from Maryland, and I can kill anything that comes before the jury with those men on the jury.\n\u201c P. S. You told Hull you would give a note of $50 to kill the thing, and said you would give as much or more to stop it before it went before the jury as you would after it went. I think it is a good deal better to stop it here ; then there will certainly be twenty four men less to know it than' there would be if it went before the jury. I want to make Townsend a nice present. If you will send me $75, or a note, of that amount payable in three months, it would be very acceptable. If you think that is too much, send what you think is right, as I want to do something nice for Townsend, as I may have some other things of the same nature at some other time. At all events this will save you and your folks some trouble and expense as well as the stink, and show that a friend in the right place is worth something sometimes.\n\u201c Resp\u2019t yours,\nJulius A. Thompson.\u201d\n\u201c Office of Dist. Att\u2019y Otsego Co.,\nE. M. Townsend, Dist. Att\u2019y.\nCoopebstown, N. Y!, June 8, 1883.\n\u201c Friend Winnie :\u2014\n\u201c I wrote you just before the session of the Supreme Court, the talk I had with Townsend, and he did not issue any subpoena against Jule. There is a court here this month, but no grand jury, and. there will not be but one more grand jury before Jule\u2019s case will outlaw. I thought when I saw you that there was no grand jury until September after the May term, but on looking at the terms of the court I find there is a grand jury in August, and that is the only one; so if he gets through that all right, then there can be nothing done against him after that. So I will look sharp after the matter and advise you if anything is likely to be done in relation to the matter. I should have written you before, but I have been at Binghamton attending court and had no time. Got home last night, so take the first opportunity to write you.\n\u201c P. S. My compliments to your family.\n\u201c ftesp\u2019t. yours,\nJulius A. Thompson.\u201d\nUpon the trial it was admitted by the defendant that there was no complaint before the district attorney against the person named in the letters, and that the district attorney knew nothing about the matter, and never was in any way connected with the defendant, and it was proved that Jule mentioned in letters was Julian Winnie, who in September, 1878, had been arrested for a criminal offense upon a warrant issued by a justice of the peace, and after examination had been discharged, and that upon that examination the defendant, who is an attorney at law, appeared for the complainant.\nThe trial judge, against defendant\u2019s objection, admitted evidence that in April or May, 1883, defendant represented to Cornelius Winnie, the father of Julian Winnie, that he was the deputy district attorney; that a complaint against the son of said Cornelius Winnie was awaiting action in the district attorney\u2019s hands; and that he could suppress it. The father replied that if he would do so, he would remember him. Defendant asked, \u201c How much ?\u201d The father replied, \u201c What is necessary,\u201d or gave an evasive answer. Defendant said he would consult with the district attorney and then write, and thereafter wrote the above letters.\nLynes & Pierce, and James A. Lynes, for the prisoner appellant.\nI. Section 558 of the Penal Code, entitled \u201c Blackmail,\u201d is substantially a re-enactment of the old statute entitled an \u201c attempt to rob,\u201d which reads as follows : \u201c Every person who shall knowingly send or deliver, or shall make for the purpose of being delivered or sent, or shall part with the possession of any letter or writing with or without any name subscribed thereto, or signed with a fictitious name, or with any letter, mark or other designation, threatening therein to accuse any person of any crime, or to do any injury to the person or property of any one, with a view or intent to extort or gain any money or property of any description belonging to another, shall upon conviction be adjudged guilty of an attempt to rob, and shall be punished by imprisonment in a State prison not exceeding five years. 3 R. S. 1 ed. page 2494, \u00a7 58. The Penal Code has changed the name, but not the substance. The essential element in the crime of robbery was, and still is, force or fear of immediate injury. Barber\u2019s Cr. Treatise, 134; People v. Griffin, 2 Barb. 427; 2 City Hall Rec. 31 ; 6 Id. 86. The threat to constitute the offense must be calculated to produce terror. 1 Wharton Cr. Law, \u00a7 851, 8 ed.; Lang v. State, 12 Ga. 293. To constitute the offense, the menace or threat must be of a character to produce in a reasonable man some degree of alarm or bodily fear, and such alarm must be of a nature and extent to unsettle the mind upon which it operates, and take away that free voluntary action which constitutes consent. Reg. v. Walton, 9 Cox C. C. 268 ; R. v. Hendy, 4 Cox C. C. 243; 1 Wharton Cr. Law, \u00a7 851, note; 2 Id. \u00a7 1664; Regina v. Norton, 8 Carr. & Payne, 671; S. C., 34 Eng. Com. Law, 577; People v. McDaniel, 1 Park. Cr. 198. The section under which this indictment is found is under the title \u201c Extortion and oppression,\u201d and extortion is defined in \u00a7 552 as obtaining property from another by a wrongful use of force or fear. Webster defines \u201c oppression\u201d as the act of oppressing; the imposition of unreasonable burdens, sufferings, sacrifices, cruelty, severity. \u201c The state of being oppressed and burdened; misery.\u201d The words extort or gain \u201d are used in \u00a7 558; so they were used in the old statute of an attempt to rob. A threat is defined by Webster to be \u201c a declaration of an intention or determination to inflict punishment, loss or pain on another.\u201d \u201c To hold up to as a terror the expectation of evil; to alarm with the promise of evil.\u201d\nThe letters put in evidence in this case do not contain any threat calculated to cause such fear or terror, as the law contemplates, to make the writing of them a crime under this statute.\nII. There was no threat to accuse of crime in the letter. It appears that Julian Winnie had not only been accused of the crime nearly five years before, but had actually been arrested for the commission of the crime, and after a public examination had escaped and ran away. It is respectfully submitted that the threat to accuse of crime contemplated by the statute is to accuse for the first time, and before it is known to others, and that the fear of exposure and publicity would cause the accused to pay money, or have a tendency to do so in order to prevent the accusation.\nIII. The court erred in allowing the witness Winnie to state conversations prior to the writing of the letters, to show the intent and motive with which the letters were written. Wharton Cr. Ev. \u00a7 620 ; 1 Moody Crown C. 134; 3 Cox C. C. 547.\nClarence L. Barber, district attorney, for the people respondent.\nThe language used in the letters is not as direct as could be employed, nor could one expect it to be in such a mission; but the plain intent and meaning seem to be as follows : \u201c Unless you send me $75, your son will be indicted, and you and your folks involved in trouble and expense.\u201d But if the letter does not necessarily support this construction, it at least is ambiguous and so raises a question for the jury.\n\u201c Whether or not the letter amounts to a threat to kill or murder, etc., within the words of the statute, is a question for the jury.\u201d Roscoe's Cr. Ev. 953. \u201c Where the meaning is ambiguous, it is for the jury to say whether it amounts to the accusation or threat imputed. Id. 955. \u201c Ambiguous language may be explained, and the jury are to find its true meaning.\u201d 2 Bish. Cro. Pro. 3d ed. \u00a7 1029, 2 Whar. Cr. Law, 8th ed., \u00a7 1665.\nComplainants\u2019 son not only could be prosecuted before the grand jury, but proceedings could be instituted before the same or another justice de novo. \u201c An indictment is an accusation in writing presented by a grand jury to a competent court, charging a person with a crime.\u201d Code Crim. Pro. \u00a7 254; People v. Irving, 2 N. Y. Crim. Rep. 171; 95 N. Y. 545. As to what constitutes a threat, see Commonwealth v. Dorus, 108 Mass. 488 ; cited Waterman\u2019s Dig. 586; Roscoe\u2019s Cr. Ev. 953 ; R. v. Girdwood, 1 Leach, 142; 2 East P. C. 1121; R. v. Abgood, 2 C. & P. 436 ; 12 E. C. L. R.\nThere is no merit in the point that it was simply an offer to prevent an indictment, for defendant knew that no indictment was contemplated. Section 561, which provides that \u201c it is immaterial whether a threat made as specified in this chapter is of things to be done or omitted by the offender, or by any other person.\u201d Whether the son was guilty of any crime or not, is immaterial. \u201c If the threat is to accuse of crime, and the object is to extort money, it is immaterial whether the person threatened is guilty or not, for in either case there is an attempt to prevent justice.\u201d 2 Bish. Cr. Law, 7th ed. \u00a7 1201; Roscoe\u2019s Cr. Ev. 956. \u201c To prove the intent and meaning, other instances of like threats from the defendant to the same person, or confessions of them, may be shown.\u201d 2 Bish. Cr. Pro. 3d ed. \u00a7 1029 ; Roscoe\u2019s Cr. Ev. 98 ; Wharton\u2019s Cr. Ev. \u00a7 46; Copperman v. People, 56 N. Y. 591; Miller v. Barker, 66 Id. 568."
+  },
+  "file_name": "0520-01",
+  "first_page_order": 544,
+  "last_page_order": 552
+}

@@ -1,0 +1,292 @@
+{
+  "id": 1164425,
+  "name": "PEOPLE ex rel. SHERWIN v. MEAD",
+  "name_abbreviation": "People ex rel. Sherwin v. Mead",
+  "decision_date": "1883-05",
+  "docket_number": "",
+  "first_page": "417",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "88 N. Y. 627",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 L. 1872",
+      "category": "reporters:state",
+      "reporter": "Lans. Ch.",
+      "pin_cites": [
+        {
+          "page": "p. 728, \u00a7 25"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Hun, 90",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 N. Y. 544",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Barb. 144",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8592618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0144-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 509",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0509-01"
+      ]
+    },
+    {
+      "cite": "2 Hun, 6",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "pin_cites": [
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 How. Pr. 415",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        4540031
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/62/0415-01"
+      ]
+    },
+    {
+      "cite": "10 Abb. N. C. 192",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        626246
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/10/0192-01"
+      ]
+    },
+    {
+      "cite": "27 Hun, 469",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hun, 268",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Barb. 89",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2244859
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/49/0089-01"
+      ]
+    },
+    {
+      "cite": "64 Ill. 205",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 N. Y. 239",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Ind. 298",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1426108
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/46/0298-01"
+      ]
+    },
+    {
+      "cite": "12 Cush. 321",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. 290",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6773448
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/2/0289-01"
+      ]
+    },
+    {
+      "cite": "3 Abb. Pr. 211",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4571357
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/3/0211-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 158",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "77 N. Y. 39",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        542922
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/77/0039-01"
+      ]
+    },
+    {
+      "cite": "3 B. 8",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 L. 1847",
+      "category": "reporters:state",
+      "reporter": "Lans. Ch.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "p. 444"
+        },
+        {
+          "page": "p. 444"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Barb. 92",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 N. Y. 39",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        542922
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/77/0039-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 719,
+    "char_count": 17403,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 2.451903469500641e-07,
+      "percentile": 0.8041401255439989
+    },
+    "sha256": "83dae5aa99a603f15bbf504df0feaf0c26b6b0976d220f9380675f1bc3ef491a",
+    "simhash": "1:2497bcdbad152e60",
+    "word_count": 3068
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE ex rel. SHERWIN v. MEAD."
+    ],
+    "opinions": [
+      {
+        "text": "Finch, J.\nThe application for the relator\u2019s discharge from arrest was properly denied.\n1. The statement of the offense charged contained in the warrant was sufficient. That commanded the officer to \u201c take Frank It. Sherwin, who stands indicted in the Court of Sessions of the County of Albany for contempt.\u201d It was issued after indictment found (2 R. S. p. 728, \u00a7 55), and by the district attorney, who was duly authorized to issue it (2 Laws of 1847, p. 444); and sufficiently specified the offense charged in the .indictment. That was for \u201c contempt.\u201d While it is true that an act or omission may be in the nature of a contempt and properly described as such, without constituting a crime, yet it is also true that a contempt may be such as to fall within the criminal law and subject the offender to indictment. The statement in the warrant was of a contempt which had already served as the basis of an indictment and necessarily implied a willful contempt, and of a character which constituted a misdemeanor. The person arrested could not be misled by it, and was fairly apprised of the nature of the pending accusation. A warrant issued after indictment found may briefly state the offense, and need not be more precise and accurate than is sufficient to apprise the prisoner of the charge against him. Pratt v. Bogardus, 49 Barb. 92. The Code of Criminal Procedure does not apply (\u00a7 962); nor is this a case of commitment for contempt within 2. R. S. 567, \u00a7 40.\n2. It was not necessary to the validity of the indictment that the accused should first have been adjudged in contempt by the court whose process he disobeyed. The two proceedings are wholly independent of each other. One who disobeys the lawful order of a court not only offends against the dignity of the particular tribunal, but also against the public law. The particular court may pass over the contempt and suffer its order to be spurned, but the offense against the People remains. Their authority * has been contemned, the administration of public justice assailed, and its power despised.- For such an offense the guilty party may be punished by indictment, although the court, whose order has been disobeyed, may take the indignity in silence. The statute has made such disobedience, when willful in its character, an offense against the people, and not left it dependent upon the action or non-action of the specific judge or court. The statute contemplates that both remedies or either may be pursued. If the court has first moved and proceeded against the offender by attachment and inflicted punishment, he may nevertheless be indicted for the same wrong, but in that event the sentence is to be affected by the previous punishment. 3 R. S. [6th ed.] p. 442, \u00a7 14. We have considered the argument very elaborately stated, founded upon the phrase in the criminal statute, \u201c every person who shall be guilty of a criminal contempt,\u201d and construing the word \u201cguilty\u201d to mean adjudged guilty by the court whose process has been disobeyed, without being convinced by it. We have no doubt that the language means guilty in fact of the willful disobedience which constitutes a criminal contempt, although not so adjudged by the court whose process has been disregarded.\n3. It is said the offense was not committed in the county of Albany. The relator was served with a subpoena requiring him to appear before the court of Oyer and Terminer at Albany. He did not so appear. The disobedience and the contempt were there and could be nowhere else. The order, if obeyed, was to be obeyed in Albany, and, if disobeyed, could only be disobeyed there. The witness was called in Albany and omitted to appear and answer in Albany. We have no doubt that the offense for which he was indicted was committed there; if, indeed, it shall be shown upon the trial that any offense was committed at all.\n4. There was no error in refusing to take bail when the application was made. At that time the Albany Oyer and Terminer was in session, and in such case the Justice of the Supreme Court to whom the application was made in Eew York had no power to let the prisoner to bail. 2 R. S. 728, \u00a7\u00a7, 56, 57. The Albany Oyer and Terminer had authority to try the prisoner although the indictment was found in the Com-t of Sessions. 2 R. R. 205, \u00a7\u00a7 29, 30. The -very object of bail is to cover an interval before the session of the next court at which the trial can be had. It takes the place of the imprisonment during such interval. When, therefore, there is no such interval, and the court being in session the presence of the prisoner is due at once, there is no necessary occasion or proper cause for bail, unless by the court sitting, and the statute therefore devised the authority in such event to any tribunal except the court in session, before which the indictment was triable. People v. Clews, 77 N. Y. 39. There is no difficulty in harmonizing the provisions of title 2 and title 4. The first relates to arrest before indictment found, and the last to the indictment and proceedings thereafter. The whole subject was considered in the Clews case, and its argument does not need to be repeated.\nSome other objections have been considered but do not require discussion.\nThe order of the General Term should be affirmed, and it should be \u201c ordered and adjudged that said Frank E. Sherwin, appear at the next General Term of the Supreme Court, to be held in the first judicial department, on the .first day of said General Term, at the opening of said General Term, or as soon thereafter as counsel can be heard, and on such other days or times as may be fixed by it, and abide by and perform its judgment or order in the premises.\u201d\nAll concur.",
+        "type": "majority",
+        "author": "Finch, J."
+      }
+    ],
+    "attorneys": [
+      "Tremaine & Tyler, attorneys, William M. Evarts and Henry E. Tremaine, of counsel for relator, appellant.",
+      "D. Cady Herrick, district attorney, and Nathaniel C. Moak, of counsel, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nMay, 1883.\nPEOPLE ex rel. SHERWIN v. MEAD.\nBench Warrant\u2014Statement of Offense\u2014By whom issued, Code Criminal Procedure, \u00a7 301.\u2014Criminal Contempt.\u2014-Nature of Offense.\u2014Where deemed COMMITTED.-INDICTMENT.-\u2014-WHERE TRIABLE. \u2014Bail after Indictment.\nA warrant issued for the apprehension of one after indictment found against him, may briefly state the offense, and need not be more precise and accurate than is sufficient to apprise the prisoner of the offense with which he is charged.\nAccordingly, where, upon an indictment for criminal contempt committed in 1874, a bench warrant was issued in 188\u20182, reciting that the party to be arrested thereunder \u201c stands indicted in, etc., . . for contempt,\u201d and stating the circumstances thereof,\u2014Held, a sufficient statement of the offense.\nThe district attorney in the county where the aforesaid indictment was found, is authorized to issue such a warrant by 2 L. 1847, p. 444.\nThe provisions of the Code of Criminal Procedure -do not apply to 'such a warrant issued under an indictment found prior to the enactment of said Code.\nAn arrest under a warrant issued upon an indictment for criminal coatempt, is not a case of commitment for contempt within 3 B. 8. 567, \u00a7 40.\nIt is not necessary to the validity of an indictment for criminal contempt in willfully disobeying the subpoena of a court, that the accused should first have been adjudged guilty of contempt by the court whose process he disobeyed. The two proceedings are wholly independent of each other, except that if the offended court has inflicted punishment it is to be taken into consideration in the sentence in the criminal proceeding. 3 E. 8. 443, \u00a7 14.\nThe language of the Criminal statute (3 B. 8. 693, \u00a7 14), \u201c every person who shall be guilty of a criminal contempt,\u201d means guilty in fact of the willful disobedience which constitutes the criminal contempt, although not so adjudged by the court whose process has been disregarded.\nWhere the offense consists of the willful disobedience of a subpoena issued by a court of Albany county, which subpoena is served upon the accused in New York county, an offense is committed in the former county, and is punishable as a criminal offense by the courts therein.\nThe object of admitting to bail a prisoner held upon a bench warrant issued after indictment, is to cover an interval before the session of the next court at which the trial can be had.\nAn indictment found in the Court of Sessions is, under 3 B. 8. 305, \u00a7\u00a7 29, 30, triable in Oyer and Terminer of the same county. Accordingly, where the prisoner was held upon such a warrant to answer an indictment found in the Court of Sessions of Albany county, 1874,\u2014Held, that a judge of the - Supreme Court in New York city, where the prisoner was arrested, could not admit the prisoner to bail, the Oyer and Terminer of Albany county being in session when application therefor was made. People v. Clews, 77 N. Y. 39, followed.\nAppeal by the relator- from an order of the General Term, First Department, \u25a0 May, 1882, affirming an order made by Donohue, J., March 1, 1882, in New York city, refusing the relator\u2019s discharge from arrest on a bench warrant, either absolutely or upon bail, dismissing the writ of habeas corpus, and also remanding the relator to the custody of Michael L. Mead, the respondent, under the original warrant.\nThe relator was arrested in New York city by the respondent, February 4, 1882, and on the same day obtained a writ of habeas corpus, to which the respondent made return as follows: \u201c I have arrested and hold the prisoner pursuant to a warrant, of which the within annexed is a copy of such warrant, and only upon such warrant.\u201d This was an ordinary bench warrant, issued by the district attorney of Albany county, against the relator, and recited that he \u201c stands indicted in the Court of Sessions of the county of Albany for contempt,\u201d and commanded the officers to whom it is directed, of whom the respondent is one, to arrest the relator, and bring him before the said court at the City Hall, etc., if in session, and if not, to deliver him to the keeper of the common jail. The indictment was found in June, 1874, in the Court of Sessions of Albany county, and set out that in May, 1874, a subpoena was served, in Hew York city, upon the relator, requiring him to appear and testify before the Court of Oyer and Terminer, at Albany, in a certain case, at a specified time, and that he did not so appear, but unlawfully and willfully disobeyed said subpoena, in contempt of the court aforesaid, and against the peace and dignity of the people, etc. The indictment did not allege that the relator had been adjudged guilty of contempt by the Court of Oyer and Terminer, nor was such the fact. The petition for the writ of habeas corpus did not allege that the Court of Sessions and the Oyer and Terminer in Albany county were not in session, and upon the hearing of the return thereto, where the relator sought, with other relief, to be let to bail, it appeared that the Oyer and Terminer of said county was at that time in session. It was conceded that said indictment had not been sent by the Court of Sessions to the Oyer and Terminer for trial.\nTremaine & Tyler, attorneys, William M. Evarts and Henry E. Tremaine, of counsel for relator, appellant.\nThe law under which the relator was indicted is as follows : Every person who shall be guilty of any criminal contempt, enumerated in the second title of the third chapter of the third part of the Revised Statutes, shall be liable to indictment therefor as a misdemeanor,\u201d etc. 3 R. S. 693, \u00a7 14. The reference made is to the following : 3 R. S. 278, \u00a7 10. \u201cEvery court of record shall have power to convict, as for a criminal contempt, persons guilty of either of the following acts, and no others. ... 3. Willful disobedience of any process or order lawfully issued or made by it.\u201d The following provision also is made: Section 15. \u201c Persons punished for contempt under the preceding provisions, shall, notwithstanding, be liable to indictment for such contempt, if the same be an indictable offense ; but the court before which a conviction shall be had on such an indictment, shall, in forming its sentence, take into consideration the punishment before inflicted.\u201d These laws contemplate the following line of procedure : 1. A judgment of guilty by the offended court; 2, punishment of the contempt; 3, indictment by the grand jury; 4, trial, and the consideration by the court of the former punishment.\nEvery man is assumed innocent until he is adjudged guilty, therefore, one who \u201c is guilty \u201d of criminal contempt, and \u201cliable\u201d to indictment, must have been adjudged guilty by the offended court, and this must appear as a jurisdictional fact to entitle another court to act. The jurisdiction to commit for contempt is carefully and jealously watched, and exercised with the greatest anxiety. In re Clements, 36 L. T. R. N. S. 332; Kilburn v. Thompson, 13 Otto, 168.\nThe contempt in this case being constructive and unknown to the common law, the statutes for its punishment must be construed in favor of the liberty of the citizen, and that the omission complained of has been actually passed on and declared a contempt by the offended court, is a jurisdictional fact, where another court assumes to act.\nA part of the description of the offense is that the offended court has declared the omission inexcusable, for until a witness not attending under a subpoena shall have been brought before the court or magistrate issuing it to make his excuse, under his commmon law right, he is liable only civilly. The omission of this essential allegation in the indictment is not cured by the use of the word \u201c willfully.\u201d\nTo acquire jurisdiction of the person in a proceeding for contempt, there must be the presence of the defendant in court, voluntarily or by attachment (People v. Nevins, 1 Hill, 158), and relator\u2019s delinquency may be converted into a contempt cognizable by the Albany grand jury, only when, being present before the subpoena court by attachment or otherwise, he fails satisfactorily to account for his absence. An essential fact necessary to sustain the jurisdiction of any court in Albany county, is a physical act performed in said county, or an act which competent authority has by legal construction held to have been deemed performed therein.\nNo disobedience is punishable as a contempt, if capable of a construction consistent with innocence of any intentional disrespect of the court (Weeks v. Smith, 3 Abb. Pr. 211), and until the accused has had an opportunity to make that explanation to the offended court, he cannot be apprehended on that \u2022 charge for any other purpose. As illustrating this principle, see People v. Few, 2 Johns. 290 ; People v. Van Wyck, 2 Caines, 334; Reg. v. Russell, 7 Dowl. 693; Clarke\u2019s Case, 12 Cush. 321; 2 Bish. Cr. L. \u00a7 268 ; Wharton's Cr. Pl. & Ev. \u00a7 968 (8 ed.); Wharton Ev. \u00a7 383, 350 ; State v. Nixon, Wright (Ohio) 763; McConnnel v. State, 46 Ind. 298; Whittem v. State, 36 Id. 211; Pitt v. Davison, 37 N. Y. 239 ; People v. Wilson, 64 Ill. 205 ; Scholes v. Hilton, 10 M. & W. 15.\nThe warrant under which the relator is held is insufficient, as it does not describe the offense, otherwise than as a \u201c contempt; \u201d besides it does not contain the direction as to bail required by \u00a7 302, Code Grim. Pro. Enough should appear on the face of the warrant, to inform the accused of the special offense of which he stands charged. Pratt v. Bogardus, 49 Barb. 89.\nThe district attorney of Albany county in 1882, had no authority to issue the warrant for an alleged specific, unmentioned contempt committed in 1874, before some other court or officer. It is not a warrant wherein the contempt is specially and plainly charged by some court, officer or body having authority to commit therefor. The statute of 1847 is of doubtful constitutionality, in restraint of liberty, and must be strictly construed. A warrant under it must be attested as the act of the court, and this warrant has no such authentication. The warrant is to be strictly construed. People ex rel. Day v. Bergen, 6 Hun, 268.\nD. Cady Herrick, district attorney, and Nathaniel C. Moak, of counsel, for respondent.\nThe indictment having been found in 1874, the Code of Criminal Procedure does not apply. Code Crim. Pro. \u00a7 962; Willett v. People, 27 Hun, 469 ; People v. Sessions, 10 Abb. N. C. 192; 62 How. Pr. 415.\nThe Albany Oyer and Terminer having begun February 6, 1882, and continued until after the termination of the proceedings, had jurisdiction to try the indictment, though it was found in the Court of Sessions and had not been sent to the Oyer and Terminer. 2 R. S. 205, \u00a7\u00a7 29, 30; 2 Edw. Stat. 214; People v. Myers, 2 Hun, 6, 26; People v. Gay, 10 Wend. 509; People ex rel. Hasbrouck v. Gen. Sessions, 3 Barb. 144; People v. Quimbo Appo, 20 N. Y. 544.\nSaid court being in session and having jurisdiction to try relator, bail was properly refused. 2 R. S. 728, \u00a7 57; 2 Edm. Stat. 753; People v. Clews, 14 Hun, 90; 77 N. Y. 39; Babcock\u2019s Case, 2 Abb. Pr. N. S. 204.\nThe bench warrant was properly issued by the district attorney, 2 L. 1847, p. 444, to the respondent, an officer appointed by him. 1 L. 1872, p. 728, \u00a7 25.\nThe indictment charged an offense. 2 R. S. 278, \u00a7 10, subd. 3; 2 Edm. Stat. 288; 2 R. S. 952, \u00a7 14; 2 Edm. Stat. 715.\nIndictments for criminal contempts are entirely independent of the provisions of the statute for punishing civilly for the same contempt. 2 R. S. 278, \u00a7 15; 2 Edm. Stat. 289; Code Civ. Pro. \u00a7 13; People ex rel. Negus v. Dwyer, 2 Civ. Pro. Rep. 379; People ex rel. Society P. C. C. v. Gilmore, 88 N. Y. 627."
+  },
+  "file_name": "0417-01",
+  "first_page_order": 441,
+  "last_page_order": 448
+}

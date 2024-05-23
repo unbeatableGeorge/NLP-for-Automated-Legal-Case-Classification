@@ -1,0 +1,93 @@
+{
+  "id": 1167729,
+  "name": "PEOPLE v. RYLAND",
+  "name_abbreviation": "People v. Ryland",
+  "decision_date": "1884-10",
+  "docket_number": "",
+  "first_page": "441",
+  "last_page": "445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 123",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164423
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0123-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 233",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 N. Y. 413",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 434,
+    "char_count": 8764,
+    "ocr_confidence": 0.564,
+    "pagerank": {
+      "raw": 5.92547013231899e-08,
+      "percentile": 0.3700906886849388
+    },
+    "sha256": "4606371a73ebe3f354bbdc263582df5f6ea1e9333b1dc522dd5b399576670f84",
+    "simhash": "1:8e85a174689a2225",
+    "word_count": 1540
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur, except Bapallo, J., absent."
+    ],
+    "parties": [
+      "PEOPLE v. RYLAND."
+    ],
+    "opinions": [
+      {
+        "text": "Miller, J.\nThe prisoner, in conjunction with her husband and one Woodbury, was indicted for the crime of forgery in the third degree, and, being separately tried, was convicted of the offense. The evidence showed that all of the defendants combined and co-operated in the commission of the crime. At the close of the testimony counsel for the defendant requested the court to advise the jury to acquit the defendant on the ground that she was the wife of the co-defendant Edward 0. Ryland and was under the coercion, of her husband at the time when the offense was committed; that all that was done by her, viz: the delivery of the check to her husband and subsequently receiving a part of the proceeds of the forgery, was done in her husband\u2019s presence, and the presumption of law is that she acted under his control and direction. This was refused, and an exception was taken by the defendant\u2019s counsel to the decision of the court. The rule undoubtedly is that whatever of a criminal nature, the wife does in the presence of the husband, is presumed to be compelled by him. 1 Bish. Crim. Law, 7th ed. \u00a7 359. But this presumption is prima facie and not conclusive, and if it appears that she was not urged or drawn to the offense by him but was an inciter of it she is liable as well as he. Seiler v. People, 77 N. Y. 413; Goldstein v. People, 82 N. Y. 233.\nThere was no direct proof upon the trial that the defendant acted under the coercion of her husband in committing the offense; on the contrary the proof tended to show that she acted on her own responsibility and voluntarily incited and aided in the consummation of the crime. There is evidence showing that she first suggested to her husband and the accomplice the idea of obtaining the check; that she went out with her husband, and returned after an absence of four hours with a check for six dollars, which she had procured, and delivered the same to her husband and that the erasure on the cheek was made in her presence. This check was obtained upon representations by her that she wished to purchase the same because the post office was closed and she could not obtain an order there, and that she desired to send it that evening to her sister or mother in Philadelphia. This representation was utterly false, as the proof showed that the check was intended and used for another and a different purpose, and there is testimony tending to show she delivered it to her husband for the purpose of being altered. He was not present when she procured the check and it was proved that she subsequently received a considerable portion of the avails thereof as her share for her participation in the crime. There is no direct evidence that she acted under the influence of her husband or that he directly or otherwise compelled her to engage in the transaction. As the case stands it is not a legitimate inference that the husband directed her action and that she was coerced by him. The most that can be claimed, giving a construction to the evidence most favorable to the defendant, is that it was a question of fact for the jury. Ho requests were made to charge the jury in regard to it and the presumption is that it was fairly submitted to their consideration. We think there was no error committed in refusing the request considered.\nThere is no ground for the contention that the defendant merely delivered a valid check to her husband and thereby committed no unlawful act, as it was established beyond controversy that she was a pcirtioeps- criminis at the outset as well as in the final consummation of the crime. If the delivery of the check was an innocent act no reason exists why she should have received a large portion of the avails realized from it after it had been altered. They did not belong to her and she could only have received them as one of the instigators of the crime.\nThe position taken, that the defendant is not accountable for any act done by her husband in her presence and especially as the act consisted only in making erasures in the check which was not an offense against the statute, and as the offense consisted in changing the amount, is without merit. The offense of the defendant was her general participation in the transaction in originating, aiding and carrying out the plan by means of which the forgery was committed, and her presence, when a portion of the check was erased and, as subsequently appears, with knowledge of the purpose for which it was done, was an act toward the commission of the crime for which she was responsible if she acted without her husband\u2019s coercion. The erasures were preliminary to the subsequent alteration and it is to be presumed from the evidence that they were made for that purpose.\nWe think there was no error committed by the court in refusing to advise the jury to acquit the defendant on the ground that there was no evidence in the case tending to prove that she committed any unlawful act, except that given by Crawford, the accomplice, and he was not corroborated. The rule of the common law in regard to the corroboration of the testimony of an accomplice has been changed by the Code of Civil Procedure and it is provided by section 899, \u201c that a conviction cannot be had upon the testimony of an accomplice, unless he be corroborated by such other evidence as tends to connect the defendant with the commission of the crime.\u201d\nThere is certainly some testimony, as we have seen, which tends to connect the defendant with the forgery alleged in the indictment. Aside from the testimony of the accomplice, it was proved that the defendant originally applied for and obtained the check for six dollars, as already stated; that this check was altered by inserting another name as payee, and by raising the amount, and, as altered, the money was obtained on it. The defendant was thus placed in a position connecting her with the commission of the offense and was called upon to make an explanation of the facts. The circumstances were suspicious, and, unexplained it is fairly to be inferred that she w-as one of the originators of and connected with the forgery Taking these conceded facts in connection with the other proof showing her presence when the erasure was made and that she received a portion of the avails, it is manifest that the testimony tended to connect her with the offense and thus corroborated the evidence of the accomplice. The subject is fully considered in the opinion of the General Term by Davis, P. J., and further elaboration is not required.\nThere is no ground for claiming that the defendant should only be prosecuted as an accessory before the fact. She was a principal in the transaction, according to the evidence, from the very beginning, and as such was chargeable as the maker of the forged instrument.\nThe judgment should be affirmed.\nAll concur, except Bapallo, J., absent.",
+        "type": "majority",
+        "author": "Miller, J."
+      }
+    ],
+    "attorneys": [
+      "Peter Mitchell, for defendant, appellant.",
+      "Peter B. Olney (John Vincent, assistant), for the people respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nOctober, 1884.\nPEOPLE v. RYLAND.\n(Affirming 1 N. Y. Crim. Rep. 123.)\nWhen Coercion of Wife by Husband not Presumed.\u2014Eyi-\"' dence.\u2014Section 399, Code Criminal Procedure.\nThe presumption of law that whatever of a criminal nature a wife does in presence of her husband is compelled by him, is only prima fade, and where she is not urged or drawn to uhe offense by him, but is an inciter of it, she is liable therefor.\nDefendant by false statements and under a false name procured the check which was shortly afterwards presented, at a bank altered as to name of payee and raised as to amount, and paid. Held, that this was sufficient evidence tending to connect defendant with the commission of the forgery to corroborate further evidence of an accomplice-. (Code Crim. Proc. \u00a7 399). Also held, that her offense being general participation in the originating, aiding and carrying out the plan by which the forgery was committed, her presence when her husband erased a portion of the check, preliminary, to her knowledge, as must be presumed from the evidence, to the subsequent alterations made in the check, was a step toward the commission of the crime for which she was responsible unless she acted under her husband\u2019s coercion.\nFurther held, that upon the evidence, defendant was a principal, not an accessory before the fact, and was chargeable as maker of the forged instrument.\nAppeal by defendant Elsie Ryland from a judgment of the General Term in the First Department, June, 1883, affirming a judgment of the court of General Sessions of New York, Hon. Frederick Smyth, Recorder, presiding, of May 18, 1882, of conviction of forgery in the third degree.\nThe facts together with points of counsel are given upon the appeal to the General Term. 1 JV. T. Crim. Rep. 123.\nPeter Mitchell, for defendant, appellant.\nPeter B. Olney (John Vincent, assistant), for the people respondent."
+  },
+  "file_name": "0441-01",
+  "first_page_order": 465,
+  "last_page_order": 469
+}

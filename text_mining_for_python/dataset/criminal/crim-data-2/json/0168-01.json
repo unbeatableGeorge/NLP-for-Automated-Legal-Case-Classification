@@ -1,0 +1,117 @@
+{
+  "id": 1167691,
+  "name": "PEOPLE v. MASCHKE",
+  "name_abbreviation": "People v. Maschke",
+  "decision_date": "1884-03",
+  "docket_number": "",
+  "first_page": "168",
+  "last_page": "171",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 168"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Hill 281",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Barb. 607",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4875519
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/6/0607-01"
+      ]
+    },
+    {
+      "cite": "21 Howard, 80",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Johns. 119",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372251
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0119-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. 272",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11269711
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0272-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 361,
+    "char_count": 7550,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 3.2831842495511426e-07,
+      "percentile": 0.8708779932729669
+    },
+    "sha256": "bd75258a94628bf5406a28738d1913706ec24e53bf2bc363fb4c06442a738f3f",
+    "simhash": "1:bc8b70ba7733b112",
+    "word_count": 1307
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Davis, P. J., and Beady, J., concur."
+    ],
+    "parties": [
+      "PEOPLE v. MASCHKE."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe appellant was convicted in the court of Special Sessions of the misdemeanor of assault and battery upon John G. Griffith committed in said city, and upon his conviction for the misdemeanor aforesaid he was ordered and adjudged to be imprisoned in the penitentiary of the city of New York for the term of three months. The habeas corpus was issued for his discharge upon the ground that he was tried and convicted of an offense over Which the court of Special Sessions did not have jurisdiction, and while the offense for which the conviction was had is now by section 219 of the Penal Code designated an assault in the third degree, it still continues to be what was before the enactment of this Code known as an assault and battery. The argument that the assault may have been a felonious one and therefore not within the jurisdiction of the court before which the trial was had, is not supported by the record of the conviction. For by that it appears that the assault and battery of which he was convicted was a misdemeanor and that was equivalent to the assertion or statement that it was an assault in the third degree, and probably a mere statement of the fact that he had been convicted of an assault and battery without anything further, would be entitled to the same consideration and effect.\nCertainly where a conviction is drawn in question collaterally, as it has been by means of this writ of habeas corpus, that should be the construction adopted in support of the conviction.\nThe writ was properly dismissed, and the order should be affirmed.\nDavis, P. J., and Beady, J., concur.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "Howe & Hummel, for the prisoner, appellant.",
+      "Peter B. Olney, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First department.\nMarch, 1884.\nPEOPLE v. MASCHKE.\nEecobd of Conviction.\u2014Assault and Battery.\u2014Habeas Corpus.\u2014J urisdiction.\u2014Special Sessions.\nWhere the record of the conviction of a prisoner, in the Special Sessions of New York, shows that he was convicted of \u201c the misdemeanor of assault and-battery,\u201d where-the conviction is attacked collaterally on habeas corpus, it will be presumed that the offense referred to was what is now designated under the Penal Code, \u00a7 019, as assault in the third degree, of which offense the Special Sessions has jurisdiction.\nSemble, that had the offense been described simply as assault and battery, the result would be the same.\nThe appellant was convicted at a court of Special Sessions of the Peace of the city and county of Hew York, of assault and battery, and sentenced to three months in the penitentiary. On February 1, 1884, the appellant was produced in court, in obedience to a writ of habeas corpus, issued by Honorable George 0. Barrett. The return showed that the appellant was held by virtue of a commitment, adjudging the appellant to have been convicted of assault and battery. The discharge of the appellant was asked for on the ground\u20141. That the commitment does not show that the relator has been convicted of any offense known to the law. 2. That under section' 219 of the Penal Code there is no such offense as assault and battery.\nHr. Justice Barrett dismissed the writ, and remanded the prisoner.\nFrom this order the appeal is taken.\nHowe & Hummel, for the prisoner, appellant.\nI. The commitment shows that the appellant was convicted of an offense not known to the law. Chapter. Y. of the Penal Code divides all assaults into three degrees, and they are designated as assault in the first degree, assault in the second degree, assault in the third degree. Assault and battery is not mentioned. Pen. Code, \u00a7 219. Where one willfully and unlawfully shoots another with intent to kill, he commits an assault and battery. But could the court of Special Sessions try that case ? The same argument will apply to an assault with a deadly weapon with intent to injure. . The term \u201c assault and battery,\u201d therefore, is equally applicable to assault in the first and assault in the second degree.\n\u201cAssault and battery.\u201d It may be any of the three degrees of assault. If the-appellant had been tried before a jury, and the indictment charged assault in the first degree, .and the verdict of the jury should have been guilty of assault and battery, would not such a verdict be indefinite and uncertain % Could any judge pronounce a judgment upon it ?\nOur Code has divided larceny into two degrees. Suppose a jury should render a verdict adjudging a defendant guilty of larceny, could a court determine the punishment to be lawfully inflicted upon the prisoner ? If the degree must be stated in larceny, then why not in assault ?\nSection 10 of the Penal Code directs : \u201c Whenever a crime is distinguished into degrees, the jury, if they convict the prisoner, must find the degree of the crime of which he is guilty.\u201d This applies just as well to a conviction by the court of Special Sessions as to that of a jury.\nII. The commitment is void. The court of Special Sessions, being a court of limited jurisdiction, it must appear affirmatively, upon the record of conviction, that the court of Special Sessions had jurisdiction of the offense, and nothing can be taken by intendment, of their records and mandates. Hurd on Hab. Cor. 369; Ex-parte Gray v. Monroe General Sessions, 12 Wend. 272; People v. Abbot, 19 Id. 192; Washburn v. Overseers of Poor, 9 Johns. 119; People v. Youngs, 1 Caines, 37; People v. Justices of Sessions, 1 Johns: Cas. 179 ; Matter of Divine, 21 Howard, 80; Harrington v. People, 6 Barb. 607; Howell v. People, 2 Hill 281; 1 Smith\u2019s L. C. 5th ed. 816.\nThe court of Special Sessions has jurisdiction of assault in the third degree. How is this court informed that the court of Special Sessions had power to .try the crime of which the appellant was convicted % - Only by the commitment. Therefore, it must appear, affirmatively, by the record of conviction herein that the offense the appellant was convicted of, was one the court had jurisdiction of, and that the assault alleged against the relator was not such as specified in sections 217 and 218 of the Penal Code. The record must show this, because, if the assault is not an assault other than those mentioned in sections 217 and 218 of the Penal Code, the court of Special Sessions has no jurisdiction.\nPeter B. Olney, district attorney, for the people, respondent.\nThe order should be affirmed, because the appellant was properly convicted at the court of Special Sessions of assault in the third degree, and such conviction was sufficiently described as the misdemeanor of assault and battery.\nII. The court of Special Sessions of this city has power to try all complaints for misdemeanor. The offense charged here was a misdemeanor, and not a felony. Sec. 64, subd. 1, Code Crim. Proc.\nIII. All assaults and batteries, which are not felonious, \u2019 must be misdemeanors. Pen. Code, \u00a7 219.\nIY. The appellant should have appealed from the judgment of the court of Special Sessions, instead of obtaining the writ of habeas corpus herein, as a judge of the Supreme Court has no power on a writ of habeas corpus to review the trial of a criminal action had before a court of competent jurisdiction. The appellant had a trial in the court of Special Sessions, and was convicted of the offense charged. After such conviction, he should have appealed as required under section 749 of' the Code of Criminal Procedure. Section 749 provides that a judgment rendered by a court of Special Sessions may be reviewed by the court of Sessions of the county upon an appeal. Section 515 provides that in a criminal action the only mode of reviewing a judgment or order in a criminal action is by appeal."
+  },
+  "file_name": "0168-01",
+  "first_page_order": 192,
+  "last_page_order": 195
+}

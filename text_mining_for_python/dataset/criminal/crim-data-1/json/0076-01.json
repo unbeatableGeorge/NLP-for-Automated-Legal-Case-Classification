@@ -1,0 +1,248 @@
+{
+  "id": 1164466,
+  "name": "PEOPLE, ex rel. HENDERSON, v. THE JUSTICES OF THE COURT OF SPECIAL SESSIONS OF THE COUNTY OF NEW YORK",
+  "name_abbreviation": "People ex rel. Henderson v. Justices of the Court",
+  "decision_date": "1882-03",
+  "docket_number": "",
+  "first_page": "76",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 76"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "46 N. Y. 470",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052619
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0470-01"
+      ]
+    },
+    {
+      "cite": "1 Denio, 120",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483832
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0120-01"
+      ]
+    },
+    {
+      "cite": "6 Hun, 491",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns. 294",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376163
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0294-01"
+      ]
+    },
+    {
+      "cite": "39 N. Y. 459",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502210
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/39/0459-01"
+      ]
+    },
+    {
+      "cite": "8 Cow. 238",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2037428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/8/0238-01"
+      ]
+    },
+    {
+      "cite": "4 Leigh, 689",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6728745
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/31/1079-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. 375",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0383-01"
+      ]
+    },
+    {
+      "cite": "15 Serg. & R. 93",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1815514
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/15/0093-01"
+      ]
+    },
+    {
+      "cite": "6 Hun, 121",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hun, 509",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 N. Y. 394",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519140
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0394-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 61",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048089
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/43/0061-01"
+      ]
+    },
+    {
+      "cite": "1 W. 7",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "53 N. Y. 111",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512910
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/53/0111-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 394",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519140
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/56/0394-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 61",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048089
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/43/0061-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 714,
+    "char_count": 14977,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04286813632763918
+    },
+    "sha256": "af587927f61939abede7d03f3bc91f78baa121b6cefdcdb056df402a810f530b",
+    "simhash": "1:3188ed2d2b72a4fa",
+    "word_count": 2731
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE, ex rel. HENDERSON, v. THE JUSTICES OF THE COURT OF SPECIAL SESSIONS OF THE COUNTY OF NEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "Davis, P. J.\n\u2014The appellant was tried in the court of special sessions on the 16th of August last, upon a complaint preferred by one Robert Richardson, charging him with the larceny of a $20 gold piece. He was convicted and sentenced to the penitentiary for three months. The appellant was a saloon keeper, and it appears by the testimony that the complainant went into his saloon and called for some lager. The complainant states what then took place, as follows:\n\u201c I gave him a $20 gold piece, and hesaid he had no change; I told him to go out and get change; he went out and did not come back again.\n\u201c Q. How much did you owe him ?\n\u201c A. Twenty-five cents.\n\u201c Q. How much money did you give him ?\n\u201c A. A $20 gold piece.\n\u201c Q. You gave it to him for the purpose of changing it and he did not return.\n\u201cA. Yes, sir.\n\u201cQ. You claim, therefore, that he has taken that $20 from you?\n\u201cA. Yes, sir.\u201d\nOn cross-examination, he further testified as follows:\n\u201c Q. You gave this man the $20 in his place of business ?\n\u201cA/ Yes, sir.'\n\u201c Q. He told you he was going to get some change ?\n\u201cA. Yes, sir.\n\u201c Q. When did you next see him after you gave him the $20 and he left the store ?\n\u201c A. After five o\u2019clock.\n\u201c Q. How long was it after you gave him the money ?\n\u201c A. I gave it to him between one and two o\u2019clock, and I guess it was half past five o\u2019clock when I saw him again.\n\u201c Q. Where did you see him then ?\n\u201c A. I met him on the street.\n\u201c Q. How far from his place of business ?\n\u201c A. A block or two; I am not certain.\n\u201c Q. You then spoke to him about the money ?\n\u201c A. The detective who was with me did.\n\u201c Q. What did he say ?\n\u201c A. He said he wanted to play some kind of game.\u201d\nThe appellant was called as a witness, in his own behalf, and he testified that the complainant came into his place and had something to drink, amounting to twenty-five cents; that he had only \u00a714 in' change and told the complainant that, he had not enough to change the \u00a720 gold piece; the complainant said \u201c go out and get change and come back and give me my change; \u201d that he went up the Sixth avenue as far as Thirtieth street to get change, and there he \u201c played it,\u201d and lost the \u00a720, and had no intention, at the time he received the money, of cheating the complainant out of it. If the question presented by this case were a new one, we should have no hesitation in holding that the conviction was justified by the evidence ; for, it is clear that there was no intention on the part of the complainant, in handing the \u00a720 gold piece to be changed, to part with his property in it, but that he simply parted with the possession for the specific purpose of having it changed, so as to enable him to pay to the appellant twenty-five cents out of change, and that the appellant, having it for a specific purpose, and without property, his possession was, in law, the possession of the owner of the coin, and his subsequent act in gambling it away was such a conversion as ought, and in our opinion does, constitute the crime of larceny. But the case is precisely parallel in all its features to that of Reg. v. Thomas, 9 Carr, & Payne,741. In that case the prisoner took a sovereign to go out and get it changed, but never returned with it or the change. Coleridge, J., held that the prosecutor, having permitted the sovereign to be taken away for change, could never have expected to receive bade that specific coin; he had, therefore, divested himself, at the time, of the entire possession of the sovereign; consequently, there was not a sufficient trespass to constitute larceny.\nThe learned judge overlooked Ann Atkinson's case (Cas. Cro. Law, 241), in which it was held that, if one stole guineas delivered for the purpose of being changed into half guineas, it was larceny. That case is cited approvingly in Havikins'Pleas of the Crown (vol. 1, p. 210), and again in 2 Russell on Crimes, p. 21, in both of which authorities the following is laid down as the law in such cases: \u201c So, also, if a watchmaker steal a watch intrusted to him to clean, or if one steal clothes delivered for the purpose of being washed, or guineas delivered for the purpose of being changed into half guineas, or a watch delivered for the purpose of being pawned: in all these circumstances, the goods taken have been thought to remain in the possession of the' proprietor, and the taking of them away held to be felony.\u201d\nHawkins cites to each of these examples an authority on which it rests. But we are not at liberty to follow our own opinion of this case, because the court of appeals has distinctly recognized the case of Beg. v. Thomas as sound law. In Hildebrand v. People, 56 N. Y. 394, the facts were these: The prosecutor handed to the prisoner a $50 bill to take out ten cents, in payment for a glass of soda. The prisoner put down a few coppers upon the counter, and, when asked for the change, he took the prosecutor by the neck and shoved him out of doors, and kept the money. The question was, whether larceny could predicated upon these facts. The court of appeals, affirming the decision of this court, held that the prisoner was rightfully convicted. The prisoner relied upon the case of Reg. v. Thomas; and, after reciting the facts in that case, the court proceeded to distinguish it from the one then at bar by stating that in the Thomas case \u201call control, power and possession was parted with, and 'the prisoner was entrusted with the money and was not expected to return it. Here, as we have seen, the prosecutor retained the control, and legally, the possession and property. The line of distinction is a narrow one, but .it is substantial and sufficiently well defined.\u201d The learned chief judge had previously, in describing the transaction in Hildebrand\u2019s case, said as follows:\n\u201c But in this case I do not think the prosecutor should be deemed to have parted either with the possession of or property in the bill. It was an incomplete transaction, to be consummated in the presence and under the personal control of the prosecutor. There was no trust or confidence reposed in the prisoner, and never was intended to be. The delivery of the bill and the giving change were to be simultaneous acts, and until the latter was paid, the delivery was not -complete. The prosecutor laid his bill upon the counter, and impliedly told the prisoner he could have it on delivering to him the sum of $49.90. Until this was done, neither possession or property passed, and in the meantime the bill remained, in legal contemplation, under the control and in the possession of the prosecutor.\u201d\nThis opinion had the unanimous concurrence of the court.\nIn People v. McDonald, 43 N. Y. 61, the same learned judge said: \u201c If money or property is delivered by the owner to a person for mere custody, or for some specified purpose, the legal possession remains in the owner, and the criminal conversion of it by the custodian is larceny. A familiar illustration of this rule is the case of servants entrusted with the care of property belonging to their masters. In Smith v. People, 53 N. Y. 111, it was said by Allen, J., \u201cThe rule is that when the deli veiy 1 of goods is made for a single and specific purpose, the possession is still-supposed' to reside; not parted with, in the first proprietor.\u201d In Hildebrand\u2019s case the possession of the bill was delivered in the bar-room of the accused, for the purpose of being changed to take out the- sum of ten cents in payment for a glass of soda. The prisoner took and kept the bill and refused to deliver the change.\nIn this case the $26 go-id piece was delivered in the saloon for the purpose of being changed. The prisoner took the same for the purpose of getting it changed, went out to get the same with the consent of the complainant, but, instead of getting it changed, he went to a gambling place, and lost it in gambling. He had nothing but naked and manual possession for a specific purpose, totally without property.\nThe title to the coin remained in the complainant, and he could, at any moment, have recalled the possession before the coin was changed. If it had been taken from the possession of the prisoner by violence, the owner could have maintained trespass for injury to his property, and it would have been entirely proper, if the appellant had been robbed of the coin, to have averred, in an indictment for the robbery, the ownership in the complainant. The distinction in the cases is so extremely \u201cnarrow\u201d that we should have felt entirely justified in disregarding it, but for the fact that the court of appeals in Hildebrand \u2018v. People gave its sanction to the case of Beg. v. Thomas, and declared it to be sound law, thereby holding, in effect, that a conviction of larceny could not be sustained in a case like this.\nWe are constrained, therefore, to accept that decision as authority, and, consequently, the conviction must be reversed and the appellant discharged.\nBeady, J., concurs.",
+        "type": "majority",
+        "author": "Davis, P. J."
+      }
+    ],
+    "attorneys": [
+      "Wm. F. Kintzing and Maurice Meyer, for appellant.",
+      "John Vincent, assistant district attorney, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nMarch, 1882.\nPEOPLE, ex rel. HENDERSON, v. THE JUSTICES OF THE COURT OF SPECIAL SESSIONS OF THE COUNTY OF NEW YORK.\n(Reversed, 1 W. 7. Grim. Rep. 83.)\nLarceny.\u2014Conversion of Money by one to whom it is ENTRUSTED TO BE CHANGED.\nA\"saloon keeper received from, a customer a twenty-dollar gold piece, with a request to go out and get it changed. He took the gold piece out with him, but, instead of changing it, gambled it away. Held, that he was not guilty of larceny.\nWrit of certiorari to the Court of Special Sessions of the County of New York to review the conviction of the relator of larceny.\nHenry Henderson, the relator and appellant, was tried and convicted in the Court of Special Sessions, upon a charge of larceny under the circumstances set forth in the head-note (see the facts more fully in the following opinion of Davis, P. J.), and the conviction came to this court for review upon a writ of certiorari.\nWm. F. Kintzing and Maurice Meyer, for appellant.\nI. .The conviction was wrong, because the complainant voluntarily parted, not only with the possession, but with the property, and did not expect a return of the same property.\nIt was the change he expected back, and not the coin, and the change the accused could not steal from the complainant, because it had never come into his possession.\nThere being no trespass, there can be no larceny. See McDonald v. People, 43 N. Y. 61; Hildebrand v. People, 56 N. Y. 394 ; 1 Hawkins P. C. \u00a7 1, p. 208; 2 East P. C. \u00a7 116, ch. XV.; 2 Russell on Crimes, p. 35, 6 ed.; Reg. v. Middleton, 12 Cox Crim. Cas. 260.\nIt has been held not to be larceny if the owner of personal property intends to part with the property, and delivers possession absolutely, although he has been induced to part with it by fraudulent means. Hildebrand v. People, 56 N. Y. 394; Smith v. People, 53 Id. 111; McDonald v. People, 43 Id. 561; Kelly v. People, 6 Hun, 509; Wolfstein v. People, 6 Hun, 121; Rex v. Hunt, 8 Cox Crim. Cas. 495; Lewer v. Commonwealth, 15 Serg. & R. 93 ; Roscoe Crim. Ev. 7 ed. 626-636; Wharton's Am. Cr. Law, 5 rev. ed. 1780; Commonwealth v. James, 1 Pick. 375; 2 East P. C. 668; Blunt v. Commonwealth, 4 Leigh, 689; Reg. v. Thomas, 9 Carr, & P. 741; Rex v. Jackson, 1 Moody C. C. 119; Mowery v. Walsh, 8 Cow. 238 ; Reg. v. Barnes, 2 Den. C. C. 59 ; Reg. v. Adams, Russell & R. C. C. 225; Reg. v. Nicholson, 2 East P. C. 669, 2 Russell on Crimes, 35, 6 ed.; Archbold's Cr. Pl. 895.\nIn the Thomas case (Reg. v. Thomas) above cited, Thomas was trusted with a sovereign to get changed, and he went off with it. Coleridge, J., says (having conferred with Gurney, B.): \u201c It appears quite clear that the prosecution, having permitted the sovereign to be taken away for change, could never have expected to receive back that specific coin; he has, therefore, divested himself, at the time, of the entire possession of the sovereign ; consequently, I think there was not a sufficient trespass to constitute larceny.\u201d Reg v. Thomas, supra.\nIt has also been held that the intent to steal the goods and chattels must exist when it cometh to hands or possession. See Wilson v. People, 39 N. Y. 459 ; People v. Anderson, 14 Johns. 294; People v. Abrams, 6 Hun, 491; People v. Call, 1 Denio, 120; 3 Coke Inst. 107; 1 Leach, 411; Rex v. Leigh, 2 East P. C. 553 ; Rankin\u2019s case, Russ. & R. 44; 2 East P. C. 553; 1 Hale P. C. 504 ; 1 Hawkins P. C. ch. 33, \u00a7 2; 4 Blackstone Com. 232; Roscoe Crim. Ev. 553-541; Barbour Crim. Law, 153; Archbold Crim. Pleadings, 186-188 ; 2 Starkie Ev. 606.\nIn the Hildebrand case, the court of appeals declares that there is a distinction between a case where a party permits another to go out to get a coin changed out of his presence, and a case where a coin is thrown down on the counter to be changed under the personal supervision of the owner.\nIn the one case (as in case at bar) all control, power, and possession is parted with, and the prisoner is intrusted with the money, and is not expected to return it; and in the other, the prosecutor retains the control, and, legally, the possession and property. There is no trust or confidence reposed (not so in case at bar), and the money is to be changed in the immediate presence of the owner. An example of the latter class of cases is Reg. v. McKale, 11 Cox Crim. Cas. 32.\nThe court has well said there is a distinction; call it a \u201c narrow one,\u201d if you please. It is, nevertheless, \u201c substantial \u201d and \u201c well defined.\u201d\nIt is true that the decision in the Thomas case is only a nisi prius decision, and for that reason is not very authoritative, but for all that, the court of appeals, in the distinction wdiich it has drawn, has recognized its soundness. The case of Reg. v. McKale, 11, Cox Crim. Cases, 32, is a case worthy consideration. In that case the prosecutrix put down two shillings upon the counter, expecting to receive small change for it from the prisoner. There being several pieces on the counter, the prosecutrix took up a shilling of the prisoner\u2019s money, and a shilling of her own, which she did not discover until she was putting them in the drawer. A confederate just then attracted her attention and the prisoner passed out with the two shillings. It was held, upon full consideration, that the conviction for stealing the two shillings was right.\nWhile this decision could \"well be cited, and the principles therein declared invoked to sustain the conviction in the Hildebrand case, it is submitted that upon the facts it is not a parallel case with the one at bar.\nII. The judgment of the special sessions should be reversed. 2 Rev. Stat. \u00a7 24, p, 746 ; McCord v. People, 46 N. Y. 470.\nJohn Vincent, assistant district attorney, for respondents.\nI. The relator took the $20 gold coin animo furandi, and the judgment of the special sessions should be affirmed. Hildebrand v. People, 56 N. Y. 394; Loomis v. People, 67 Id. 326; 1 Hawkins P. C. 210; 2 Russell on Crimes, 21.\nHe had nothing but a naked possession for a specific purpose, totally without property."
+  },
+  "file_name": "0076-01",
+  "first_page_order": 100,
+  "last_page_order": 107
+}

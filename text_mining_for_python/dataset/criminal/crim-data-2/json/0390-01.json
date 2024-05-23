@@ -1,0 +1,116 @@
+{
+  "id": 1167673,
+  "name": "PEOPLE v. GRIMSHAW",
+  "name_abbreviation": "People v. Grimshaw",
+  "decision_date": "1884-09",
+  "docket_number": "",
+  "first_page": "390",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 390"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "61 Barb. 35",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2261590
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/61/0035-01"
+      ]
+    },
+    {
+      "cite": "21 N. Y. 578",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 N. Y. 117",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        521489
+      ],
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/59/0117-01"
+      ]
+    },
+    {
+      "cite": "61 Barb. 35",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2261590
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/61/0035-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 631,
+    "char_count": 18125,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 2.3421511238230786e-07,
+      "percentile": 0.7922892415735435
+    },
+    "sha256": "88be6c37152e2396fa036f4035d9031f8425c8081f1d0908482fbea2a6d3b007",
+    "simhash": "1:9a03efd1e6182543",
+    "word_count": 3192
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Davis, P. J., and Beady, J., concur."
+    ],
+    "parties": [
+      "PEOPLE v. GRIMSHAW."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe indictment charged the defendant with having feloniously, willfully, and knowingly sworn falsely by giving material evidence in an action brought by Fannie A. Devine against Thomas A. Devine for a limited divorce. The action was referred to a referee, who duly qualified as such, and administered an oath to this defendant as a witness upon the trial. \u00a1No further statement of the issues in the action was contained in the indictment, and it was objected to as being insufficient in this respect, and Gaston v. People, 61 Barb. 35, has been relied upon as sustaining this objection. But as the indictment in that case was in another respect materially defective, the decision may very well have secured the concurrence of the members of the court for a reversal, because of that defect, without any stress being placed upon the absence of the statement of the issue in the civil action. This case is also distinguishable from that by the fact that the nature and description of the action was sufficiently given to enable the defendant to understand the charge intended to be made against him. That conformed to the preceding rule required to be observed before the enactment of the Code of Criminal Procedure. For by that rule it was \u201csufficient to charge generally that the false oath was material on the trial of the issue upon which it was taken. It is not necessary to show particularly how it was material, and this is the case though the record does not itself show that the false oath was material.\u201d Wharton Crim. Law, 4th Ed. \u00a7 2263. And the substance of this rule has been embodied in the Code of Criminal Procedure prescribing the form and.contents of an indictment. For to comply with the law all that is required is that the indictment shall contain \u201c the name of the crime, if it have one, such as treason, murder, arson, manslaughter and the like, or if it be a misdemeanor having no general name, such as libel, assault or the like, insert a brief description of it, as it is given by the statute.\u201d Code Crim. Proc. \u00a7 276.\nThis indictment conformed to both of these requirements, for it not only stated the nature of the action in which the defendant was sworn, but, in addition thereto, that the inquiry made of him was a material one, and by falsely and knowingly giving his evidence he \u201c did commit willful and corrupt perjury.\u201d These allegations brought the case clearly within the Code of Criminal Procedure and also within section 96 of the Penal Code, by which the crime of perjury has been defined and declared.\nIt was charged in the indictment that the defendant committed perjury by knowingly and falsely giving the following evidence upon the trial of the issue before the referee: \u201c I (himself the said George Grimshaw thereby meaning) saw her (the said Fannie A. Devine thereby meaning) in Twelfth Street, Williamsburg (the said Williamsburg in the City of Brooklyn thereby meaning), on the ninth day of July, 1879, walking with a man side by side, and I (himself the said George Grimshaw thereby meaning) saw her (the said Fannie A. D'evin\u00e9 thereby meaning) go into a house with him in Twelfth Street, between South Third and South Fourth Streets ; I (himself the said Grimshaw thereby meaning) knew the reputation of the house; it (the said house thereby meaning) was a bed-house,' properly speaking; I (himself the said George Grimshaw thereby meaning) mean a house where men can take women for sexual intercourse; I (himself the said George Grimshaw thereby meaning) should judge they (the said Fannie A. Devine and the said man thereby meaning) remained there about an hour.\u201d And the proof given upon the trial established the fact that he did give that evidence before the referee. This, however, was objected to as insufficient to create the crime of perjury, for the reason that the man who was stated to have accompanied the plaintiff in the action, was not alleged, not to have been the plaintiff\u2019s husband. But this allegation was not essential for the purpose of setting forth that the crime of perjury had been committed. The pleadings in the action tried before the referee were produced and given in evidence upon the trial of the defendant, and one of the defenses contained in the answer of the defendant, in whose behalf the present defendant was sworn as a witness was the following: \u201c 3. That the defendant is informed and believes that the plaintiff has been guilty of gross and- immoral conduct; and that, on or about the ninth day of July, 1879, committed adultery with a man, whose name is unknown to defendant, at a house in Twelfth Street, in the City of Brooklyn, E. D.\u201d And this was a defense which the law allowed to be made to an action for a separation or limited divorce. For by section 1765 of the Code of Civil Procedure, the defendant in such an action has been permitted to set up by way of justification the misconduct of the plaintiff, and if such misconduct is established it entitled the defendant to judgment in his favor. And this branch of the answer set forth the commission of misconduct on the part of the wife, which, if it had been proven, would have justified her husband in abandoning her, as he is alleged to have done on or about the 18th of October 1880, when he discovered her guilt in that respect. And it was to establish that part of the issue in the action that this evidence was given. It was proven upon the trial that the defendant did given the testimony set forth as having been given by him in the indictment. And that tended to establish a material fact in the way of supporting and sustaining this defense. It was not necessary to render it material that it should also include the fact that the man stated to have been with the plaintiff in the action was not her husband. That was an important fact to complete the proof of the defense set forth in the answer, and without it, the defense itself could not have been made out. But it was still a material inquiry upon the trial whether the plaintiff did go into the house referred to in the indictment in company with a man. That was an important fact included within the limits of the defense set forth. If she did, then the case would clearly be ready for the further proof that the man accompanying her was not her husband, and both together would tend very decidedly to establish the defense. For this purpose each of the alleged facts was probably of equal importance. It was necessary that it should be shown that the plaintiff went into the house with a man, and also that the man with her was not her husband. Each included a material inquiry in the case, and evidence given to prove either of these facts would consequently be material to the issue. And as the defendant is shown to have given evidence directly tending to establish the existence of one of these facts, if that was wilfully false, he committed the crime of perjury in giving it, for it has been held, that \u201c if a person swears falsely in respect to any fact relevant to the issue being tried, then we think he is guilty of perjury, although the case failed from defect of proof of another fact, and although the other fact alleged had no existence.\u201d \u201c The evidence would be relevant to the cause and it does not lie with the perjurer to say that if he had sworn to the truth, the case for other reasons would have failed.\u201d Wood v. People, 59 N. Y. 117, 123.\nThe evidence given by the defendant related to an important fact directly within the issue and which was made to appear by the indictment to have been material upon the trial of the action in which the defendant gave his testimony.\nUpon the trial of the indictment two witnesses were examined on behalf of the prosecution who were familiar with the locality in which the house was situated, where it was stated by the evidence of the defendant, the plaintiff in the action against her husband was seen by him to have entered. These witnesses gave evidence very directly tending to establish the fact that no house of the character mentioned by the defendant in his evidence existed, or was to be found, in that locality. And that was probably as far as the prosecution could be expected to give evidence negativing the existence of a house of bad character, or bad repute, in the neighborhood. The evidence of the plaintiff herself upon the trial of the indictment, was direct and positive that she went into no house of the character of that stated by the defendant. That fully met the evidence given by him upon the trial of her action, and the further proof was produced to sustain the indictment that there was no such house as the defendant had stated she went into with the man, within the bounds mentioned by him in his testimony. And that seems to have been all that could reasonably be required to put him upon his defense. For what the law has exacted is not positive proof of the falsity of the evidence in addition to that given by the prosecuting witness, but that there should be additional evidence strongly corroborative of' that given by the accusing witness. 1 Greenleaf Evidence, 7th Ed. \u00a7 257; 3 lb. \u00a7 198 ; United States v. Wood, 14 Peters, 430, where the testimony of one witness corroborated by circumstances proved by other evidence was declared to be sufficient. This point was also considered in Woodbeck v. Keller, 6 Cowen, 118. That was an action of slander in which the defendant justified the speaking of the slanderous words, and it was held that it required the same measure of proof to sustain the defense as would be necessary to sustain an indictment for perjury, and that such measure would be supplied if the additional evidence was strongly corroborative of the testimony of the complaining witness.\nThe evidence given upon this trial was of that description, for it tended very directly to establish the fact that there was no house of assignation within the limits mentioned by the defendant in his evidence at the time referred to by him, or near that time, and if there was none then it is entirely certain that she could have gone into no such house as he described This evidence was sufficient to place him under the obligation of proving that there was such a house at that time in the locality, if it actually existed. If there was, it was a fact within his knowledge, and that of persons who were accessible to him, and his failure to produce any witness upon the trial to establish the truth of this part of his statement, tended materially to strengthen and confirm the evidence given by the witnesses sworn on the part of the prosecution. People v. Dyle, 21 N. Y. 578 ; Gordon v. People, 33 Id. 501; Bleeker v. Johnston, 69 Id. 309.\nIn the submission of the case to the jury, the court charged that as Mrs. Devine had been a witness on the trial of her action against her husband, that the evidence of the defendant was material in so far as it affected her credibility, and to that charge the defendant\u2019s counsel excepted. It is not necessary to consider this exception with any considerable degree of detail, for if the court was wrong in the direction so given, the error could not have prejudiced the defendant. For as the evidence was material to the issue in the action, that was all that could be required to sustain this part of the peojfie\u2019s case. And that it was so material has already been shown, and the fact that the court erroneously assigned to it a further material effect,' would not change the case, and could not have prejudiced the defendant upon the trial. The evidence he gave was directly material to the issue, for it tended to prove a fact essential to support it, and whatever else the court may have said upon the subject of its materiality, would impair no right whatever which the defendant could claim in the ease.\nThe defendant\u2019s counsel also requested the court to charge, \u201c 2d. That the jury must find not only that Mrs. Devine went into no house in Twelfth street, Williamsburg, between South Third and South Fourth streets, on the 9th July 1879, but that the prosecution has established that there was no house or place of assignation in said street between South Third and Fourth streets.\u201d This was refused and an exception taken to the refusal. But this exception is clearly of no advantage to the defendant. For if Mrs. Devine went into no house in Twelfth street, Williamsburg, between South Third and South Fourth streets, on the 9th of July, 1879, then the defendant swore falsely in his testimony, and he could be convicted under the indictment for that false statement, even if the prosecution did not establish that there was no house or place of assignation in Twelfth street, between South Third and Fourth streets That fact of itself presented a material inquiry in the case, and wilfully false testimony given to establish it by the defendant, would create the crime of perjury. The court in answer to a question by one of the jurors, stated that they were bound by the specific date of the 9th of July, 1879, upon the inquiry whether there was a house of assignation within the bounds mentioned in the indictment and the evidence given by the defendant. And to that direction an exception was taken by his counsel. But as the whole of the issue presented by the indictment and the evidence which the defendant gave upon the trial before the referee, and that presented by the defense in the civil action, confined the time to the date of the 9th of July, 1879, and no uncertainty was in any respect connected with either of the statements relating to it, the court rightly confined the investigation of the jury to the question whether on that date there was such a house within the prescribed locality. This was no disadvantage to the defendant, for if the prosecution failed to satisfy the jury that there was no such house there on that date then he was entitled to his acquittal. And as he had given his evidence concerning it positively as to the date, it was his right to have the range of inquiry by the jury restricted in this manner. No injury whatever resulted to the defendant from the denial of the motion to strike out the evidence relating to the fact that the defendant had falsely sworn that he had seen the plaintiff in company with a person not her husband in August 1880, even if such a motion could be regularly made after the proof had been received in the case. For the court had already decided that perjury could not be assigned upon that evidence, which as completely disposed of it as though it had been stricken out of the case.\nIn neither one of the respects to which exception has been taken in the case, does there appear to have been any error to the prejudice of the defendant upon the trial. The offense was sufficiently charged by the indictment and made out by the proof, and the judgment accordingly should be affirmed.\nDavis, P. J., and Beady, J., concur.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "Frank J. Keller, for the prisoner, appellant.",
+      "Peter B. Olney, district attorney, and John Vincent (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First Department.\nSeptember, 1884.\nPEOPLE v. GRIMSHAW.\nIndictment.\u2014Perjury.\u2014Evidence.\u2014Corroboration.\nAn indictment for perjury which charges that the false statements were made by defendant as a witness in a certain specified action brought \u201cfor a limited divorce,\" contains a sufficient statement of the issue involved in such action.\nGaston v. People, 61 Barb. 35 distinguished, and criticised.\nIt is sufficient under Code Grim. Proc. \u00a7 276, to charge in the indictment that the false oath was material on the trial of the issue on which it was taken, without showing particularly how it was material.\nIf a person swears falsely in respect to any fact relevant to the issue being tried, he is guilty of perjury, although the case fails from defect of proof of another fact, and although the other fact alleged had no existence.\nIn an action by the wife for a limited divorce, on the ground of abandonment, the husband, under Code Civ. Proc. \u00a7 1765, pleaded as matter of defense the adultery of the wife, committed at a certain time and place. The defendant in this action falsely testified, as a witness for the husband, that he had seen the wife, at said time and place, go with a man into a bed-house, or place where men can take women for sexual intercourse. Upon the trial of an indictment for perjury: Held, that said testimony related to a material question in the civil action, and was therefore perjury, and that the indictment setting it forth should be upheld, though it was not stated therein that the man in question was not the wife\u2019s husband.\nThe law does not exact positive proof of the falsity of the evidence claimed to be perjury, in addition to the testimony of the prosecuting witness, but there must be additional evidence strongly corroborative thereof.\nIn this case, the accusing witness denied that she had ever been in a house of ill-fame, as testified by defendant. The evidence of other witnesses tended strongly to show that there was no such house within the limits described by the defendant at the time referred to by him. Held, sufficient corroboration.\nThe whole of the issue presented by the indictment, the defense in the civil action and the prisoner\u2019s testimony therein, confined the time of the wife\u2019s visit to the bed-house to July 9, 1879. Held, that the court rightly confined the investigation of the jury to the question whether on that date there was such a house within the locality referred to.\nAppeal from judgment of the Court of Sessions of the county of \u00a1New York, convicting the defendant, George Grimshaw, of the crime of perjury.\nDefendant was indicted \u00a1M\u00a1ay 8, 1883, and interposed a demurrer to the indictment, which was overruled by Cowing, J. The indictment was subsequently tried, and defendant was convicted and sentenced to five years\u2019 imprisonment in the state prison.\nThe perjury consisted in the sworn statement of appellant, made December 26,1882, as a witness in the case of one Fanny A. Devine against Thomas A. Devine, in the Supreme Court, for a limited divorce.\nFurther facts appear in the opinion.\nFrank J. Keller, for the prisoner, appellant.\nPeter B. Olney, district attorney, and John Vincent (assistant), for the people, respondent."
+  },
+  "file_name": "0390-01",
+  "first_page_order": 414,
+  "last_page_order": 421
+}

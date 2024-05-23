@@ -1,0 +1,66 @@
+{
+  "id": 1164487,
+  "name": "PEOPLE v. MELIUS",
+  "name_abbreviation": "People v. Melius",
+  "decision_date": "1882-11",
+  "docket_number": "",
+  "first_page": "39",
+  "last_page": "42",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 39"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 9047,
+    "name": "New York Court of Oyer and Terminer"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 418,
+    "char_count": 7915,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 9.027250946333219e-08,
+      "percentile": 0.5039316964039217
+    },
+    "sha256": "09b02613e7322858661b70e14b8ac3542b178d69e67b6459da3ea4c9fc38edf0",
+    "simhash": "1:b8f11de2651fc9c2",
+    "word_count": 1393
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. MELIUS."
+    ],
+    "opinions": [
+      {
+        "text": "The charge to the jury was as follows:\nNoah Davis, J.\n-\u2014In this case there are some material and .important facts about which there is no controversy whatever. The train on which the person named in the indictment, Mr. Wagner, was riding at the time he was killed, was an express train of thirteen cars\u2014all, or nearly all, parlor cars\u2014containing a very large number of passengers; and it had, as it seems, but two brakemen and a conductor in general charge of the train. It was a little late, and had reached a point near Spuyten Duyvil and below the cut, where it was suddenly stopped: The cause of the stoppage was not material, especially to the issue here. It may have been caused by some wrong act of some one of the passengers ; and from what appears here, it probably was. If that person was upon trial here, then of course the cause of the stoppage would be inquired into. The loss of life was a result of that unlawful act, and the person should be liable for the consequences of his wrongful act. But that is not before us here. The train was stopped in a most dangerous place for a train to be delayed. It was stopped upon the track upon which there was following at some distance another train. The cause of the stoppage was of such a character that the train could not be readily started, and the persons who were on the train as passengers were therefore exposed to serious danger. The train being at a stop, certain duties were immediately devolved upon the conductor and the brakeman, and especially upon the rear brakeman. The duty was more or less imperative. If the written rules had forbid him to take any steps to warn the approaching train\u2014and yet it was his duty to do so\u2014 you all would say it was culpable negligence towards his passengers in not doing what was a necessity to save the lives of the passengers, The written or printed rules place the rear brakeman under the conductor\u2019s general direction, while they provide special duty which is to be performed, that nevertheless make him subject to the general control of the conductor. The rule does not provide that the conductor was to send the brakeman of the rear car. He may send any one if the. necessity exists. This must always be done; lie must send somebody by the rule; the conductor will be held strictly responsible for the prompt investigation of the stoppage. It was his duty to send somebody back, and if this had been done the accident would not have happened. The train stopped several hundred feet from the cut, and was immediately in the way of the approaching Tarrytown train. If the rules had been observed the train would have been stopped. If a man had been sent back,\u2014and there was plenty of time to do this,\u2014then the accident would have been avoided. Under the rule the rear brakeman is enjoined to go instantly at the time the train stops. The conductor has said that he had specially told the rear brakeman in this ease to go back immediately whenever, the train should stop. There was no necessity of the conductor going back and giving orders every time the danger arose; and when a stoppage occurred at this place it would be something that would be quite superfluous for the brakeman to wait for orders from the conductor. The brakeman had no right to say, I will take all the chances. His duty would be to seize his lights and immediately go back. With several hundred lives exposed, common sense would say that the first thing a man would do would be to go back to a point far enough to stop the downcoming train.\nOn the part of the defense it is claimed that the conductor, in March, 1881, gave the brakeman general instructions not to go from the train so far, without special direction, but that he conld catch it if it started on. Such instruction as that, if it were given, would have been in express violation of these rules. The question is therefore presented to you whether these instructions were given. The defendant\u2019s duty may be in some cases, as between himself and the company, controlled by written rules; but even where there are written rules, in such case, it would be, as between the employee and the company, his sufficient excuse for obeying them, although obedience to them was not a protection to the passengers; but when the question arises as to the obligation to perform a duty towards the passengers, and save their lives from exposure or danger, then, if the written rules were of a character which restrained him froth doing something which ought to have been done and is required by law to be done, the written rules would scarcely be protection when the people charged -him with culpable negligence. To make myself more clearly understood, if a written rule had forbidden him taking any steps to go back and signal the approaching train, it was still his obvious duty to to do so to save the lives of passengers, and the law would say it was culpable negligence not to do what -was an apparent necessity to save the lives of passengers. The law requires the exercise of that degree of care and vigilance which the character of the impending danger demands. A man\u2019s duty is always measured by that standard. If there be neglect of duty under circumstances where a jury can say such negligence was wrongful, to use the language of the statute, then it becomes a crime, if in consequence of that wrongful negligence some human being is killed.\nThe jury returned a verdict of not guilty.\nNote.\u2014In an important English case, decided in 1848, the court went even further than Judge Davis in this case, in holding an employee of a railroad company responsible for negligence.\nIn the case referred to (Reg. \u00ae. Pargeter), the defendant was tried upon an indictment for manslaughter by neglect to give a proper signal to denote the obstruction of a line of railway, whereby a collision took place and a passenger was killed. It was proved that the prisoner had other duties besides attending to the signals, some of .them being incompatible with his duty there. This was held to he no excuse for the defendant\u2019s failing to give the signal. Reg. v. Pargeter, 3 Cox Crim. Cas. 191.",
+        "type": "majority",
+        "author": "Noah Davis, J."
+      }
+    ],
+    "attorneys": [
+      "John McKeon, district attorney (John O'Byrne, assistant), for the prosecution.",
+      "Robert A. Livingston, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Oyer and Terminer, New York County.\nNovember, 1882.\nPEOPLE v. MELIUS.\nCulpable Negligence of Employee of Corporation.\u2014Obedience to Instructions.\nWhere the employee of a corporation is indicted for manslaughter by culpable negligence causing death, it is no excuse that his negligence arose from his obedience to the instructions of his official superior, \u25a0which were in violation of the rules of the corporation.\nSuch instructions cannot relieve him from the consequences of his nonperformance of his legal duty.\nThe lavr requires the exercise of that degree of care and vigilance which the character of an impending danger demands.\nThe defendant, George Melius, was tried upon an indictment charging him with manslaughter in the fourth degree in causing by his culpable negligence the death of Webster Wagner.\nThe defendant was rear brakeman of a tr\u00e1in of cars on the New York Central and Hudson River Railroad, in which the deceased Senator Wagner was a passenger.\nThrough the action of some of the passengers; the belLrope was pulled and the train stopped, just after passing the sharp curve known as Spuyten Duyvil cut.\nBy a printed rule of the railroad company, it was, under such circumstances, the duty of the defendant, as rear brakeman, to go immediately back and give warning to approaching trains.\nAlthough there was time, the defendant did not do this, and a collision was the result, causing the death of Senator Wagner and several others.\nThe defendant on the trial testified that he had been instructed by the conductor of the train, some months before, never. to go so far from the train that he could not catch it when it started.\nThis was denied by the conductor.\nJohn McKeon, district attorney (John O'Byrne, assistant), for the prosecution.\nRobert A. Livingston, for the defendant."
+  },
+  "file_name": "0039-01",
+  "first_page_order": 63,
+  "last_page_order": 66
+}

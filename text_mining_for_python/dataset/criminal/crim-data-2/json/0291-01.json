@@ -1,0 +1,96 @@
+{
+  "id": 1167693,
+  "name": "PEOPLE v. VAN VECHTEN",
+  "name_abbreviation": "People v. Van Vechten",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "291",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "14 N. Y. 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496028
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/14/0562-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 607",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4875519
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/6/0607-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 404,
+    "char_count": 8189,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 4.511020785166809e-08,
+      "percentile": 0.2826726577495445
+    },
+    "sha256": "3b337cd5a0ae0c81af557e7c38a6feb9a6be1b6cd84b5baca13a82c1ce8405ef",
+    "simhash": "1:a82e57a8ce0b14d4",
+    "word_count": 1399
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. VAN VECHTEN."
+    ],
+    "opinions": [
+      {
+        "text": "Potter, J.\nThe defendant, was a hotel-keeper, and upon \u00abthe night.of the occurrence complained of, was entertaining a company at a dance. The complainant attempted to open the door to enter defendant\u2019s house. According to the complainant\u2019s testimony and that of the witnesses for the prosecution, who saw the transaction, the defendant immediately seized the complainant by the whiskers and commenced beating him in the face, after making the remark \u201c if complainant comes into my house I ,will kill him.\u201d The defendant offered to show upon the trial that he had previously forbidden complainant to come into his house. Ho time when so forbidden is indicated by the question, or the circumstances under which he forbade him. This was offered with view of justifying the beating. I do not think it-shonld be .allowed to serve that purpose. Assuming he had forbidden him to .enter, I think when he attempted to enter or had entered, the defendant should have requested or have ordered him to'leave, and for a failure to comply the defendant might have lawfully used the necessary force to eject him or remove him from the premises. But the defendant made no such request or order, but seized him by the whiskers and struck him repeatedly in the face. It is not the reasonable or lawful way to remove a trespasser from one\u2019s premises, to seize him by the whiskers and keep him on the premises while the owner is striking the trespasser in the face. The purpose of the defendant to punish and not simply remove the trespasser is plain. The key to it is found in the defendant\u2019s expression, \u201c if complainant comes into my house I will kill him.\u201d The offer to prove by the defendant that complainant was drunk was properly overruled. If it were so, it has nothing to do with the justification, for that was not the objection to complainant\u2019s entry. Besides it would be going too far to allow any witness to express an opinion upon the subject or question of another\u2019s intoxication, until it had appeared by the witness\u2019 testimony, that he had made some observations in that direction or had any opportunity of doing so. Upon the whole, I do not believe the ends of public justice require or would justify a new trial.\nBoardman, J., wrote for affirmance.",
+        "type": "majority",
+        "author": "Potter, J."
+      },
+      {
+        "text": "Learned, J. (Dissenting.)\nThis was a prosecution for an assault and battery. The defense claimed that the complainant Hibbard had been previously forbidden to come into defendant\u2019s hotel where the assault was committed ; that Hibbard was drunk, and that defendant used no more force than was necessary to eject him. The defendant\u2019s counsel asked Hibbard whether the defendant, prior to the assault, had forbidden him to enter the hotel unless he had legal process. This was excluded. The inquiry was repeated in several forms and was excluded. The same questions were asked of the defendant, and again excluded. The defendant\u2019s counsel also inquired whether Hibbard at the time was drunk or sober, and this was excluded. An inquiry was also made of defendant when the conversation as to Hibbard\u2019s coming on the premises was had. This was excluded. How there was no dispute that the premises, where the assault was committed were in the lawful possession of the defendant. Hor is it claimed that Hibbard entered by virtue of his authority as a peace officer. He says himself that he did not go there in that capacity. The place was a hotel, and very properly without some evidence to the contrary, there is an implied invitation to enter peacefully into a hotel. But certainly the proprietor may forbid such entrance. When he does forbid such entrance to any person, if that person then enter, he is a trespasser. The occupant of the premises may eject him, using no more force than is necessary. By the exclusion of the evidence which was offered, the defendant was deprived of the opportunity of justifying the alleged assault. He was placed in the condition of a person who, without any previous prohibition to Hibbard against entering the hotel, committed an assault. How even if the jury had believed that the force used was no more than necessary to eject Hibbard, the defendant would have been convicted, because he was not permitted to show that he had previously forbidden Hibbard to enter. It was not in mitigation of dam-' ages or in any such view, that the evidence of previous conversation was offered. It was to show that, at the time, Hibbard was a trespasser, and therefore, that the defendant might lawfully remove him.\nIt is true that defendant would not then be justified in using unnecessary violence. But it does not appear that the jury thought the force used was unnecessary. The defendant was not allowed to show the fact which would have justified some degree of force. So too, I think that proof should have been admitted that Hibbard was intoxicated. Hot that intoxication justifies an assault, but because the question of what is necessary force to remove an intruder from ones premises, may depend on the condition of the intruder. A degree of force may be necessary in the removal of a drunken man from one\u2019s hotel, which would be quite needless and improper in the case of one who was sober and quiet. Of course it might be that, if the evidence of this forbidding Hibbard to enter had been received, the jury might still find that the defendant\u2019s acts were not justifiable; that he used unnecessary force in attempting to remove Hibbard. But the defendant had a right to have the jury decide this question, and of that right he was deprived. I think the conviction and judgment should be reversed and a new trial had.",
+        "type": "dissent",
+        "author": "Learned, J. (Dissenting.)"
+      }
+    ],
+    "attorneys": [
+      "C. W. Stapleton, for appellant.",
+      "John E. Smith, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Third Department.\nJanuary, 1884.\nPEOPLE v. VAN VECHTEN.\nAssault and Battery\u2014Previous Notice not to Enter Premises\u2014Intoxication.\nIt appeared that complainant, while endeavoring to enter the door of defendant\u2019s hotel, where defendant was entertaining a company at a dance, was seized by the latter, without warning or notice, and ejected with great force and violence. Held, upon the trial of an indictment for assault and battery, that evidence of a previous notice by defendant to complainant, not to enter his premises, was inadmissible in justification of the assault, and that it was still defendant\u2019s duty to notify complainant that he could not enter before ejecting him, it also appearing that defendant used more force than was necessary in ejecting complainant ; further, that evidence that complainant was intoxicated at the time was also inadmissible, that not having been the objection to his entry.\nLearned, !., dissenting, wrote for reversal and new trial.\nAppeal by defendant from judgment of the County Court of Madison county.\nThe defendant, Frank Van Vechten, was- convicted in a court of Special Sessions of assault and battery alleged to have been committed on the person of Eli Hibbard, about midnight, September 16, 1882, as 'the latter was about to enter the hotel kept by the defendant. Defendant was sentenced to pay a fine of $40, or be imprisoned twenty days, and appealed to the Madison county Court of Sessions, where the conviction was affirmed, from which judgment he appeals to this court.\nThe facts appear in the opinion.\nC. W. Stapleton, for appellant.\n\u2014It was a question of fact to be established, whether Hibbard was a trespasser, or whether he had a license, express or implied, to enter the premises. If he was a trespasser, the defendant might eject him without ceremony, using no more force than was necessary. If he had a license, express or implied, then it would be necessary for defendant to first order him away, and it was error to prevent defendant from showing that Hibbard was a trespasser. Harrington v. People, 6 Barb. 607; 2 Colby\u2019s Cr. Law. 23; 3 Bl. Com. 121.\nThere is a broad distinction between a case where one enters by a license express or implied, and only becomes a trespasser after being ordered to leave, and one when the party enters after the order has been given, and is a trespasser ab initio.\nThe question as to whether the complainant was drunk or .sober, was competent, and should have been allowed. People v. Eastwood, 14 N. Y. 562.\nJohn E. Smith, district attorney, for the people, respondent."
+  },
+  "file_name": "0291-01",
+  "first_page_order": 315,
+  "last_page_order": 318
+}

@@ -1,0 +1,322 @@
+{
+  "id": 1164497,
+  "name": "WALKER v. PEOPLE",
+  "name_abbreviation": "Walker v. People",
+  "decision_date": "1881-10",
+  "docket_number": "",
+  "first_page": "7",
+  "last_page": "22",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 7"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Neb. 407",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        2863493
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/neb/4/0409-01"
+      ]
+    },
+    {
+      "cite": "45 Ga. 225",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        857255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/45/0225-01"
+      ]
+    },
+    {
+      "cite": "40 Ill. 358",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 N. Y. 715",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16252
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/32/0715-01"
+      ]
+    },
+    {
+      "cite": "58 Ga. 298",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Ohio, 598",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Ind. 491",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Barb. 625",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5151117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/46/0625-01"
+      ]
+    },
+    {
+      "cite": "31 Ind. 492",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1483836
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/31/0492-01"
+      ]
+    },
+    {
+      "cite": "52 N. Y. 467",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510994
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/52/0467-01"
+      ]
+    },
+    {
+      "cite": "31 Ind. 485",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1483893
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/31/0485-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. 566",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1933859
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/2/0566-01"
+      ]
+    },
+    {
+      "cite": "6 Am. Law Reg. 400",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Ill. 385",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        8500919
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/31/0385-01"
+      ]
+    },
+    {
+      "cite": "5 Harrington, 512",
+      "category": "reporters:state",
+      "reporter": "Harrington",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. 58",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297820
+      ],
+      "weight": 6,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0050-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 9",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485407
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0009-01"
+      ]
+    },
+    {
+      "cite": "1 Edm. Sel. Cas. 13",
+      "category": "reporters:state",
+      "reporter": "Edm. Sel. Cas.",
+      "case_ids": [
+        201424
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/edm-sel-cas/1/0013-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 18",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 N. Y. 162",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 N. Y. 125",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16921
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/35/0125-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 147",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/32/0147-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 717",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 N. Y. 467",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510994
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/52/0467-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 9",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/4/0009-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1132,
+    "char_count": 35484,
+    "ocr_confidence": 0.498,
+    "pagerank": {
+      "raw": 4.345434925059198e-08,
+      "percentile": 0.2730939139695017
+    },
+    "sha256": "170fb30668979e4f6aa9d32771dc0b375dc261eaba60618aca7a9f9a3e077750",
+    "simhash": "1:95f4dd32879b74cd",
+    "word_count": 6308
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WALKER v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Brady, J.\n\u2014The-plaintiff in error Avas indicted and tried for the prime of abduction, and was convicted and sentenced to the state prison for the term of ten years. The response made to the charge was insanity; upon the trial, the counsel for the plaintiff in error requested the court to charge, first, that the true test of criminal responsibility, where the defense of insanity is interposed to an indictment, is, whether the accused had sufficient reason to knoAV right from wrong, and Avhether or not he had sufficient poAver of control to govern his actions. The learned recorder, in answer to this request, said:\n\u201c I Avill charge the first part of that proposition, namely, \u2018 the true test of criminal responsibility, Avhere the defense of insanity is interposed to an indictment, is, Avhether the accused had sufficient reason to know right from wrong.\u2019 \u201d But he further said : \u201c I decline to charge the latter part, namely, \u2018 and Avhether or not he had sufficient power to govern and control his actions.\u2019 \u201d\nThe prisoner, by his counsel, excepted to the refusal to charge as requested.\nThe counsel for the prisoner also requested the recorder to charge that the defendant, in a criminal case, Avas not required, to prove his insanity in order to avail himself of that defense, but merely to create a reasonable doubt upon that point \u201cwhereupon the burden of proving sanity falls upon the people.\u201d\nThe learned recorder declined to charge as requested, and the counsel for the plaintiff in error duly excepted.\nThe recorder in his charge to the jury, said that to establish a defense on the ground of insanity, it must be clearly proven that at the time of committing the act, which is the subject of the indictment, the party accused was laboring under such a defect of reason, from a disease of the mind, as not to know the nature and quality of the act he was doing, and, if he did know it, that he did not know that he was doing wrong.\nCounsel for the plaintiff in error excepted to the words \u201c clearly proven,\u201d as used in this extract from the charge, and the exception was duly noted.\nIt will be perceived, in reference to the first request, that, in addition to the proposition as to the capacity of the plaintiff in error to know right from wrong, it was designed by his counsel to create another test or condition, namely, as to whether the plaintiff in error had sufficient power to govern and control his actions, which is to say, in effect, if he had sufficient reason to know right from wrong, and knowing it, had not sufficient power to control and govern his actions, and did the act charged, with a knowledge, therefore, that it was wrong, the act was to be regarded as that of an insane person, and one irresponsible for his deed.\nIt is enough to say that there is no precedent for such a combination of elements, as is presented in this request. The true test, upon the authorities, is that announced by the learned recorder, namely, whether the accused had sufficient reason to know right from wrong, and if he had sufficient intelligence to know it, whether lie had sufficient power to control or govern his actions, was a matter of no moment whatever. Assuming that he had reason enough to know that he was doing wrong when he committed the act of which he stood accused, it was his duty to control himself, a duty which he owed to God and man, and one, for the omission of which, under the law\" of the land, he was to be punished. The courts have gone quite far enough in declaring that if the accused is laboring under such a * defect of reason from disease of the mind as not to know the nature and quality of the act he is doing, and if he did know it, that he did not know that he was doing wrong, he should be regarded as irresponsible for the act charged against him.\nThere are some obiter dicta which would seem to evidence an intention to shroud this doctrine in doubt, or to hamper it with conditions subversive of its clearness and efficacy, but they have not been adopted in any adjudicated case as expressive of the law of this state. If, when a person is put upon trial, it is urged on his behalf that he was insane at the time of the commission of the crime of which he is accused, he is not entitled to the benefit of the rule governing that averment to any greater extent than that expressed by the recorder in this case ; and it is to be given to the jury, as a rule, without conditions and without qualifications. If the testimony submitted for the-consideration of the jury established such mental infirmity as the rule itself suggests, then the prisoner is entitled to his discharge upon the ground of his irresponsibility. But if the testimony does not fully respond to these requirements, then he must suffer as a person presumed to be sane, and on whose behalf sufficient evidence had not been given to overcome this presumption. Freeman v. People, 4 Denio, 9; Willis v. People, 32 N. Y. 717; Flanagan v. People, 52 Id. 467. This is all that it is deemed necessary to say with regard to the first request.\nThe second request herein stated is subtle in its character ; it is that the defendant in a criminal case is not required to prove his insanity, in order to avail himself of that defence, but merely to create a reasonable doubt upon this point, whereupon the burden of proving insanity falls upon the people. It would be sufficient, in answer to the exception which was taken to the refusal of the recorder to charge this request, that the burden of proving sanity does not fall upon the people in any case. The prisoner is arraigned, and the jury are impanneled with two legal presumptions existing\u2014one that he is innocent, and the other that he is sane. If the prisoner is to be relieved from the consequences of his offense, by reason of a mental infirmity existing at the time of his transgression, amounting to insanity, it becomes his duty, or the duty of some person on his behalf, to overcome the presumption of sanity by satisfactory evidence, and the people may rest upon the presumption of sanity without resorting to any proof. This point has been expressly decided in Walter v. People, reported in 32 N. Y. 147, which was a case of homicide. The court \u2022 was requested to charge, as a proposition of law, that in a case where the defense consists of the insanity of the prisoner, it becomes incumbent upon the prosecution to prove him sane. The court said that, as an abstract proposition, the request was manifestly unsound ; that sanity was presumed to be the normal state of the human mind, and that it was never incumbent upon the prosecution to give affirmative evidence that such a state exists in a particular case. And this doctrine was reaffirmed in the case of Ferris v. People, reported in 35 N. Y. 125, and again reasserted in the case of Brotherton v. People, 75 N. Y. 162, in which Judge Church, delivering the opinion of the court, said :\n\u201c Sanity being the normal and usual condition of mankind, the law presumes that every individual is in that state ; hence a prosecutor may rest upon that presumption without other proof. The fact is deemed to be proof prima facie?\nInasmuch as the request contained more, therefore, than the prisoner was entitled to, the recorder was not obliged to charge it, under well settled rules. In addition, however to this response, it must be further said, that the request, aside from the objectionable portion which has been referred to, from its phraseology called upon him to declare that the defendant in a criminahcase was not required to prove.his insanity, in order to avail himself of that defense, but merely to create a reasonable doubt upon this point, namely upon the point of insanity. The learned counsel for the plaintiff in error, no doubt, designed to state that it was sufficient for his client to create a reasonable doubt upon his sanity, but the request does not contain that proposition. If there were nothing else to be said upon this particular element of the case, this view might be regarded as hypercritical, but the learned recorder substantially charged upon the rule which the prisoner\u2019s counsel doubtless intended to invoke by the request itself, for he said, after referring to the evidence of insanity:\n\u201c It is for you to determine, upon all this evidence, whether or not on June 15, 1881, when it is alleged that this man perpetrated the offense of abducting this child, he was sane or insane; in other words, whether his mind was in such a condition that he \u2022 was perfectly able to comprehend and understand the difference between right and wrong, and that lie did know that he was doing \u25a0a wrong act, if he had sufficient mind to form that intent which the law requires must be proved to exist; and it is for you to determine those questions: they are' purely questions of fact. If you come to the conclusion that the prisoner was insane at the time it is charged he perpetrated this crime, you will find him not guilty on the ground of insanity. If you come to. the conclusion beyond all reasonable doubt, that he committed the crime 'of abduction as I have defined it; if the testimony satisfies you beyond a reasonable doubt of his guilt, and that lie was not insane, it will be your duty to convict; and further, if there is any reasonable doubt arising upon the evidence in the case, and upon nothing else, it will be your duty to give the prisoner the benefit of that doubt and acquit him.\u201d\n, It must be further said in regard to this request, that in the case of Brotherton v. People, supra, it appeared that the judge in charging the jury used this expression: \u201c The allegation of insanity is an affirmative issue, which the defendant is bound to prove, and you must be satisfied from the testimony introduced by him that he was insane.\u201d And he further charged that if there was a well founded doubt, whether the man was insane at the time he fired the pistol, the jury were to acquit him. It was held that in these two paragraphs of the charge taken together there was no error, and the court in reviewing the trial said that the prisoner was bound to prove that he was not sane, and whether insanity was called an affirmative issue, or it is stated that the burden of proof of insanity is on the prisoner in order to overcome the presumption of sanity, is not very material.if the jury are told, as they were, that a reasonable doubt upon that question entitled the prisoner to an acquittal.\nThe jury in this case were told that if they came to the conclusion that the prisoner was insane at the time it was charged he perpetrated the crime, they were to find him not guilty on the ground of insanity, and further, that if they came to the\" conclusion beyond all reasonable doubt that he committed the crime, and that he was not insane, it was their duty to convict \u25a0 him; and further, that if there was any reasonable doubt arising \u2022 from' the evidence in the case, he was entitled to the benefit of that doubt, and it was their duty to acquit him. \u25a0 They were substantially charged, therefore, that if there was a doubt about the guilt of the plaintiff in error, arising either from his innocence of the crime itself, or from a doubt as to his sanity, that he was entitled to a verdict of acquittal.\nIt will have been perceived that in the case of Brotherton, to which reference has' been made, the charge was directly to the effect that the insanity urged on behalf of the prisoner was an affirmative issue, which he was bound to prove, and that the jury must be satisfied on the testimony introduced by him that he was insane, which was not done in this case. The learned recorder charged-that to establish the defense of insanity it must be clearly proven that at the time of committing the act which was the subject of the indictment, the party accused was under a defect of reason from a disease of the mind ; so that the case of Brotherton and this one are, in the respects in which they have been compared, in harmony.\nFrom what has been said, the view entertained of the exception to the charge in which the learned recorder used the words \u201cclearly proven\u201d may be foreshadowed. The exception in this respect is regarded as valueless. As already suggested, taken in connection with another paragraph, to which reference has been made herein, it is no. broader than the charge sustained in the case of Brotherton v. People, supra. In that case it was charged that the prisoner\u2019s insanity was an affirmative issue which he was bound to prove, and in this case it was declared to be a defense, which must be clearly proven. The cases are analogous and parallel. The precise question presented by the exception, although it has not been definitely decided in this state, and although it may seem to be in doubt (see People v. McCann, 58 N. Y. 18; Flanagan v. People, 52 Id. 467), appears to have been answered in the case of McNaghten, 110 Clark & Fin. 210, in which Lord Chief Justice Tinbale said, that'the jury should be told that \u201cto establish a defense on the ground of insanity it must be clearly proven that at the time of committing the act the party accused was laboring under such a defect of reason from a disease of. the mind as not to know the nature and quality of the act he was doing, or if he did' know it, that he did not know what he was- doing was wrong.\u201d This case is regarded, therefore,, as an express authority for the proposition that the defense of insanity must be clearly proven in order to overcome the presumption of sanity, which the prisoner encounters at the commencement of his trial.\nThe question of insanity, in its legal phases, may be a very interesting subject to discuss. It certainly presents a very broad field when contemplated with the numerous adjudications, both in this country and in England, affecting it, and the number of elementary writers who have considered it; but it is not necessarily the duty of an appellate court to write a review of these cases. It is enough to express the conclusion arrived at in regard to it when presented for examination, upon consideration of the controlling decisions in this state bearing upon it. This has been done in this opinion, and it follows that the judgment must be affirmed.\nDaniels, J.\nThe law of this case seems to have been carefully observed at the trial. Upon both the important points presented, the instructions given the jury were in strict accord with the authorities which have long been regarded as correct expositions of the law. In MchTaghten\u2019s case, the proper course to be followed in the disposition of the defense of insanity was considered and determined by the house of lords, the highest English judicial authority. And it was then held that \u201cevery man is to be presumed to be sane, and to possess a sufficient degree of reason to be responsible for his crimes, until .the contrary be proved.\u201d And \u201c to establish a defense on the ground of insanity, it must be clearly proved that at the time of the committing of the act, the party accused was laboring under such a defect of reason, from disease of the mind, as not to know the nature and quality of the act he was doing, or, if he did know it, that he did not know he was doing what was wrong.\u201d \u201c If the accused was conscious that the act was one which he ought not to do, and if that was, at the same time, contrary to the law of the land, he is punishable.\u201d 10 Clark & F. 200, 210. The same subject received the consideration of the court of appeals in Flanagan v. People, 52 N. Y. 467.. And the same criterion was sanction for the disposition of the defense of insanity, as that which was adopted by the preceding case in England. And in the latter case it was further held that the accused was not entitled to an acquittal, simply because the criminal act might have been committed in subordination to some irresistible impulse or inclination. This point was urged in behalf of the prisoner in that case, by the same learned counsel now reprerenting the present plaintiff in error, and it was answered by the court, in very plain language, as follows : \u201c Indulgence in evil passions weakens the restraining power of the will and conscience, and the rule suggested would be the cover for the commission of crime and its justification. The doctrine that a criminal act may be excused upon the notion of an irresistible impulse to commit it, where the offender has the ability to discover his legal and moral duty in respect to it, has no place in the law.\u201d And the remark of an able English justice, that \u201c Every crime was committed under an influence of such a description. and the object of the law was to compel people to control these influences,\u201d was repeated with approval. Id. 470. In Reg. v. Haynes, 1 Foster & F. 666, this subject was further considered, and it was there observed that \u201c if an influence he so powerful as to be termed irresistible, so much the more reason is there why we should not withdraw any of the safeguards tending to counteract it. There are three powerful restraints existing, all tending to the assistance of the person who is suffering under such an influence : the restraint of religion, the restraint of conscience, and the restraint of the law. But if the influence itself be held to be a legal excuse, rendering the crime dispunishable, you at once withdraw a most powerful restraint, that forbidding and punishing its perpetration. We \"must, therefore, return to the simple question : 1 Did the prisoner know the nature of the act he was doing, and did he know he was doing what. was wrong \u00ed \u2019 \u201d (Id. 667). These principles present the gist and substance of the law upon these subjects. They have been discussed in very many other instances, and concurring in the same conclusions. For that reason, particular, reference to them is at the pz\u2019esent time not necessary. To a gz-eat extent, they are considered in the charge of Mr. Justice Brady, to which concurrence and approval may very properly be given. For the reasons assigned by-'him, and those suggested by Presiding Justice .Davis, and maintained in such plain langn\u00e1ge as to preclude the possibility of misapprehension on the occasions just referred to, this conviction should be affirmed.\nDavis, P. J.\nOn the question, what constitutes;'the insanity whicli in law exonerates from the punishment of crime, on the ground of irresponsibility,-I concur fully in the views and conclusions of my brother Brady. On the question of the burden of proof after evidence has been given by the accused tending to show insanity, the learned recorder had given to* the jury, in Ills charge, the true rule apjffic-able to a ease of the kind when it comes upon all the evidence to be submitted to the jury, and having done this, it was no error to refuse to submit upon the part of the prisoner a proposition which, if correct in itself, was only calculated to confuse the jury by distracting their attention from the real question which, upon the whole evidence, had already been correctly submitted to them. The recorder committed no legal error in refusing to charge as requested, in the fort\u00edn presented by the counsel for the prisoner. I concur, therefore, in the affirmance.\nConviction affirmed.",
+        "type": "majority",
+        "author": "Brady, J. Daniels, J. Davis, P. J."
+      }
+    ],
+    "attorneys": [
+      "Wm. F. Kintzing, for plaintiff in error.",
+      "John McKeon, district attorney, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First Department.\nOctober, 1881.\nWALKER v. PEOPLE.\n(Affirmed, 1 \u00d1. Y. Grim. Sep. 33.)\nInsanity.\u2014Test of Responsibility.\u2014Burden of Proof.\nWhere the defense of insanity is interposed to an indictment, the true test of criminal responsibility is, whether the accused had sufficient reason to know right from wrong.\nIf he had sufficient intelligence to know it, whether he had sufficient power to control or'govern his actions is a matter of no moment whatever.\nThe burden of proving sanity does not fall upon the prosecution. The presumption is that everyone is sane, and the prisoner must overcome this presumption by satisfactory evidence.\nIf, however, there is reasonable doubt - as to the prisoner\u2019s sanity arising upon the evidence in the case, and upon nothing else, the jury should\u00bb give the accused the benefit of that doubt and acquit him.\nWhere \"the recorder\u2019s charge accompanied the foregoing propositions, with the instruction that the insanity must be clearly proven,\u2014Held, that the charge was correct.\nWhere a judge has given the jury the true rule applicable to a case when it comes to be considered on all the evidence, it is no error to refuse to submit to the jury a proposition which, even if correct in itself, is only calculated to confuse them, by diverting their attention from the real question, which, upon the whole evidence, has been already correctly submitted to them. (Per Davis, P. J.)\nWrit of Error to the Court of General Sessions for the city and. county of New York to review the conviction of George Walker, the plaintiff in error, upon an indictment charging him with the crime of abduction.\nGeorge Walker was tried and convicted at the August term, 1881, of the General Sessions, for the crime of the abduction of a little girl named Katie Hennessy, and was sentenced to the state prison for the term of ten years. The defense interposed to the indictment was insanity.\nIt was proved that the prisoner had enticed a little girl, aged about eight years, from the street in front of her parents\u2019 house, in the city of New York, and had taken her to the upper part of the city. The attention of a passer-by having been attracted to Walker and the girl, he questioned the child, who said the man was not her father, that he was taking her away, and that she .wanted to go home. The prisoner was arrested, and the child returned to her parents.\nKatie Hcnncssy, the abducted child, testified that while she and the prisoner were together on the street railroad, on their way uptown he had put his hands under her clothes.\nTwo doctors, Hardy and Jackson, physicians to the City Prison, where the prisoner was confined after his arrest, testified that they believed from examinations of, and conversations with the prisoner, that he was insane; that the prisoner did not recognize the gravity of his offense, was afraid of the people in the prison, was wandering and disconnected in his conversation, was subject to delusions as to an imaginary conspiracy of chemists against him, on account of valuable discoveries which he had made; his manner was nervous and uneasy. He was suffering from chronic mania.\nIt was proved that the prisoner had been sentenced to a term of ten years in the state prison at Trenton, N. J. (where he feigned insanity), for rape, and had also been confined in the (New York) City Prison on a charge of assault on a young woman.\nDr. Spitzka testified that he had examined the prisoner at the instance of the Society for the Prevention of Cruelty to Children, that the prisoner was perfectly sane, that he was shamming insanity, and shamming very clumsily.\nAt the close of the trial the following requests to charge were made on behalf of the prisoner.\nCounsel.\u2014I ask your honor to charge the jury as the law in this case:\nI. The true test of criminal responsibility where the defense of insanity is interposed to an indictment is, whether the accused had sufficient reason to know right from wrong; and whether or not he had sufficient power of control to govern his actions.\nThe Recobdeb.\u2014I will charge the first part of that proposition, viz.: \u201c The true test of criminal responsibility where the defense of insanity is interposed to an indictment is, whether the accused had sufficient reason to know right from wrong.\u201d I decline to charge the latter part, viz.: \u201c And whether or not he had sufficient power of control to govern his actions.\u201d\nCounsel far prisoner excepted-to the refusal of the Recorder to charge as requested. Exception.\nII. Where a person acts under the influence of mental disease, he is hot criminally accountable.\nThe Recobdeb.\u2014That I decline to charge, except as I intend to charge.\nCounsel for prisoner excepted to the refusal of the recorder to charge as requested. Exception.\nIII. The defendant in a criminal case is not required to prove his insanity in order to avail himself of that defense, but merely to create a reasonable doubt upon this point, whereupon the burden of proving his sanity falls upon the people.\nThe Recobdeb;-\u2014I decline to charge that. Refused. \u2022\nCounsel for prisoner excepted to the refusal of the court to charge as requested. Exception.\nThe Recobdeb, in the charge to the jury said : That to establish a defense on the ground of insanity, it must be \u201c dearly proven,\u201d that the time of committing the act the subject of the indictment, the party accused, was laboring under such a defect of reason from disease of the mind, as not to know the nature and quality of the act lie was doing, and if he did know it, that he did not know he was doing wrong.\nCounsel for prisoner excepted specifically to the words \u201c dearly proven \u201d as charged. Exception.\nWm. F. Kintzing, for plaintiff in error.\n\u2014It is urged that an examination of the following English authorities shows a gradual but radical change in the rule of law as to the responsibility in cases where the plea of insanity is interposed, and that the tendency of the line of decisions is toward a milder and more enlightened view of this defense. Coke on Littleton, 247, a ; 3 Coke Inst. P. 6, 47; 1 IIale P. C. 14, 30 ; Rex v. Arnold, 16 How. St. Tr. 695, 764; Ferrer\u2019s case, 19 Id. 947; Hadfield\u2019s case, 27 How. St. Tr. 1, 309 ; 4 Black. Comm. 21; Billingham\u2019s case, 5 Carr. & P. 169 ; Rex v. Offord, 5 Id. 168 ; Rex v. Oxford, 9 Id. 532; Rex v. Pierce, Id. 637; McNaghten\u2019s case, 10 Clark & F. 200 ; Reg. v. Law, 2 Fost, & F. 836; Rex v. Bellingham, 1 Russell on Crimes (8 Amer. ed.) 11.\nAnd the leading writers on medical jurisprudence and insanity do not look with favor on the right and wrong test. See Wharton & Still\u00e9, Beck, Dean, and Taylor\u2019s works on medical jurisprudence, Ray on Insanity, and Brown on Medical Jurisprudence of Insanity.\nThe American authorities differ somewhat, and in most cases very widely.\nIn People v. Kleim, an early case in this state, Judge Edmonds charged the jury: \u201c If some controlling disease was in truth the acting power within him, which he could not resist, or if he had not sufficient use of his reason to control the passions which prompted him, he is not responsible. But it must be an absolute dispossession of the free and natural agency of the mind. . . . . If he have not intelligence enough to have a criminal intent and purpose, and if his moral and intellectual powers are either so deficient that he has not sufficient will, conscience or controlling' mental power, or if, through the overwhelming violence of mental diseases, his intellectual power is for the time obliterated, he is not a responsible moral agent.\u201d People v. Kleim, 1 Edm. Sel. Cas. 13.\n\u201c The question will be whether the disease existed to so high a degree that for the time being it overwhelmed the reason, conscience and judgment, and whether the prisoner, in committing the homicide, acted from an irresistible and uncontrollable impulse; if so, then the act was not the act of a voluntary agent, but the involuntary act of the body without the concurrence of a mind directing it.\u201d Commonwealth v. Rogers, 1 Bennett & II. Lead. Crim. Cas. 87; 7 Metc. (Mass.) 500. See Freeman v. People, 4 Denio, 9; Cole\u2019s case, 7 Abb. Pr. N. S. 321.\nIn People v. McFarland, Recorder IIackett defined the state of sanity of a party -who is accused of a criminal act to be that in which a man knows the act he is committing to be unlawful and morally wrong, and has reason sufficient to apply such knowledge, and to be controlled by it; \u201c and the state of insanity in a similar case as that in which a man does not know the act he is committing to be unlawful and morally wrong, and he has not reason sufficient to apply such knowledge, and to be controlled by it.\u201d People v. McFarland, 8 Alb. Pr. N. S. 57. See also, People v. McCann, 16 N. Y. 58 (prisoner entitled to an acquittal if there be a reasonable doubt as to his sanity); Commonwealth v. Mosler, 4 Barr (Pa.) 267 (where the court recognizes homicidal insanity as an excus\u00e9 for crime): See Huntingdon\u2019s case, pamphlet.\nSome judges have held that the power of choice between right and wrong is as essential to legal responsibility as the capacity to distinguish. Reg. v. Bleasdale, 2 Carr. & K. 765; State v. Windsor, 5 Harrington, 512 ; Scott v. Commonwealth, 4 Metcalfe (Ky.) 227; Smith v. Commonwealth, 1 Duvall (Ky.) 224; Hopps v. State, 31 Ill. 385; Commonwealth v. Freeth, 6 Am. Law Reg. 400; Fouts v. State, 4 Greene (Iowa) 500 ; People v. Pine, 2 Barb. 566.\nIn the ease of Stevens v. State, 31 Ind. 485, the supreme court of that state held that where a person is moved to the commission of an unlawful act by an insane impulse controlling his will and his judgment, he is not guilty of a crime, and the court held to be erroneous a charge to the jury that if they believed from the evidence \u201c that the defendant knew the difference between right and wrong in respect to the act in question, if he was conscious that such act was one which he ought not to do, and if that act was at the same time contrary to the law of the state, then he is responsible for his acts.\u201d\nIn the important case of Smith v. Commonwealth, 1 Duvall (Ky.) 225, the court, after a very exhaustive discussion of the subject of insanity, held to. be correct an instruction to the jury that \u201c the true test for responsibility is whether the accused had sufficient reason to know right from wrong, and whether or not lie. had sufficient- power of control to govern his actions.\u201d This instruction, which was taken from the case of Graham v. Commonwealth, 16 B. Monroe, 591, and approved by the Kentucky court of appeals, is the precise request which in the case at bar the recorder refused to charge the jury.\n\u201c The true test lies in the word \u2018 power.\u2019 Has the defendant in a criminal case the power to distinguish right from wrong, and the power to adhere to the right and avoid the wrong. Has the defendant, in addition to the capacities mentioned, the power to govern'his mind, his body and his estate.\u201d Commonwealth v. Haskell (Pa.), 4 Am. Law Rev. 240. See also State v. Pike (N. H.), 4 Am. Law Rev. 245.\nBpon an examination of the case of Flanagan v. People, 52 N. Y. 467, it will be found that there were no requests made to charge as in the case at bar, and therefore the opinion of the court, while instructive, cannot be controlling upon the point here presented.\nII. The court erred in refusing to charge that \u201c where a person acts under the influence of mental disease, he is not criminally accountable.\u201d\nThe verdict of the jury should have been \u201c not guilty \u201d by reason of insanity, as the act of the prisoner was the product of mental disease. Stevens v. State (supra); State v. Pike (supra); Commonwealth v: Haskell (supra).\nIII. The court erred in refusing to .charge that \u201c the defendant in a criminal case is not required to prove his insanity in order to avail himself of that defense, but merely to create a reasonable doubt upon this point, whereupon the burden of proving his sanity falls upon the people.\u201d\nOn the authority of the highest court in the state of Indiana, it was held that the defendant in a criminal case is not required to prove his insanity in order to avail himself of that defense, but merely to create a reasonable doubt on the point; whereupon the burden of proving insanity falls upon the state. Bradley v. State, 31 Ind. 492.\n1Y. The court was clearly in error in charging the jury that it was incumbent upon the prisoner to clearly prove the defense of insanity interposed to the indictment, to justify an acquittal.\nThe question upon whom the burden of proof rests Avherd the defense of insanity is interposed, although an open question in this state, is not so, however, in the other states. (The numerous eases cited by the counsel for plaintiff in error under this head, are given with others in the note at the end of the report of the present case in the court of appeals, at p. 28 of this volume.)\nIt is now claime'd, on behalf of the prisoner, that the true rule is that if a jury in a criminal case, after considering all the facts, entertain a reasonable doubt as to the sanity of the accused at the time of the commission of the act, it should enure to his benefit, and work his acquittal. In the well-known case of Flanagan v. People (supra), this precise point was raised, but in consequence of counsel for plaintiff in error having failed to object specifically to the charge of the recorder upon this point, the court of appeals declined to pass upon this question, leaving it still an open question in this state.\nUpon the question of reasonable doubt, the following well known cases are instructive. People v. McCann, 16 N. Y. 58 ; People v. Schryver, 42 Id. 1; Patterson v. People, 46 Barb. 625 ; Smith v. Commonwealth, 1 Duvall (Ky.) 228; Stevens v. State, 31 Ind. 491.\nAn examination of these authorities will show that the doctrine of the harsh charge of Chief Justice Mansfield in Billingham\u2019s case, 5 Carr. & P. 169, that the insanity of the accused must be proved beyond all doiibt, has met with little favor in our sister states. The plea of insanity is not like the plea of self defense (as in the case of People v. Schryver, supra), a plea of confession and avoidance, or of justification, it is a denial of the existence of a fact material to constitute the crime charged. It is the denial of a fact necessary to be alleged and proved (by presumption or otherwise) by the prosecution.\nWhere there is not mind sufficient to form a design there cannot be, as in People v. McCann, supra, \u201c a premeditated design ;\u201d and as to* constitute murder there must be such premeditated design, its existence is an affirmative fact, the burden of establishing which is upon the prosecution.\nJohn McKeon, district attorney, for defendants in error.\nI. Where the defense of insanity is interposed the test of responsibility is the prisoner\u2019s knowledge of right or wrong, not his actions. McNaghten\u2019s Case, 10 Clark & F. 200 ; United States v. McGlue, 1 Curtis, 1; Loeffner v. State, 10 Ohio, 598; Klinger v. State, 58 Ga. 298; Freeman v. People, 4 Denio (N. Y.) 28 ; People v. Pine, 2 Barb. (N. Y.) 370; People v. Montgomery, 13 Abb. Pr. N. S. 214; Willis v. People, 32 N. Y. 715 ; Flanagan v. People, 52 Id. 467 ; Wagner v. People, 4 Abb. App. Dec. 511.\nII. The recorder was right in declining to charge that the defendant in a criminal case is not required to prove his insanity, but merely to create a reasonable doubt on that point; whereupon the burden of proof falls on the prosecution. This question has never been decided in this state, although referred to and considered in the dicta of the judges. People v. McCann, 16 N. Y 58 ; People v. Schryvor, 42 Id. 9 ; Flanagan v. People, 52 Id. 467 ; Wagner v. People, supra ; Brotherton v. People, 75 Id. 162. See also Chase v. People, 40 Ill. 358; Commonwealth v. Winnemore, 1 Brewster N. P. 356 ; IIopps v. People, 31 Ill. 385; Bradley v. State, 45 Ga. 225; Wright v. People, 4 Neb. 407.\nFor all the cases see note at the end of the opinion of the court of appeals in this case.\nTaken together, however, the weight of authority is strongly in favor of the position that the burden of proof is uj>on the defendant where the defense is insanity, and that he must make out his case by a preponderance of evidence."
+  },
+  "file_name": "0007-01",
+  "first_page_order": 31,
+  "last_page_order": 46
+}

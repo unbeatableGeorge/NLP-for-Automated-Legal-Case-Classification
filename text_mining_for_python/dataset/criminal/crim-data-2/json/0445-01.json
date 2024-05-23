@@ -1,0 +1,65 @@
+{
+  "id": 1167720,
+  "name": "PEOPLE v. STONE",
+  "name_abbreviation": "People v. Stone",
+  "decision_date": "1884-02",
+  "docket_number": "",
+  "first_page": "445",
+  "last_page": "447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 445"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 260,
+    "char_count": 4977,
+    "ocr_confidence": 0.549,
+    "sha256": "d8d04928203354b18b63db902399e40e700c827ea6d4533998c2e965f9ae65b3",
+    "simhash": "1:aaf8e7d514f216d8",
+    "word_count": 838
+  },
+  "last_updated": "2023-07-14T19:46:36.421582+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Pratt, J., concurred.",
+      "Present\u2014Barnard, P. J., Dykman and Pratt, JJ."
+    ],
+    "parties": [
+      "PEOPLE v. STONE."
+    ],
+    "opinions": [
+      {
+        "text": "Dykman, J.\nIt is an ancient and salutary rule of law that a conviction for the crime of willful and corrupt perjury cannot be secured and sustained on the uncorroborated testimony of one witness. The underlying principle of this rule is that if there be but one witness to prove the allegation of falsity, then oath is placed against oath and it remains doubtful where the truth lies, the oath of the accused which is alleged , to be false being sufficient to counterpoise the testimony of a single witness. Formerly the testimony of two witnesses was requisite to a conviction, but the rule has been relaxed. How what is required is evidence sufficient to counterbalance the oath of the defendant, and the legal presumption of his innocence. The testimony of the single witness for the prosecution must be corroborated by material and independent facts or circumstances sufficient to destroy the equilibrium produced by the two oaths.\nTested by these fundamental and material rules, the testimony in this case is insufficient to sustain the conviction of the defendant.\nThe. perjury set up in the indictment is false swearing to the payment of money to Mrs. Booraem, and she testified to its falsity. There was much testimony adduced on the trial respecting a receipt which Stone had produced on the main trial, but he is not indicted for false swearing in reference to the receipt or the signature it bears. That testimony is not therefore corroborative for the prosecution here. If all the exhibits produced by the defendant on the trial were forged it is quite immaterial here. The only question here is whether the defendant committed willful and corrupt perjury when he swore on the trial at Special Term that he had paid Mrs. Booraem the money.\nThe indictment contains no charge that Stone testified in any way respecting the signatures to the two receipts. The allegations are that the receipts were false and forged and that the defendant produced them; but the indictment is for perjury in making a false oath that he had paid money and not for swearing that the receipts were genuine.\nThe accused was therefore called on to answer the charge of perjury contained in the indictment, and the public prosecutor was called on for proof of that of\u00edense, and when he produced one single witness to prove that the money had not been paid, he had taken but one step toward the conviction of the defendant. He had then produced an equilibrium which he was required to destroy, and that destruction could not be accomplished by proof that the defendant had committed- the crime of perjury without proof of material and independent facts or circumstances tending directly to corroborate the testimony of the main and only witness; on the question of payment he could not require a conviction.\nThe argument for the prosecution seems to be that because Stone testified to the payment of the money and produced in corroboration of his testimony a receipt which is shown to be false and fabricated, that makes against his testimony, and is sufficient confirmation of the single witness to justify the conviction. But does that prove any more than the failure of the receipt to corroborate the testimony of Stone ? If that be all then it does not assist the prosecution. What the law required was confirmation of the single witness. If Stone provided fabricated receipts, they may fail to support him, but they fail also to corroborate the testimony of the people.\nOn the whole testimony the conclusion is reached that there was not sufficient confirmatory proof in corroboration of the single witness to justify the conviction.\nThe judgment of conviction should be reversed.\nPratt, J., concurred.\nPresent\u2014Barnard, P. J., Dykman and Pratt, JJ.\nConviction and judgment reversed.\nNote.\u2014 See People v. Grimshaw, ante, p. 390.",
+        "type": "majority",
+        "author": "Dykman, J."
+      }
+    ],
+    "attorneys": [
+      "Horace Graves, for defendant, appellant.",
+      "B. W. Downing, and Chauncey Shaffer, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nFebruary, 1884.\nPEOPLE v. STONE.\nPerjury\u2014Corroboration Bequired.\nUpon the trial of defendant for perjury, in that he had falsely sworn in an action brought against him by one B., that he had paid to B. certain moneys, the non-payment was proved by B. To corroborate B. it was proven that certain receipts of B. produced on the trial of the main action by defendant to prove payment to B. were forgeries. Held, that the evidence as to the receipts did not sufficiently corroborate the single witness as to the perjury, to justify a conviction of that offense.\nAppeal from a judgment of the court of Sessions of Queens county convicting the defendant Daniel H. Stone of perjury.\nUpon the trial of an action brought by one Candace B. Y. B. Booraem against defendant to recover certain money, defendant swore that he had paid the money to Mrs. Booraem, and produced certain receipts for the money purporting to be signed by Mrs. Booraem.\nFor having falsely sworn as to'the payment of the money he was indicted.\nHorace Graves, for defendant, appellant.\nB. W. Downing, and Chauncey Shaffer, for the people, respondent."
+  },
+  "file_name": "0445-01",
+  "first_page_order": 469,
+  "last_page_order": 471
+}

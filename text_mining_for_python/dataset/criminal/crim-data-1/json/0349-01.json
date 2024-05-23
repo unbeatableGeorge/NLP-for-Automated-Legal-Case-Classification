@@ -1,0 +1,66 @@
+{
+  "id": 1164438,
+  "name": "PEOPLE v. WEED",
+  "name_abbreviation": "People v. Weed",
+  "decision_date": "1883-05",
+  "docket_number": "",
+  "first_page": "349",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 209,
+    "char_count": 2674,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 5.980723408899069e-08,
+      "percentile": 0.37189542710791246
+    },
+    "sha256": "e09f1761dff6179ade3734b837e10a93cd5cd4d5fb76d446179f788d9c88ef19",
+    "simhash": "1:588e055b85282553",
+    "word_count": 450
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. WEED."
+    ],
+    "opinions": [
+      {
+        "text": "Barnard, P. J.\nThe prisoner was indicted for bigamy. The offense was clearly proven. The prisoner married one Louisa Bryson, in Westchester county, in this state, in 1875, and he again married one Carrie Megol, in May, 1881, in Westchester county. Louisa Bryson was at the date of the second marriage, and is yet living. It was proven upon the trial that before the second marriage the prisoner and his wife signed articles under seal, in Connecticut, that if either party should' apply for a divorce the other would not oppose the application, and would not appear against' the petitioning party.\nA question was put by the prisoner\u2019s counsel to him whether the justice of the peace in Connecticut who witnessed the paper did not not tell him that the paper was.in legal effect a divorce. The same question Vas put to another witness to the paper. These questions were overruled and an exception taken to the decision. This presents the only question in the case. We think it was not an erroneous ruling. The general rule is that all are presumed to know the law, and that ignorance of the law excuses no one from crime.\nThe particular crime alleged was fully made out. The two marriages were understandingly entered into by the prisoner, with full knowledge of the facts which by statute establishes the offense. The prisoner when he married the second time knew that his first wife was still living. M either the deputy sheriff who drew the papers nor the justice who read it over could destroy the effect of an intentional violation of a statute by advice that such violation could be lawfully done. \"\nThe conviction should, therefore, be affirmed.\nDykman and Pratt, JJ., concur.",
+        "type": "majority",
+        "author": "Barnard, P. J."
+      }
+    ],
+    "attorneys": [
+      "Francis larkin, for defendant, appellant,",
+      "Nelson H. Baker, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department\nMay, 1883.\nPEOPLE v. WEED.\nBigamy\u2014Ignorance oe Law, no Defense.\nIt is no defense to an indictment for bigamy, that the defendant and his first wife, prior to the second marriage, entered into, and signed a sealed agreement in the state of .Connecticut, providing that if either party should apply for a divorce, the other would not oppose the application, and that the justice before whom it was executed advised defendant that the agreement was in legal effect a divorce\u2014and upon the trial of such an indictment evidence of said facts is inadmissible.\nAppeal by defendant from judgment of the Court of Sessions of the county of Westchester, convicting him-of bigamy, November 29, 1882, Hon. Silas D. Gifford, County Judge, presiding. Defendant was sentenced to two years\u2019 imprisonment in the state prison.\nThe facts appear in the opinion.\nFrancis larkin, for defendant, appellant,\nNelson H. Baker, district attorney, for the people, respondent."
+  },
+  "file_name": "0349-01",
+  "first_page_order": 373,
+  "last_page_order": 374
+}

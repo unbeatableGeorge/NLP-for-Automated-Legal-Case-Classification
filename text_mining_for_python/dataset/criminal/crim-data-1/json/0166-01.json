@@ -1,0 +1,271 @@
+{
+  "id": 1164455,
+  "name": "PEOPLE v. WARE",
+  "name_abbreviation": "People v. Ware",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "166",
+  "last_page": "172",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "Rob. 199",
+      "category": "reporters:state",
+      "reporter": "Robards",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Hun., 113",
+      "category": "reporters:state",
+      "reporter": "Hun.,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "86 N. Y. 380",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "80 N. Y. 364",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173301
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0364-01"
+      ]
+    },
+    {
+      "cite": "1 Leigh, 574",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        4445399
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/28/0201-02"
+      ]
+    },
+    {
+      "cite": "1 Story, 135",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "case_ids": [
+        6131408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/3/0968-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 229",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848211
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0229-01"
+      ]
+    },
+    {
+      "cite": "21 Pick. 215",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2048008
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/38/0215-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 301",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145700
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/5/0301-01"
+      ]
+    },
+    {
+      "cite": "2 Gall. 51",
+      "category": "reporters:federal",
+      "reporter": "Gall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. H. 355",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Den. 502",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485330
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0502-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 304",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wend. 57",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009806
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0057-01"
+      ]
+    },
+    {
+      "cite": "16 Pick. 158",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Gray, 421",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075595
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/70/0421-01"
+      ]
+    },
+    {
+      "cite": "2 Gray, 133",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1998235
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/68/0133-01"
+      ]
+    },
+    {
+      "cite": "4 Cush. (Mass.) 593",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1986184
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/58/0593-01"
+      ]
+    },
+    {
+      "cite": "39 N. H. 1",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 N. Y. 243",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040629
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/30/0243-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 754,
+    "char_count": 13034,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 6.635266749355611e-08,
+      "percentile": 0.4047255264689177
+    },
+    "sha256": "fc8aa469709227468600a2ad281ab9453e37d0bedd8d0bfa843976db88869c79",
+    "simhash": "1:ef9aa46f10b216c0",
+    "word_count": 2313
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. WARE."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe evidence tended to show that three men, of whom the defendant probably was one, entered the laundry of the complaining witness, who is a Chinaman, and by threats and force robbed him of his money. After the case was rested by the people, the defendant ivas sworn as a witness in his own behalf, and he was asked the following questions: \u201c Now, on the 19th day of October, this last October, did not you enter the premises, 155 Forsyth street, together with two other men, at eleven o\u2019clock at night, and did not you and those men present a pistol at the head of a Chinaman by the name of Hong Wah?\u201d A. \u201cNo, Sir.\u201d Q. \u201cOne moment\u2014did not you and the other men rob him of $70?\u201d A. \u201cNo, sir.\u201d Q. \u201cNo?\u201d A. \u201cNo, sir.\u201d\nAfter the defense had concluded its evidence, the district attorney proposed and ivas allowed, against the defendant\u2019s objection and exception, to show that he, witness, saw the defendant, Ware, at his laundry in Forsyth street, at eleven o\u2019clock; he ivas accompanied by \u00edavo other men; that, after entering the laundry, Ware pointed a pistol at his head, the other men pulled in the windows and locked the door; he Avas then tied up, and they took from under his pillow a roll of bills, amounting to $70, and $5 in silver out of the drawer, his property, and left; the men were all strangers to Avitness.\nIn the argument made on behalf of the people, an effort has been made to justify the admission of this evidence on the ground of its supposed pertinency to disclose the intention of the defendant in the commission of the acts alleged against him in the indictment. But the cause did not require this evidence for that purpose, for it Avas entirely apparent that the persons who entered the place of the complaining witness and robbed him of his money, intended to commit precisely that crime. But even if the evidence might have been pertinent on the question of intent, it Avas neither offered nor received on that theory. The ruling of the court, under which it was permitted to be given, was expressed in the following language: The Court : \u201c I shall charge the jury that the fact, if it be a fact, that Ware committed another offense on the 19th day of October, is no evidence whatever tending to prove that he committed the offense charged in the indictment, but that they may take that circumstance\u2014that is, the contradiction between him and this witness, as I assume it is going to be a contradiction\u2014 into consideration upon the question of the defendant\u2019s credibility as a witness. That is the extent, of it.\u201d\nAnd from that it is clear that the evidence was received for the mere purpose of contradicting and discrediting the defendant.as a witness in the case. Whether he participated in the commission of the other offense was not a material inquiry on the trial of this indictment. It was simply collateral, and the object of it was by cross-examination to show such preceding criminal conduct on the part of the defendant as would lead the jury to disbelieve the witness or to reduce the effect they might otherwise be inclined to give to his testimony. When that course of cross-examination has been followed, the law does not permit the party adopting it to introduce further and independent evidence to .prove that the denial of the witness was false. When that is the sole effect to be given to the evidence, the party cross-examining the witness is concluded by his answer. The inquiry cannot be further extended by procuring testimony of a contradictory nature. The rule upon this subject has frequently been made a matter of consideration by the courts, and it is now well established that to entitle the party interrogating the witness in this manner, by way of cross-examination, to introduce evidence to contradict his statements, the cross-examination must be directed to a material inquiry in the case, or to evidence establishing a hostile or unfriendly bias, against the party, in the mind of the witnesses. Carpenter v. Ward, 30 N. Y. 243, 245; Plato v. Reynolds, 27 Id. 586 ; First Baptist Church v. Brooklyn Fire Ins. Co., 28 Id. 153; Chapman v. Brooks, 31 Id. 75, 87; Stokes v. People, 53 Id. 164, 175-6; Schultz v. Third Ave. R. R. Co., 89 Id. 243.\nThe evidence which was received concerning the commission of the other offense was in direct contravention of this rule. By the ruling of the court it was taken for no other or different purpose, and it is to be presumed that it was only used as it was stated by the court it would be, in the consideration and determination of the case. This was a material error which could not be otherwise than prejudicial to the case of the defendant.\nThe judgment.should be reversed and a new trial ordered.\nDavis, P. J., and' Beady, J., concurred.\nThe judgment was affirmed by the Court of Appeals, May 8, 1888. No opinion was written.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "William F. Kintzing and George L. Simonson, for appellant.",
+      "John McKeon, district attorney, and A. J. Requier (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nMarch, 1883.\nPEOPLE v. WARE.\nEvidence.\u2014Contradiction on Collateral Matter.\u2014Intent.\nUpon the trial of an indictment for robbery, the prisoner having been asked by the prosecution on cross-examination, if he had not committed a similar crime under similar circumstances, a short time previous to that for which he was on trial, and having denied the fact, it is error to admit evidence in contradiction of the prisoner\u2019s testimony as to said alleged occurrence and showing the commission of the said offense by him, for the purpose of affecting his credibility as a witness.\nWhere by the ruling of the court, such evidence is taken for no other or different purpose than to affect defendant\u2019s credibility by the contradiction, it must be presumed that it was so used in the determination and consideration of the case.\nIt seems, that the reception of such evidence cannot be justified on the theory that evidence as to the occurrence of such former offense was admissible and went to the issues, as showing the prisoner\u2019s intent in the commission of the offense for which he was indicted, and that, therefore, it was competent to contradict his testimony in regard thereto. In this case it was held that the occurrences constituting the crime for which prisoner was indicted, themselves furnish sufficient evidence of intent.\nAppeal by defendant from a judgment of the Court of General Sessions of Hew York, convicting him of the crime of robbery in the first degree.\nThe cause was tried before Recorder Smyth and a jury, on November 20, 1882, and resulted in the conviction of the accused, who was thereupon duly sentenced to imprisonment in the State prison for the term of fifteen years.\nThe prosecution showed by the testimony of the complainant, Wing Gee, a Chinaman, and others who corroborated him, that, on October 23, 1882, the defendant and two other persons, entered his laundry in the City of New York; that there were two persons besides himself in the laundry who were bound by said men; that the prisoner, Ware, presented a pistol at the witness\u2019 head, while his two associates tied his hands and feet; that the prisoner then forced open a trunk, and took out $40 belonging to the witness, one of the men standing beside witness and pointing a pistol at his head, while the prisoner did so; and that they then withdrew, taking the money with them.\nThe prisoner, Ware, in support of his plea of not guilty, elected to be sworn as a witness in his own behalf, and gave testimony to show an alibi, which was in some degree corroborated.\nOn the cross-examination of Ware, he was asked, in substance, whether he had not, with two other men, committed a similar act in a similar manner, upon the person and property of another Chinese laundryman, four days prior to that sought to be proved upon the trial, namely, on the night of October 19, 1882; and, upon his answering in the negative, the fact was, against the appellant\u2019s objection and exception, testified to by two witnesses.\nAfter the rendition of the verdict, defendant\u2019s counsel moved for a new trial, upon the ground that the court erred in permitting the prosecution to contradict the defendant\u2019s testimony as to the alleged occurrence of October 19, which motion was denied and an exception taken.\nFurther facts appear in the opinion.\nWilliam F. Kintzing and George L. Simonson, for appellant.\nWitness cannot be cross-examined as to any fact which is collateral and irrelevant to the issue, merely for the purpose of contradicting him by other evidence, if he should deny it, thereby to discredit his testimony. Greenl. Ev. \u00a7 449, p. 504; Spenceley v. De Willott, 7 East, 108; 1 Starkie Ev. 134; Phil. & Am. Ev. 910; Lee\u2019s Cases, 2 Lewin's Cr. Cas. 154; Harrison v. Gordon, Id. 156 ; Coombs v. Winchester, 39 N. H. 1; Henmar v. Lester, 12 C. B. N. S. 776; Com. v. Shaw, 4 Cush. (Mass.) 593; Elton v. Larkin, 5 C. & P. 385 ; Harrington v. Lincoln, 2 Gray, 133; Com. v. Hunt, 4 Gray, 421; Com. v. Buzzell, 16 Pick. 158; Harris v. Wilson, 7 Wend. 57; Lawrence v. Barker, 5 Wend. 304; State v. Patterson, 2 Iredell, 346; Smith v. Henry, 2 Bailey, 118 ; Goodhand v. Benton, 6 Gill & Johns. 481; Hughes v. Rogers, 8 M. & W. 123; Howard v. City Fire Ins. Co., 4 Den. 502; Seavy v. Dearborn, 19 N. H. 355. If a question is put to a witness which is collateral or irrelevant to the issue, his answer cannot be contradicted by the party who asked the question, but it is conclusive against him. Greenl. Ev. \u00a7 449, p. 501; Harris v. Tippett, 2 Camp. 637; Odiorne v. Winkley, 2 Gall. 51-53 ; Ware v. Ware, 8 Greenl. 52; Lawrence v. Baker, 5 Wend. 301-305; Meagoe v. Simmons, 3 C. & P. 75; Crowley v. Page, 7 C. & P. 789 ; Palmer v. Trower, 14 Eng. L. & Eq. 470.\n\u2022 Testimony of defendant\u2019s guilt or participation in the commission of a crime wholly unconnected with that for which he is put on trial, cannot be admitted. Roscoe's Cr. Ev. 7 ed, p. 92, and note; Com. v. Call, 21 Pick. 215; Dunn v. State, 2 Ark. 229; Bottomley v. United States, 1 Story, 135. Nor is it allowable to show, on the trial of an indictment, that the defendant has a general disposition to commit crime. 1 Roscoe's Cr. Ev. 57; 1 Leigh, 574; Barbour's Crim. Law, 2 ed. 395. 'Nor is it competent to prove other acts going to establish another distinct offense, for the purpose of raising an inference that defendant has committed the offense for which he is on trial. 2 Russell Crimes, 6 ed. p. 776. Nor is it competent to prove other acts going to establish another distinct offense for the purpose of proving criminal intent, unless the character of the evidence in the case upon trial, is such as requires explanation in order to enable the jury to come to a proper conclusion in the premises; but in this case, the act, if proven, is itself sufficient evidence of intent. Rex v. Winkworth, 4 C. & P. 444; Mayer v. People, 80 N. Y. 364; 1 Phillips' Ev. 765-772; Cowen, Hill\u2019s and Edwards\u2019 Notes, 4 Am. edition.\nJohn McKeon, district attorney, and A. J. Requier (assistant), for the people, respondent.\nBy the Code of Criminal Procedure, a proceeding by indictment is now a criminal action (Code, \u00a7\u00a7 5, 273, 332), in which the people are plaintiffs and the prisoner, defendant; and the issues can be found in the pleadings alone. The matters directly in issue here were the truth or falsity of two allegations: one as to the act and the other as to the intent charged on the one side and denied on the other. Such being the issues defined by the pleadings, no mere contention of the defendant in proof could alter or modify them; and they constitute, of necessity, the sole test of the competency of all the proofs adduced upon the trial. But the defense, as shown by the proof, viz., an alibi, was in accordance with the plea, and denied both act and intent. Like offenses, perpetrated at what the court, in its discretion, may regard as a sufficiently proximate period, before or after the act charged, can be proved as bearing upon the question of intent. Shipply v. People, 86 N. Y. 380; Mayer v. People, 80 Id. 373; People v. Shulman, Id. 373 n.; Weyman v. People, 62 Id. 623; Hope v. People, 83 Id. 427; Pontius v. People, 82 Id. 339 ; Maine v. People, 9 Hun., 113 (a case of abortion); Pierson v. People, 18 Id. 239; People v. Spielman, 20 Alb. L. J. 96 ; 3 Greenl. Ev. \u00a7 15 ; Reg. v. Briggs, 2 Moody & Rob. 199; a case, like this, of robbery, where proof of a prior robbery was allowed to be shown, to contravene the defense of an alibi. Rex v. Winkworth, 4 C. & P. 444; another case of robbery ; Wood v. United States, 16 Peters, 360.\nHere the existence of a felonious intent, traversed by the defendant\u2019s plea and denied by the defendant\u2019s proof, was directly in issue; proof of his having done a similar thing by similar methods, to a similar class of persons, shortly before, was immediately relevant to the issue, as bearing upon the question of intent; wherefore he was properly allowed to be interrogated, on cross-examination, as to whether he had done it ol' not; and when he denied the fact, he was, with equal propriety, permitted to be contradicted, in order thereby to affect his credibility."
+  },
+  "file_name": "0166-01",
+  "first_page_order": 190,
+  "last_page_order": 196
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1164471,
+  "name": "PEOPLE ex rel. BORK v. GILBERT",
+  "name_abbreviation": "People ex rel. Bork v. Gilbert",
+  "decision_date": "1883-05",
+  "docket_number": "",
+  "first_page": "398",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 398"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "18 N. Y. 128",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021216
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0128-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 257,
+    "char_count": 4372,
+    "ocr_confidence": 0.54,
+    "pagerank": {
+      "raw": 4.357577154540725e-08,
+      "percentile": 0.27369549344382627
+    },
+    "sha256": "d7b24c56b895527e8643045e149448bce43d6c363bffa699c37705fa91dc2514",
+    "simhash": "1:f1803c17b30d3440",
+    "word_count": 777
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE ex rel. BORK v. GILBERT."
+    ],
+    "opinions": [
+      {
+        "text": "Macomber, J.\nAfter the verdict of the jury, in 1881, convicting the prisoner Bork of the crime of embezzlement, the case was removed by certiorari from the court of Oyer and Terminer to this court. That process removed the entire record from the Oyer and Terminer to this court. The conviction being affirmed in the General Term, the case w'as taken to the Court of Appeals by a writ of error, and that court affirmed the decision, and remitted the case to the Oyer and Terminer to pronounce judgment, which had not before been done. The certiorari and writ of error transferred the case out of the. Oyer and Terminer completely, so that there was nothing pending m that court.\nThe provisions of the Criminal Code preserving the old organization of the court of Oyer and Terminer in cases pending therein, have no application to this case. For when the Court of Appeals directed that the Oyer and Terminer pronounce judgment, and remitted the case to the Oyer and Terminer, the court was organized solely by one justice of the Supreme Court, the statute saying that the Court of Oyer and Terminer is held by one justice without any associate.\nThis court, at a recent general term, in the cas\u00e9 of Ostrander v. People, \" held that, in a case that had been taken to the Court of Appeals, the statute having been changed in the mean time, the court of Oyer and Terminer was organized by a single judge without any associate.\nIt is sought, by counsel for the prisoner here, to apply that decision to the case of Bork, so that he may receive his discharge because he was sentenced by a tribunal illegally constituted. It has been held in this state, uniformly, since the case of Cancemi v. People, 18 N. Y. 128, that in the matter of the organization of the court, in cases of felony, nothing that goes to the composition or jurisdiction of the court can be waived, even by the prisoner.\nThe sole question in this case is whether the court that pronounced this sentence, was a court at all\u2014whether it was a body of persons having no jurisdiction, or whether the error of' allowing the two justices of Sessions to sit there, was a mere irregularity. If their presence was a matter of substance; if it can be clearly seen that their presence necessarily affected the judgment, it would doubtless be regarded as a matter of jurisdictional import, and the sentence doubtless would have to be vacated and the prisoner remanded to that court for a new sentence. But, in my judgment, it was a mere irregularity; a justice of this court was present; the judgment of the court was pronounced by him; it was at a term of the Oyer and Terminer, over which a justice of this court alone can preside. The circumstance that he called upon two men, who were justices of Sessions, to sit by his side, is of no more significance than if he had called upon two personal friends to sit on the bench with him. If the prisoner had any reason to believe that the presence of these gentlemen on the bench would affect his case prejudicially to him, an objection should have been made, and, if objection had been made, it doubtless would have been regarded as a good objection, and would have been sustained, and the presiding justice would have dismissed these two gentlemen, who happened to be justices of Sessions.\nThis is all there is of the case; it is all that can be said about it. I must remand the prisoner to the custody of the warden of the state prison at Auburn.\nReported, ante, page 374.",
+        "type": "majority",
+        "author": "Macomber, J."
+      }
+    ],
+    "attorneys": [
+      "Norris Morey, for motion.",
+      "E. W. Hatch, district attorney of Erie county, R. L. Drummond, district attorney of Cayuga county, and E. A. Woodin, opposing."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014Special Term\u2014Seventh district.\nAuburn,\nMay, 1883.\nPEOPLE ex rel. BORK v. GILBERT.\nConstitution of Oyer and Terminer.\u2014What is an Irregularity.\nA court of Oyer and Terminer is held by a justice of the Supreme Court sitting alone.\nBut the fact that two justices of Sessions sat with the justice of the Supreme Court upon sentencing the prisoner, is a mere irregularity which does affect the jurisdiction of the court.\nMotion to discharge the prisoner, Joseph Bork, on writ of habeas corpus.\nAfter the denial of the application for a certificate staying execution of sentence in this case (reported ante, p. 893), this motion was made by the prisoner on the grounds appearing in following opinion, written upon the denial of the motion.\nNorris Morey, for motion.\nE. W. Hatch, district attorney of Erie county, R. L. Drummond, district attorney of Cayuga county, and E. A. Woodin, opposing."
+  },
+  "file_name": "0398-01",
+  "first_page_order": 422,
+  "last_page_order": 424
+}

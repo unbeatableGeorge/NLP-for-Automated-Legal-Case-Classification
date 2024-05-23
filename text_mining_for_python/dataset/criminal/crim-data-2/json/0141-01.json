@@ -1,0 +1,526 @@
+{
+  "id": 1167684,
+  "name": "PEOPLE ex rel. McDONALD v. KEELER",
+  "name_abbreviation": "People ex rel. McDonald v. Keeler",
+  "decision_date": "1884-05",
+  "docket_number": "",
+  "first_page": "141",
+  "last_page": "159",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "103 U. S. 195",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Johns. 395",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372312
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0395-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. 75",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Tex. 436",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2048303
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tex/14/0436-01"
+      ]
+    },
+    {
+      "cite": "4 Am. Law Reg. 27",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ired. 199",
+      "category": "reporters:state",
+      "reporter": "Ired.",
+      "case_ids": [
+        11274259
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/27/0199-01"
+      ]
+    },
+    {
+      "cite": "25 Miss. 183",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        8838297
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/25/0183-01"
+      ]
+    },
+    {
+      "cite": "2 Sandf. 724",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1360239
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/4/0724-01"
+      ]
+    },
+    {
+      "cite": "2 Bay, 182",
+      "category": "reporters:state",
+      "reporter": "Bay",
+      "case_ids": [
+        8672507
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/2/0182-01"
+      ]
+    },
+    {
+      "cite": "1 Breese, 226",
+      "category": "reporters:state",
+      "reporter": "Breese",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Blackf. 166",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "case_ids": [
+        1389299,
+        1389437
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/blackf/1/0166-02",
+        "/blackf/1/0166-01"
+      ]
+    },
+    {
+      "cite": "4 S. & M. 749",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "case_ids": [
+        365393
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/12/0749-01"
+      ]
+    },
+    {
+      "cite": "2 Am. Law Reg. 44",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Bibb 602",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts & Serg. 275",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478213
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0275-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 318",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wheat. 38",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1503004
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/20/0038-01"
+      ]
+    },
+    {
+      "cite": "8 Abb. 27",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Hun, 214",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Gray, 226",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2091520
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/80/0226-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y. 391",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Hun, 626",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Gray, 468",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2077127
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/69/0468-01"
+      ]
+    },
+    {
+      "cite": "9 Johns. 396",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ill. 135",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        6098626
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/5/0141-01"
+      ]
+    },
+    {
+      "cite": "21 Wend. 563",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2151900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/21/0563-01"
+      ]
+    },
+    {
+      "cite": "26 N. Y. 469",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "533"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. Y. 463",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Abb. 176",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 380",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 N. Y. 532",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2018085
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/15/0532-01"
+      ]
+    },
+    {
+      "cite": "4 Hill, 152",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 N. Y. Crim. Rep. 82",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167726
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/2/0082-01"
+      ]
+    },
+    {
+      "cite": "3 Ed. Ch. 458",
+      "category": "reporters:state",
+      "reporter": "Edw. Ch.",
+      "case_ids": [
+        488372
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/edw-ch/3/0458-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 571",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532822
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/72/0571-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 182",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519171
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/56/0182-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y. 559",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523196
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/60/0559-01"
+      ]
+    },
+    {
+      "cite": "120 Mass. 118",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        738895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/120/0118-01"
+      ]
+    },
+    {
+      "cite": "6 Wheat. 204",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11729899
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/19/0204-01"
+      ]
+    },
+    {
+      "cite": "6 N. Y. 366",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Hill, 140",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Wheat. 598",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11731452
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/19/0598-01"
+      ]
+    },
+    {
+      "cite": "103 U. S. 168",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1522273
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/103/0168-01"
+      ]
+    },
+    {
+      "cite": "10 Abb. Pr. 168",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Gray, 226",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2091520
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/80/0226-01"
+      ]
+    },
+    {
+      "cite": "5 Hun, 626",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Gray, 468",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2077127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/69/0468-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. 463",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1451,
+    "char_count": 41464,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.37626498687761334
+    },
+    "sha256": "fda64814b6f08db8a0ca42d8d4a677eaf195d1346264d761be8b3168c675c582",
+    "simhash": "1:3c21fd037da2f877",
+    "word_count": 7279
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Bockes and Boardman, J J., concur."
+    ],
+    "parties": [
+      "PEOPLE ex rel. McDONALD v. KEELER."
+    ],
+    "opinions": [
+      {
+        "text": "Learned, P. J.\nAn idea has undoubtedly prevailed, and has had some judicial sanction, that congress and the legislatures of the states succeeded to all, or nearly all, those powers which were known under the general name of privileges of\u2019 Parliament, and which are stated in general language by Blackstone. (1 Bl. Comm. 163, et seq.) It was in accordance with this idea that, in 1870, the Assembly of this state summoned before itself a justice of the Supreme Court to answer for a judicial act done by him while sitting as one of the judges of the Court of Oyer and Terminer. Fortunately the Assembly, in the end, contented itself with a1 harmless vote, to the effect that the justice had, without bad intention, committed a breach of privilege. In Matter of Platt Potter (Potter's Dwarris on Stat. 573), it is known that the power of the Assembly would have been contested if any attempt had been made to punish the justice.\nThis idea of inherited privileges, and especially of inherited power to punish as for contempt, is set forth very fully in Wichelhausen v. Willett, 10 Abb. Pr. 168. It is made, also, a part of the argument for the respondent in this case (by counsel representing the Senate) where he insists that the Legislature has succeeded to the whole of the Parliamentary law of England so far as it is not withheld by or repugnant to the Constitution, including the power to punish for contempt. It is urged by the counsel for the respondent, that this power existed in the colonial legislatures, and has thus come down from them to the legislature of the States. And the counsel cites instances of the exercise of this power by the Colonial Council and Assembly. It may therefore be worth while to examine this claim of power.\nIn the case of Doyle v. Falconer, Law Rep. 1 Priv. Council, 328, the matter was examined. It was shown that the legislative assembly of an English colony does not possess the power of punishing a contempt, though committed in its presence, and by one of its members ; that such authority does not belong to a colonial house of assembly by analogy to the lex et consuetudo parliament which is inherent in the two houses of parliament or to a court of justice which is a court of record. This same doctrine had been previously held in Kielley v. Carson, 4 Moore P. C. Cases, 62, and in Fenton v. Hampton, 11 Moore P. C. Cases, 347. These cases overruled that of Beaumont v. Barrett, 1 Moore P. C. Cases, 59, in which it had been held (as it seems to be here claimed by the respondent\u2019s counsel) that the power of punishing for contempts was' inherent in every assembly that possesses a supreme legislative power. It is shown in these cases, and the doctrine is again confirmed in Kilbourn v. Thompson, 103 U. S. 168, that, so far as this power of punishing for contempt belonged to the House of Commons, it existed, not because that was a representative body with legislative functions, but because it was a part of the high court of parliament, a judicial body, the highest court of the realm, which had always possessed this power by ancient usage.\nThis view is again stated in Speaker v. Glass, Law Reports, 3 Privy Council Cases, 560. In that case Parliament .had expressly given to a Colonial Legislature the right to define its privileges, provided they did not exceed those of the House of Commons; The Colonial Legislature, under that authority, had defined its privileges, etc., to be the same with those of the House of Commons. It was held therefore, that, by this act of Parliament, there had been given to that Colonial Legislature the same power of punishing for contempt as is possessed by the the House of Commons. Thus the case recognizes the law that, unless by the express enactment of Parliament, a Colonial Legislature had no power of punishing for contempt. That question should be deemed settled.\nThen the inquiry is presented: Did Parliament, or the English government, ever grant to the colonial legislature of Hew York the privileges of Parliament, or this one of those privileges now under consideration ? We cannot do better than, to quote from the very able and learned opinion of Mr. JusticeWestbrook in this case, upon this point: \u201cHo such bestowal; of authority can be found in the charter issued by Charles I. to his brother James, Duke of York, in 1669, nor in any act of Parliament. It is unnecessary to detail the mode and manner, of the government of Hew York, while under English rule.. It is enough to state that, instead of the absolute power of Parliament- being conferred upon\" the colonial legislature, or upon the people themselves, its laws were made subject to royal approval ; and even the Charter of Liberties, passed on the 17th day of October, 1683, by the Assembly, was veto\u00e9d by James (the same Duke of York) when he became King in 1686, and the act of 1691 shared the same fate. 2 Baneroft's Hist. U. S. 412 ; 3 Id. 56, 101; 2 R. L. 1813, note on page 6 of appendix. See also introduction to New York Civil List, 1883, page 69, &c.\nIn that Charter of Liberties, the only power claimed in this respect is that the representatives shall be the judges of the qualifications of their own members, and may purge their house as they see occasion.\nBut without going over the history of colonial authority, it if enough to say that the counsel for the respondent has cited us to no grant from the English Parliament or from the Crown, which conferred upon the colonial legislature the privileges of Parliament, and unless these privileges were expressly given, the power to legislate, as has been shown, carried with it no power to punish for contempt. We are brought to the belief that the exercise of that power, though submitted to by the sufferers, and even though supported by colonial courts, was in violation of the law of England as above set forth. Some of the instances cited by counsel would be plainly illegal at this day.\nIt is, however, urged by the counsel for the respondent that the thirty-fifth section of the first Constitution of the State, that of 1778, declared that such parts of the common law as formed the law of the colony should continue ; and the counsel urges that this privilege of Parliament was a part of the common law, and hence that it was continued in force. ' Now it is at least doubtful whether the phrase, common law, there used, included the privileges of Parliament. The fundamental idea of common law is that it was common to all the subjects of the realm, while privileges of Parliament, though well established, were exceptional rights. But however this may be, we have seen, from the cases cited, that the doctrine of the common law (if it be properly so called) was not that every legislative body possessed the power of punishing for contempt, in case of refusal to answer questions, but that such power belonged to courts; and that it had come to the houses of Parliament as parts of the high courts of the realm. If therefore the Constitution of 1778 continued the law on this point as part of the common law, it gave thereby no authority to punish for such contempts to the Assembly or -Senate, to which bodies was given simply legislative power '(section 2, Constitution 1778); for the Legislature of the State was not Parliament, and was not a court.\nThere is another section of that Constitution, the ninth, which declares that the Assembly (not the Senate) shall enjoy the same privileges as the assemblies of the eolony of New York of right formerly did. We have already-seen, by the decisions of the English courts, that the Colonial Assemblies could not have enjoyed of right the privileges of \u2018committing for contempt in refusing to answer, unless that privilege had been granted expressly by the English government, and that no such grant is shown.\nThe Constitution of 1821 omits any such clause, and merely provides that each house shall be the judge of the qualifications of its own members. The same is true of the Constitution of 1846. Thus the somewhat indefinite grant of power, by reference to the powers of the assemblies of the colony, is taken away. The comment of the revisers of the statutes Edmonds\u2019 Ed. vol. 5, p. 517) is of no weight, inasmuch as they were not the authors of the Constitution of 1821, and as they base their opinion upon Anderson v. Dunn, 6 Wheat. 598, which has been overruled by Kilbourn v. Thompson, ut supra. Hence we may conclude that the right of the Senate \u201c to punish a citizen for contempt of its authority, or a breach of its privileges, can derive no support from the precedents and practices of the two houses of the English Parliament, nor from the adjudged cases in which the English courts have upheld these privileges.\u201d Kilbourn v. Thompson, ut supra. Although that decision was made in a case arising upon a commitment by the House of \u00a1Representatives, still the argument and the language are appropriate to the present case. The fact that the Federal Government is one of limited extent does not, in any way, affect the argument as to the powers of its legislative bodies, in respect to the matters which belong to Federal control. All legislative power on matters within the authority of the Federal Government is given to Congress, just as in this State, the legislative power is given to the Senate and Assembly. Whether that gift of power carries with it the privileges of the English Parliament, is practically the same question in each case, when it is shown that those privileges belonged to Parliament as a court, and not therefore to every legislative body.\nAnother point is to be noticed. The question before us does not touch, in any way, the power of the Senate, or Assembly, to keep order in its own rooms, to judge of the qualifications of its members, and to expel them from improper conduct. To say that they may do this is but to say that they have the common power of a peaceable assemblage to keep order, and expel disorderly persons. That power is not a question here. Hiss v. Bartlett, 3 Gray, 468; Cooley Const. Lim. 133; Bradlaugh v. Gossett, Law Rep. 12 Q. B. Div. 271.\nIt has been seen, in the cases above cited, that, while denying that a mere legislative assembly, as such, has power to punish for contempt in refusing to answer questions, the cases have admitted that this power resides \u2022 in courts. The reason for this is that, while legislation is the establishing of rules for the future, judicial action is the deciding upon the past, and awarding punishment or recompense to litigants. Hence it is necessary that the litigants should be enabled to show to the court, by witnesses, the truth as to the past. Hence the power to punish a refusal to answer.\nHere then we must notice that by the constitution the legislature has certain judicial powers. Each branch is the judge of the qualifications of its own members. Art: 3, \u00a7 10. This power is judicial in character, though often partisan in fact. There is a power to remove certain judicial officers. Art. 6, \u00a7 11. There is a power of impeachment. Art. 6, \u00a7 1. These are judicial powers. They imply a decision on past occurrences and a giving judgment accordingly. It may be, therefore, that in all actions of this kind, the senate and the assembly may rightfully enforce the same power of punishing for refusing to answer questions which is exercised by courts. These cases, therefore, we exclude from consideration. The relator was not examined in any such case.\nAside from these cases, the Constitution gives the Senate and Assembly only legislative power. Judicial power, on the other hand, is vested in the courts named in the Constitution, and in such inferior courts as may be created. And it is evident that the grant of judicial power to the courts is an implied prohibition of its assumption by the legislature, except as authorized by the Constitution. Leggett v. Hunter, 19 N. Y. 463. \u201cAll the powers entrusted to government, whether State or national, are divided into three grand departments: the executive, the legislative and the judicial. It is also essential to the successful working of this system that the persons \u25a0 entrusted with power in any one of these branches shall not be permitted to encroach upon the powers confided to the others; but that each shall, by the law of its creation, be limited to the exercise of the power appropriated to its own department and no other.\u201d Kilbourn v. Thompson, supra. It would hardly be claimed that the legislature could make itself, or one of its branches, an appellate tribunal from the Court of Appeals, or that it could authorize either of its branches to try a person indicted for murder, or to try a civil action.\nIt is further claimed, on the part of the respondent, that, under 1 R. S. m. p. 154, \u00a7 3, sub. 4, the senate was authorized to imprison the relator. Mow we must here notice that nothing is gained by calling the act for which a person may be imprisoned, according to that statute, a breach of privilege. It has already been shown that privileges, as known in the English Parliament, do not necessarily belong to these legislative bodies of Senate and Assembly. Whatever authority they have comes from the Constitution. If the Constitution, fairly construed, gives them authority to enact a law of this kind, then the law is valid ; otherwise not. Taylor v. Porter, 4 Hill, 140; Powers v. Bergen, 6 N. Y. 366.\nWhat then is the nature of the punishing for contempt in 'refusing to answer ? It is clearly judicial. It includes the deciding upon a question of fact, viz.: whether the alleged act has been committed ; and upon a question of law, viz.: whether the inquiry was material, and the further determination of the proper punishment to be inflicted. So the resolution of the Senate shows under which McDonald was committed. It recites that he has been \u201c declared guilty \u201d' and \u201c convicted \u201d and it announces a punishment. The conclusion then is inevitable that the proceeding was judicial, involving a trial and a punishment for wrong-doing.\nWhen courts punish .a witness for refusing to answer, their act is one in aid of a judicial proceeding, viz., the litigation which is then pending. It is also itself a judicial act; a trial before the court then sitting, instead of, or it may be, in addition to, a trial before some other court. It is done in aid of the interest of litigants, who have a right to know the facts which the witness refuses to disclose. It is for their sake that this light has always been exercised.\nIf then this statute be valid, the legislature can confer upon itself judicial authority to try, convict and punish. We see no. warrant for'this in the Constitution. It might be that the. legislature could authorize the Governor, in matters committed to him, such, for instance, as the granting of pardons, to receive-the testimony of witnesses. Would it be thought a lawful exercise of power to authorize the Governor to punish for contempt a witness who should refuse to answer ? Certain corporations are required to make on oath, returns to certain state officers. Could these officers be vested with a power to punish as for contempt a refusal to make such returns ?\nWe are not here called upon to say that the legislature cannot pass a valid law, requiring witnesses to testify before committees who are engaged in proper investigations, and declaring a refusal to be a misdemeanor. The question here raised is as to the power of a branch of the legisluture itself to punish for the violation of such a law. The statutes of every year are full of provisions requiring citizens to do some act. The refusal to do the act is usually a misdemeanor. Can the legislature, or a branch of it, try the offender? Certainly not. By what right then can the legislature assume judicial authority in this case rather than in any other ?\nBut it may be urged that the right to summon a witness and to hear testimony, necessarily includes a right to compel the giving of testimony by imprisonment. By no means. Passing, for the present, the question as to the right of the legislature to take testimony for mere legislative purposes, we shall see that, even in courts, the right to punish a witness by imprisonment does not always exist; as, for instance, in justices\u2019 courts. Code Civ. Pro. \u00a7 2974. The contempts which a justice may punish as criminal are few; and the refusal to testify is not one of them. Section 2870. The aggrieved party is left to his action for damages. Section 2979. And the witness remains probably subject to punishment in a criminal court. Penal Code, \u00a7 143, sub. 6.\nAnd certainly if we were to consider the question, not as one of law, but as one of wise protection to the witness, it would be best that his punishment for a refusal should be left' to the courts. In trials before courts there are opposite parties. The witness appears for one or the other, and he is practially within the protection of the party for whom he appears. If there be a doubt as to his obligation to answer some question, he is sure to be protected by the arguments of one side or the other. And no decision is made until the matter has been fairly considered. But in a case like the present it is very different. The committee of the senate is investigating; searching for facts in any way and by any questions. There is no impartial tribunal to decide whether the question is proper or not. The senate prosecutes the inquiry ; the senate decides the question to be proper; the senate refuses to allow the witness counsel; and the senate sends him to jail.\nWe pass to consider some authorities. That of Anderson v. Dunn, 6 Wheat. 204, is usually relied upon to sustain the inherent power of legislative bodies to punish\" for refusal to answer. It is followed in Wichelhausen v. Willets, supra, and is the basis of the dietum in 1 Kent Com. 236. It is enough to say that it is overruled by Kilbourn v. Thompson, supra, and by Kielley v. Carson, supra. The case of Burnham v. Morrison, 14 Gray, 226, rests upon an express provision in the constitution of Massachusetts. Furthermore, in the opinion it is stated that: \u201c The house of representatives is the grand inquest for the commonwealth, and as such has power to inquire into the official conduct of all officers of the commonwealth, with a view to impeachment.\u201d We have already said that the present case does not belong to that part of the powers of the senate. Hor is the senate in any case, an impeaching body. In Whitcomb\u2019s case, 120 Mass. 118, it was held that the legislature could not confer upon a body not judicial the power to punish for contempt. In People v. Learned, Sup. Ct. 5 Hun, 626, the principal' argument of the .counsel in behalf of the power to punish, rested on the position that the body, to which the power had been given, was a court. On the other hand, the counsel for the prisoner, led by the decision in Anderson v. Dunn and the like, admitted in argument the existence in legislative bodies of the power to punish for contempt in refusing to answer. On these lines of argument, therefore, it is not strange that the opinion in that case has not a word on the question here involved. That case was taken to the Court of Appeals ; and when it came on to be argued, the attorney-general stipulated not to enforce the warrant of commitment, and, against the protest of the prisoner\u2019s counsel, the court refused to hear the argument. 16 Alb. L. J. 96. This course was the more noticeable, as there were, in fact, other witnesses than Dennison who had in like manner refused to answer.\nBut again it is urged that, assuming that there may be some cases in which the senate might imprison for refusal to answer, (as, for instance, in the trial of charges against judicial officers), then the senate is the sole judge of the proper exercise of its powers, and the court can not interfer. But the contrary was held in Kilbourn v. Thompson, ut supra. In that case the court, passing the question whether the house of representatives might not commit for refusing to answer in a proper investigation, and admitting that the house might commit for a refusal to answer in election cases and the like, yet claimed for itself the right to examine whether, in the case then in question, the power was lawfully exercised. And in the language of the court in that case: \u201cWe cannot' give our assent to the principle that, by the mere act of asserting a person to be in contempt, they (the senate) thereby establish their right to fine and imprison him, beyond the power of any court or other tribunal to inquire into the grounds on which the order was made.\u201d To the same effect are some of the remarks in Burnham v. Morrissey, supra.\nIt may, however, be said that section 2032, subdivision 3, Code Civil Procedure, required the court to remand the prisoner. In the case of commitment by courts the aggrieved party has his remedy by appeal or certiorari, as the case may be. Hence he should not be allowed to review by habeas corpus. There seem to be exceptions, even in these cases. People ex rel. Tweed v. Liscomb, 60 N. Y. 559. But in the present case there can be no review of the action of the senate by appeal or certiorari. It must then be the right of the aggrieved party to bring his case before the court. To hold that the legislature could commit for contempt, and then could forbid all inquiry into the rightful exercise of the power, would be to take away the benefit of the writ of habeas corpus. Const. art. 1, \u00a7 4. Unless the question as to the lawfulness of McDonald\u2019s imprisonment can here be examined in every view, then the Senate, when not acting as a court, may imprison a man, and there can be no judicial protection to him whatever. But whether the witness was bound to answer depends on legal principles, on which he is entitled to a judicial decision. Stockdale v. Hansard, 9 Ad. & El. 1. It is the very basis of liberty that no person shall be imprisoned unless the right to imprison him has been, or may be, determined by the judiciary. People ex rel. Lawrence v. Brady, 56 N. Y. 182; Taylor v. Porter, 4 Hill, 140; Const. art. 1, \u00a7 1. It must be for the court to decide whether he is deprived of his rights \u201c by the law of the land.\u201d\nAnd it may further be observed that section 2032, subdivision 3, Code Civ. Pro. refer, for the definition of criminal contempts, to section 8. And section 8 limits the power to punish such contempts to courts of record, and thus limits such contempts to acts done in contempt of such courts.\nProbably the question as to the right of either branch of the legislature to make investigations is not necessarily before us. As long as witnesses are willing to answer questions, there seems to be nothing for the court to. decide. \u00d1or is it quite easy, when a question like the present does arise, to lay down a rule limiting the right of investigation. For the resolution of investigation perhaps need not express the ultimate object to be attained. And possibly the legislature might be in search of information which would aid in legislation for the future.\nIn the case of Kilbourn v. Thompson, however, already cited, the court examined the resolution under which the investigation was carried on ; and remarked that it contained \u201c no hint of any intention of final action by congress on the.subject,\u201d and, continuing, they said : \u201c Was it to be a fruitless investigation into the personal affairs of individuals ? If so, the house of representatives had no power or authority in the matter more than any other equal number of gentlemen interested for the government of their country.\u201d\nThe return to the writ of habeas corpus sets forth the warrant. This does not state the resolution of the senate, or the questions which McDonald refused to answer. A point may be made whether such a warrant is' good (Matter of Quin, 7 Abb. Dig. 402). By way of traverse to the return, the petitioner has set out the proceedings. The resolution recites that grave charges of fraud and irregularities have been made by the public press and the Union League Club against Hubert O. Thompson, Commissioner of Public Works of the city of Hew York; that in the opinion of many persons the charges have not been explained or refuted ; that it is important to taxpayers that heads of public departments should be beyond reproach ; and it then directs a committee of the Senate to investigate the department of public works in the city of Hew York. Ho further action is proposed by the resolution.\nThis department is not a state department. It is merely' one of the branches of the city government of Hew York. Except on account of the magnitude of its work, there is no more reason that the Senate should investigate this department, than that they should investigate the action of the highway commissioner of some town, charged with fraud and irregularities by the village newspaper and the frequenters of the village tavern. And it can be seen by this recital that this investigation was one appropriate for a grand jury. Ho legislation was proposed for the future. Ho redress could be given by the Senate for the past. If frauds had been committed, \u201c the case, being one of a judicial character, for which the powers of the courts usually afford the only remedy, it may well be supposed that those powers were more appropriate and more efficient in aid of such relief than the powers which belong to a body whose function is exclusively legislative.\u201d Kilbourn v. Thompson, supra. It has not been suggested, upon the argument, that any action could be taken by the Senate which would redress these alleged frauds and irregularities.\nIn the view, however, which we have taken, that, except when acting as a court, neither branch of the legislature has power to punish, as for contempt, the wrong-doing, if it be such, of a witness in not answering, we do not consider it necessary to decide whether, if he should be brought before a court in a proper manner, McDonald could successfully claim that the investigation was unwarranted.\nWe might leave the matter here. But other points have been argued which we will consider. W e come then to the specific questions, for refusing to answer which the witness was punished. These are not pointed out in the proceedings before the Senate. But an examination of the proceedings before the committee indicates that the following are the only questions which the witness refused to answer, when required:\nDo you keep books of this coal business ?\nDo you carry on your coal business any differently, or upon any different system, from what you do your business with the city ?\nHow much coal do you keep at your dock ?\nHow much business do you do in the way of coal ? I mean, all the time.\nGive me the name of somebody else besides Robert Gubbinsthat was breaking stone there for you ?\nWho are they (from whom you get chips) except the Tompkins Cove people ?\nSo far as we can discover, these are the only questions which the witness refused finally to answer, after the committee had insisted on his answering. We must assume therefore that these are the \u201c pertinent questions \u201d referred to by the resolution of the Senate.\nAs to the questions respecting the business of the witness, we cannot see the least pertinency to the subject of investigation. There does not appear to be anything connecting the coal business with the alleged frauds and irregularities. The questions were impertinent, should not have been asked, and need not have been answered.\nThe question as to who was breaking stone for witness is liable to the same objection. The resolution of the Senate did not permit an inquiry as to the persons employed by a witness, who was not himself an officer, or employee of the department.\nNor was the witness obliged to tell where he obtained the limestone chips. That was strictly his own business. No question was put tending to show that chips belonged to the city, before the witness delivered them. And if not, it was immaterial where he obtained them.\nThere had been many questions asked prior to these, which seem to have been even less material and less pertinent to the investigation than these. But the witness being at that time unattended by counsel, had answered them. Subsequently he procured counsel. His counsel was permitted to be present \u201c as a matter of curtesy,\u201d but upon his advising the witness not to answer certain questions, the committee refused any longer1 to recognize the right of the witness to have counsel; and thereupon the witness withdrew. Thus the committee appear to have been willing to have the counsel present so long as he gave no advice. The committee had their own counsel acting for them and conducting the examination. The course of the examination showed an intention to charge the witness himself as a party to the alleged frauds and irregularities.\nThe committee in the present case, after an executive session, formally ruled that \u201c all questions must be answered that do not tend to criminate a witness; that the committee will judge as to whether the questions asked will criminate the witness or not.\u201d Thus the committee insisted that questions should be answered, although they were immaterial, and although they would tend to degrade the witness. See People v. Brown, 72 N. Y. 571. The committee and their counsel naturally desired to get all the testimony which they thought might be of any use to them. They would not be likely to exclude questions put by their own counsel. And we see.no reason why the committee should have excluded a legal adviser of the witness, if he desired to have one present. It was unjust to the witness that he should be exposed to the imlimited examination of shrewd counsel without having any one to advise and protect him.\nNo complaint was made of any improper conduct on the part of counsel. He was excluded simply because, in good faith, he endeavored to protect his client against an improper course of examination. The case may not strictly come under the constitutional provision article I., section 6; because this proceeding was not a trial. But it seems to us a matter of common sense that a citizen, though he be a witness before a legislative committee, should have a right, in an orderly manner, to take advice of counsel as to matters which may seriously affect him or his business. This is not saying that the advice of counsel will protect him, should the court think the question was proper. It is only asserting the very common right of a citizen to take legal advice when he wishes. And the question was so decided in a similar case: Stewart v. Turner, 3 Ed. Ch. 458. There it was held that on the examination of a witness before a master in chancery, the witness -had a right, in the presence of a master, to consult his own counsel as to the propriety, or duty, of answering any question proposed to him.\nWe are therefore of the opinion\u2014\n1. That the questions put were immaterial and that the-witness was not bound t\u00f3 answer them.\n2. That the witness had a right to have the advice of counsel, in an orderly manner, and that, when this was refused, he was justified in withdrawing.\n3. That, except when engaged in the judicial functions authorized by the constitution, neither branch of the legislature has any power to punish as for contempt for refusal t\u00f3 answer a question.\n4. That the order refusing to discharge McDonald should be reversed and that he should be discharged.\nBockes and Boardman, J J., concur.",
+        "type": "majority",
+        "author": "Learned, P. J."
+      }
+    ],
+    "attorneys": [
+      "Thomas C. E. Ecclesine and Hamilton Harris, for relator.",
+      "Smith, Moak and Buchanan, for respondent.",
+      "Benjamin F. Tracy and Frederick W. Whitridge, for the Senate."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Third Department.\nMay, 1884.\nPEOPLE ex rel. McDONALD v. KEELER.\n(Reversing 2 N. Y. Crim. Rep. 82.)\nPower of the Senate to Punish Refusal to Answer Questions, is J-udioial, not Legislative.\u20141 R. S. m. p. 154, \u00a7 3, subd. 4, Unconstitutional.\u2014Witness in a Legislative Inquiry has Right to Counsel.\u2014 Code Civ. Pro. \u00a7 2032, subd. 3.\nExcept when engaged in the judicial functions authorized by the Constitution, the Senate of this State has no power to punish as for a contempt, a refusal of a witness to answer a question. This power of the Senate is only such as is given to it by the Constitution of this State. It is not derived or inherited from the privileges of the' English parliament. Punishing, as for a contempt, such a refusal to answer, is the exercise of a judicial power.\nThe provisions of 1 R. S. m. p. 154 \u00a7 3, subd. 4, giving to the Senate power to imprison a witness refusing to answer, is unconstitutional so far as the same relate to a legislative inquiry. T.he grant of judicial powers to the courts is an implied prohibition of their exercise by the legislature except as authorized by the Constitution. In cases where the Senate can imprison for refusal to answer, the courts have power to examine whether that power is lawfully exercised.\nThe provisions of the Code of Civil Procedure, \u00a7 2032, subd. 3, directing that prisoners brought up on habeas corpus shall be remanded to custody in certain cases, apply only to criminal contempts committed before courts of record.\nA witness in an inquiry before a legislative committee has a right in an orderly manner to take advice of counsel as to questions affecting him or his business, and when such right is refused, to withdraw.\nNor can such a witness be compelled to answer impertinent or irrelevant questions.\nAppeal by relator, William McDonald, from an order made by Justice Theodorio E. Westbrook, April 10, 1884, at th.e Albany Oyer and Terminer, dismissing the petition and the proceedings of said McDonald, to be discharged from imprisonment on a writ of habeas corpus.\n\u00a1For a statement of the facts see Justice Westbrook\u2019s opinion, ante, page 82.\nThomas C. E. Ecclesine and Hamilton Harris, for relator.\nSmith, Moak and Buchanan, for respondent.\nBenjamin F. Tracy and Frederick W. Whitridge, for the Senate.\nI. The Senate is a tribunal of competent jurisdiction, having power to punish for contempt. 1 E. S. 504, tit. 2, ch. 7, \u00a7 13, and see revisers\u2019 note.\na. The foregoing statute is constitutional. Neither the Constitution of 1821 nor that of 1846 contains any provision expressly authorizing such a statute or any of the provisions thereof, as that under which the Senate acted in this case. If, therefore, the statute is unconstitutional, the whole of it is so. Part of it cannot be constitutional and another part unconstitutional. Where the whole is without express constitutional authority or prohibition, yet some of the powers defined by the statute in. question are undisputed, as in the cases of impeachment and contested elections. It can only be contended that the statute is unconstitutional, by ignoring the well settled rule of constitutional interpretation that the State Constitutions are instruments which restrict power, and are not, like the Constitution of the United States, instruments which confer and enumerate powers. Sedgwick Constitutional Construction, 549, 550.\nb. The Legislature of the State of New York has succeeded to'the whole of the common law and parliamentary law of England in so far as the same is not prohibited by the Constitution, or is not dearly repugnant to some provision of the same. It possesses all the legislative powers not distinctively withdrawn from it by the Constitution, including the power to punish for contempt. Constit. of 1777, art. 35 ; Constit. of 1821, art. 7, \u00a7 13 ; Constit. of 1846, art. 1, \u00a7 17; Taylor v. Porter, 4 Hill, 152. This is aside from the question whether a State Legisla-* ture does not possess undelegated powers, that of punishing for contempt among others, and may not exercise all powers not withheld in express terms by the Constitution. On this question see the following authorities : Cushing Law and Pract. Legis. Assemblies, \u00a7\u00a7 677, 717; Cooley\u2019s Const. Lim. 133; People ex rel. Wood v. Draper, 15 N. Y. 532 ; People ex rel. Williams v. Dayton, 55 N. Y. 380; Wickelhausen v. Willett, 10 Abb. 176; Leggett v. Hunter, 19 N. Y. 463; Bank of Chenango v. Brown, 26 N. Y. 469; Cathcart v. Fire Department, 26 Id. 533; People v. Morrell, 21 Wend. 563; Mason v. Waite, 5 Ill. 135 ; Yates v. Lansing, 9 Johns. 396 ; Hiss v. Bartlett, 3 Gray, 468; People v. Learned, 5 Hun, 626; Potter Dwarr. on Stat. ch. 26.\nc. As to the power of Parliament to punish for contempt, see 3 Campbell, Lives of Chief Justices, 152 ; Rex v. Crosby, 3 Wills. 188 ; Burdett v. Abbott, 14 East, 1; Case of Sheriff of Middlesex, 11 Adol. & E. 273 ; Stockdale v. Hansard, 9 Adol. & E. 1; Howard v. Gosset, 10 O. B. 359 ; Case of Fernandes, 6 Hurlst. & N. 717; King v. Honor, 8 T. R. 314; Burdett v. Coleman, 14 East, 163; Burdett v. Coleman, 4 Hunt. 401; Brown Const. Law, 966 ; May Const. Hist. c. 9; May Treat, on Law of Par. 63; Halsett\u2019s Precedents; Wells Man. of Parl. Law; Wood, Man. of Parl. Law ; Trotter\u2019s Case, Hansard, 1st ser. vol. 6, 354.\nd. This power of Parliament to punish for contempt has been repeatedly exercised by both houses of Congress, and by the Colonial and State Legislatures of Hew York. Barclay\u2019s Dig. 179 ; Lawrence, J., arg.; Congress Rec., 42d Congress, 479; 1 Doc. Hist, of N. Y. 533; Smith Hist. of N. Y. 2, 403, 409; 1 Dunlap Hist. of N. Y. 1, 448 ; Journ. of Assem. Nov. 17, 1821; 4 Assem. Doc. 1837.\ne. The power of the Senate and Assembly to punish for contempt derived from Parliament and the Colonial Legislature, is not repugnant to the Constitution, which contains no express prohibition thereof. It is a necessary incident of the power of the Legislature in two cases, and obviously the power to examine witnesses is worthless without the power to compel them to testify. Upon that the whole investigating power of the Legislature stands. 0\nf. The case at issue arose strictly within the course of legislative power, to which the power to inquire and to punish for contempt is a necessary incident. The inquiry into the management of the Department of Public Works of \u00daew York city was to aid legislation which should prevent frauds and irregularities therein. This department is clearly within the scope of the Senate\u2019s legislative power. Wynehamer v. People, 13 N. Y. 391.\ng. The inquisitorial power is a desirable adjunct to the power of making laws. Cushing Law & Prac. of Leg. Assem. \u00a7 640 ; Burnham v. Morrissey, 14 Gray, 226; Wilckens v. Willett, 1 Keyes, 525; Smith Hist. of N. Y. 297.\nII. The court can inquiremnly as to the fact of the Senate\u2019s jurisdiction. That having been shown, the Senate is a competent tribunal, and the court will not interfere with the exercise of its sentence, the Senate being the sole judge of its powers. Ex parte Nugent, 1 Am. L. J. N. S.107; Burnham v. Morrissey, 14 Gray, 226; People ex rel. Catlin v. Neilson, 16 Hun, 214; People v. Kelly, 8 Abb. 27; 14 Am. L. Reg. 545 ; Hurd Hab. Corp. 414, 455 ; Brass Crosby\u2019s Case, 3 Wils. 183 ; Keavney\u2019s Case, 7 Wheat. 38; Yates\u2019 Case, 4 Johns. 318; McLoughlin\u2019s Case, 5 Watts & Serg. 275; Johnson v. Commonwealth, 1 Bibb 602; Ex parte Alexander, 2 Am. Law Reg. 44; State v. White, T. U. P. Charlt. 123; Ex parte Hickey, 4 S. & M. 749; State v. Tipton, 1 Blackf. 166; Clark v. People, 1 Breese, 226; Buckley v. Commonwealth, J. J. Marsh. 575; Gist v. Bowman, 2 Bay, 182; Matter of Smithhurst, 2 Sandf. 724; Lockwood v. State, 1 Carter, 161; Ex parte Adams, 25 Miss. 183; State v. Woodfin, 5 Ired. 199 ; Ex parte Williamson, 4 Am. Law Reg. 27 ; Jordan v. State, 14 Tex. 436; People v. Hackley, 24 N. Y. 75 ; Yates v. Lansing, 9 Johns. 395.\nIII. The jurisdiction of the Senate being shown, if the court inquires, as it should not, into the exercise thereof by the Senate, and into the fact and nature of the contempt, then it appears that the power of the Senate was properly exercised in this case, and that the contempt was clear. But even if the questions were immaterial and improper, the witness was guilty of contempt in consequence of his refusal to testify, and thereafter leaving the presence of the committee in flagrant disobedience to its subpoena.\na. The witness had no right of counsel. There was no proceeding in any court, or any tribunal of any kind where the right to be accompanied by counsel is secured to a witness.\nb. The case of Kilbourne v. Thompson, 103 U. S. 195, distinguishable from the present case. The gist of that decision is that legislative bodies cannot exercise their inquisitorial power concerning matters upon which they cannot legislate, whereas the Senate has in the present case undertaken to exercise it in a matter concerning which they can legislate, so that the cases are not analogous. Moreover there is nothing in Kilbourne v. Thompson which defines the scope of any inquiry undertaken in any case where\" the legislative body has jurisdiction or which indicates that it shall not be the sole judge of the proper exercise of its powers in any case in which it has jurisdiction.\nIT. The Penal Code, \u00a7\u00a7 69 and 719, does not abolish the right of the Legislature to punish for contempt. This objection is disposed of by section 677 of that Code.\nThis decision reverses the result, but affirms the reasoning of the same case in Oyer and Terminer, ante, p. 82. Judge Westbrook, in that court, after showing by a line of reasoning which is followed and approved by the General Term in the present opinion, that the relator should be discharged from custody, yet, very rightly, felt himself bound by the General Term decision, in People v. Learned, 5 Hun, 626, to deny the motion for the discharge, and leave to the General Term the disposition of this very important question."
+  },
+  "file_name": "0141-01",
+  "first_page_order": 165,
+  "last_page_order": 183
+}

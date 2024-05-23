@@ -1,0 +1,115 @@
+{
+  "id": 1164440,
+  "name": "PEOPLE v. COURTNEY",
+  "name_abbreviation": "People v. Courtney",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "573",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 573"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "39 Ohio St. 130",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        914214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/39/0130-01"
+      ]
+    },
+    {
+      "cite": "129 Mass. 115",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2133370
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/129/0115-01"
+      ]
+    },
+    {
+      "cite": "116 Mass. 17",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        719983
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/116/0017-01"
+      ]
+    },
+    {
+      "cite": "55 Me. 316",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Maine 581",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 7975,
+    "ocr_confidence": 0.574,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.3320261142638046
+    },
+    "sha256": "b99549a99103a67318b95f8a3a35a5f7f4eee965d35fc53538242efcd3ea9858",
+    "simhash": "1:81626104c47e8f73",
+    "word_count": 1389
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. COURTNEY."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, J.\nThe argument in support of the demurrer to the indictment rests upon three propositions; first, that by section 6, article 1, of the Constitution, no person can be compelled in a criminal case to be a witness against himself.; second, that the act, chapter 678 of the Laws of 1869, violates this constitutional provision ; and third, that false swearing on the trial of an indictment by the party indicted on his examination, under the act of 1869 is not therefore legal perjury. Whether the conclusion is a logical or legal deduction from the premises need not be considered, for the reason, that the minor premise is not well founded. The act of 1869 is permissive and not compulsory. It permits a person, charged with crime, to be a witness in his own behalf. But it does not compel him to testify, nor does it permit the prosecution to call him as a witness. He can be sworn only at his election, and the statute declares that his omission, or refusal to testify shall create no presumption against him. The policy of the act of 1869 has been criticised in some cases in this court. But the policy or propriety of a law is a legislative and. not a judicial question. The supposed moral coercion upon a person, accused of crime, to offer himself as a witness, byreason of the adverse inference which might be drawn from his omission to testify when presumably all the facts are known to him, is not compulsion ^within the meaning of the Constitution.\nThe Constitution primarily refers to compulsion exercised through the process of the courts, or through laws acting' directly upon the party, and has no reference to an indirect and argumentative pressure, such as is claimed is exerted by the statute of 1869. A law which while permitting a person accused of crime to be a witness in his own behalf, should at the same time authorize a presumption of guilt from his omission to testify, would be a law adjudging guilt without evidence, and while it might not be obnoxious to the constitutional provision against compelling a party in a criminal case to be a witness against himself, would be a law reversing the presumption of innocence and would violate fundamental principles binding alike upon the legislature and the courts. The act of 1869 expressly precludes such a presumption from the silence of the accused, and while it may be difficult for a jury in many cases to exclude the inference of guilt from an omission of a defendant to be sworn, we cannot assume that it may not be done. The statute assumes it to be possible, and we cannot say judicially that such assumption is unfounded. The demurrer was therefore properly overruled.\nThe only remaining question, worthy of notice, arises upon the motion of the prisoner\u2019s counsel on the trial, that the court should direct an acquittal on the ground that the matters, on which the perjury was assigned, were immaterial. It is true that the false testimony did not bear directly upon the main issue on the trial for forgery, but only upon the credit of the witness, who gave material evidence on the merits on that trial. Evidence going to the credit of a witness who has given material evidence is relevant, because it helps the jury in determining the main issue. The recent cases sustain the view, that perjury may be assigned upon false testimony going to the credit of a witness. Reg. v. Gibbons, 9 Cox C. C. 501; Rex v. Larey, v. Carr. & K. 26; Arch. Crim. Pr. 817.\nFalse swearing in respect to such matter is not distinguishable, in respect to moral turpitude, from false swearing upon the merits, and we think there is no just reason for refusing to treat false swearing as perjury whenever the testimony is relevant to the ease, although it may not directly bear upon the issue to be found. The questions are carefully considered in the opinions at General Term and further elaboration is unnecessary.\nJudgment affirmed.\nAll concur.\nNote.\u2014In an article, entitled \u201c The Validity of Statutes Authorizing the Accused to testify,\u201d 14 Amer. Law Rev. 753, it is argued that those statutes are in conflict with the constitutional prohibition against compelling the accused to testify against himself. But while the cases cited (State v. Lawrence, 57 Maine 581; State v. Cleaves, 59 Id. 398; 8 Amer. Rep. 433; State v. Bartlett, 55 Me. 316) criticise the policy and wisdom of these statutes, they do not pass on their constitutionality. It is believed that the case at bar is the first one in which the question of the constitutionality of these laws is squarely met and dealt with.\nA recent and valuable article \u201cThe Accused as a Witness,\u201d 4 Crim. Law Mag. 323, contains the statutes on this subject of the fourteen States which have authorized the accused to testify.\nIn the most recent case (taken from advance sheets) in the Supreme Court of Ohio, the rule as to the materiality of evidence is well stated: \u201cA witness may be guilty of perjury, not only by swearing corruptly and falsely to the fact which is immediately in issue, but also to any material circumstance which legitimately tends to prove or disprove such fact; or to any circumstance which has the effect to strengthen and corroborate the testimony upon the main fact, or which affects the credit of the witness giving such testimony .... 3 Russell on Crimes, 12; Bishop Crim. Law, \u00a7\u00a7 1034, 1037; Reg. v. Tyson, Law Rep. 1. C. C. 107; Reg. v. Overton, C. & M. 655; 45 E. C. L. 83; Commonwealth v. Grant, 116 Mass. 17; Commonwealth v. Sargent, 129 Mass. 115; Wharton Crim. Law, \u00a7\u00a7 2229, 2230; Cr. Pr. & Pl. \u00a7 158 . . . It is not necessary that the testimony upon which perjury can be predicated, must have the effect, if true, of establishing or deciding the matter in issue. It is sufficient if it has a legitimate bearing on that issue. If it tends within the rules of law to influence the court or jury in deciding that issue, it is material.\u201d Dilcher v. State, 39 Ohio St. 130.",
+        "type": "majority",
+        "author": "Andrews, J."
+      }
+    ],
+    "attorneys": [
+      "William F. Kintzing and George L. Simonson, for defendant and appellant.",
+      "Feter B. Olney, district attorney, John Vincent, assistant, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nJanuary, 1884.\nPEOPLE v. COURTNEY.\n(Affirming 1 Bf. T. Grim. Bep. 557.)\nConstitutionality of L. 1869, c. 678, permitting defendant TO TESTIFY.-Sl\u2019ATE CONSTITUTION, Art. 1, \u00a7 6.-PERJURY. Testimony affecting Credibility, material.\nThe provision of L. 1869, c. 678, \u00a7 1, that, a defendant in a criminal case shall at his own request but not otherwise, be deemed a competent \" witness, is not in conflict with the provision of the State Constitution (Art. 1, \u00a7 6) that no person shall be compelled in any criminal case to be a witness against himself, and is constitutional.\nThe Constitution primarily refers to compulsion exercised through the process of the courts, or through laws acting directly upon the party, and has no reference to an indirect and argumentative pressure or moral coercion upon the party to testify, when it is in his power to do so.\nThe act (L. 1869, c. 678, \u00a7 1) expressly forbids a presumption of guilt from the neglect or refusal of the defendant to testify, and while the exclusion of such a presumption may be difficult in many cases, it cannot be judicially determined to be impossible.\nThe policy or propriety of a law is a legislative not a judicial question.\nFalse swearing is perjury whenever the testimony is relevant to the case although it may not bear directly upon the issue to be found.\nEvidence going to the credit of a witness who has given material \u2022 evidence is relevant because it helps the jury in determining the main issue, and false testimony which bears upon the credit of such witness is perjury.\nAppeal from a judgment of the General Term of the Supreme Court in the First Department, August 1883, affirming a conviction of the defendant in the Court of General Sessions of the city and county of Hew York of perjury.\nThe facts and points of counsel are fully given in the report of the case of General Term, ante, p. 557.\nWilliam F. Kintzing and George L. Simonson, for defendant and appellant.\nFeter B. Olney, district attorney, John Vincent, assistant, for the people, respondent."
+  },
+  "file_name": "0573-01",
+  "first_page_order": 597,
+  "last_page_order": 600
+}

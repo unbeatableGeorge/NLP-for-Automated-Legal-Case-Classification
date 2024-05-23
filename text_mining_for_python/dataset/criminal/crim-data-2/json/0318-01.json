@@ -1,0 +1,68 @@
+{
+  "id": 1167702,
+  "name": "PEOPLE v. WHEDON",
+  "name_abbreviation": "People v. Whedon",
+  "decision_date": "1884-05",
+  "docket_number": "",
+  "first_page": "318",
+  "last_page": "321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 318"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 377,
+    "char_count": 6931,
+    "ocr_confidence": 0.561,
+    "pagerank": {
+      "raw": 4.2546110485373766e-08,
+      "percentile": 0.26935663044447766
+    },
+    "sha256": "c88f646d8c432d97574bbdc3b0f1f307744eb939c4dfea404f1c4751683fae21",
+    "simhash": "1:295ae539cb832798",
+    "word_count": 1189
+  },
+  "last_updated": "2023-07-14T19:46:36.421582+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Haedin and Babees, JJ., concur."
+    ],
+    "parties": [
+      "PEOPLE v. WHEDON."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, P. J.\nIt is enacted by section 217 of the Penal Code, that a person who, with an intent to kill a human being, assaults another with a loaded firearm, or any other deadly weapon, or by any other means or force likely to produce death, is guilty of assault in the first degree. The indictment in this case charges that the defendant, with force and arms, feloniously made an assault upon John Cross, and \u201c to, at, towards and against him, the said John Cross, a certain pistol, then and there loaded and charged with gunpowder and lead, which the said Theron Whedon, in his hand, then and there, had and held, the same being then and there likely to produce death, willfully and feloniously did then and there shoot off and discharge, with intent, him, the said John Cross, then and there feloniously and willfully to kill,\u201d &c.\nThese averments constitute an offense as defined by the statute above cited. It is not necessary that the pleader should use the very words of the statute. A pistol is a fire-arm, and the act of discharging a loaded pistol \u201c at, towards and against,\u201d another, with intent to kill him, is an offense within the provision of the statute, construed, as the Code requires \u201c according to the fair import of their terms, to promote justice and effect the objects of the law.\u201d Pen. Code, \u00a7 11. We think the indictment was sufficient, and the demurrer was properly overruled. The demurrer having been overruled, the defendant pleaded not guilty, and added specifications of insanity. Code Crim. Proc. \u00a7 336. At the trial, a witness, Jacob Simms, called for the defendant, testified that he knew the prisoner, and that the prisoner worked for witness some months before the shooting. The witness was then asked whether he observed anything peculiar in regard to his conduct. He answered, \u201c Y es, I discovered something different from what I expected.\u201d The defendant\u2019s counsel then said, \u201c I will offer to prove acts and conditions indicating unsoundness of mind, for the purpose of the light it sheds on the true state of his mind at a previous time. We offer to prove that at that time he was insane. We offer to prove his acts and conduct while in the employ of the witness for the purpose of showing his insanity.\u201d This was objected to as incompetent and improper; the objection was sustained, and the evidence excluded, and the prisoner\u2019s counsel excepted.\nIt will be observed that the objection was not that the evidence was too remote, nor was it excluded on that ground; it was shut out, as the record states, as being incompetent and improper; but why incompetent and improper, if not too remote ? The offer was to show facts and not opinions. The testimony may have thrown light upon the state of the prisoner\u2019s mind at the time of the offense, and thus have borne directly upon the issue. Even if the exclusion had been put upon the ground of the remoteness of the testimony, we would be doubtful of its correctness.\nEvidence had been given, as the record states,' that the de-' fendant \u201c had been dwelling upon supposed insults and indignities by Cross to defendant\u2019s female relatives ; had been subject to fits of weeping without apparent cause, and had been restless, nights; and on the occasion in question\u201d (the shooting) \u201c his eyes were wild and staring, his face purple, and his manner excited and violent; and there was evidence that he had a nervous temperament.\u201d Besides, Dr. Totman, a physician, called as a witness by the defense, to whom the district attorney, on cross-examination, put a hypothetical question, based upon his version of the evidence, had answered that he should say the circumstances detailed in the question would be sufficient in his opinion to unsettle such a mind. In those circumstances we do not think it would have been proper to hold that an offer to show that the prisoner was insane \u201c some months \u201d before the shooting, was too remote. We think that in the ruling the learned county judge fell into an error, and it is impossible to say that the error did not prejudice the prisoner and affect the result.\nAs there must be a new trial for this reason, needless to examine the other questions in the case, it not being likely that they will arise on another trial.\nThe judgment and order upon the demurrer, and the order upon the motion in arrest affirmed, and the conviction and the judgment thereon, and the order denying a new trial reversed, and a new trial ordered in the court of Sessions of the county of Onondaga.\nHaedin and Babees, JJ., concur.",
+        "type": "majority",
+        "author": "Smith, P. J."
+      }
+    ],
+    "attorneys": [
+      "John McLennan, for the prisoner, appellant; M. M. Waters, of counsel.",
+      "Ceylon H. Lewis, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fourth Department.\nMay, 1884\nPEOPLE v. WHEDON.\nIndictment.\u2014Assault in First Degree.\u2014Insanity.\u2014Evidence.\nThe indictment charged that the defendant, with force and arms, feloniously made an assault upon one Cross, and \u201cto, at, toward and against him, the said John Cross, a certain pistol, then and there loaded and charged with gunpowder and lead, which the said Theron Whedon in his hand then and there had and held, the same being then and there likely to produce death, willfully and feloniously did then and there shoot off and discharge, with intent, him, the said John Cross, then and there feloniously and willfully to kill, etc.\u201d\nHeld, a sufficient averment of the offense of assault in the first degree, under \u00a7 817 Penal Code, the statute being construed, as required by 111 Penal Code, according to the fair import of its terms, to promote justice and effect the objects of the law.\nOn the trial of an indictment for assault in the first degree, a witness for defendant testified that the prisoner had worked for him some months before the shooting, and testified that he had noticed peculiarities in defendant\u2019s conduct; something different from what he expected. An offer was then made to prove defendant\u2019s acts and conduct while in the employment of the witness, for the purpose of showing his insanity, which evidence was rejected, as incompetent and improper.\nMeld, erroneous, the offer being to show facts and not opinions. It seems also; that if the objection were upon the ground of1 remoteness, it could not be sustained, though the acts referred to occurred \u201csome months \u201d before the shooting.\nAppeal from a judgment convicting defendant Theron Whedon, of the crime of assault in the first degree. The appeal also brings up for review the judgment and order of said court overruling the defendant\u2019s demurrer to the indictment ; also an order denying a motion in arrest of judgment, and an order denying a motion for new trial on the minutes. The offense of which defendant was convicted was committed January 12, 1883, and the indictment was found on the same day, and tried at the court of Sessions of Onandaga county, Hon. A. J. Hobthbup, County Judge, presiding, with associates.\nFurther facts appear in the opinion.\nJohn McLennan, for the prisoner, appellant; M. M. Waters, of counsel.\nCeylon H. Lewis, district attorney, for the people, respondent."
+  },
+  "file_name": "0318-01",
+  "first_page_order": 342,
+  "last_page_order": 345
+}

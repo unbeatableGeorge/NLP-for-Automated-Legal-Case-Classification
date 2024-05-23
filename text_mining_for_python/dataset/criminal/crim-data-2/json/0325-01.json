@@ -1,0 +1,93 @@
+{
+  "id": 1167719,
+  "name": "PEOPLE ex rel. SCHERER v. WALSH",
+  "name_abbreviation": "People ex rel. Scherer v. Walsh",
+  "decision_date": "1884-09",
+  "docket_number": "",
+  "first_page": "325",
+  "last_page": "328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 325"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 513",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0513-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 443",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164453
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0443-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 326,
+    "char_count": 5645,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 2.071953493663536e-07,
+      "percentile": 0.7578945722318173
+    },
+    "sha256": "981d62bb2c73877e3fdb1196920f9b0d9a74fb712073796fb2344b2bb861d709",
+    "simhash": "1:87b40f9f974b6c27",
+    "word_count": 983
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Barnard, P. J., and Dykman, J., concur."
+    ],
+    "parties": [
+      "PEOPLE ex rel. SCHERER v. WALSH."
+    ],
+    "opinions": [
+      {
+        "text": "Pratt, J.\nThis is a proceeding by certiorari to review in this court the decision and rulings of a police justice. The decision and rulings sought to be reviewed were given upon a trial before the justice, upon a complaint made against Conrad Scherer by his wife, the relator herein, for abandonment. The justice refused to admit certain testimony offered on behalf of this relator and dismissed the complaint. The charge was made under section 899 of Code of Criminal Procedure, subd. 1, and the first question to be disposed of is whether the action .of the magistrate can be reviewed by certiorari.\nBy section 515 of Code, of Criminal Procedure, writs of certiorari in criminal actions, as they have heretofore existed are abolished, and a review had by an appeal; but this section refers only to criminal actions as defined in that Code. The proceeding before the magistrate was not strictly a criminal action, but was a special proceeding of a criminal nature, under part 6 of the Criminal Code, title .7. No right of appeal seems to be provided for under this part. of the Criminal Code, except under title 5\u2014\u201c Of proceedings respecting bastards.\u201d\nAnd hence, section 515 abolishing writs of certiorari does not apply to part 6, but the law remains as it existed before the Criminal Code.\nSection 515 in plain terms refers only to a judgment or order in a criminal action and not to a special proceeding of a criminal nature. This distinction is rendered more apparent by referring to title 2, part 6, of the Criminal Code, sections 950, 951 and 952. It is clear therefore that no right of appeal was given by the Code to either party in this proceeding. It cannot be claimed that an appeal was authorized by section 749, which provides for appeals from judgments rendered by a court of Special Sessions.\nIt is true the defendant entitled the proceedings as in Special Sessions, but that did not affect the rights of the parties.\nThe proceedings were not in a court of Special Sessions, but were before the defendant as police justice.\nThere is a marked distinction between courts of Special Sessions and courts held by police justices under special provisions of law both in the Constitution and the Code of Criminal Procedure. People v. Trumble, 1 N. Y. Crim. Rep. 443. It was also held in People v. Burleigh (same volume, 522, 523), that where authority is conferred upon a particular officer or magistrate giving to him special jurisdiction in a criminal matter with special directions as to the mode of procedure, he must be deemed to act as an officer and not as a court of Special Sessions.\nThis principle is decisive in this case.\nSection 900 gave special jurisdiction to a police justice with special directions as to the mode of procedure, and the justice must be deemed to have acted as an officer and not as a court of Special Sessions.\nThe writ of certiorari is therefore a proper remedy under which to review the proceedings.\nWe also think the defendant erred in excluding testimony showing it was unsafe for the wife to remain in the house with the accused. There is no rule of law requiring a wife to remain under the roof of a brute, in constant danger of life and limb, under pain of starvation. It was, therefore, competent for the relator to show that she had reasonable cause to leave the house where she was in imminent danger of suffering personal violence at the hands of her husband.\nIf this testimony had been received, the offense of which the accused was charged would have been clearly made out under the statute.\nThis statute has been under the consideration of this court since its amendment and its provisions fully discussed. People ex rel. Douglass v. Naeher, 1 N. Y. Crim. Rep. 513.\nThe decision of the police justice must be vacated and set aside, without costs.\nBarnard, P. J., and Dykman, J., concur.\nThe rule is now changed by L. 1884, ch. 372, amending Co. Crim. Proc. \u00a7 515, and appeal is now the proper proceeding in all cases.",
+        "type": "majority",
+        "author": "Pratt, J."
+      }
+    ],
+    "attorneys": [
+      "A. H. Dailey, and J. D. Bell, of counsel, for relator.",
+      "Fisher & Voltz, attorneys, and Jesse Johnson, of counsel, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nSeptember, 1884.\nPEOPLE ex rel. SCHERER v. WALSH.\nAbandonment.\u2014When wife may leave husband\u2019s domicil.\nIn a proceeding against a disorderly person for abandoning his wife, it is no defense that the wife has left the husband\u2019s house, if it appears that she had reasonable cause to do so because she was in imminent danger of suffering personal violence at the hands of her husband.\nIt is therefore error to exclude testimony showing that it was unsafe for the wife to remain in the house with the accused.\nIn special proceedings of a criminal nature prior to the amendment of section 515 of the Code of Criminal Procedure by L. 1884, eh. 872, the proper method of review was by certiorari and not by appeal.\nWrit of certiorari to Andrew Walsh, Esq., a police justice of the city of Brooklyn, to review the proceedings upon the dismissal of the complaint against one Conrad Scherer as a disorderly person, under section 899, subd. 1, Code Crim. Proc., in that he had abandoned his wife.\nUpon the hearing before the police magistrate, it appeared that the relator Clara Scherer had left her husband\u2019s house, and she offered evidence to show that she left him because of his ill treatment, abuse and threats.of violence.\nThe police magistrate sustained an objection to this evidence, and held, that if the wife left the husband\u2019s house for any cause she could not sustain a proceeding for abandonment.\nThe complaint was therefore dismissed and the present writ was taken out to review that decision.\nA. H. Dailey, and J. D. Bell, of counsel, for relator.\nFisher & Voltz, attorneys, and Jesse Johnson, of counsel, for respondent."
+  },
+  "file_name": "0325-01",
+  "first_page_order": 349,
+  "last_page_order": 352
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1164430,
+  "name": "PEOPLE v. BOAS",
+  "name_abbreviation": "People v. Boas",
+  "decision_date": "1883-06",
+  "docket_number": "",
+  "first_page": "287",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "46 N. Y. 509",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 300,
+    "char_count": 6147,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 4.407940279648026e-07,
+      "percentile": 0.9201187019011533
+    },
+    "sha256": "907f16873f1a700a3aa0023c984457567d34b47341fc8cb8b54a1f19cd193de7",
+    "simhash": "1:8f8d24431e07bc6d",
+    "word_count": 1086
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. BOAS."
+    ],
+    "opinions": [
+      {
+        "text": "Eael, J.\nThe defendant was an inspector of election in the city of New York at the election held in the fall of 1881, and he was subsequently indicted and convicted in the General Sessions of the same city for declining to receive the vote of an elector at that election under section 67 of chapter 675 of the Laws of 1872, which provides that \u201cEvery inspector of election who shall willfully exclude any vote duly tendered, knowing that the person offering the same is lawfully entitled to vote at such election,\u201d shall upon conviction thereof be adjudged guilty of a felony and be punished by imprisonment in a state prison for not more than two years.\nHe appealed from the judgment against him to the General Term of the Supreme Court, and there the judgment was reversed and a new trial was ordered. The General Term order does not state upon what ground or for what reason the judgment was. reversed, and we have now to determine whether there is anything before ns for review upon this appeal. This court is strictly an appellate court, and its general jurisdiction is confined to the correction of errors of law presented in the records brought before it.\nUnless it is otherwise specially provided it will never review mere questions of fact depending upon conflicting evidence,, or the exercise of a discretion confided to the- inferior courts.\nSection 527 of .the Code of Criminal Procedure provides that \u201c the appellate court may order a new trial if it be satisfied that the verdict against the prisoner- was against the weight of evidence or against law, or that justice requires a new trial, whether any exceptions shall have been taken or not in the court below.\u201d\nWe have just decided that this, section is confined in its. operation to the Supreme Court, and that it has no- application to-this court. People v. Hovey (ante, p. 288)*.\nThe section clothes the Supreme Court with power,.in the exercise of its discretion, to- order a new trial when it shall be- satisfied that the verdict is against the weight of evidence, or that justice requires- a new trial; and when in the exercise- of its discretion it shall under the section refuse or grant a new trial,, its determination is not reviewable here.\nUnder section 519, the people may appeal to this court from a judgment of the General Term reversing a judgment of conviction but such an appeal brings before us for review only questions of law. How are we to ascertain where the people have appealed that the reversal was upon questions of law only ? Simply by looking at the record. The opinion of the General Term forms no part of that, and we cannot look at it for the grounds of the reversal. We must look for them in the order of the General Term, and that must show that the Supreme Court lias exercised its discretion, and that the new trial was ordered for errors of law only.\nIn a case like this the appeal comes before us- substantially . in the same way that an appeal comes here from an order of the General Term of the Supreme Court granting a new trial ini a civil action, after the verdict of a jury in a case- where that court had the power to grant a new trial in the exercise of its discretion on .the ground that the verdict was against the weight of evidence. In such case.we have uniformly held that there was nothing for this court to review unless it appeared that the Supreme Court had exercised its discretion and had refused a new trial on the ground that the verdict was against the weight of evidence and had granted it solely for error of law. Wright v. Hunter, 46 N. Y. 509; Harris v. Burdett, 73 Id. 136; Srebley v. Conner, 78 Id. 218.\nWe cannot .say, therefore, that the court below committed any error of law, as the new tidal may have been ordered, in the .exercise of its discretion, under .section 527; and its order must therefore be affirmed.\nAll concur.\nNote.\u2014In the case .of People \u00ab. Mongano iinfm), an appeal was taken by the district-attorney of Westchester county to .the Court 'of Appeals from an .order of the General Term in the Second Department \u00a1reversing a judgment of conviction.\nThe Court of Appeals, June 14, 1883, dismissed this appeal, holding \u00a1(orally) that the Court of Appeals will not review .an appeal by the people from a decision of the General Term of the .Supreme Court, in a criminal case, unless it is certified by that court that the case was \u25a0decided on questions of law only.",
+        "type": "majority",
+        "author": "Eael, J."
+      }
+    ],
+    "attorneys": [
+      "John McKeon, district attorney, and John Vincent (assistant), for the people, appellant.",
+      "William F. Kintzing, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nJune, 1883.\nPEOPLE v. BOAS.\n(Affirming 1 N. 7. Crim. Rep. 132.) \u00ab\nCourt of Appeals\u2014Powers of.\u2014Section 527, Code Crim. Pro.\u2014Record on Appeal.\nThe Court of Appeals is strictly an appellate court, and its general jurisdiction is confined to the correction of errors of law presented in the records brought before it. Unless it is otherwise specially provided, it will never review mere questions of fact arising on conflicting evidence, or the exercise of a discretion confided to the inferior courts.\nSection 527 of the Code of Criminal Procedure does not apply to the said court, and where the General Term has exercised its discretion under said section, in granting or refusing a new trial, its determination is not reviewable in the Court of Appeals.\nAn appeal from a judgment of the General Term reversing a judgment of conviction, brings up for review only questions of law, and in \u25a0 ascertaining whether the reversal was upon questions of law only, the record alone is to be consulted.\nThe opinion of the General Term forms no part of the record, and to justify a consideration of the appeal to the Court of Appeals the order must show affirmatively, that the General Term has exercised its discretion, and has granted the new trial for errors of law only.\nAppeal by plaintiff from order of the General Term of the Supreme Court, First Department, reversing a judgment convicting defendant of a violation as inspector, of elections in New York city, of L. 1872, ch. 675.\nThe facts and points of counsel are contained in the report of the decision of the General Term (ante, p. 132).\nJohn McKeon, district attorney, and John Vincent (assistant), for the people, appellant.\nWilliam F. Kintzing, for respondent."
+  },
+  "file_name": "0287-01",
+  "first_page_order": 311,
+  "last_page_order": 314
+}

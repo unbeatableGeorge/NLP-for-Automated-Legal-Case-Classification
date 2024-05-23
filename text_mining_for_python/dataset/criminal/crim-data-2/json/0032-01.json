@@ -1,0 +1,290 @@
+{
+  "id": 1167670,
+  "name": "PEOPLE v. WOODWARD",
+  "name_abbreviation": "People v. Woodward",
+  "decision_date": "1883-09",
+  "docket_number": "",
+  "first_page": "32",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 32"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Johns. 294",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376163
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0294-01"
+      ]
+    },
+    {
+      "cite": "75 Ill. 274",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Cal. 103",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1952111
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/47/0103-01"
+      ]
+    },
+    {
+      "cite": "81 N. Y. 296",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175389
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/81/0296-01"
+      ]
+    },
+    {
+      "cite": "15 Me. 476",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8848085
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/15/0476-01"
+      ]
+    },
+    {
+      "cite": "39 N. Y. 459",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502210
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/39/0459-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 420",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cow. 258",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032717
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/5/0258-01"
+      ]
+    },
+    {
+      "cite": "1 Mass. 59",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Bay, 342",
+      "category": "reporters:state",
+      "reporter": "Bay",
+      "opinion_index": 1
+    },
+    {
+      "cite": "3 Strob. 508",
+      "category": "reporters:state",
+      "reporter": "Strob.",
+      "case_ids": [
+        8487008
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/scl/34/0508-01"
+      ]
+    },
+    {
+      "cite": "38 N. J. Law, 186",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "14 Ind. 36",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1440022
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ind/14/0036-01"
+      ]
+    },
+    {
+      "cite": "28 Cal. 380",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2220900
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal/28/0380-01"
+      ]
+    },
+    {
+      "cite": "35 Miss. 214",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        8837311
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/miss/35/0214-01"
+      ]
+    },
+    {
+      "cite": "16 Miss. 401",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        8840093
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/miss/16/0401-01"
+      ]
+    },
+    {
+      "cite": "52 Ala. 411",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5641929
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ala/52/0411-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 419",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023389
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wend/19/0419-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 258",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032717
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cow/5/0258-01"
+      ]
+    },
+    {
+      "cite": "1 Mass. 59",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "14 Johns. 294",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376163
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/johns/14/0294-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1084,
+    "char_count": 27936,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.043011194861167584
+    },
+    "sha256": "a65168f0fd49e29c8550c6267be380e7d0efc5b93a16b5906c3d008195015128",
+    "simhash": "1:ae8b8daefda542d0",
+    "word_count": 4982
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. WOODWARD."
+    ],
+    "opinions": [
+      {
+        "text": "Boardman, J.\nThe court below did not properly state the legal questions before the jury. Upon the evidence it is certainly a grave question whether the act charged and proved was larceny or malicious mischief. To constitute larceny, there must have been a felonious intent, animo furandi or lucri causa. The malicious killing of a horse is a misdemeanor. Penal Code, \u00a7 654; 2 R. S. *695; L. 1866, c. 682. The offenses are quite distinct. In either case there is a trespass. In larceny the taking must be for the purpose of converting to the use of the taker; in malicious mischief no such intent is necessary. In the present case the evidence tends to show a taking of the horse to kill him, with a sole desire to injure the owner. It was incumbent on the court then, to point out to the jury the legal elements in the crime of larceny, so as to distinguish it from malicious mischief. This, we think, was not done. The jury was told, in substance, if defendant took, or procured to be taken, this horse, and killed, or aided in killing him, he must be found guilty. In no part of the charge is this language modified or qualified.\nThe seventh request to charge is as follows: \u201c There must have been a felonious intent, for without such, an intent there was no crime; and the felonious intent must have been formed before the taking ; and that if, before the taking of the horse, the intent was to take it and kill it, the crime would not be a felony, but an offense under the statute, classed among misdemeanors, under the term malicious mischief.\u201d The defendant excepted to the refusal to charge as requested. The request to charge, the refusal to charge, and the exception, are all very informal and inartificial, but sufficient, we think, to present the important point in the case. The defendant was entitled to have the jury instructed in substance as requested. Mr. Wharton, in his work on Criminal Law (\u00a7\u00a7 1781-4), has considered whether larceny can exist where there is no intent on the part of the taker to reap any advantage from the taking. He has reviewed the decisions, from the case of Rex v. Cabbage, Russ. & Ry. C. C. 292, cited by the district attorney, to the time of his writing, and concludes that the qualification \u201c luori causa \u201d has been accepted by our courts as an unquestioned part of the common law. He says (\u00a7 1784), \u201c thus it has been frequently held to be a misdemeanor, of the nature of malicious mischief, to kill an animal belonging to another, though it has never been held larceny so to kill and take unless some benefit was expected by the taker.\u201d And he cites in support of such statement, among other cases, Commonwealth v. Leach, 1 Mass. 59; People v. Smith, 5 Cow. 258 ; Loomis v. Edgerton, 19 Wend. 420. The conclusion is sustained by the authorities.\nIt was a serious matter for the defendant whether he should be convicted of grand larceny upon facts which he claimed could only constitute malicious mischief. He had the right to have the distinction pointed out to the jury. He requested it, but it was not done. Thus the court-neglected and refused to point out the essential ingredient of the crime of grand larceny, whereby the defendant may have been convicted of a felony, while the facts arid the charge were equally applicable, to a misdemeanor. The learned county judge very properly and fully recognizes the serious importance of .this question, when he stays the execution of the senten'ce pending an appeal. There are various other questions presented, but it is unnecessary to consider them, sinc.e upon the point already discussed a new tidal must be granted. The judgment and conviction are reversed, and a new trial is granted.\nBockes, J., concurs.",
+        "type": "majority",
+        "author": "Boardman, J."
+      },
+      {
+        "text": "Learned, P. J.\u2014[Dissenting.]\nAs the opinion of the majority of the court rests upon one alleged error, I shall examine that only. There was evidence to justify the conclusion that the defendant took the horse wrongfully into his possession before the time when, as the jury might have found,.he and others killed it, and the question presented is, whether a wrongful taking, with the intent at the time to subsequently destroy the property taken, in order to injure the owner, is larceny; or whether, on the other hand, in order to constitute larceny, the wrongful taking must be with intent to benefit the person who takes. Grand larceny is the felonious taking and carrying away the personal property of another of the value of more than twenty-five dollars. 2 R. S. 679 (\u00a7 63). The only thing required by the definition, in the respect now under consideration, is that the taking be felonious. I cannot see why it is not as felonious to take another\u2019s property with intent to injure him as to do the same act in order to benefit the taker. Indeed, the former is the'more malicious act of the two. The Penal Code (\u00a7 528) has made the matter clear, by saying that the intent may be \u201c to deprive or defraud the true owner of his property, or of the use and benefit thereof, or to appropriate the same to the use of the taker or of any other person. \u201d In my opinion, such was the law before the enactment of that Code.\nBlackstone says that \u201cfelonious\u201d means \u201cdone animo furandi, or as the civil law expresses it, lucri causa.\" 4 Blacks. Com. 232, citing Inst. 4,1,1. It is worth noticing that the passage thus cited by Blackstone as authority for the phrase lucri causa does not contain those words or words similar. On the contrary, theft is, in that passage defined as the fraudulent dealing with a thing; and nothing is. said about such dealing being for the sake of gain. Another passage, however (Dig. 47, 213) seems to include in its definition gain to the taker: \u201c lucri faciendi gratia.\u201d\nBut when the definition of theft is taken into the English law by Blackstone he leaves out this clause, and says only that the taking must be done \u201c animo furandi.\u201d Brac. 150 b, Twiss ed., vol. 2, 508.\nLord Coke\u2019s definition, also, does not include the idea of lucri causa. 3 Inst. 107. Mr. Stephens, in his \u201cHistory of the Criminal Law\u201d speaking on this very point, says: \u201c To this day, it is a part of the law of this country, as settled by very modern cases, that the motives which lead a man to commit theft, are immaterial; and that the definition of the offense includes an intention to deprive the owner of his property permanently.\u201d Vol. 3, p. 132.\u2019 Again, in Stephens' Criminal Law (at p. 227), the author says that the act may be done \u201c from any motive whatever,\u201d establishing this by the citation of authorities. To the same effect also is Roscoe's Criminal Evidence, 7 ed. 6 23, 644. In a careful note to Halloway\u2019s case, 1 Denison, 370, it is said, \u201c every wrongful taking without any color of right, with intent to deprive the owner wholly of his property, is larceny.\u201d\nIn Bishop's Criminal Law, vol. 2, \u00a7 846, Mr. Bishop states that the English courts seem at last to have utterly overthrown the old notion of lucri causa, and he cites to show this, the language of Pollock, J., in Reg. v. Jones, 1 Denison, 188, and the case of Rex v. Cabbage, R. & R. 292.\nI may refer also to the definition in the \u201c Mirror for Magistrates,\u201d as given by Mr. Stephens in his History (vol. 3, p: 134), \u201c larceny is the treacherously taking away from another movable corporeal goods, against the will of him to whom they do belong, by evil getting of the possession or the use of them.\u201d And, without quoting, I may refer also to Hawkins, P. C. (p. 89), where the definition of larceny says nothing of lucri causa. Nor do Mr. Wharton\u2019s views in American Criminal Law (\u00a7 781), appear to be different from those above stated.\nIn Wharton's Criminal Law (\u00a7 899), however, a view of the English law is taken, which appears to differ from that of the text-writers above cited, and a statement is made as to American decisions on this point which I shall hereafter examine.\nPassing from this summary of text-writers, I may say that I find no decision in this state on the question. Some cases are referred to in this connection. Loomis v. Edgerton, 19 Wend. 419, decides only that malicious mischief is a misdemeanor. There was in that case, no taking of the property, and therefore could have been no larceny. People v. Smith, 5 Cow. 258, only held that malicious mischief was a crime. The prisoner had not taken away the property, a cow, and was not indicted for larceny. People v. Anderson, 14 Johns. 294, only held that the bona fide finder of a lost article was not guilty of larceny in appropriating it. None of these cases touch the present one.\nIf we turn to the English cases we find several in which prisoners have been held guilty of larceny who have taken property not lucri causa. Reg. v. Jones (supra), was a case where the prisoner, having received several letters belonging to and addressed to B., destroyed one of them, in order to suppress inquiries respecting the prisoner\u2019s character. This was held larceny, and Pollook, J., said, \u201c will it be contended that picking a man\u2019s pocket, not to make yourself rich, but to make him poor, would not be a larceny ?\u201d Rex v. Gabbage (supra), was the case often cited where a prisoner was held guilty of larceny, who had taken a horse of the prosecutor and had backed it into a coal-pit and thus had killed it with no motive of personal gain, a case I may say much like the present, except that the prisoner had more excuse for his act. In Rex v. Wynn, 1 Denison, 365, the prisoner, a letter-sorter in the post-office, took a letter and dropped it into the water-closet with intent to destroy it and to deprive the post-office authorities of their letter. \u25a0 There was no personal gain to the prisoner, yet he was held guilty of .larceny. See also Reg. v. Holloway, above referred to. In Mr. Wharton's Criminal Law, he cites, apparently to sustain a contrary doctrine, Commonwealth v. Leach, 1 Mass. 59 ; but the case decides nothing on this point. It only holds that an indictment for poisoning a cow is within the jurisdiction of a court of sessions. Ho question as to the taking of personal property was in any way involved. Mr. Wharton also expresses the opinion that American cases sustain the doctrine of luori causa. An examination shows this opinion to be incorrect. He cites in support of this view State v. Council, 1 Overton (Tenn.) 305. This held that stabbing a horse was indictable. It does not appear that there was any taking; so the question of larceny was not involved. He also cites Resp v. Teischer, 1 Dallas, 335, a case which has nothing to do with larceny, and which only holds that the malicious killing of a horse is indictable. Ho suggestion is made in that case that the horse was ever taken from the owner, and nothing was said as to larceny.' He also cites State v. Hawkins, 8 Porter (Ala.) 461, which held that taking a slave in order to set her free was not larceny. How the question of larceny may apply to the case of a slave, we need not discuss. It is enough to say that the doctrine for which that case is cited by Mr. Wharton is overruled, in the very state in which it was decided, in Williams v. State, 52 Ala. 411, hereafter referred to; and that in that last case the court did not deem it necessary even to comment on State v. Hawkins. Mr. Wharton also cites McDaniel v. State, 16 Miss. 401. That was an indictment for murder. In the course of the opinion a definition of larceny is incidentally given, but there was no attempt, or occasion, to define the crime accurately. The doctrine of lucri causa is overruled in Mississippi in the .case hereafter referred to, of Hamilton v. State, 35 Miss. 214. These are the only cases that are referred to for the purpose of showing that decisions in this country sustain the doctrine of lucri causa. It will be seen that only one supports the doctrine, and that one has been overruled in the state where it was made.\nOn the contrary, Hamilton v. State (supra), held that the taking away of a slave in order to free him, was larceny. Here there could be no gain to the taker, and therefore no act done, lucri causa, only an intent to deprive the owner of his property.\nOf course, this case overrules any remark to the contrary made in McDaniel v. State (supra). Dignowitty v. State, 17 Texas, 521, quite similar to the present, held that the taking of property with intent to destroy it was larceny.\nIn Williams v. State (supra), which is a case closely in point, the court say, \u201c no benefit to the guilty agent may be sought, but only injury to the owner.\u201d They held that the intent need not be gain to the taker, and therefore in fact they overruled State v. Hawkins (supra), if that case held otherwise. The same doctrine is distinctly decided in People v. Juarez, 28 Cal. 380; in State v. Ryan, 12 Nevada, 401; in Keely v. State, 14 Ind. 36; in State v. Davis, 38 N. J. Law, 186, and in State v. Brown, 3 Strob. 508, in which last case the court characterized the doctrine of State v. Hawkins (supra), as \u201c a very novel and startling proposition.\u201d We have seen that it is a proposition already overruled in the state where it was advanced.\nIn United States v. Durkee, McAllister, 196, it was held that where members of a vigilance committee seized guns as weapons of defense, this was not larceny. But that act was done neither with intent to injure the owner nor for personal gain. The case decides nothing on the point in discussion, and the courts of the state where it was decided have just been shown to have ovei\u2019ruled the doctrine of lucri causa. People v. Juarez (supra).\nIt may then, I think, be said to be established by the great weight of American authorities with no real exception, that to constitute larceny it is not necessary that the intent of the taker should be to appropriate the property to his use ; that where the other elements exist it is enough if the intent be to deprive the owner permanently of his property. If, in the absence of decisions in our own state, we are not to be guided by these text-books, and by these decisions of other states and of England, and are to consider the question on principle, then I think the same conclusion should follow.\nThat there must be a taking is undoubted ; that it must be wrongful, and without excuse or color of right. But when these circumstances exist, what does it' matter whether the motive of the person taking is to benefit himself or to injure the owner ? Suppose the property is a thing highly valued by the owner, a thing which the person taking it cannot use, and does not intend to use ; and suppose that out of malice he takes it from the owner and keeps it permanently, in order to deprive the owner of it. What is this act? Hot malicious mischief; because the property is not injured. Certainly not mere trespass ; because it has the elements of malicious wrong-doing. Is such a wrong-doer to escape because he can say, \u201cI did not take the property lucri causa f\u201d Yet on the doctrine against which I am contending such a wrong-doer would escape altogether. He would be guilty of no malicious mischief, and if not guilty of larceny, would be only a trespasser; a conclusion which seems to me plainly incorrect. Undoubtedly, where there is no \u25a0taking, there is no larceny, although there may be malicious mischief. But when the property has been in fact taken with intent to deprive the owner of it permanently it does not matter whether the thief intends to kill .and eat the cow or to kill and bury it. In a large majority of cases the thief intends personal gain. Perhaps for this reason the phrase lucri causa crept in to mark the distinction between larceny on the one hand, and on the other hand the wrongful taking for temporary use and to return (State v. Self, 1 Bay, 342) ; or to use and leave. Rex v. Phillips, 2 East Pl. 662\nIt might have been intended to note the fact that, in cases like these, there was no permanent appropriation. But as I think the phrase was misused, or the distinction was incorrect, where it was thought that a wrongful taking with intent to destroy in order to injure the owner was not larceny. I think it incorrect to call such an act as that of the defendant, merely malicious mischief, because that is a crime which may be committed without any wrongful taking of the property. On the other hand, the taking is of the very essence of larceny. When we find that circumstance of a taking, we have only to see whether the taking was excusable or was a mere trespass or was larceny. It is of little consequence which of two bad and illegal motives influenced the wrong-doer; whether to profit himself or to injure the owner. I think there was no error in the charge in this respect.\nJudgment and conviction reversed, and new trial granted.\nThere is ail unrepovted case in the third department (1872) sustaining Judge Learned\u2019s position in Harding \u00ae. People. In that case it is said, \u201cWhen the prisoner intends to deprive the owner of the property permanently, a case of larceny is made out. The taking and killing of the horse in the present case shows such intent, and it follows that no error was committed by the judge in refusing to charge that the lum;i causa was an essential element of the crime and must be proved.\u201d Opinion by Miller, P. J. Potter, J., concurring. This case was reversed on another ground. (29 Alb. L. J. 809.)",
+        "type": "dissent",
+        "author": "Learned, P. J.\u2014[Dissenting.]"
+      }
+    ],
+    "attorneys": [
+      "H. L. Grose, for the prisoner, appellant.",
+      "J. Van Rensselaer, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Third Department\nSeptember, 1883.\nPEOPLE v. WOODWARD.\nLarceny.\u2014Oausa Luori, Essential Element of.\u2014Malicious Mischief.\u2014Killing of Animal with sole INTENT TO INJURE OWNER.\nTo constitute larceny under the Revised Statutes, the taking must be for the purpose of converting to the use of the taker, and the qualification lueri causa, has been accepted as a part of the common law definition of that ofiense. (Learneb, J., dissenting.)\nThe malicious killing of a horse is a misdemeanor.\nAccordingly, where upon the trial of an indictment for grand larceny, the evidence tends to show a taking of a horse to kill him with a sole desire to injure the owner, and that, said horse was so killed, and the carcass left where the animal fell, the defendant is entitled\" to a charge which shall enable the jury clearly to distinguish between malicious mischief and larceny.\nAppeal from judgment of the Court of Sessions of Sara-toga county, December 19, 1881, convicting defendant of grand larceny, Hon. J. W. Crane, County Judge, presiding.\nDefendant was indicted in January, 1881, for the crime of grand larceny in having been guilty of feloniously stealing, taking and carrying away a horse, the property of one Jewell, of the value of $150. He was twice tried, the first trial, July 1881, resulting in a disagreement, and the second trial in a conviction as stated above. The evidence showed that the defendant, with others, took from the barn of said Jewell, a horse, which they led away from the premises and killed, leaving the carcass of the animal on the spot where it fell; and there was also evidence tending to show that this was done solely with a design to injure said Jewell. Various exceptions were taken, which appear in the opinion, and after motions in arrest of judgment and for a new trial were made and denied, defendant was sentenced to imprisonment in the state prison at hard labor for one year and nine months.\nH. L. Grose, for the prisoner, appellant.\nI. The court erred in refusing to charge: \u201c That without a specific and actual intention of defendant to steal Jewell\u2019s horse, there can be no larceny, and the taking, though wrongful, would be only a trespass ; and the act of taking the horse, and this felonious intent to steal, must both concur in fact and in point of time.\u201d This refusal left the jury without knowledge that larceny, which is composed of the act of trespass and the superadded intent to steal, is not committed when this trespass and this intent do not exist at the precise moment together. 1 Bishop Crim. Law, \u00a7 207. The jury were not made aware that any intention formed after- a wrongful taking and carrying away, would not not make a larcenous offense. Wilson v. People, 39 N. Y. 459; 1 Barb. Crim. Law, 185; 2 Russ. Crimes, 49-53; 392 East P. C. 655.\nII. A variance between the indictment and the proof entitles defendant to an acquittal. State v. Noble, 15 Me. 476 ; Starkie Ev. 623-639 ; 81 N. Y. 296. The indictment charges horse-stealing; but the evidence, if it proves anything, proves horse-killing. Intention being the gist which distinguishes between crimes, it is essential to justice that it be proved as charged in the indictment.\nIn Chapman v. State, 1 Texas App. 727, the defendants were indicted for stealing a cow, which it was proved they aided in killing. They were convicted in the court below, but in the appellate .court the judgment was reversed.\nOn the trial of an indictment for stealing a steer, the judge charged, that if defendant caused the steer to be killed, with the intent to deprive the owner of it, he might be convicted, notwithstanding he had not actually carried the animal away. Held, erroneous, as the instruction authorized the jury'to convict, even though the steer had been killed as an act of malicious mischief. People v. Murphy, 47 Cal. 103. A taking of property for the purpose of destroying it does not constitute larceny. Rex v. Crump, 1 C. & P. 658. An offense for such purpose would be malicious mischief. Reg. v. Godfrey, 8. C. & P. 567; People v. Murphy, 47 Cal. 103; State v. Hawkins, 8 Porler (Ala.) 461; People v. Moody, 5 Parker C. C. 568; Paris v. People, 75 Ill. 274.\nThat intent makes a difference in the nature of an offense, \u2022s-ee case reported in 2 East\u2019s Pleas of the Crown, 513: \u201c Joseph Dobbs was indicted for a burglary in breaking and entering the stable of James Bayley, part of his dwelling, in the night, with a felonious intent to kill and destroy a gelding of one A. B. \u201e . . there being.\u201d On the trial, \u201cit appeared that the gelding was to have run in a race for forty guineas, and that the prisoner cut the sinews of his fore-leg to prevent his running, in consequence of which he died.\u201d Parker, Chief Baron, ordered him to be acquitted; for his intention was, not to commit the felony by killing and destroying the horse, but a trespass only, to prevent his running, and therefore no burglary.\u201d\n\u25a0 It is a cardinal doctrine of the criminal law, founded on natural justice, that it is the intention with which an act is done, or omitted to be done, that constitutes its criminality. The intent and the act must concur to constitute a crime.\nIn the case of State v. Revels (Buckbee, 200), the indictment alleged a larceny of the property of a person named, but the proof showed that the owner was unknown, and this variance acquitted the prisoner.\nThe court erred in refusing to charge the following propositions : That if the jury should find that defendant found Jewell\u2019s horse in the highway, and then and there, before the taking, conceived only the purpose of destroying the horse, and pursuant to that purpose did destroy it, the crime was not larceny, and defendant cannot be convicted upon the indictment on which he has been tried. 3 Greenl. Ev. 137; 3 Par. Cr. 129. 7. That if before the taking of a horse, the intent was to take it and kill it, the crime would not be a felony, but an offense under the statute, classed among misdemeanors, under the terms, \u201c malicious mischief.\u201d 3 Rev. Stat. 6th ed. 974, \u00a7 32; Stage Horse Cases, 15 Abb. Pr. (N. S.) 59. That if defendant had concerted with Sullivan to get Jewell\u2019s horse into possession, for the purpose of killing it, and that, pursuant to such purpose, the horse was killed by defendant, such purpose makes the act of killing \u201c malicious mischief,\u201d and not larceny. 5. That if the jury find that defendant caught Jewell\u2019s horse in the highway, near defendant\u2019s house, \u201c with the sole, object of killing it, from motives of revenge and injury,\u201d to Jewell, \u201c this is not larceny, but malicious mischief \u201d (3 Greenl. Ev. 137), and therefore defendant cannot be convicted of the crime charged in the indictment.\nAgainst defendant\u2019s objection, evidence was received as to his killing the horse in question, the court overruling the objection on the ground that\u00a3\u00a3 for the purpose of showing the intent with which it was taken, everything done after the taking is proper to be shown.\u201d Then th a fact of killing must show that the intent was to kill; and if that was the rntent, the crime was not larceny. The testimony is that such was the intent, and no other intent is expressed or implied. This brings the offense within the statutory definition of \u201c malicious mischief,\u201d and takes it out of the class of larcenous crimes. The statute is : \u201c Every person, who shall, by his act or neglect, maliciously kill, maim or wound any horse, belonging to himself or another, shall, upon conviction, be adjudged guilty of a misdemeanor.\u201d 3 Rev. Stat. 914, \u00a7 32, 6th ed.\nThere is undoubtedly, in most cases of this description, an element of personal hostility and spite, of actual ill-will, toward some individual. May\u2019s Crim. Law, 191. \u201c Where property . . . was taken, either for the purpose of retaliating for a real or supposed injury, or through wanton mischief, held not to be larceny.\u201d 28 Eng. Rep. 580, Moak\u2019s Notes, citing Kemble\u2019s Case, 1 City Hall Rec. 177; People v. Anderson, 14 Johns. 294. If property is taken for the purpose of destruction, the offense is punishable as malicious mischief. State v. Hawkins, 8 Porter, 461. An intent to commit one crime precludes the intent of perpetrating a different offense. Desty Grim. Law, 540. The intent to kill, precludes the intent of stealing.\nJ. Van Rensselaer, district attorney, for the people, respondent.\nDriving or leading away the property is a taking or carrying away, Barb. Crim. Law, 168; 3 Russ. Crimes; 4 Black. Com. 231. The intent in taking and carrying away, must be felonious, to appropriate the property of another and dispose of it without his consent. Barb. Grim. Law. 172. The question of intent is one for the jury. lb. The felonious quality consists in the intention of the prisoner tb deprive the owner of his property \u2022 it is not necessary that it should be done lucri causa, for the sake of gain. A taking with intent to destroy .or otherwise deprive the owner of the goods will be sufficient, if done to serve the offender or any other person,though not in a pecuniary way. Barbour\u2019s Crim. Law, 174; Rex v. Cabbage, Russ. & Ry. C. C. 292, 207, 118. It is larceny, although no benefit is sought; but only injury to the owner. Desty Am. Crim. Law, \u00a7 145.\nIt is no defense to say that on the same state of facts the defendant was guilty of other crimes, to wit: malicious mischief and cruelty to animals,, as contended in the court below. Sometimes; and frequently, .it occurs that in committing the main crime the defendant is guilty on the same state of facts of other crimes. As in the case of murder, manslaughter or abortion, defendant commits assault and battery as completely as he does the main crime. In burglary, where the accused breaks and enters for the \u00a1purpose of committing a larceny, the fact that he did commit larceny, being Ms intent in breaking and entering, does not render the act less a burglary. So in arson; that defendant broke and entered the building to set the fire on the inside, makes the crime no less arson because he was also guilty of burglary. So. in this case; that the defendant stole the horse for the purpose of depriving the owner of his property by killing it, and because in fact he did so dispose of it to gratify a spirit of revenge or hatred, or did it in order to prevent Jewell from appearing at the law-suit in his defense on the following morning, makes the crime no less a larceny.\nIf the felonious intent exists at the time of the taking to deprive the owner of Ms property without his consent, it is larceny; no matter how he intended to dispose of it, and no matter whether he, in fact, did dispose of it or not."
+  },
+  "file_name": "0032-01",
+  "first_page_order": 56,
+  "last_page_order": 68
+}

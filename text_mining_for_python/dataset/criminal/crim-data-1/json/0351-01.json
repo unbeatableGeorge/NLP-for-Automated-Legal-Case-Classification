@@ -1,0 +1,121 @@
+{
+  "id": 1164439,
+  "name": "MULLALLY v. PEOPLE",
+  "name_abbreviation": "Mullally v. People",
+  "decision_date": "1881-03",
+  "docket_number": "",
+  "first_page": "351",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 351"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "79 Ind. 9",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1949893
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/79/0009-01"
+      ]
+    },
+    {
+      "cite": "9 Baxt. 53",
+      "category": "reporters:state",
+      "reporter": "Baxt.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 N. Y. 365",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        546175
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/86/0365-01"
+      ]
+    },
+    {
+      "cite": "34 N. H. 523",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4530631
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/34/0523-01"
+      ]
+    },
+    {
+      "cite": "48 Ala. 161",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5496628
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/48/0161-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 533,
+    "char_count": 9637,
+    "ocr_confidence": 0.558,
+    "pagerank": {
+      "raw": 4.184991920046476e-08,
+      "percentile": 0.2676148300537985
+    },
+    "sha256": "38018ffb9dd0a9afccb09cede5870e6301cb36fbdc6be58eb0ac67809ef9782a",
+    "simhash": "1:95394ce7c095d612",
+    "word_count": 1711
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MULLALLY v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe only exception required to be reviewed for the purpose of disposing of this case, is, that taken to the refusal of the Court to direct the jury to find a verdict of not guilty, for the reason that a dog was not the subject of larceny. It was proved that the dog wore a collar at the time when he was taken, and the indictment charged that to be of the value of ten dollars ; but as no actual value was given in the evidence to the collar, it is doubtful whether the jury would, in that state of the proof, be justified in finding it to have been valuable, and for that reason the subject of larceny. It is necessary, therefore, to consider the other point presented, whether the dog himself was property of such a nature as to be capable of being the subject of larceny. At the common law the rule was established that the crime of larceny could not be committed by feloniously taking and carrying away a dog. Wharton Crim. Raw, 4 ed. \u00a7 1775. This rule was followed in the ease of Ward v. State, 48 Ala. 161; and other cases have arisen in which it has been applied in the same manner.\nAll the cases, however, concede that a dog is property, and its owner is entitled to redress by way of a civil action against any person injuring or unlawfully taking it. But by the common law it was deemed to be property of such an inferior nature that it could be taken without committing the crime of larceny.\nThis was a valuable dog, worth a sum not exceeding that of \u00a725. And the statute of this state has provided that a person .who shall be convicted of stealing, taking and carrying away the personal property of another, of the value of \u00a725 or less-shall be adjudged guilty of petit larceny. 3 R. S. 6 ed. 969, \u00a7 1.. This provision is so general in its term as to indicate it to have' been the intention of the Legislature to include within it all such articles as, in any just and proper sense, may be characterized as personal property. But in the revision which was made, containing this provision, that was not left to be determined as a mere matter of inference, for care was taken to define the phrase \u201c personal property,\u201d and as so defined it was declared to-mean goods, chattels, effects, evidences of rights in action, and written instruments by which any pecuniary obligation, or any rights or title to property, real or personal, shall be created, acknowledged, transferred, increased, defeated, discharged or diminished (Id. 995, \u00a7 55). This enlargement of the meaning of the phrase included it as it had been used in the portion of the statute declaring what should be the subject of larceny.\nAnd it was referred to in the notes of the revisers in such terms as to indicate the intention to be to comprehend within the phrase all such articles as would ordinarily be understood to come within the fair definition of personal property. Upon this subject, in referring to the general provision so made, it was stated that this broad and comprehensive definition was given to prevent the enumeration of each particular instrument or article that might be the subject of larceny, robbery, embezzlement, or obtaining property under false pretenses, and that anything that can be stolen, and which is of value to the owner, should be protected by the law. 5 N. Y. Stat. at L. 562, \u00a7 32. When this revision was made, dogs were legally defined as chattels, as well as property, as of value to their owners and for the purposes of private redress, within the protection of the law, as it had before then been declared. At the time when the common law relating to larceny was settled, the severity of' its punishment induced the courts to decline to apply it to the taking of property \"of this description. But with the modification in that respect which has since been made, the reason upon which the exception was based has ceased to exist. That was the case at the time when these statutory provisions were made, and there was then no just grounds for continuing to discriminate against this class of property. The dog had been and. was not only the servant, but, to some extent, the companion of his master, participating in his pastimes and sport, and protecting his property; and he was, and he still is, the only one of the brutes which will forsake his own species, and in his friendly attachments, follow his owner through all vicissitudes and dangers, and act as the ever faithful sentinel of his interests. He was, as he is now, a marketable commodity, and as larceny has been so much mitigated in its punishment, no good reason exists for allowing the act of stealing him to be made an exception to the very general provision contained in this statute. An act in similar terms, as to the nature of the property designed to be protected, was made a law in the state of Hew Hampshire. Its design was to provide for the punishment of the willful and malicious injury or destruction of personal property, and in the case of State v. McDuffy, 34 N. H. 523, the point was presented whether a dog was in protection of the provision, and it was held by the court that he was, and consequently it was an offense maliciously to destroy or injure him.\nThis is a direct authority, supporting the construction given to the provisions of the statutes of this state, which have \u2022already been mentioned.\nA similar point was presented in the case of the People v. Malloney (1 Park. Crim. 593), and also in that of the People v. Campbell (4 Id. 386). In the latter case the authorities were well considered by Bussell, City Judge, and in both it was held, that as the statutory law existed in this state, the crime of larceny might be committed by feloniously taking and carrying away a dog. Upon this subject the Legislature have not seen fit to adopt the excejffion existing under the common law, but the law defining the crime has been framed in such terms as to include whatever may properly be designated as personal property. All the authorities concede dogs to be property of that description, and as the reason for the old rule of the common law disappeared many years before the enactment of these provisions, it was no longer required to be maintained or perpetuated in this state.\nThe intention of the Legislature may well be presumed to be opposed to its continuance, and to require the enactments made upon this subject-to be so applied, as to protect all descriptions of personal property against felonious appropriation by the act of others. The case was clearly made out against the prisoner, and literally his act was a crime under the laws of the state. Although they may have created a change in this respect, it was a wholesome and proper one to be made, and no strained construction should be adopted for the purpose of defeating what may fairly be inferred to have been the design and intention of the law.\nThe prisoner was properly convicted, and the judgment should be affirmed.\nDavis, P. J., and Beady, J., concur.\nNote.\u2014In affirming this decision (86 N. Y. 365), the Court of Appeals say: \u201c The learned opinion written at the general term leaves but little to be written now. \u201d\nAs to the reason of the common law rule, Sir James F. Stephen says: \u201c The 10 Geo. 3, c. 18, was the first act which altered the common law, by which dogs were not the subject of larceny. To have made dogs the subject of larceny would, as the law stood in 1770, have made the stealing of every dog worth more than a shilling, a capital crime on the second offense.\u201d 3 Hist. of Crim. Law of England, 147.\nUnder the Tennessee statute defining personal property as \u201cgoods and chattels,\u201d dogs are held subject of larceny. State v. Brown, 9 Baxt. 53; 40 Amer. Rep. 81.\nIn Indiana it was held that dogs are not within the definition of \u201cpersonal goods,\u201d and are not the subject of larceny. \u2022 State v. Doe, 79 Ind. 9; 41 Amer. Rep. 599.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "William F. Kintzing and Maurice Meyer, for the prisoner, plaintiff in error.",
+      "Daniel G. Rollins, district attorney, for the people, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nMarch, 1881.\nMULLALLY v. PEOPLE.\nLarceny\u2014Stealing Dog sufficient to constitute\u2014Personal PROPERTY.\nFrom the Revised Statutes and the revisers\u2019 notes it appears that the term \u201c personal property \u201d contained in the provisions of said statutes defining crimes, etc., was used to avoid the necessity of enumerating each particular instrument or article that might be the subject of larceny, robbery, embezzlement or obtaining property under false pretenses, and that anything that can be stolen, and which is of value to the owner should be protected by the law.\nAt the time of said revision, the reason of the common law rule, that the taking of certain animals fera naturm, did not constitute larceny, \u2014viz.: the severity of the punishment for said crime,\u2014having ceased to exist, the rule itself no longer existed.\nAccordingly, held, that a dog is of value, and that stealing a dog constitutes larceny under the said provisions.\nWrit of error, by the prisoner Thomas Mullally, to the Court of General Sessions of the county of New York, issued to review a conviction of petit larceny.\nPlaintiff in error was tried at the January Term of the New York General Sessions, 1881, before .the Hon. Rufus B. Cowing, city judge, upon an indictment for grand larceny, wherein he was charged with stealing an English setter dog of the value of ninety dollars, and a dog collar of the value of ten dollars. The jury convicted of petit larceny, the value of the dog being admitted to be only twenty-five dollars. Sentence imposed was four months in the penitentiary,\nThe facts and exceptions appear in the opinion.\nWilliam F. Kintzing and Maurice Meyer, for the prisoner, plaintiff in error.\nDaniel G. Rollins, district attorney, for the people, defendant in error."
+  },
+  "file_name": "0351-01",
+  "first_page_order": 375,
+  "last_page_order": 379
+}

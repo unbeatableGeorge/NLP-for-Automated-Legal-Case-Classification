@@ -1,0 +1,147 @@
+{
+  "id": 1167721,
+  "name": "YORK v. PEOPLE",
+  "name_abbreviation": "York v. People",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "263",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "56 N. Y. 334",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519212
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0334-01"
+      ]
+    },
+    {
+      "cite": "7 Hun, 88",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Thomp. & Cook. 446",
+      "category": "reporters:state",
+      "reporter": "Thomp. & Cook",
+      "case_ids": [
+        2438279
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/thomp-cook/6/0446-01"
+      ]
+    },
+    {
+      "cite": "2 Rob. 629",
+      "category": "reporters:state",
+      "reporter": "Rob.",
+      "case_ids": [
+        1425642
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/25/0629-01"
+      ]
+    },
+    {
+      "cite": "40 Barb. 158",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5102552
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/40/0158-01"
+      ]
+    },
+    {
+      "cite": "6 Abb. N. C. 131",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Hun, 88",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Barb. 216",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 468,
+    "char_count": 9139,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04301235322986012
+    },
+    "sha256": "017bd208f9a2126b9dd27f0e00df2ab015a34db2cbdedcc9318e49f8bf80bce4",
+    "simhash": "1:ca24fcf7e83031bd",
+    "word_count": 1601
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Smith, P. J., and Babkeb, J., concur."
+    ],
+    "parties": [
+      "YORK v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Hardin, J.\nPlaintiff in error was indicted in Allegany county for having obtained deposits of money with the firm of York & Chamberlin, and doing business in Wellsville in said county, by means of false pretenses, \u201c on or about the first day of January, 1878.\u201d The indictment, among other things, charges the plaintiff in error with having falsely represented to Leonard H. Frisbey \u201c that he and one Calvin T. Chamberlin were copartners in the banking business under the firm name of York & Chamberlin: that said Chamberlin was worth from $50,000 to $100,000, and that said bank was solvent, sound and good,\u201d and that Frisbey delivered to the said Hiram York $1,500, and \u201c did then and there deposit the said money in a banking-house which was then being run by said York under the name of York & Chamberlin ... as was alleged by said York at that time, and in which said Chamberlin was a copartner as said York then and there alleged . . . and the said Hiram York did then and there designedly receive and obtain of the said Leon ard H. Frisbey the said proper moneys and valuable things ... by means of the false pretenses and representations aforesaid, and got him to deposit the same in and with said banking house, and with intent to cheat and defraud the said Leonard H. Frisbey of the same:\u201d The indictment then alleges that said York and Chamberlin were not copartners in the banking business, doing business at Wellsville . . . under the firm name of York & Chamberlin. It then alleges \u201c said Chamberlin was not in any manner connected with or interested in the banking house or bank where said Frisbey deposited his said money as aforesaid; that York was running said banking-house alone and not as a copartner with said Chamberlin ; that said banking house or bank was not solvent, sound and good, but was insolvent, unsound and not good, and the pretenses and representations so made as aforesaid by the said York to the said Leonard FI. Frisbey were in all respects utterly false and untrue.\u201d\nDuring the trial evidence was given in respect to Chamberlain\u2019s connection with the business, and tending to show that he had not dissolved bis copartnership with York, which had existed many years prior to the time named in the indictment as to the representations.\nIt appeared Chamberlain died the last of June, 1878. Proof was given tending to show the representations were made, as alleged, as to pecuniary standing of Chamberlain as alleged in the indictment. There was no definite and positive proof thereof showing his assets and liabilities at the time of his death, nor in the month of January, 1878. But instead thereof, one Gabriel Bishop was called as a witness by the people, who testified <c that he was conversant with Mr. Chamberlin\u2019 s business and knew of his real estate and his personal estate and of his bank stock and of his debts, and knew of this in 1877, and up to June 1878.\u201d\nThe case states, viz.: \u201c He was then asked what, in his opinion, was the financial standing of Calvin T. Chamberlin from October, 1877, to February, 1878.\u201d This was objected to on numerous grounds, and among others, on the ground that the witness should be confined to facts; that his opinion was not evidence.\nThe witness was asked by the defendant\u2019s counsel if the will of Chamberlin was admitted to probate and he said it was, and that he was one of the executors, and that debts had been presented to him as executor; that the will disposed of real and personal estate ; that the real estate was a matter of record, and mortgages given to Chamberlin and owned by him were of record; and that Chamberlin owned a large tract of timber land in Pennsylvania, which was a matter of record.\nThe objections were renewed and they were overruled, \u201c and the witness was permitted to give his opinion,\u201d and stated \u201c that he was of the opinion that Chamberlin was during such time insolvent.\u201d Defendant took an exception to the reception of such testimony, and asked to strike out such testimony, and the motion therefor was denied, and the defendant again excepted.\nThe ruling calls upon us to consider whether the opinion of the witness was competent. He was not asked to state as a fact the standing of Chamberlin financially, but his opinion in respect to it. The question did not call for the facts known to the witness, nor as to the fact of what his standing was, but squarely for the opinion of the witness. In Thompson v. Hall (45 Barb. 216), the court said of a question in respect to a party\u2019s being able to pay his debts at a time mentioned, that it was competent as a fact, and he added : \u201cI do not understand the question as calling for the opinion of the witness simply.\u201d That case is not an authority to sustain the ruling before us, but on the contrary indicates that the learned judge who wrote the opinion, was adverse to the reception of a witness\u2019 opinion as to the financial standing of a party. In Dermott v. Campbell (17 Hun, 88), it was held error to allow a question put in the following words, viz.: \u201c Is Donald Campbell a man of responsibility?\u201d Slingerland v. Bennett (6 Sup. Ct. [T. & C.] 446), does not contain the ruling made in this case in hand. There the question collaterally arose as to the standing of a party reputed to be a man of wealth. The repute of the party inquired about was not directly involved in the issue. It was very important in this case to establish the financial standing and ability of Chamberlin in January, 1878, and the fact was one which might have been proven by satisfactory testimony. The opinion of Bishop was not admissible, and it was wholly insufficient to prove what Chamberlin was worth in January, 1878. See Haggerty v. R. R. Co., 6 Abb. N. C. 131.\nIn the course of the charge delivered by the court, the standing of Chamberlin, the evidence bearing upon the representation as to his being worth $50,000 to $100,000, and the evidence as to his insolvency, were referred to, and the jury were left to find that the representation was made that he was worth $50,000 to $100,000, and that when it was made that Chamberlin in fact was insolvent, and to convict upon finding such facts.\nThe evidence of Bishop\u2019s opinion was thereby made important and influential before the jury, and the erroneous reception of his opinion may have produced the conviction. For that error, we think there should be a reversal and a new trial. Order and conviction reversed and proceedings remitted to the Court of Sessions of Alleghany county, with directions for a new trial.\nSmith, P. J., and Babkeb, J., concur.",
+        "type": "majority",
+        "author": "Hardin, J."
+      }
+    ],
+    "attorneys": [
+      "Hamilton Ward, for the prisoner, plaintiff in error.",
+      "George W. Loveridge, district attorney, for people, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court \u2014 General Court \u2014 Fourth Department.\nJanuary, 1884.\nYORK v. PEOPLE.\nFalse Pretenses \u2014 Evidence\u2014Opinion of Witness as to financial STANDING.\nUpon the trial of an indictment for obtaining money by false pretenses, in which one of the alleged false statements relied on by the prosecution, and by the court in its charge, was as to the financial standing of one O., a witness who had testified that he was conversant with the affairs of said C., was asked in behalf of the prosecution what, in his opinion, was the financial standing of said 0., at the time referred to, and was permitted to testify that in his opinion said 0. was insolvent.\nHeld, error calling for a new trial.\nCertiorari in the nature of a writ of error, founded on a bill of exceptions, to the Court of Sessions of Allegany county to review a trial and conviction of Iiiram York, the plaintiff in error, for false pretenses in obtaining moneys by way of deposit in the banking-house of York & Chamberlain, in the town of Wellsville, in said county of Allegany.\nThe facts appear in the opinion.\nHamilton Ward, for the prisoner, plaintiff in error.\n\u2014 The testimony of Bishop as to his opinion of Chamberlain\u2019s insolvency was erroneously admitted.\nThis kind of evidence is most dangerous. When was it ever heard that a man on trial for a crime was convicted by the opinion of a witness as to the solvency of another 2 Sometimes, on the subject, evidence has been permitted of the reputation of the parties in respect to pecuniary means in the town or neighborhood where they resided. Amsden v. Manchester, 40 Barb. 158. \u201c And this is the best evidence of the state of a man\u2019s property where the question arises collaterally.\u201d Id. 163, G. T. 7 Dist.; Iselin v. Peck, 2 Rob. 629; Slingerland v. Bennett, 6 Thomp. & Cook. 446. The facts should be given to the jury in the knowledge of the witness, and not his opinion.\n\u201c A witness cannot be permitted to give his opinion as to the pecuniary responsibility of another.\u201d 3 Brightly's Digest,. 4831, No. 367; Denman v. Campbell, 7 Hun, 88; Green v. Disbrow, 56 N. Y. 334. Common repute, which is the settled judgment of the people of the locality, may be given in evidence upon some subjects, such as the pecuniary condition of a party, and whether his reputation for truth and veracity is good or bad, and in some other cases that might be cited. But individual opinion on the subject is never permitted, a distinction which the court, in this case, seems to have lost sight of.\nGeorge W. Loveridge, district attorney, for people, defendant in error."
+  },
+  "file_name": "0263-01",
+  "first_page_order": 287,
+  "last_page_order": 291
+}

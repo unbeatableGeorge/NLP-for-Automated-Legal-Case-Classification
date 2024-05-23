@@ -1,0 +1,148 @@
+{
+  "id": 1164484,
+  "name": "PEOPLE v. FABER",
+  "name_abbreviation": "People v. Faber",
+  "decision_date": "1883-04",
+  "docket_number": "",
+  "first_page": "115",
+  "last_page": "122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Yerg. 110",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        11266539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/9/0110-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. 136",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070917,
+        2070943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0140-01",
+        "/mass/18/0139-01"
+      ]
+    },
+    {
+      "cite": "5 Barb. Ch. 117",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 N. Y. 335",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Barb. 117",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777223
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/5/0117-01"
+      ]
+    },
+    {
+      "cite": "4 N. Y. 95",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005540
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/4/0095-01"
+      ]
+    },
+    {
+      "cite": "2 R. 8",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Barb. 117",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777223
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/5/0117-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 642,
+    "char_count": 15853,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04286890857343421
+    },
+    "sha256": "b1683dc637f222b9963a7188ffed796d2f61316a00607ef3dc5fa0f2eccc4983",
+    "simhash": "1:1784af548411fd19",
+    "word_count": 2780
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. FABER."
+    ],
+    "opinions": [
+      {
+        "text": "Rapallo, J.\nThe question in this case is whether contracting a marriage in this State, in violation of section 49 of the act concerning divorces (2 R. S. 146), constitutes the crime of bigamy, as defined in 2 R. S. 687, sections 8, 9 ; or is punishable only as a misdemeanor. The provisions of the Revised Statutes bearing upon the question are as follows :\nArticle 1 of title 1, chapter 8, \"part 2, relating to marriage, provides (section 5): \u201cHo second or other subsequent marriage shall be contracted by any person during the lifetime of any ^former husband.or wife of such person, unless\u20141. The marriage with such- former husband or wife shall have been annulled or dissolved for some cause other than the adultery of the accused\u201d (2 R. S. 139).\n\u25a0 Article 3 of the same title, concerning divorces (2 R. S. 144), provides (section 38): \u201c Divorces may be decreed, and marriages may be dissolved by the court of chancery, whenever adultery has been committed by any husband or wife. \u201d Section 49: . \u201c Whenever a marriage shall be dissolved, pursuant to the provisions of this article, the complainant may marry again during the lifetime of the defendant, but no defendant convicted of adultery shall marry again' until the death of the complainant.\u201d\nArticle 2 of title 5 of chapter 1 of part 4 of the Revised Statutes, entitled \u201c Of unlawful marriages and of incest \u201d (2 R. S. 687), provides (\u00a7 8): \u201c Every person having a husband or wife living, who shall marry any other person, whether married or single, shall, except in the cases specified in the next section, be adjudged guilty of bigamy; and upon conviction shall be punished by imprisonment in the' state prison for a term not exceeding five years. \u201d Section 9 : \u201c The last section shall not extend to the following persons or cases.\u201d\nThen follow six subdivisions, the third of which is : \u201c 3. To any person by reason of any former marriage which shall have been dissolved by the decree of a competent court, for some cause other than the adultery of such person.\u201d\nReading all these provisions together, the conclusion seems irresistible that the intent of the statute was that section 8 should extend to a divorced person who did not come within the exception.' The language clearly implies that notwithstanding the divorce such a person is placed in the situation of haying a husband or wife living, for the purposes of the eighth section.\nThe third subdivision imports into the statute, for the punishment of bigamy, almost the identical language which is employed in 2 R. S. 139, \u00a7 5, subd. 1, which prohibits and declares unlawful certain marriages, the only difference being that in 2 R. 8. 139, a husband or wife by the first marriage who has obtained a divorce is spoken of as the former husband or wife, and in subdivision 3 of section 8 the prior marriage is spoken of as the former marriage; but the intent is clear that the prohibition contained in the statutes concerning marriages and divorces shall be incorporated into the statutes punishing bigamy. The language of the latter act, where the sections are connected is, that every person having a husband or wife living, who shall marry, &c., shall be guilty of bigamy, except where the former marriage has been dissolved for some cause other than the adultery of the person contracting the subsequent marriage. There could scarcely be a plainer implication than that, for the purpose of enforcing the statutory prohibition, a person against whom a divorce has been obtained for that cause is regarded by the statute as having a husband or wife living, so long as the party obtaining the divorce lives.\nThe judgment of the General Term in this case was based upon the case of People v. Hovey (5 Barb. 117), which was decided in 1849 by the General Term of the Supreme Court in the Seventh District. In that case it was held that a violation of the prohibition against marriage of the guilty party contained in the divorce act, did not constitute bigamy, and the reasons assigned for that conclusion were that the divorce dissolved the former marriage and, after such dissolution-, neither party could have a husband or wife living; that, consequently, such a case was not included in section 8, and the provisions of that section could not be enlarged by the exception contained in the third subdivision of section 9.\nThis criticism of the language of the section cannot, in our judgment, overcome the clear and unmistakable intent apparent on the face of the provisions when read together. The declaration that the eighth section shall not extend to a person by reason of a former marriage which has been dissolved by the decree of a competent court for some cause other than the adultery of such person, clearly assumes that it does extend to a person whose former marriage has been dissolved for his or her adultery. If not, the third subdivision of section 9 is wholly without meaning or operation.\nThe same argument which was used in People v. Hovey was subsequently sought to be employed in the case of Wait v. Wait (4 N. Y. 95). In that case the plaintiff claimed dower in lands left by a husband from whom she had obtained a divorce a vinculo on the ground of his adultery. There is no express provision of the statute declaring a widow entitled to dower under such circumstances, but the right of dower is not taken away ; and its continuance is impliedly recognized in section 48 of the divorce act (2 R. S. 146), which declares that a wife convicted of adultery in a suit for a divorce brought by her husband shall not be entitled to dower in her husband\u2019s real estate. In the case cited it was argued by Mr. Hill that the right to dower could only be acquired by the death of the husband; that only a widow had a dowerable capacity,, and that she must have such capacity at the time of his death ; that she could be endowed of lands of her deceased husband only; that she must survive her husband, and that she must be a wife at the time of his decease, or she cannot be his widow ; that the marriage being dissolved, she ceased to be his wife and could not be his widow. But this construction of language was not suffered to prevail, and it was held that, although the term widow might not be the most appropriate term to employ under these circumstances, yet it was sufficient to designate the person entitled to dower, and the conclusion was that the divorced wife was entitled to the benefit of the statute which awards dower to the widow.\nA reference to section 48 of the divorce act (2 R. S. 146) is also instructive as showing that for some purposes the Legislature apply the terms \u201c husband \u201d and \u201c wife \u201d to parties between whom a decree of divorce a vinculo has been pronounced. The language of section 48 is \u201c a wife,\u201d being a defendant in a suit for a divorce brought by her husband, and \u201c convicted \u201d of adultery, shall not be entitled to dower in her \u201c husband\u2019s \u201d real estate. The terms \u201c husband \u201d and \u201c wife \u201d are thus applied to the parties after the judgment of divorce has been rendered, without the addition of the term \u201c former,\u201d or any' other term indicating that the parties had ceased to answer the description of husband and wife.\nA reference to the history of our statute against bigamy shows very conclusively that its framers intended it to apply to a case like the present one. The first act on the subject was passed February 7, 1788, and was re-enacted in 1 R. S. 113, as follows:\n\u201c That if any person or persons being married or who hereafter shall marry, do at any time marry any person, or persons, the former husband or wife being alive, then any such person shall be guilty of a felony .... But neither this act or anything therein contained shall extend to any person or persons \u201d . . . then follow five specifications, the third of which is, \u201c nor to any person or persons who are or shall be at the time of such marriage, divorced by the sentence or decree of any court having cognizance thereof.\u201d\nIn framing the provisions of the Revised Statutes it is stated by the revisers, in their original note to section 8 (the statute against bigamy), that it was the same as 1 R. S. 113, varied by inserting \u201c whether married or single \u201d to reach cases not supposed to be within the act; and the note to section 9 states that the first five subdivisions are founded upon 1 R. S., 113, the third being qualified according to 2 R. S., 198, \u00a7 4. Section 4 here referred to. is contained in the divorce law of 1813, and is the provision that it shall not be lawful for the defendant, who may be convicted of adultery, to marry again until the complainant shall be actually dead. It cannot be doubted that the intention of the revisers was to bring a violation of this prohibition within the statute against bigamy.\nThe new Penal Code, adopted in 1881, re-enacts the statute in the same language as in the Revised Statutes, except that it has added to the third subdivision of section nine a further exception in favor of a divorced party who has obtained permission from the court to marry again, pursuant to the act authorizing such permission to be given.\nUpon the theory of the respondent, all these elaborate provisions are senseless and without any effect whatever.\nThe utility of the prohibition of such marriage it is not for us to discuss here. So long as it stands upon the statute book, we are bound to give it force in the manner prescribed by the Legislature, when the.violation of it is committed within this State.\nThe judgment appealed from should be reversed, and that of the Court of General Sessions affirmed, and the proceedings remitted.\nAll concur except Andrews, J., who dissents on the ground that the construction of the statute on bigamy by the General Term in People v. Hovey (5 Barb. 117) has never been reversed or questioned in any judicial decision until now; and Earle, J., who dissents generally.",
+        "type": "majority",
+        "author": "Rapallo, J."
+      }
+    ],
+    "attorneys": [
+      "John McKeon, district attorney, and John O'Byrne (assistant), for the People, appellant.",
+      "W. F. Kintzing and G. L. Simonson, for defendant, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nApril, 1883.\nPEOPLE v. FABER.\nBigamy.\u2014Re-mabbiage aetee Divobce.\nA person against whom a decree of divorce for adultery has been obtained is guilty of bigamy if he or she marries again in this State, during the lifetime of the party obtaining the decree.\nAppeal by the People, from a judgment of the General Term in the First Department, of February 2,1883, reversing a judgment of conviction of the defendant in the Court of General Sessions of New York, and granting a new trial.\nThe defendant Constantine Faber was indicted for bigamy, and upon trial therefor at the Court of General Sessions of New York, Gildeesleeve, J., presiding, was, on December 13, 1882, convicted and sentenced to five years\u2019 imprisonment.\nBoth marriages took place in this State.\nThe only evidence offered on behalf of defendant was a decree of divorce on the- ground of adultery, obtained against him by his first wife and'entered prior to the time of his second marriage, and which contained the following language :\n\u201cIt is ordered and adjudged that the marriage between the said Helen. A. Faber and the defendant, Constantine Faber, he and the same is hereby dissolved, and the said parties are and each of them is freed from the obligation thereof . . . but it shall not be lawful for the said defendant Constantine Faber to marry again.until the said\" plaintiff Helen A. Faber is actually dead.\u201d\nAt the close of the case,' counsel for defendant. moved that the court advise the jury to acquit, on the ground that the evidence was not sufficient in law to sustain the indictment, on the ground that the second marriage of defendant was a mere violation of the order of the Supreme Court, and was therefore only a contempt. This motion was denied, and <\u00a1 defendant excepted.\nThe jury, under instructions from the court, found the defendant guilty.\nFurther facts appear in the opinion.\nFrom this conviction an appeal was taken, and the General Term of the Supreme Court, in the First Department, reversed the judgment of conviction by an order entered on February % 1883, and delivered the following opinion:\nPer Curiam.\u2014The appellant was indicted for and tried and convicted of the crime of bigamy, and sentenced to the state prison for the term of five years. It was shown on the trial that the defendant, on February 21, 1878, was married to one Helen Ashen Braden. Afterwards, on September 12, 1881, in an action of the Supreme Court of this State, wherein the wife of the appellant was plaintiff, and the appellant defendant, a judgment dissolving the marriage, on the ground of adultery committed by the defendant, was recovered and entered. After-wards, and on April 16, 1882, the appellant was married to one Mary West.\nThe facts upon the trial were undisputed. The court held, as matter of law, that the appellant, by his second marriage, was guilty of the crime of bigamy.\nThis exact question was presented to this court in People v. Hovey (5 Barb. 117), and it was there held that after the dissolution of a marriage for adultery, the marriage contract was at an end, and the relation of husband and wife no longer existed between the parties, and that it is not bigamy for the guilty party to marry again; but that, the second marriage being prohibited by section 47 of the act concerning divorce, it is punishable as a misdemeanor under the 45th section of title 6 of the Eevised Statutes, relating to misdemeanors.\nThe views of the court in that case are well sustained by the able opinion of Selden, J., and it has not been reversed by any subsequent case. In our opinion, the case is a correct exposition of the law.\nThe judgment must be reversed, and a new trial granted.\nDavis, P. J\".,'Beady and Daniels, JJ., sitting.\nFrom the judgment of reversal an appeal was taken to the Court of Appeals, by the People.\nJohn McKeon, district attorney, and John O'Byrne (assistant), for the People, appellant.\nBigamy is the felonious of\u00edense of a husband or wife marrying again, during the life of the first wife or husband. Wharton\u2019s Law Dic. 93.\nArticle I. title I. chapter VIII. of part II. of the Eevised Statutes, provides: \u00a7 5. \u201c Ko second or other subsequent marriage, shall be contracted by any person, during the lifetime of any former husband or wife of such person, unless, 1, \u201c The marriage with such former husband or wife shall have been annulled or dissolved, for some cause other than the adultery of the accused.\u201d\nDefendant was guilty of bigamy. Fleming v. People, 27 N. Y. 335. That by a divorce a vinculo, there is to a great extent an interruption of the marriage relations, is not questioned, but the current of decisions does not go so far as to uphold the theory of an absolute dissolution of these relations, so that the guilty party can, as is sought by this defendant, take advantage of his own wrong. Wait v. Wait, 4 . N. Y. 95.\nW. F. Kintzing and G. L. Simonson, for defendant, respondent.\nMarriage is a contract according to the form prescribed by law, by which a man and woman capable of entering into such a contract mutually engage with each other to live their whole lives together in the state of union which ought to exist between husband and wife. Shelford Mar. & Div. 1; 2 Edm R. S. 2 ed. \u00a7 1, 144. The terms husband and wife are correlative. Webst. Diet, notes \u201c Husband,\u201d \u201c Wife;\u201d People v. Hovey, 5 Barb. Ch. 117. The decree dissolves the marriage, and declares that each party is freed from its obligation. The \u2022 marriage contract is at an end; not only the complainant, but the defendant also, is absolved from all the obligations arising out of that contract; and the defendant, being a single man at the time of the second marriage, was not guilty of bigamy. People v. Hovey, supra ; Commonwealth v. Putnam, 1 Pick. 136; Ponsford v. Johnson, 2 Blatch. 51; Dickson v. Dickson, 1 Yerg. 110. It is contended that the facts presented in this case do not come within the provisions of section 8, 2 Edm. R. S. 709."
+  },
+  "file_name": "0115-01",
+  "first_page_order": 139,
+  "last_page_order": 146
+}

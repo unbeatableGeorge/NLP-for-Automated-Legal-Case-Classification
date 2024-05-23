@@ -1,0 +1,66 @@
+{
+  "id": 1164453,
+  "name": "PEOPLE v. TRUMBLE",
+  "name_abbreviation": "People v. Trumble",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "443",
+  "last_page": "447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 443"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 392,
+    "char_count": 9059,
+    "ocr_confidence": 0.51,
+    "pagerank": {
+      "raw": 1.8258001464992802e-07,
+      "percentile": 0.7198487247712125
+    },
+    "sha256": "1245f56fface8c82bb1a0d4fa32126b8510111474b0535225467251b43f6830c",
+    "simhash": "1:89bff987b7e921b3",
+    "word_count": 1559
+  },
+  "last_updated": "2023-07-14T20:55:52.857515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. TRUMBLE."
+    ],
+    "opinions": [
+      {
+        "text": "Bockes, J.\nWe are confronted in this case, in the outset, , with the question whether the defendant had the right of appeal, under the provisions of the Code of Criminal Procedure, from the judgment rendered by the police justice to the Court of Sessions of Fulton County.\nThe defendant was convicted and sentenced under sections 42 and 43 of the act entitled, \u201c An act to reorganize the village of Gloversville,\u201d in the county of Fulton. L. 1873, ch. 505, pp. 712, 785, 786. The offense of which the defendant was convicted was the selling of intoxicating liquors, to wit: lager beer, in quantities less than five gallons, without license. By the sections above cited, such offenders are declared \u201c disorderly persons,\u201d and provision is there made for their summary trial and punishment, by and before the Police Justice of the village. The proceeding in this case was.taken before that officer, not acting as a Court of Special Sessions but as Police Justice under the authority conferred on him by the provisions of the village charter above cited. The record shows that the defendant was convicted of the offense charged, and that he was sentenced to confinement in the county jail for the period of thirty days. An appeal was taken from such conviction and judgment to the Court of Sessions of the county pursuant to the provisions of the Code of Criminal Procedure, good in form in all respects, as an appeal from a judgment upon conviction rendered by a court of Special Sessions. Sections 749 et seq.\nA motion was made in the Court of Sessions to dismiss the appeal on the ground that it was unauthorized by law. The motion was denied and the denial was entered in the final judgment of affirmance rendered by that court on the appeal. From such judgment of affirmance an appeal was taken to this court. It is again urged that the appeal to the Court of Sessions from the judgment of the police justice was without authority of law inasmuch as he acted as an officer merely under special authority conferred by the village charter, not as a Court of Special Sessions, and that in such cases the right of appeal to the Court of Sessions is not given by the Code, or otherwise.\nIf the point be well taken that the appeal was unauthorized, the Court of Sessions should have granted the motion to dismiss, as in that case the court was without jurisdiction to hear the case on the merits, and it would follow that this court should reverse the judgment of affirmance rendered by that court, and do what that court should have done, dismiss the original appeal from the judgment rendered by the police justice.\nThe result would be to leave the convictions and judgment by the Police Justice in full force and effect. That result must follow if the original appeal to the Sessions was without authority of law.\nThe right of appeal exists only when expressly conferred by-statute ; hence there could be no appeal to the Sessions from the judgment of the police justice in the case, unless given by law.\nIt is claimed that such right is conferred by section 749 of the Code of Criminal Procedure, which provides for appeals from judgments rendered by a Court of Special Sessions. We are cited to no other express provision, nor are we aware of any, under which the appeal in this case can be upheld ; and the question is whether it comes within the purview of that section. We have held at this term, in the People v. Burleigh, that where authority is conferred upon a particular officer or magistrate, giving to him special jurisdiction in a criminal matter, with special directions as to the mode of procedure, he must be deemed to actas an officer, and not as a Court of Special Sessions.\nIn addition to what was said in the case cited, it should be noticed that a distinction is marked between Courts of Special Sessions and courts authorized to be held by police justices under special provisions of law, both in the constitution and laws of the State; and particularly is the distinction marked in the Code of Criminal Procedure, in numerous instances; indeed, the distinction runs through all its provisions having reference to those courts. They are treated as separate and distinct courts, and are always spoken of in contradistinction. But it is urged that the right of appeal from judgments rendered by police justices was intended to be conferred by section 749, because part Y. of the Code of Criminal Procedure, which embraces that section, is defined by section 2 to relate to proceedings in Special Sessions and Police Courts. But such relation is answered by the separate provisions relative to those courts respectively contained in part Y. Section 699 was amended in 1882, in order to have it expressed that such section should apply to both courts, which it did not do prior to the amendment.\nTitle III. of part Y. is entitled: \u201c of appeals from Courts of Special Sessions and then follows section 749, which gives the right of appeal from judgments upon conviction rendered by Courts of Special Sessions, but not from judgments rendered by Police Courts. We are referred to section 767, where it is provided that if the judgment be reversed, and the defendant be imprisoned in pursuance of the judgment of the Police Court, the Court of Sessions must order him to be discharged; but this provision does not aid the case, inasmuch as section 74, as amended in 1882, declares that \u201c Courts held by police justices are called Police Courts, and Courts of Special Sessions are also called Police Courts, and are so designated in different parts of the Code.\u201d\nWe find no provision declaring that Police Courts, ex vi termini, are to be held and deemed Courts of Special Sessions.\nIn conclusion, then, we find no authority for the appeal in this case from the judgment rendered by the Police Justice to the Court of Sessions. The appeal is not given by the charter of the village of Gloversville ; nor by any special statute; nor by any provision of the Code of Criminal Procedure, general or special.\nProvision is made by the Code for the review of convictions of disorderly persons (\u00a7 39, subd. 6, title VII. of part VI., entitled \u201cof proceedings respecting disorderly persons\u201d in certain cases ; but these provisions do not touch the question of the right of appeal in this case.\nOur conclusion is that the appeal to the Sessions was without authority of law, hence that the judgment of affirmance by that court was without jurisdiction. An appeal to this court from that judgment is however given by section 770. Thus, the proceeding is before this court for the purpose of correcting the record.\nThe judgment \u00b0of the Sessions must be reversed, and the appeal to that court from the judgment rendered by the police justice must be dismissed for want of jurisdiction.\nLearned, P. J., and Boardman. J., concur.\nNote.\u2014In the case of People \u00ae. Julius W. Burleigh, referred to in the foregoing opinion, and decided at the same term, the following points were decided, Judge Bockes writing the 'opinion:\nThe offense of being intoxicated in a public place is properly triable before a magistrate, under the provisions L. 1857, c. 628, as amended by L. 1869, c. 856. The accused is not entitled to give bail to appear before a grand jury, or to a trial by a jury of six, as in Special Sessions.\nThe provisions of the new Code do ,not apply to the offense, and the only mode of review is by certiorari.\nThe imprisonment may exceed.one day for each dollar fine.",
+        "type": "majority",
+        "author": "Bockes, J."
+      }
+    ],
+    "attorneys": [
+      "N. H. Anibal and N. P. Hinman, for the prisoner, appellant.",
+      "C. M. Parke, district attorney, James M. Dudley and Edgar A. Spencer, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Third Department.\nJanuary, 1883.\nPEOPLE v. TRUMBLE.\nPolice Justice, Appeal from-\u2014When deemed to be sitting as Court.\u2014Charter of G-loversville.\nWhere an authority is conferred upon a particular officer or magistrate, giving to him special jurisdiction in a criminal matter, with special directions as to the mode of procedure, he must be deemed to act as an officer, and not as a court of Special Sessions.\nThe right of appeal exists only when expressly conferred by statute, and there is nothing in the Code of Criminal Procedure which expressly or by necessary implication authorizes an appeal to the Court of \u25a0 Sessions from a judgment rendered by a police justice sitting as such.\nAccordingly, Held, that no appeal to the Court of Sessions lies fro^m the judgment of a police justice acting under the charter of the village of Gloversville (L. 1873, ch. 605), convicting defendant of the offense of selling intoxicating liquors in quantities less than five gallons without license, said charter containing no provision for such appeal, and there being no special statute providing for it.\nAppeal from a judgment of the Court of Sessions of Fulton County, affirming the judgment of the police justice of the village of Gloversville, convicting the defendant, Way land H. Trumble, of being a \u201c disorderly person,\u201d under the provisions of the charter of that village.\nThe facts appear in the opinion. \u25a0\nN. H. Anibal and N. P. Hinman, for the prisoner, appellant.\nC. M. Parke, district attorney, James M. Dudley and Edgar A. Spencer, for the people, respondent."
+  },
+  "file_name": "0443-01",
+  "first_page_order": 467,
+  "last_page_order": 471
+}

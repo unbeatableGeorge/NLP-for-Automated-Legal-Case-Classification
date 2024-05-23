@@ -1,0 +1,202 @@
+{
+  "id": 1167722,
+  "name": "PEOPLE v. CASEY",
+  "name_abbreviation": "People v. Casey",
+  "decision_date": "1884-05",
+  "docket_number": "",
+  "first_page": "194",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Abb. Ct. App. Dec. 220",
+      "category": "reporters:state",
+      "reporter": "Abb. Ct. App.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "92 N. Y. 85",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2190095
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/92/0085-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 277",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534706
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/74/0277-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0164-01"
+      ]
+    },
+    {
+      "cite": "1 Den. 281",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0281-01"
+      ]
+    },
+    {
+      "cite": "86 N. Y. 460",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        546205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/86/0460-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 484",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173233
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0484-01"
+      ]
+    },
+    {
+      "cite": "18 Hun, 560",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. 501",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297845
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0493-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. Crim. Rep. 187",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167695
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/2/0187-01"
+      ]
+    },
+    {
+      "cite": "99 U. S. 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3373040
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/99/0180-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 484",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173233
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/80/0484-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 708,
+    "char_count": 22113,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 1.466991056225537e-07,
+      "percentile": 0.6584424420110979
+    },
+    "sha256": "a6ecaeb327eba137ac1d997a15372aaa79b65c3542a11df14c965367b21e465b",
+    "simhash": "1:0bcf2fedbe1b1791",
+    "word_count": 3955
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur."
+    ],
+    "parties": [
+      "PEOPLE v. CASEY."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.\nThe defendant was put upon his trial for the crime of murder, and interposed challenges for actual bias to several persons who were called to act as jurors, which his counsel now claims were improperly overruled.\nThe Code of Criminal Procedure, section 376, provides, that \u201c the previous expression or formation of an opinion or impression, in reference to the guilt or innocence of the defendant, or a present opinion or impression in reference thereto, is' not a sufficient ground for challenge for actual bias to any person otherwise legally qualified, if he declares on oath that he believes that such opinion or impression will not influence his verdict, and that he can render an impartial verdict according to the evidence, and the court is satisfied that he does not entertain such a present opinion or impression as would influence his verdict.\u201d That provision is substantially a re-enactment of section 1 of the act, chapter 475 of the Laws of 1872. Notwithstanding this provision, a person who has formed or expressed an opinion or impression in reference to the guilt or innocence of the defendant, is still, as formerly, disqualified to sit as a juror, unless three things shall concur: (1) he must declare on oath that he believes that such opinion or impression will not influence his verdict; (2) he must also declare on oath that lie believes .lie can render an impartial verdict according to the evidence ; and (3) the court must be satisfied that he does not entertain such a present opinion or impression as would influence his verdict. Unless these three things concur the person must now, as before, be excluded from the jury box. Balbo v. People, 80 N. Y. 484 ; Cox v. People, Id. 500 ; People v. Cornetti, 92 lb. 85. The cases cited also hold that the decision \u2022of the trial judge in such a case, overruling the challenge, is reviewable in this court, and that it is our province and duty to determine upon the evidence elicited by the examination of the person, whether or not he was a competent juror.\nCharles Davidson was called as a juror, and upon his examination testified that he had heard and read about the case, that what he had read left an impression on his mind for or against the defendant; that he had talked the case over with his neighbors, that in conversation with them he had expressed an opinion in reference to the guilt or innocence of the defendant, that he still had the opinion thus expressed, and that he was pretty sure he had said that he thought the defendant was guilty. This question was put to him by the District Attorney : \u201cNotwithstanding that you have heard or read of it, or may have formed or expressed an opinion or impression, can you sit as a juror if selected, and determine this case upon the evidence as you shall hear it from the witnesses?\u201d and he answered : \u201c Well, I suppose I could.\u201d The court ruled that he was a good juror. James Waldron was called as a juror, and testified upon his examination that he had read of the case, and formed an opinion or impression in reference to it; and then the District Attorney asked him this question: \u201c Notwithstanding that, could you in your opinion sit here as a juror and determine it entirely upon the evidence in the case ?\u201d and he answered \u201cYes.\u201d Upon his cross examination, he testified that he had read in the newspapers a criticism upon a dissenting juror upon a previous trial; that he had formed a distinct impression as to the guilt or innocence of the defendant, that he still had that impression, that it would require evidence to remove it; and that he would go into the jury box, if accepted as a juror, with a prejudice in his mind as the result of the newspaper reading and the adverse criticism that he had seen in the public press. He was asked this question : \u201cWould that definite, distinct impression that you have in your mind, would it shape or shadow your verdict at all?\u201d and he answered, \u201c Well, I would go according to the evidence, I think.\u201d\nThere were further questions and answers as follows : Q. \u201c Apart from the evidence as it might be disclosed to you on the trial, would this previously formed impression or prejudice arising from yonr newspaper reading, aid at all in shaping and forming yonr verdict?\u201d A. \u201cWell, I don\u2019t know that it would.\u201d Q. \u201c Are you sure that it would not ?\u201d A. \u201cNo, sir; I am not sure about that.\u201d Q. \u201c And the impression that you had, after thinking this matter all over, after reading the newspaper articles, and after the conversation that yon had had with yonr neighbors was a distinct impression\u2014is with you yet\u2014 and it .would go with you into the j\u2019ury box, and you think might change, shade or shadow the verdict which you would give on the evidence?\u2019\u201d A. \u201c Well, it might, but it hadn\u2019t ought to.\u201d Q. \u201c But you say that it might; you are not sure that you could divest your mind entirely of that prejudice ?\u201d A. \u201c No, sir.\u201d The court sustained the competency of the juror.\nWarren Willis was called as a juror, and upon his examination testified that he had heard and read of the case, and this question was put to him by the District Attorney : \u201c Notwithstanding that fact, could you determine it according to the evidence if selected as a juror ?\u201d A. \u201c I suppose I could.\u201d Q. \u201c That is your opinion is it, that you could ? A. \u201c Yes, I suppose I could.\u201d He was then cross-examined by the defendant\u2019s counsel and testified that he had read accounts of the homicide in newspapers, and then he was questioned and answered as follows. Q. \u201c Did the result of your newspaper reading or of any conversation that you might have had with any person, make any distinct impression on your mind concerning the guilt or innocence of the accused?\u201d A. \u201c Yes sir.\u201d That impression is with you yet, is it?\u201d A. \u201c Yes sir, I think it. is.\u201d Q. \u201c In addition to the formation of an opinion, did you express any. opinion as to the guilt or innocence of the prisoner ?\u201d A. \u201cYes sir, I did, here in the courtroom.\u201d Q. \u201c Did you say you thought the defendant was guilty, or word's to that effect ?\u201d A. \u201cI might.\u201d Q. \u201cYou did make that statement ? \u201d A. \u201cYes sir, I think he is guilty from what I read.\u201d Q. \u201c I am not asking you what you think, I ask you whether you said so ?\u201d A. \u201c Yes sir, I think I have said so.\u201d The court sustained the competency of the juror. Isaac Johnson was called as a juror, and upon his examination by the District Attorney, testified that he had heard about the case and had an impression about it. These questions were then put to him, and answered: Q. \u201c Could you sit there as a juror and determine it according to the evidence in the case without regard to anything that you may have heard outside ?\u201d A. \u201c Well, according to what I have heard outside I have my mind about made up, I suppose.\u201d Q. \u201c Notwithstanding that fact that your mind is about made up, could you sit there as a juror and determine it entirely from the evidence which you would hear in the trial ?\u201d A. \u201c I suppose I would have to.\u201d Q. \u201c Without any regard to what you have heard outside ? \u201d A. \u201c I suppose I would have to go according to the witnesses, of coursre.\u201d Q. \u201c And you would do it, wouldn\u2019t you ?\u201d (No answer.)\nUpon his cross-examination he testified that he had had conversation about the homicide with other people; that there was an expression of opinion on the part of the other people about it; that he concurred with them ; that the way he heard the story it seemed to him that the defendant was guilty ; that he so stated, and that he was still a good deal of that opinion. Q. \u201c Was that opinion to t.he effect that the defendant was guilty .of the offense ?\u201d A. \u201c It was.\u201d Q. \u201c You have expressed your opinion then?\u201d A. \u201c Y'es sir.\u201d Q. \u201c You are of the same opinion now?\u201d A. \u201c Yes sir.\u201d Q. \u201c If yon were now accepted as a juror in this case, would you take your seat in this box having that opinion still in your mind ?\u201d A. \u201c Well, it would be still iu my mind\u2014I could not get it out.\u201d Q. \u201c Would that impression be in your mind during the progress of the trial?\u201d A. \u201cIt would still be in my mind, sir, I could not help it.\u201d Q. \u201c You could not help it, and would that opinion assist in framing or inducing you to frame your verdict?\u201d A. \u201cIt might, sir, I could not say about that.\u201d Q. \u201cIt might tinge your opinion?\u201d A. \u201cIt might change my opinion.\u201d Q. \u201cAnd assist in the formation of your verdict ?\u201d A. \u201c It might, sir.\u201d The \u00f3ourt held that the juror was competent.\nIt will be perceived that not one of these persons testified that he believed that the impression or opinion he had formed would not influence his verdict, or that he could render an impartial verdict according to the evidence. While the juror Johnson stated that he supposed he would have to determine the case according to the evidence, and that he would have to go according to the witnesses (by all of which he evidently meant that that would be his duty), yet he testified that he had an opinion which would go with him into the jury box, which he could not get out of his mind; that he could not help it; that it might assist in forming his .verdict; and he met with silence the question whether he would go according to the witnesses. Such a person is clearly incompetent to sit as a juror. It would be grossly unfair and unjust, and against all the traditions of our race, to compel any person to go to trial before a juror in such a frame of mind. It is the object of the laws, so far as possible, to obtain impartial, unbiased, fair minded men for jurors, who can divest themselves of all previous impressions and try a case submitted to them upon its merits and decide it according to the evidence. It is clear, \u00a1therefore, that he should have been held incompetent to sit as a juror.\nThe other jurors named were not so clearly incompetent; but they had all formed and expressed opinions as to the guilt .of the defendant, and their answers were not such as to qualify them. It is impossible to say upon their evidence that they were impartial jurors who could fairly sit in judgment upon the defendant. When persons called to sit as jurors are otherwise incompetent from actual bias, they must be required to make the declaration specified in the section -of the Code quoted. They need not make those declarations literally, but they must make them in substance; that is an absolute prerequisite ; and then if there is nothing in their further examination materially impeaching such declarations, the court may receive them as jurors, if satisfied that their opinions and impressions will not influence their verdict. These jurors did not literally nor in substance make the declarations required, and hence it was the duty of the court to hold them incompetent for actual bias\u2019.\nBut these jurors, after the rulings of the court that they were competent to sit as jurors, were peremptorily challenged by the defendant and excluded from the panel; and hence it is claim\u00e9d on the part of the people that the defendant was not harmed, and that he was thus deprived of any objection which he would otherwise have. It is however admitted in the record that before the jury was fully empaneled the defendant had exhausted all the peremptory challenges allowed him by law. He was therefore, by the erronous rulings of the trial judge, in holding these persons to be competent jurors, obliged to use his peremptory challenges, and was thus deprived of the right and power to use other peremptory challenges, in case he desired to. If after the plaintiff had used as many peremptory challenges as. he desired, he had not yet exhausted all his challenges, it could well be said that he had not been harmed. But where, by the erroneous rulings of the court, a defendant is obliged to exhaust his peremptory challenges, it is clear that he is harmed, that his rights are abridged, and that he has just cause to complain.\nThis homicide was committed March 11, 1883. On April 10, the defendant was indicted. On April 23, he was put upon liis trial and the jury disagreed. The case was much discussed in the public press and in the community, and there was adverse criticism of some one or more members of the jury. He was again put upon his trial on Hay 21, while the homicide and the former trial were still the subject of much criticism and conversation. Under such circumstances it can be seen that the defendant\u2019s right to challenge peremptorily, was of great value to him, and it cannot be said that rulings of the court which abridged that right were not harmful.\nIn the case of Burt v. Panjaud (99 U. S. 180) it was held that an error committed in overruling an objection to a juror as legally disqualified, is cured, where it appears affirmatively that he was not a member of the panel which tried the case, and it does not appear that by his exclusion therefrom the party\u2019s right of challenge was abridged. Hilleb, J., writing the opinion of the court, said : \u201cWe are of opinion that since Holmes did not sit on the jury, no harm was done to defendant. The object of both motions was to exclude him as one incompetent to sit. It is immaterial to the defendant how this was brought about. It is possible that if defendant' had shown affirmatively that he was excluded by reason of his peremptory challenge, and that in doing so the exercise of his right of peremptory challenge had been abridged, the result might be otherwise. It is sufficient to say that the record does not show that he was on the jury, but in fact that he was not, or that in getting rid of him any right of defendant was abridged or lost.\nJoseph D. Dowd was also called as a juror, and upon his examination he testified that he had heard and read about the case, and this question was pnt to him, \u201c \u00a1Notwithstanding what you have heard and read about it, could you sit as a juror and determine this case upon the evidence?\u201d and he answered, \u201c Well, I should of course.\u201d Upon his cross examination he testified that he had read about the case in the newspapers, and that it had made an impression upon him which still remained ; that he would bring that impression into the jury box, and that he thought it would require evidence to remove it, that he had expressed the opinion that the defendant was guilty of murder, and that he still had that opinion. The court sustained the competency of this juror, and he was sworn and served as a juror. We are of opinion that this juror was not competent. Ee was not asked to and did not declare on oath that his opinion or impression would not influence his verdict, and that he could render an impartial verdict according to the evidence, or that he could weigh the evidence impartially. Ee did not so declare in words or in substance. Unless he did so declare and could so declare, he was incompetent, and, in the absence of such a declaration he should have been excluded. \u2022 It is not sufficient for a juror simply to declare that he supposes he can determine the case according to the evidence, or that he would go according .to the evidence, or that his opinion as to the defendant\u2019s guilt ought not to influence his verdict, or that he supposes that he would have to go according to the witnesses. The defendant has the right to have the conscience and mind of the juror tested by a declaration under oath, not simply that he will be governed by the evidence, but by declarations which show that he believes he is in such a state of mind, so free from bias and prejudice, that he can weigh the evidence impartially, uninfluenced by any opinion or impression which he has formed. As said in Bacons Abridgment (Juries E, 5), \u201cAn honest but weak man may be so much biased as to think he goes by the evidence when his affections add weight to the evidence.\u201d Indifferency is one of the common-law characteristics of a jury, and it is inviolably secured by the constitutional guaranty of jury trial. A party put upon trial for a crime has a constitutional right by a challenge, or in some other mode to protect himself against a biased jury.\nOther exceptions taken during the trial to rulings upon questions of evidence, and relating to the charge of the judge, have been brought to our attention. But we do not regard them as important, and they need not now be considered.\nThe judgment of the General Term and of the Oyer and Terminer should be reversed and a new trial granted.\nAll concur.",
+        "type": "majority",
+        "author": "Earl, J."
+      }
+    ],
+    "attorneys": [
+      "James W. Covert, for the prisoner, appellant.",
+      "John F. Deming, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nMay, 1884.\nPEOPLE v. CASEY.\n(Reversing 2 N. Y. Crim. Rep. 187.)\nJurors\u2014Competency of, Review of.\u2014Peremptory Challenges.\nNotwithstanding section 876, Code Criminal Procedure, a person who has formed or expressed an opinion or impression in regard to the guilt or innocence of the defendant, is still, as formerly, disqualified to sit as a .juror, unless three things shall concur: (1) be must declare on oath that he believes that such opinion or impression will not1 influence his verdict ; (2) he must also declare on oath that he believes he can render an impartial verdict according to the evidence; (3) the court must be satisfied that he does not entertain such a present opinion or impression as would influence his verdict.\nThe decision .of the trial judge overruling the challenge in such a case, is reviewable in the Court of Appeals, and said court must determine upon the evidence elicited whether or not he was a competent juror.\nIt is.not necessary that the above declarations be made literally; it is enough if they be made in substance.\nThe defendant has the right to have the conscience and mind of the juror tested by a-declaration under oath, not simply that he will be governed by the evidence, but by declarations which show, that he believes he is in such a state of mind, so free from fear and prejudice, that he can weigh the evidence impartially, uninfluenced by any impression or opinion 'he has formed.\nIt is the object of the law, so far as possible, to obtain impartial, fair-minded men for jurors, who can divest themselves of all previous impressions, and try a case submitted to them, upon the merits, and decide it according to the evidence.\nIt is no answer to an exception to rulings permitting incompetent jurors to sit, that they were excluded by peremptory challenges, where it appears from the record that before the jury were fully empatmel\u00e9d, defendant was obliged by such erroneous rulings, to exhaust all the peremptory challenges allowed him by law. In such case it is clear that defendant is harmed and that his rights are ab-bridged.\nAppeal from judgment of the General Term, of the Second Department affirming conviction of murder in the first degree.\nThe appellant, at a court of Oyer and Terminer, held on May 24, 1883, in the county of Queens, Second Judicial Department, was convicted of murder in the first degree in killing one Richard Oomisky, in the manner charged in the indictment, etc. The judgment of conviction was affirmed by the General Term, on December 11, 1883. The act of killing and by the means charged, were not controverted upon the-trial, but the appellant interposed insanity as a defense.\nFurther facts appear in the opinion.\nJames W. Covert, for the prisoner, appellant.\nThe testimony of the proposed juror should be construed with liberality to the defendant. Cancemi v. People, 16 N. Y. 501. Rot only does the Code Crim. Pro. \u00a7 376, establish the rule by which the competency of jurors must be determined, but the decisions under the sections quoted show clearly that the jurors did not come up to the test established. A man may be a good juror, even though he has formed and expressed an opinion, if he has no fixed or determined ojgvnion which will influence his verdict or Mas his judgment. Pendre v. People 18 Hun, 560. If, in addition to the statement as to the formation of an opinion; the juror states that he believes he can render an impartial verdict on the evidence, and that his previous opinion will not bias or influence him as a juror, the question of his competency is then to be determined by the court as a question of fact. In determining this, the declaration of the juror is to be considered, but is not controlling. Balbo v. People, 80 N. Y. 484. If a juror fairly states the information he has and the condition of his mind, and concludes (the synonym of lelieves), that he can act impartially, he is competent# unless it is apparent that he is laboring tmder an impression which will prevent justice being done. Abbott v. People, 86 N. Y. 460.\nBy the rulings of the trial judge holding the competency of the jurors in question, a right of the appellant was jeopardized and abridged. Questions raised on the challenges of jurors are appealable even though the prisoner had not exhausted the peremptory challenges when the panel was filled. People v. Bodine, 1 Den. 281. The rule that an error committed upon a trial may be overlooked when the party complaining wTas not prejudiced thereby, is only applicable in cases where the error could by no possibility have produced injury. Stokes v. People, 53 N. Y. 164. By being compelled to use a peremptory challenge upon an erroneous decision upon a challenge as to competency, a right has been abridged and lost. Burt v. Panjaud, 9 Otto, 180, 181:\nThe court has the same power to review the facts and determine whether the jurors were indifferent, as existed in the trial court. Greenfield v. People, 74 N. Y. 277 ; People ex rel. Phelps v. Oyer and Terminer N. Y., 83 Id. 436; Abbot v. People, 86 Id. 466.\nJohn F. Deming, district attorney, for the people, respondent.\n\u2014The juror .Joseph Dowd, who was objected to by the appellant, was competent. The opinion which he had formed, however well settled, was not one which would disqualify him. Code Crim. Pro. \u00a7 376 ; People v. Cornetti, 92 N. Y. 85 ; Balbo v. People, 80 Id. 494; Cox v. People, 80 Id. 512; Phelps v. People, 72 Id. 334; Thomas v. People, 67 Id. 222. ,\nThe other jurors excepted to were peremptarily challenged by the appellant, and exceptions with respect to such jurors are not open for review. Friery v. People, 2 Abb. Ct. App. Dec. 220.\nThe judgment was reversed on grounds other than those considered at General Term."
+  },
+  "file_name": "0194-01",
+  "first_page_order": 218,
+  "last_page_order": 227
+}

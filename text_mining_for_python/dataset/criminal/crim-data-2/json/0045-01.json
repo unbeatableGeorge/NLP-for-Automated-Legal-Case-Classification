@@ -1,0 +1,66 @@
+{
+  "id": 1167676,
+  "name": "PEOPLE v. SMITH",
+  "name_abbreviation": "People v. Smith",
+  "decision_date": "1884-02",
+  "docket_number": "",
+  "first_page": "45",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 45"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Gen. Sess.",
+    "id": 9672,
+    "name": "New York Court of General Sessions"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 245,
+    "char_count": 3504,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 8.174084421358462e-08,
+      "percentile": 0.47518581199135546
+    },
+    "sha256": "decb258f72b10606f98b207ea49be5069678f2c7e5215f9a1f21ab3ca968d472",
+    "simhash": "1:bf98e8b8c4cc877a",
+    "word_count": 602
+  },
+  "last_updated": "2023-07-14T19:46:36.421582+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. SMITH."
+    ],
+    "opinions": [
+      {
+        "text": "Rufus B. Cowing, City Judge.\nIn the month of May, 1880, the Grand Jury of this county found three indictments against the above- named defendant, for the crime of forgery in the third degree. In the following June, he was tried on one of these indictments, and found guilty, and sentenced to state prison for the term of five years; that being the maximum of punishment.\nThe defendant has served out his sentence, less the commutation allowed for good conduct; and was sometime last month, brought from Sing Sing prison on a bench warrant, and committed to the city prison, to be tried on the two other indictments.\nThe defendant now moves, that he be discharged from imprisonment, and that the indictments be dismissed.\nIt will be observed, that all the indictments were filed before the Code of Criminal Procedure became law; and, therefore, the motion must be disposed of by the rules and practice as they existed previous to the enactment of the said Code.\nI have no power to dismiss the indictments, under the rules of practice, existing before the Code went into operation. For reasons, see my opinion in People v. Beckwith (ante, 29).\nFrom the fact, that I sentenced the defendant for the maximum of punishment, upon his conviction in 1880, I am led to believe, that it was then understood, that he was not to be tried on the two other indictments. But whether this be so or not, I do not think that it is a wise or just practice to establish, where there are several indictments, for the people to allow years to elapse, between the trials on each. They should all be tried, when the witnesses are alive and accessible; and when the testimony for both sides is readily to be had.\nThe great object tp be obtained in punishing criminals, is to deter others, who may be inclined to commit like offenses; and this end is best accomplished, when the trial and punishment follow speedily, and when the facts and circumstances of the crime are fresh in the remembrance of the people.\nIn this age, and under our government, everything which savors of persecution should be frowned down. The defendant, during his life, may have done many criminal acts, and may be a very bad man; but he is not held to answer for anything \u2022 except these two remaining, untried indictments for forgery.\nI think, that under all the circumstances, the defendant is entitled to be discharged from custody on his own recognizance.",
+        "type": "majority",
+        "author": "Rufus B. Cowing, City Judge."
+      }
+    ],
+    "attorneys": [
+      "Arthur C. Butts, for the motion.",
+      "Peter B. Olney, district attorney, in opposition."
+    ],
+    "corrections": "",
+    "head_matter": "Court of General Sessions\u2014New York County.\nFebruary, 1884.\nPEOPLE v. SMITH.\nTrial op Prisoner on Several Indictments.\nIt is not wise or just, where there are several indictments against the same defendant, for the prosecution to allow years to.elapse between the trials on each.\nThey should all be tried when the witnesses are alive and accessible, and when the testimony for both sides is readily to be had.\nThe prisoner was tried, convicted and sentenced to five years imprisonment, the maximum term, on an indictment for forgery in the third degree. Upon the expiration of his imprisonment the prosecution sought to try him on two other indictments found at the same time as the one on which he had been convicted, for other forgeries. Held, that defendant under these circumstances should be discharged from custody on his own recognizance.\nMotion for the discharge of defendant, John P. G. Smith, from imprisonment, and that two indictments against him be dismissed.'\nThe facts fully appear in the opinion.\nArthur C. Butts, for the motion.\nPeter B. Olney, district attorney, in opposition."
+  },
+  "file_name": "0045-01",
+  "first_page_order": 69,
+  "last_page_order": 70
+}

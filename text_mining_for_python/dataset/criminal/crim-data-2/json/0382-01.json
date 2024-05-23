@@ -1,0 +1,165 @@
+{
+  "id": 1167683,
+  "name": "PEOPLE v. STOKES",
+  "name_abbreviation": "People v. Stokes",
+  "decision_date": "1882-06",
+  "docket_number": "",
+  "first_page": "382",
+  "last_page": "389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 18711,
+    "name": "New York Court of Oyer and Terminer, Jefferson County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "47 Am. Rep. 822",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Iowa, 629",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4371416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/61/0629-01"
+      ]
+    },
+    {
+      "cite": "78 Mo. 644",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        484389
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/78/0644-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 645",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173185,
+        2173247
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/80/0645-02",
+        "/ny/80/0645-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/49/0137-01"
+      ]
+    },
+    {
+      "cite": "79 N. Y. 436",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Hun, 253",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 N. Y. 464",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2182426
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/85/0464-01"
+      ]
+    },
+    {
+      "cite": "71 N. Y. 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2168046
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/71/0137-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 144",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 792,
+    "char_count": 17488,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 6.356384820294989e-07,
+      "percentile": 0.9588987620513783
+    },
+    "sha256": "c01d2bd8c56f4f1277eb4355a0e6875b9f743585db52fae26ba7d66d66d5c540",
+    "simhash": "1:a521d8011d3c6031",
+    "word_count": 3104
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. STOKES."
+    ],
+    "opinions": [
+      {
+        "text": "Merwin, J.\nOn the part of the defendant it is claimed among other things that the verdict is clearly against the evidence, and that, therefore, under the provisions of sub. 6, section 465 of Code of Criminal Procedure a new trial should he granted.\nUpon this proposition it is suggested that there is no evidence that the defendant knew that the mixture which apparently operated to produce the death was poisonous. In Wharton's Criminal Evidence, 8th ed., section 794, it is laid down that in order to convict of murder there must be a knowledge of the dangerous character of the poison. Very evidently this is necessary in order to show an intent to kill. In the present case there is no evidence that defendant knew that the mixture was poisonous. He did not buy it himself; he is not shown to have known of what ingredients it was composed. A recipe was referred to on the trial, but it was not in evidence or shown to be in defendant\u2019s possession. The mixture was prepared by Crouch and used by him for an honest purpose, and for the same purpose which he stated to the druggist. It was used in December previous to the death, and what was then done with it or who had it, does not appear, except that it was found the day after the death in the room in which the post-mortem had been held. Assuming that defendant knew that in the mixture there were mercury and nitric acid, it is not shown that he knew the dangerous character of these elements or of the compound. It is said he was a tinsmith, and therefore must have known it. That sequence does not follow. It is not shown that as a tinsmith he dealt in those articles or had any occasion to use mem. This cannot be inferred. He was present when Crouch made up the compound. The packages which Crouch had received of the druggist were not marked by the druggist as poisonous. The particular manifestations at the time they were mixed would indicate that the articles were not entirely harmless. They would also indicate that a change then took place; and whether the compound was dangerous or not, a person unskilled or unacquainted would not be expected to know. A knowledge that the compound might not be entirely harmless might be reasonably inferred, but the character or extent of the harm would be entirely a matter of speculation.\nIn cases of this kind the purchase or possession of poison under false pretenses and a knowledge of its properties are deemed among the most, if not the most material circumstances. 1 Arch. Cr. Pr. & Pl., 8th ed. 856; 3 Whar. Cr. Law, 7th ed., section 3494, a. Their absence in this case is a matter to be seriously considered.\nAs bearing upon the knowledge of the defendant of the character of the mixture as well as upon his connection with the act itself, it is said that defendant stated differently about his knowledge of the mixture at the time of its discovery and at the time he testified before the coroner a few days after its discovery. At the time of its discovery he said he did not know what was in the bottle or where it. came from or anything about it. Before the coroner he testified that he didn\u2019t know what was in the bottle; that it came from Camp\u2019s; that Crouch get it for silver washing. The variance will be noticed. If it be true that nothing had been done about this mixture by the defendant, after the experiments of Crouch in December, then it would not be strange for the defendant to fail to identify it at the time when first suddenly called on about it, and then afterwards before testifying have ascertained or recalled to memory the fact that it was got by Crouch at Camp\u2019s for silver washing. In other words the variance may be accounted for consistently with defendant\u2019s innocence; whether it can be done so reasonably, depends largely upon what other circumstances there may be in the case that are of doubtful construction and which may raise grounds for suspicion. A single circumstance involving a slight suspicion may be worthless and deserve no consideration while several of that kind, based on distinct evidence, may lead the mind far toward the presumption of guilt.\nWe come then to the consideration of other circumstancer which are claimed to be suspicious. It is said that when he was informed of the sickness -of -his wife he delayed to give he attention and delayed sending for the doctor; that he was too ready in his explanations to the -doctor; that he knew her fatal condition before he saw the doctor, as indicated by his remark to his son in the presence of \u00a1Clifton; that he saw Bobbins about noon, too ostentatiously; that after the death he was too ready for investigation. As to these matters I have carefully considered the evidence, and I find nothing which cannot be explained consistently with innocence. She had previously been troubled with indigestion and had -bad spells sometimes, and was generally costive. She was on the morning in question as well as usual, and insisted upon going to work. The information given the defendant by Mrs. Hovey as to her being sick might fairly be attributed to one of her usual spells, and would not require him to drop every thing in order to see to her. How long the delay was does not appear. It was not long. He then gave her the usual remedies, so far as it appears; they not giving relief he went for the doctor. His manner then was natural for an innocent man. When the doctor came he asked the deceased what she had been taking. This might refer either to what she had taken to relieve her sickness, or to what she had taken that produced it. The doctor did not ask her what brought on or caused her sickness. She replied to the doctor\u2019s question that she had taken nothing but what they had given her.' The defendant then stated what he had given her; no part of his statement was contradicted by other\u2019s evidence. Rex v. Jones, 2 C. & P. 629. He was certainly called on to state what he had given. Had he refused or stated untruly or hesitated, it would have been much more suspicious. The time of day in which he spoke to the boy in presence of Clifton is concededly so uncertain upon the evidence, that no particular weight is to be given to it. So the occurrence testified to by Eobbins looks to me as quite insignificant, as well as uncertain in time, with reference to the time that the wife was sick. The distance from the defendant\u2019s store to where Bobbin\u2019s was, was short. The act of defendant was brief, and it might readily have happened before the sickness of the deceased' assumed apparently a dangerous form. The readiness of defendant to have an investigation looks to me far from having a guilty tendency. In weighing these circumstances the question is not whether they are consistent with his guilt. If there were other circumstances which authorized the presumption of his guilt, then the question would be whether there was anything else in the case that was inconsistent with his guilt, but when we weigh the circumstances themselves from which the guilt is sought to be inferred, we must assume and start with the presumption of innocence. If all the circumstances shown are consistent with innocence, then there can be no conviction. If they are not, then the question is whether they point to guilt so clearly and distinctly as to satisfy the mind beyond a reasonable doubt. The facts proved must all be consistent with and point to the defendant\u2019s guilt not only, but they must be inconsistent with his innocence. Per Church, C. J., in People v. Bennett, 49 N. Y. 144. If equally susceptible of two interpretations, one innocent and one not, the innocent one must be taken. Pollock v. Pollock, 71 N. Y. 137; Schultz v. Hoagland, 85 N. Y. 464. So it is said that if it be shown that either the defendant or a third person committed the deed, but it cannot be distinctly ascertained which one,- the defendant cannot be convicted. 1 Bishop's Cr. Pro. (3d Ed.), \u00a7 1106. The same author, section 1079, lavs it down as established by many adjudications that the test of the sufficiency of circumstantial evidence is that the facts proved can be reasonably accounted for on no hypothesis which excluded the defendant\u2019s guilt; that with the theory of his guilt they are harmonious and consistent, and that they point to it so clearly and distinctly as to satisfy the jury of it beyond a reasonable -doubt.\nThe trouble in this case is, to be able to say that the facts proved are inconsistent with defendant\u2019s innocence; that they cannot be accounted for reasonably on any hypothesis which excludes the defendant\u2019s guilt. The question in my mind is whether upon the evidence here, there are not two hypotheses which at least are as reasonable as that of defendant\u2019s guilt.\nI have thus far not referred to the evidence on the subject of motive. There is much in the case on that subject. Motive, however' strong, does not prove the crime. Its office is to aid in the application of other circumstances that point toward guilt. It is said to be a minor or an auxiliary fact from which, when established in connection with other necessary facts, the main or primary fact of guilt may be inferred. Pierson v. People, 18 Hun, 253. When the case depends upon circumstantial evidence, and the circumstances point to any particular person as the criminal, the case against him is much fortified by proof that he had a motive to commit the crime ; and where the motive appears, the probabilities created by the other evidence are much strengthened. Earl, J., in Pierson v. People, 79 N. Y. 436.\nIn the present case the evidence discloses a very unpleasant state of things in the family of the defendant. I have no doubt the situation in this regard has had a tendency to his prejudice. Quarrels between husband and wife are said to be entitled to but little weight unless connected in some way with the fatal wound. Whar. Cr. Ev. \u00a7 786. That probably, however, depends upon the intensity and permanency of the feeling engendered in such quarrels. The evidence here does not show any permanent feeling in the defendant against his wife herself, nor any feeling at all against her upon the day in question. The question for the court to determine on this motion is whether the evidence pointing to the guilt of the defendant was sufficiently strong to authorize the jury to say that he was guilty. Does the evidence authorize that finding ? If it does, then the verdict must stand, although the court might have come to a different conclusion. If it does not, then the verdict would be clearly against evidence, and should be set aside. In the case of People v. Bennett, 49 N. Y. 137, cited by the counsel for the people, the ill-treatment by the defendant of his wife was connected with the occurrence of the fatal wound. There was evidence that she could not have inflicted it herself. He knew of her bleeding profusely, but did nothing to help her. In that case the court were divided on the question whether the verdict was against evidence, but it was set aside on another ground.\nHaving in view the proposition laid down in the Bennett case, that the facts proved must all be consistent with and point to his guilt not only, but they must be inconsistent with his innocence, or, as it is put in Poole v. People, 80 N. Y. 645, be inexplicable upon the theory of innocence; and having in view the want of connection shown between the defendant and the poison producing the death, I am of the opinion.that the verdict is not authorized by the evidence.\nMotion granted.\nNote.\u2014When death results from poison given to stupefy to facilitate larceny (State v. Wagner, 78 Mo. 644 ; 47 Am. Bep. 131), or from chloroform given to aid escape from prison (State v. Wells, 61 Iowa, 629; 47 Am. Rep. 822), it is murder in the first degree.",
+        "type": "majority",
+        "author": "Merwin, J."
+      }
+    ],
+    "attorneys": [
+      "E. C. Emerson, district attorney, and P. C. Williams, for People.",
+      "W. F. Porter and Watson M. Rogers, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Oyer and Terminer\u2014Jefferson County.\nJune, 1882.\nPEOPLE v. STOKES.\nMURDER IN SECOND DEGREE.\nTo convict of murder by poisoning, there must be shown knowledge by defendant of the poisonous character of the poison which produced the death.\nKnowledge of defendant that the article was not entirely harmless, is not sufficient.\nTo justify a conviction upon circumstantial evidence, not only must the facts proved, be consistent with and point to the defendant\u2019s guilt beyond a reasonable doubt, but they must be inconsistent with his innocence.\nWhere the case depends on circumstantial evidence which points to a particular person as the criminal, a motive on the part of that person t\u00f3 commit the crime much fortifies the probabilities created by the other evidence.\nMotion by defendant William Stokes for a new trial under \u00a7 465 subd. 6, 7, Code, of Crim. Pro.\nThe defendant was indicted with one Martha Hovey for murder in the first degree, in poisoning his wife, on March 27, 1882. He pleaded not guilty, and was brought to trial at the June Oyer and Terminer, held in Jefferson county, Justice Merwin presiding.\nThe evidence showed that the defendant, his wife, a half-witted son and Martha Hovey resided together in an old storehouse at Sacketts Harbor, that they were all much addicted to the use of intoxicating liquors, and that on various occasions the defendant had been seen whipping his wife and dragging her outdoors by her hair, and also chasing her in the streets, her face being more or less covered with blood. On several occasions, when under the influence of liquor, the defendant had threatened to kill his wife. On the evening of March 25, the defendant\u2019s wife was heard in the house, screaming that he would kill her. She arose on the morning of March 27, in her usual health and commenced to wash. About two o\u2019clock in the afternoon defendant went to Dr. Tyler, and reported that 1ns wife was very sick. Dr. Tyler immediately called, and found her vomiting almost constantly, and holding her hand to her throat. She complained of a burning pain in her throat, stomach, and bowels. The doctor observed that her throat was very red, and asked her what she had been taking. She replied she had taken nothing except what they (meaning defendant and Martha Hovey) had given her. The defendant then stated to the doctor that he gave her a drink of whisky in the morning, and that after she was taken sick he gave her two or three slings with milk and castor oil. The doctor further observed that her mouth frothed and that she vomited a mucous substance ; that her skin was cold, pulse rapid, respiration frequent, face bloated, and that she complained of great thirst. She grew rapidly worse, and died the same afternoon.\nA coroner\u2019s jury was impaneled, before which the defendant testified that his wife was well in the morning; that he gave her some whiskey before breakfast; that she had breakfast about nine o\u2019clock ; that she was taken sick about eleven o\u2019clock that he was out in his shop talking with a man, and Martha Hovey called to him that his wife was sick ; that she called three times before he went to see her; that he went in the house and gave her a hot whiskey ; that she complained of severe pain in her stomach and bowels : that he then got some milk and gave her a sling with milk, castor oil, and black pepper; that she continued to get worse, and he called Dr. Tyler. The evidence showed that about two o\u2019clock the defendant went down to a ship yard and told his son if he wanted to see his mother alive he must come up at once to the house. That he called on one Bobbins about noon, and complained that the tenants in Bobbins\u2019 block had been throwing water upon his premises, and wanted Bobbins to call at once at his house. After the death of his wife, the defendant repeatedly stated that he desired an investigation. A post-mortem examination was made, and oesophagus was found very red and much inflamed. The stomach was also much inflamed, and of a dark red color, filled with dark spots. About half a pint of fluid was found in the stomach, of a darkish color, filled with mucus and light flakes. The throat was very red from irritation; the piloric orifice and the duodenum were also very red. The other organs were healthy, and the body well nourished. The doctors testified that, in their judgment, death was caused from swallowing some corrosive substance. A chemical analysis showed the stomach to contain a quantity of nitrate of mercury, which was proved to be a deadly poison. A pint whiskey bottle was found in defendant\u2019s house the next day after she died, with a liquid substance in it, which upon analysis proved to be nitrate of mercury. Defendant said he didn\u2019t know what it was or where it came from. He afterwards testified before the coroner\u2019s jury that it was a preparation for silver washing one Crouch had brought to his house some time before. Stokes was a tinsmith, and it was shown that he was present when Crouch prepared the mixture. It smoked so that he declared himself afraid of it.\nMartha Hovey was a married woman who did not live with her husband. She had resided with Stokes for some time. She had had difficulty with Mrs. Stokes on several occasions. On one occassion she was out with the defendant and introduced him as her brother. Deceased had in bank at the time of her death $4,600 recently received from the estate of a deceased relative.\nThe jury found the defendant guilty of murder in the second degree.\nThe defendant\u2019s counsel thereupon made this motion for a new trial under subdivision 6, section 465, Code of Criminal Procedure.\nE. C. Emerson, district attorney, and P. C. Williams, for People.\nW. F. Porter and Watson M. Rogers, for defendant."
+  },
+  "file_name": "0382-01",
+  "first_page_order": 406,
+  "last_page_order": 413
+}

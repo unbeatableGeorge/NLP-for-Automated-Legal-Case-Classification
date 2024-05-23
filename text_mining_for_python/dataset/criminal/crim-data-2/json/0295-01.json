@@ -1,0 +1,96 @@
+{
+  "id": 1167677,
+  "name": "PEOPLE v. RAYMOND",
+  "name_abbreviation": "People v. Raymond",
+  "decision_date": "1884-03",
+  "docket_number": "",
+  "first_page": "295",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "53 N. Y. 511",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0511-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y. 559",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/60/0559-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 485,
+    "char_count": 14946,
+    "ocr_confidence": 0.55,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.043011580984065094
+    },
+    "sha256": "5c909754b3319b5f0c5583bcce5febe81dcd29edbae77083dd022c9e75e3d31b",
+    "simhash": "1:c58886e3929cea7c",
+    "word_count": 2598
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. RAYMOND."
+    ],
+    "opinions": [
+      {
+        "text": "Brady, J.\nThe defendant was convicted in the court of General Sessions in October 1883, of the crime of forgery in the first degree, as a second offense, under section 688 of the Penal Code. It was charged in the indictment that the defends ant in March 1877, pleaded guilty to the commission of a felony, and was sentenced to five years\u2019 imprisonment. The first offense was forgery in the third degree, the extreme penalty of which, under the Eevised Statutes, was imprisonment for a period not exceeding five years. See 3d vol. B. S. 6tli ed. p. 946. Under the Penal Code the punishment of forgery in the third degree is the same. See \u00a7 525. The punishment of forgery in the first degree, under the Eevised Statutes (see page above indicated) was imprisonment in the state prison for a term not less than ten years, and it might be for life. Therefore under the Code the punishment is the same. Section 523.\nIn refcretice to the punishment for a second offense, the provisions of the Eevised Statutes (6th ed. p. 989, \u00a7 8) declare that if a person shall be subsequently convicted cf an offense, which upon a first conviction, would be punishable by imprisonment in the state prison for a term exceeding five years, he should be punished by imprisonment in a state prison for a term not less than ten years, and that if the subsequent offense be such that upon a first conviction the offender would be punished by imprisonment in a state prison for five years or any less term, then the person convicted should be punished by imprisonment in a state prison for a term not exceeding ten years.\nThe Penal Code went into effect on the 1st of December, 1882. By section 688, it is provided that if the subsequent crime is such, that upon the first conviction the offender might be punished, in the discretion of the court, by imprisonment for life, he must be sentenced to imprisonment in the state prison for life. And by subdivision 2, if the subsequent crime is such that upon a first conviction the offender would be punished by imprisoment for any term less than his natural life, then such person must be sentenced to imprisonment for a term not less than the longest term, nor more than twice the longest term prescribed upon a first conviction.\nThe appellant, upon his conviction, was sentenced to imprisonment for life, and the question presented upon this appeal, and indeed it is the only question that requires consideration, is whether the punishment inflicted was justified by existing statutes. The proposition that the Penal Code is ex post act of in reference to the offense of which the appellant was convicted,' cannot be maintained, though at first blush there seems to be some force in it. But upon reflection it is quite apparent that it has no strength. The legislature has the right to declare the punishment for a stated offense. They have done so by the Penal Code. It is substantially that if a person who has been convicted within this state, of a felony, commits any crime within this state, he is punishable upon conviction of such second offense in the manner indicated ; that is to say, if the second offense is such that upon a first conviction of it he might be punished, in the discretion of the court, by imprisonment for life, he must be sentenced to imprisonment in the state prison for life for such subsequent crime. If the appellant therefore had been convicted either under the Revised Statutes or under the Penal Code, of the offense of forgery in the first degree, inasmuch as he might be punished by imprisonment for life, he must under the provisions of the Code be sentenced to imprisonment in the state prison for life. If the section which contains these provisions, namely, section 688, before alluded to, required that the subsequent crime should be similar in degree to the first offense, there might be some reason to declare in this case, that as the first offense was one which was not punishable in the discretion of the court by imprisonment for life, the sentence was erroneous. But such is neither the letter nor the spirit of the law, the declaration being, as already suggested, that if any person convicted of a felony within this state commits any crime, then he may be punished as indicated in the section.\nThere is no imposition of any punishment for the first offense, but an increased punishment for a second offense of a felony whatever that felony may be, if within the provisions of the statute. In other words the statute is substantially this: A person who has been convicted of a felony within this state, who commits any crime within the state, shall be punished as follows: If the second offense is such, that upon a first conviction of it he might be punished in the discretion of the court, by imprisonment for life, he must be sentenced to imprisonment for life. This feature of the statute is a method of regulating and determining the extent of the sentence for the second offense, which is increased when a previous felony is shown to have been committed by the accused. The statute embraces any felony, the design evidentally being to punish severely for a second felony, and to declare absolutely the punishment by abrogating the discretion as to the term which might otherwise be designated. In sentencing for the second offense the discretion does not exist therefore.\nIn the consideration of this question, it must not be forgotten that the offense of which the prisoner was convicted was committed after the Penal Code went into effect; and there - fore he is not punished under the Code for an act committed before it went into effect. The legislature in determining what punishment should be inflicted for the commission of forgery in the first degree have declared that the maximum shall be imposed in cases where the crime is a second offense, though not of the same degree as the first. For these re\u00e1sons we think the judgment should be affirmed.\nDaniels, J., concurs.",
+        "type": "majority",
+        "author": "Brady, J."
+      },
+      {
+        "text": "Davis, P. J. (Dissenting.)\nI think section 688 of the Penal Code was intended only to provide for cases where the defendant is convicted of a second offense, like in character to that of which he had previously been convicted. Though the section is drawn in such form as to admit the construction given by the court below, yet we are not necessarily compelled to adopt a construction which was manifestly not intended by the legislature. The first paragraph of the section (688) prescribes amongst other things the kinds of crimes which are to be punishable when committed \u201c as second offenses \u201d under the two following subdivisions. These are \u201c felonies; attempts to commit felony \u201d and something which the codifiers call \u201c petty larceny,\u201d by which it is presumed the offense of petit larceny was intended, and certain crimes committed in other states or countries. Petit larceny is now by the Code made a misdemeanor (\u00a7\u00a7 532-535) and may be punished by the lightest fine. It could not have been the intention I think, to make it an absolute requirement of the statute that a person convicted of that misdemeanor, if he be convicted of a subsequent crime which may be punishable by imprisonment for life must he so punished / yet that is the necessary effect of the construction given by the court below. I think the language of the first provision of the section was intended to provide for the punishment of second offenses of the like grade of which a former conviction had been had ; so that upon a conviction of the same or a similar grade of offense, the convicted party should receive the highest, punishment, at least, to which he could have been sentenced on his first conviction, with power in the court in certain cases to increase or double that amount. So that if the convict could have been imprisoned for life on conviction of the firstfelony he must be sentenced on the second conviction for life, if it be a crime to which that punishment can apply. And if his sentence on thq first conviction must have been for less'than life, then the highest term, or a term not exceeding double the highest may be given.\nIt seems to me that we by this construction carry out what I think was the intention of the legislature, to wit: that a person convicted of a second felony shall receive at least the highest penalty that could have been adjudged on the first conviction ; and if that were less than imprisonment for life, an additional penalty not exceeding twice the highest may be imposed. I think the judgment should be reversed with directions to the court below to proceed to sentence the appellant anew under its discretionary power.\nJudgment affirmed.",
+        "type": "dissent",
+        "author": "Davis, P. J. (Dissenting.)"
+      }
+    ],
+    "attorneys": [
+      "James Johnston, for the prisoner, appellant.",
+      "Peter B. Olney, district attorney, and John Vincent (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First Department.\nMarch, 1884.\nPEOPLE v. RAYMOND.\nFobg-eby\u2014Second Offense\u2014Penal Code, \u00a7 688.\nDefendant was convicted under the Penal Code of the crime of forgery in the first degree, committed after said Code went into effect, and the indictment and proof also showed that he had prior thereto been convicted of forgery in the third degree under the Revised Statutes. Under the Penal Code the punishment for forgery in the first degree is imprisonment for a term not less than ten years.\nHeld, that under \u00a7 688, Penal Code, in relation to second offenses, the court had no discretion as to the sentence to be imposed, but was obliged to sentence defendant to imprisonment for life (Davis, P. J., dissenting).\nThat under said section, any person who has been convicted of a felony within the state, who thereafter is convicted of the commission of any crime therein, is'to be punished as follows: If the second offense is such that upon a first conviction of it, he might be punished in - the discretion of the court, by imprisonment for life, he must be sentenced to imprisonment for life. If the second offense is such that upon a first conviction of it he might be punished by imprisonment for any term less than his natural life, he must be sentenced to imprisonment for a term not less than the longest term, nor more than twice the longest term, prescribed upon a first conviction (Davis, P. J., dissenting).\nThat said section 688, Penal Code, is not void as an ex post facto law as to this case, though the punishment is increased by reason of offenses committed prior to its passage.\nAppeal by defendant from judgment.\nThe appellant, Stephen Raymond, was convicted of forgery in the first degree, second offense, in the court of General Sessions, city of New York, Recorder Smyth presiding, and was sentenced to be imprisoned in the state prison for and during his natural life.\nThe indictment charges that on the nineteenth day of March, 1877, Stephen Raymond, the defendant, was convicted of forgery in the third degree, and was sentenced to the state prison fur five years ; it also charges that on the first day of September, 1883, he (the defendant) did utter, dispose of, and put off as true, with intent to defraud, a certain forged and altered instrument, and writing, commonly called a coupon, issued by a railroad corporation known as the Union Pacific Bailroad Company, and then goes on to describe said coupon.\nJames Johnston, for the prisoner, appellant.\nI. No offense can be considered a second offense under the Penal Code unless it appears that the first offense charged was a crime under the Code. Penal Code, \u00a7 719. The punishment prescribed for the offense charged in the indictment is increased by relation to an offense committed and punished before the enactment of the Penal Code. Therefore the provisions of the Code under which this indictment is framed as for a second offense, is ex post facto, and void as far as the crime charged against the prisoner is concerned. Cooley's Constitutional Limitations, 324, 325, 326, 4th eel.\nThe first offense is an ingredient in the charge of the second offense. The second offense is punished with greater severity, because the first offense is included within it. This punishes the offender a second time for the first offense, when, as in this case, the first offense was committed and punished prior to the enactment of this law, and this cannot be done without a violation of the constitutional provision that no .person shall be twice punished for the same offense.\nII. The sentence of the prisoner to the state prison for and during his natural life, is illegal. Section 696 of the Penal Code provides that \u201c when a crime is declared by statute to be punishable by imprisonment, for not less than a specified number of years, and no limit of the duration of the imprisonment is declared, the court authorized to pronounce judgment upon conviction may, in its discretion, sentence the offender to imprisonment during his natural life, or for any number of years not less than the number prescribed.\u201d And section 688 on second offense says, \u201c If the subsequent crime is such that upon a first conviction, the offender might be punished, in the discretion of the court, by imprisonment for life, he must be sentenced to imprisonment in state prison for life.\u201d \u201c If the subsequent crime is such that, upon a first conviction, the offender would be punishable by imprisonment for any term less than his natural life, then such person must be sentenced to imprisonment for a term not less than the longest term, nor more than twice the longest term, prescribed upon a first conviction.\u201d\nThe prisoner was sentenced for his first offense'to the state prison on the nineteenth day of March 1877, for five years, and was discharged therefrom on the nineteenth- day of October 1880, and this law did not take effect until more than two years after, to wit: December 1,1883. See section 727, Penal Code. Therefore he could not be sentenced to a life imprisonment for this offense. ,The punishment .for the first offense at the time of his conviction under the statute was not less than two years nor more than five years in the state prisoner. People ex rel. Tweed v. Liscomb, 60 N. Y. 559.\nPeter B. Olney, district attorney, and John Vincent (assistant), for the people, respondent.\nThe statute is not ex post facto. It is simply a re-enactment of an old statute. It does not impose any penalty for the first, but simply says that the punishment for a second offense shall be greater than for a first, and fixes the penalty for a second offense. People v. Wood, 53 N. Y. 511.\nSection 719 has no bearing upon the question of whether or not the statute requires that the first offense must appear as a crime under the Code. The statute itself will demonstrate that fact. It is as follows: \u201c \u00a7 719. Nothing contained in any provision of this Code applies to an offense 'committed or other-act done, at any time before the day when this Code takes effect. Such offense must be punished according to, and such act must be governed by, the provisions of law existing when it is done or committed, in the same manner as if this Code had not been passed . . .\u201d The Penal Code went into effect on December 1, 1883. Penal Code, \u00a7 737."
+  },
+  "file_name": "0295-01",
+  "first_page_order": 319,
+  "last_page_order": 325
+}

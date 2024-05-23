@@ -1,0 +1,160 @@
+{
+  "id": 1167672,
+  "name": "DALY v. PEOPLE",
+  "name_abbreviation": "Daly v. People",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "159",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 159"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "7 N. Y. 389",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 N. Y. 348",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/40/0348-01"
+      ]
+    },
+    {
+      "cite": "5 Cush. 295",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        314650
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/59/0295-01"
+      ]
+    },
+    {
+      "cite": "1 Hawks, 349",
+      "category": "reporters:state",
+      "reporter": "Hawks",
+      "case_ids": [
+        11276281
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/8/0349-01"
+      ]
+    },
+    {
+      "cite": "7 Yerg. 513",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hawks. 457",
+      "category": "reporters:state",
+      "reporter": "Hawks",
+      "case_ids": [
+        11276548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/8/0457-01"
+      ]
+    },
+    {
+      "cite": "1 Park. Cr. 154",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "case_ids": [
+        11258814
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/park-crim-rep/1/0154-01"
+      ]
+    },
+    {
+      "cite": "36 N. Y. 276",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/36/0276-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 852,
+    "char_count": 18266,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 2.379645177618855e-07,
+      "percentile": 0.7966922009738792
+    },
+    "sha256": "45ca62ea0512be8509b396436a2494f741fd396291fe736ed69c54dc66911194",
+    "simhash": "1:b3faeacbbac4680f",
+    "word_count": 3249
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Davis, P. J., and Bbady, J., concurred."
+    ],
+    "parties": [
+      "DALY v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nAt the close of the trial, and before the cause was submitted to the jury, the court was requested to hold and direct them that the defendant could not be convicted of the offense charged against him in different counts of the indictment, as murder in the second degree. This was refused and exceptions were taken to the decisions on behalf of the defendant. By the evidence it was made to appear that the defendant and four other persons, together assaulted and beat the deceased. They had him down upon the street, one of them struck him with a stone, and others cut him with knives.\nWhat caused their disagreement out of which this assault upon him originated, did not clearly appear. They all drank together, and Daly and the deceased scuffled together. He was also knocked down, and at least three of these persons weie engaged in beating and cutting him while he was down. In doing this a stone was used by one of them, and knives by the others. But out of their preceding relations no evidence was given indicating that the assailants had any motive, or that it was any part of their design, to kill the deceased. The weapons and stone made use of were not applied in such a manner as to be evidence that they entertained that design, for none of the wounds made upon the deceased, as they were described, were so aimed or serious, as in the judgment of the first physician who was called and dressed them, could possibly be attended with the death of the deceased. While he had been struck upon his head and wounds inflicted by cuts upon his body, they were neither of them, nor altogether, considered of a dangerous character, and were inflicted evidently more for the- purpose of punishing the deceased on account of some unexplained disagreement, than with any intention to produce his death. This assault took place upon a Sunday night and he died the next night. A post-mortem examination was made of his body, and it was found that he had died from what was stated by the surgeon to be, meningitis. His statements of the wounds confirmed the description given by the physician who first examined and treated the deceased. But he added further that it was probable that this disease had been produced by an injury to the head, from the blows it had received, or from a fall, that under the circumstances they were likely to have been the cause developing this disease. But, after allowing all the weight that can be given to the evidence of the surgeon making this final examination, nothing can be held to have been added to the case which would sustain the conclusion that in the blows which were inflicted, the defendant, or either of his associates, was actuated with the design to take the life of the deceased. It is highly probable, that as they were all more or less affected by drinking, that some common cause of disagreement arose between them, as is frequently the case with persons stimulated in this manner, leading them into the fight with the defendant, and that this was produced by such a provocation, as induced them severely to chastise him, without intending to kill him. It was what may be called a drunken brawl, not infrequently resulting in more serious consequences than either of the persons engaged\u2019in it intended or expected. Heither the acts themselves, nor the instruments made use of, nor the wounds inflicted upon the body, with any reasonable degree of certainty, will sustain the conclusion that there was any intention on the part of either of the assailants to kill the person so assailed.\nThe court, therefore, should have directed the jury, that the defendant could not be convicted of the crime of murder in the second degree, for the existence of an intent to kill is indispensable under the statute to the commission of that offense. The offense committed by these persons was clearly one of manslaughter, not that of murder.\nThe judgment should, therefore, be reversed and a new trial ordered. So ordered.\nDavis, P. J., and Bbady, J., concurred.",
+        "type": "majority",
+        "author": "Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "Kintzing, Simonson & Meyer, for the prisoner, appellant.",
+      "Peter B. Olney, district attorney, and John Vincent (assistant), for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014First Department.\nJanuary, 1884.\nDALY v. PEOPLE.\nManslaughter under Revised Statutes.\u2014Intent Recess art to Constitute Murder.\nThe evidence showed that the defendant and four other persons, together, assaulted and beat the accused; that they had him down upon the street, that one struck him with a stone, and others cut him with knives; that no cause for the disagreement clearly appeared, but that all had been drinking; that there was nothing in their preceding relations or the acts themselves, or in the instruments, or the manner in which they were used, or in the wounds inflicted, to show, with any reasonable degree of certainty, that they entertained the design to kill defendant. The deceased died the next day, and the evidence tended to show that his death was caused by the injuries received on said assault. The defendant was indicted under the Revised Statutes, and convicted of murder in the second degree. Held, on appeal, upon a review of the evidence, that there was no proof of an intent to kill, and that the offense committed was manslaughter.\nWrit of error to review the judgment of the Court of General Sessions, of the county of New York, by which the defendant was convicted of the crime of murder in the second degree, and sentenced to imprisonment in the state prison for life.\nThe plaintiff in error, John Daly, with Francis McCormack, John Daniels, James Lynch and James Dougherty, were jointly indicted at the March term of the court of General Sessions of the Peace, in and for the city and county of New York, in the year 1877, for the crime of murder in the first degree, to wit, the killing of one Francis J. Reilly. The killing was charged in said indictment to have been done in several ways, viz. : in the first count, by a knife ; in the second count, by a stone; in the third count, by a stick; and in the fourth count, by kicking, pushing, striking, &c.\nThereafter, and on April 2, 1877, Daly was arraigned upon said indictment, and pleaded not guilty, and on April 27, 1877, he was arraigned for trial before Hon.\" Henry A. Gilder-sleeve, one of the justices of said court, and a petit jury, and a trial upon said indictment was had on said day, and said Daly was convicted of murder in the second degree, and sentenced by said justice to the state prison at hard labor for the term of his natural life.\nThe evidence taken upon the trial was, in substance, as follows :\nEdward Reilly testified on behalf of the people : On Saturday evening, March 3, my brother, the deceased, and myself, left our house, No. 6 Ridge street, together, and went to Lewis street, and walked to Eleventh street. I took a car and came home. I again met my brother at corner of Lewis and Riving-ton streets; he was with James McDonnell. We went to Kopp\u2019s liquor store, corner of Cannon and Rivington streets. This was about 7.20 p. m. We went back to Lewis and Rivington streets. This was ten minutes to eight p. at. I left them in Rivington street, and took Belt Line car to Tenth avenue. I next saw my brother in Tenth street. This was 11.30 p. m., or twenty minutes to 12 p. m. I joined him, and we went down through Avenue D to Columbia street, and had three or four drinks, and went to a wake in Bivington street, near Cannon. We were coming from the wake; we met Daly, Dorev Ware and Daniels. I invited them to have a drink, and we all went to the lager beer saloon, corner of Cannon and Bivington streets, and had a drink. We then went to Burns\u2019 place, corner of Lewis and Bivington streets, and all had a drink. Then Daly, Dorey Ware, Daniels and Dougherty, and my brother went outside, and when I went out I saw Daly and my brother in \u00e1 scuffle. I tried to separate them; then a police officer came, and we all ran away. This was about twelve o\u2019clock.\nWilliam Kopp testified on behalf of the people: I kept a lager beer saloon at 320 Stanton street, corner of Goerck and Stanton. On the night of March 4, a moonlight night, I was looking out of my window on Stanton street, and heard some mussing-up the next block on Stanton street! I closed up my store and went up-stairs, and opened the window, and looked out to see what was going on. They all came down Stanton street, and then the fight began opposite my window. I saw Frank McCormack, Daly, Lynch, Daniels and Dougherty there. I could not see deceased, as they'were all around him. The first thing I saw was Dougherty striking deceased with a stick, which knocked deceased down. Lynch and Daniels had a stone each. Lynch struck deceased with a stone. McCormack had a knife, and struck deceased with it in the back, some where around the shoulder. Daly had a knife and struck at deceased. I think Daly struck him in the back. The fight lasted about five, six or seven minutes, then somebody cried \u201c cheese it,\u201d and the officer fired a club, and they all ran away. Two young men picked up deceased and brought him to the corner. After, they ran away. Lynch came back first, McCormack second, then two or three, others and Daly. McCormack said, \u201c I sliced, or slashed, him first.\u201d Daly said, \u201cBo, I slashed him first.\u201d Lynch said, \u201c I hit him.; did you see a big stone I had in my hand ? I hit him with it.\u201d\nOfficer Michael Booney testified on behalf of the people : I was going down Stanton street, and when I got to corner of Lewis I heard a scuffle in Goerck street; I ran down and got into the middle of the block; some one holloaed \u201c cheese it,\u201d and the crowd scattered and ran in different directions. I saw Frank Reilly, deceased, bleeding from a wound on his head ; this was on the southeast corner opposite Kopp\u2019s place. It was about one o\u2019clock. I took him to the station house; the doorman dressed the wounds. He had a scalp wound over his forehead, and another on his face. Deceased remained in the station house about half an hour. His brother came and went away with him. I saw deceased again in the station house about three o\u2019clock. He was sitting in a chair in his shirt sleeves waiting for a surgeon.\nEdward Reilly\u2019s examination resumed: I next saw my brother in the station house. His face was covered with blood. The officer washed it, and we went away together. McDonnell joined us, and we went to Coleman\u2019s, corner of Lewis and Stanton streets, and met John Daly. My brother and Daly got into a scuffle; neither spoke ; both clinched and fell upon the stoop at the corner of Lewis and Stanton streets. I tried to separate them, and the police officer came running down, and we all ran away in different directions.\nOfficer O\u2019Connor testified on behalf of the people: I arrested prisoner on March 5, and confronted him with deceased, who said, \u201c That\u2019s the man that stabbed me.\u201d\nMary Reilly testified on behalf of the people: I am the mother of deceased; and witness identified clothes of deceased.\nDr. Frank Newman testified on behalf of the people : I am a practicing physician. Attended deceased on Sunday evening, March 4. Found a stab wound in the back, close to the spine. Wound was superficial. Another of same character on shoulder-blade. Another on the side, of same nature. Also one scalp wound, back of the hair on the forehead. It was only through the scalp. Another in front a little larger. The bone was not injured. I found no other except contused bruises around the chest, but no bones were broken. The skin was grazed or rubbed off on his face. The wounds in the back, shoulder-blade and side were superficial and would not produce death. I cannot tell what was the cause of death. Excessive drinking would produce congestion. There was nothing in the character of the wounds I saw to suggest danger.\nDr. Cushman testifies on behalf of the people: I am a deputy coroner. I made an autopsy of Francis Reilly, deceased. I found a lacerated wound in the forehead on the front of the bone, a little to the left. Also an abrasion on the face and nose, and all were of a superficial character. I found a scalp wound on the left of the spine, a stab wound over the left shoulder and collar bone, stab wound on the left side of the chest. All muscular wounds. When I opened the skull I found the brain contused. No bruises, but evidence of inflammation. The cause of death, in my opinion, was meningitis. I am not prepared to say, in this case, that meningitis is not produced by a fall. A wound or blow or any injury to any part of the head, say the top, may produce meningitis at the bottom by transmission of force to any part of the head.\nWitnesses were examined on behalf of defendant and their evidence tends to show an alibi as to the other defendants, and was introduced to impair the effect of testimony of people\u2019s witnesses.\nKintzing, Simonson & Meyer, for the prisoner, appellant.\n\u2014I. The whole case is on the appeal to be considered by this court res nova, and if the verdict be against the weight of evidence or against law, or if justice requires a new trial, then the-verdict should be set aside and a new trial ordered.. Laws 1855, ch. 337; O\u2019Brien v. People, 36 N. Y. 276.\nII. The evidence did not justify a conviction of murder.. If plaintiff in error was guilty of any offense,, it was manslaughter in either the second or third degree. Wharton thus defines murder: \u201cMurder is where a person of sound memory and discretion unlawfully kills any reasonable creature in being and in the peace of the commonwealth, with malice prepense or aforethought, either expressed or implied.\u201d Vol. 2, 7th ed. \u00a7 938; 3 R. S. 6th ed. 928. Manslaughter in the second degree is the killing without a design to effect death in a heat of passion, but in a cruel and unusual manner. Manslaughter in the third degree is the killing without a design to effect death in the heat of passion, with a dangerous weapon. 3 R. S. 6th ed. 934. Wharton says: \u201c Manslaughter is the unlawful and felonious killing of another, without any malice either expressed or implied.\u201d \u201c Manslaughter differs from murder in this, that though the act which occasioned the death be unlawful or likely to be attended with bodily mischief, yet the malice expressed or implied, which is the very essence of murder, is presumed to be wanting, and the act being imputed to the infirmity of human nature, the punishment is proportionately less.\u201d \u201c Voluntary manslaughter is the unlawful killing of another without malice, on a sudden quarrel, or in the heat of passion. Where, upon a sudden quarrel, two persons fight, and one of them kills the other, this is voluntary manslaughter ; and so if they, upon such occasion, go out to fight in a field, for this is one continued act of passion. So also if a man be greatly provoked by any gross indignity, and immediately kills his aggressor, it is voluntary manslaughter, and not excusable ; homicide not being se defendendo, neither is it murder, for there is no previous malice. In these and such like cases, the law kindly appreciating the infirmities of human nature, extenuates the offense committed, and mercifully hesitates to put upon the same footing of guilt the cool deliberate act and the result of passion.\u201d 2 Wharton Am. Cr. Law, 7th ed. \u00a7\u00a7 930, 931, 938. See 1 Hale P. C. 453-456 ; 1 Hawkins P. C. 29 ; 3 Inst. 51; Commonwealth v. Lenox, 3 Brewst. 249; People v. Austin, 1 Park. Cr. 154; People v. Garrettson, 2 Wheeler Cr. 347; United States v. Travers, 2 Wheeler Cr. 503 ; Wharton on Hom. 186; 2 Bishop on Crim. Law, 7th ed. \u00a7\u00a7 672-678 ; Rex v. Taylor, 5 Burr. 2793 ; State v. Rutherford, 1 Hawks. 457.\nThe evidence in this case at bar established nothing but drunken brawls and want of malice; that the parties came together accidentally, fought and ran away. It was a street fight, and at most a killing during an affray, and under the authority above cited, plaintiff in error should have been convicted of manslaughter (second or third degree).\n\u201c The indulgence which the law extends to cases of this description is founded on the supposition that a state of sudden and violent exasperation is generated in the affray, so as to produce-a temporary suspension of reason, and that the transport of passion excludes the presumption of malice.\u201d 2 Wharton Am. Cr. Law, 7th ed. \u00a7 937.\nThere was no evidence upon the trial going to show at which scuffle the deceased received the injuries which might have produced the meningitis which deputy coroner Cushman testified caused the death. It is important for the court to consider this question, for the reason that the evidence shows that there were three fights in which the deceased and Daly (plaintiff in error) were.engaged in a scuffle, and in one of them James Dougherty was seen by the witness Kopp to strike deceased on the head with a stick, and in the last scuffle opposite Coleman\u2019s place, Lewis and Stanton streets, both deceased and Daly fell upon the stoop. In support of the above theory, the following authorities sustain the declaration: Clark v. State, 8 Hump. 671; Short v. State, 7 Yerg. 513; Jacob v. State, 3 Hump. 493; Young v. State, 11 Id. 200 ; State v. Roberts, 1 Hawks, 349 ; Commonwealth v. Riley, Thacher Cr. Cas. 471; King v. Commonwealth, 2 Va. Cases 78; Pennsylvania v. Sleven, Addis. 279 ; Commonwealth v. Biron, 4 Dallas, 125; Commonwealth v. Webster, 5 Cush. 295; State v. Sellers, 2 Halst. 220.\nIII. The evidence does not conclusively establish that the cause of death was violence upon the part of plaintiff in error, or any of the co-defendants.\nPeter B. Olney, district attorney, and John Vincent (assistant), for the people, respondent.\nIt will be seen that the defendant and his associates were all acting together, and in concert,' in the same common purpose, and all are alike responsible for' the result flowing from their actions.\nThe conviction was predicated upon the old statute. 3 R. R. 6th ed. 928 \u00a7 5. The jury were justified in finding murder in the second degree. Keefe v. People, 40 N. Y. 348. The facts disclosed upon, the trial warranted the- verdict, .and the evidence is sufficient to justify the verdict of the jury, and all the elements that go to make out the crime of murder in the second degree were clearly proven, in fact a verdict of murder in the first degree would have been justifiable under the evidence. People v. Clark, 7 N. Y. 389; People v. Sullivan, Id. 396."
+  },
+  "file_name": "0159-01",
+  "first_page_order": 183,
+  "last_page_order": 191
+}

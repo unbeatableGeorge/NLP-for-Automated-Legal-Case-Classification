@@ -1,0 +1,97 @@
+{
+  "id": 1164469,
+  "name": "McKEON v. PEOPLE",
+  "name_abbreviation": "McKeon v. People",
+  "decision_date": "1883-01",
+  "docket_number": "",
+  "first_page": "456",
+  "last_page": "458",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "26 Hun, 179",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Barb. 271",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4981777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/22/0271-01"
+      ]
+    },
+    {
+      "cite": "4 Den. 84",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485415
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/4/0084-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 315,
+    "char_count": 5713,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04286832938908793
+    },
+    "sha256": "ca2eedab42b6125172484813e764f22a6b5a1bbe6caa357482ce35a2e4680006",
+    "simhash": "1:8ec897adb15b22ee",
+    "word_count": 1004
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McKEON v. PEOPLE."
+    ],
+    "opinions": [
+      {
+        "text": "Haight, J.\nThe plaintiff in error was indicted in May, 1880, and tried and convicted on Hovember 19, 1881. The Code of Criminal Procedure went into effect September 1, 1881.\nSection 515 of the Code provides that \u201c writs of error and of certiorari in criminal actions, as they have heretofore existed, are abolished, and hereafter the mode of reviewing a judgment or order in a criminal action is by appeal.\u201d\nSection 962 provides that \u201cthis Code applies to criminal actions, and all other proceedings in criminal cases, which are herein provided for from the time when it .takes effect; but all such actions and proceedings theretofore commenced must be. conducted in the same manner as if this Code had not been passed.\u201d\nThe plaintiff in error contends that inasmuch as the indictment was found prior to the Code\u2019s going into effect, the action- and review by writ of error must be conducted in the same manner as if the Code had not been passed. This we do- not understand to be correct.\nThe suing out of a certiorari or writ of error is the commencement of a new action or proceeding, and is not the continuance of the old one. Femu v. Dickinson, 4 Den. 84-5; Gormley v. McIntosh, 22 Barb. 271-3, and authorities there cited; see, also, Matter of the will of Gates, 26 Hun, 179.\nBy section 515 these writs were abolished. Under section 962, where writs are sued out before the Code went into effect, the proceedings thereunder would be conducted in the same manner as if the Code had not been passed. This writ, however, was sued out after the Code went into' effect. It was the commencement of a new action or proceeding, and is therefore not brought within the saving clause of section 962.\nThe Criminal Code having recently gone into effect, the practice is new. The district attorney should have moved seasonably to have had the writ- quashed ; failing to do so, he may now properly be regarded as having waived the\u2019 defect.\nUpon the trial the people gave evidence tending to prove that the defendant was admitted to bail, and that he failed to appear for trial at the October Court of Sessions, in 1881; that during the session of the court he was about the streets of Bradford, Pennsylvania, in a condition to come to Warsaw, the place where the court was held. Upon the defense, the defendant\u2019s counsel offered to show by the defendant that during the term of court the defendant was seriously ill, and that \u201c Dr. Bay stated to him at that time that it would endanger his life to leave his room and come down here,\u201d meaning Warsaw, the place of trial. This was- objected to, the objection was sustained, and exception taken by the defendant\u2019s counsel. Witness also testified that he was advised that the court at which he was to be tried, and which he did not attend, had been adjourned. The question was then asked, \u201c Were you requested to be at the adjourned term?\u201d This was objected to, the objection sustained, and exception taken by the defendant. He was also asked the question, \u201cDid you also communicate information that you would be here on that day ?\u201d meaning the adjourned day. This was objected to, objection sustained, and exception taken by the defendant.\nAlso the question, \u201c Had you made arrangements for the expenses of your trial and your witnesses on that day ? \u201d Objected to, sustained, and exception by the defendant.\nThese rulings, we think, were erroneous. The people having given evidence showing his non-appearance at the court, to which he had given bail, and at which he was required to attend for trial, it doubtless led the jury to infer that he was afraid to submit to a trial upon the merits.\nIt was therefore, proper for him to show the reasons for his non-attendance, and, if he had heen required to attend at the adjourned term, his good faith in preparing for trial at such adjourned term. If he were, in fact, prevented by sickness, it would entirely rebut any inference of guilt, or of fear to submit to a trial.\nWe are of the opinion that the judgment and conviction must be reversed, and the proceedings remitted to the Court of Sessions of Wyoming County, for a new trial in that court.\nSmith, P. J., and Haedth, J., concur.\nNote.\u2014Writs of error and certiorari are abolished only as to criminal actions, not as to special proceedings of a criminal nature. People ex rel. Fuller v. Carney, ante, p. 270.",
+        "type": "majority",
+        "author": "Haight, J."
+      }
+    ],
+    "attorneys": [
+      "M. E. & E. M. Bartlett, for plaintiff in error.",
+      "I. Samuel Johnson, district attorney, for the people, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014fourth Department.\nJanuary, 1883.\nMcKEON v. PEOPLE.\nEeview by Certiorari.\u2014Evidence.\nA conviction alter the passage of the Code of Criminal Procedure, upon an indictment theretofore found, cannot be reviewed by writ of error, writs of error and of certiorari, as theretofore existing, being abolished by section 515 of the Code of Criminal Procedure.\nThe suing out of such a writ is the commencement of a new action or proceeding, and not the continuance of the old one, and is therefore not within the saving clause of section 962 of said Code.\nWhere the people give evidence tending to prove that defendant failed to appear for trial at the term to which he had given bail, though able to do so, it is proper for defendant, in order to rebut the inference of guilt or fear thereby raised in the minds of the jury, to show the reasons for his non-attendance, and, if requested to appear at the adjourned term, his good faith in preparing for trial at such time.\nWrit of error to the court of Sessions of Wyoming county to review the conviction of Thomas McKeon, the plaintiff in error, of the crime of burglary and larceny, after having been convicted of felony.\nThe facts and exceptions appear in the opinion. -\nM. E. & E. M. Bartlett, for plaintiff in error.\nI. Samuel Johnson, district attorney, for the people, defendant in error."
+  },
+  "file_name": "0456-01",
+  "first_page_order": 480,
+  "last_page_order": 482
+}

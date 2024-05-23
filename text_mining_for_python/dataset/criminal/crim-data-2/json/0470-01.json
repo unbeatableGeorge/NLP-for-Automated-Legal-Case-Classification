@@ -1,0 +1,509 @@
+{
+  "id": 1167680,
+  "name": "PEOPLE v. ECKERT",
+  "name_abbreviation": "People v. Eckert",
+  "decision_date": "1884-11",
+  "docket_number": "",
+  "first_page": "470",
+  "last_page": "484",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "55 N. Y. 644",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517338
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0644-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y. 38",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166449
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/70/0038-01"
+      ]
+    },
+    {
+      "cite": "26 N. Y. 203",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2033146
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/26/0195-01"
+      ]
+    },
+    {
+      "cite": "41 Am. Rep. 496",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 Ohio St. 178",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        910757
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/37/0178-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 383",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4875908
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/6/0383-01"
+      ]
+    },
+    {
+      "cite": "2 Hun, 43",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Hun, 113",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Hun, 199",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "36 N. Y. 517",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498906
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/36/0517-01"
+      ]
+    },
+    {
+      "cite": "58 Barb. 241",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2256845
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/58/0241-01"
+      ]
+    },
+    {
+      "cite": "34 N. Y. 233",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 N. Y. 670",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        5140131
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/57/0670-01"
+      ]
+    },
+    {
+      "cite": "65 Barb. 48",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2267462
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/65/0048-01"
+      ]
+    },
+    {
+      "cite": "51 N. Y. 643",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2061494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/51/0643-01"
+      ]
+    },
+    {
+      "cite": "52 N. Y. 621",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510890,
+        510972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/52/0621-01",
+        "/ny/52/0621-02"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0164-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 659",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0659-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 393",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532866
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0393-01"
+      ]
+    },
+    {
+      "cite": "79 N. Y. 593",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2171434
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/79/0593-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 364",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173301
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0364-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 436",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179298
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/83/0436-01"
+      ]
+    },
+    {
+      "cite": "86 N. Y. 375",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        546258
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/86/0375-01"
+      ]
+    },
+    {
+      "cite": "89 N. Y. 242",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2184233
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/89/0242-01"
+      ]
+    },
+    {
+      "cite": "92 N. Y. 554",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2190089
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/92/0554-01"
+      ]
+    },
+    {
+      "cite": "95 N. Y. 541",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2193639
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/95/0541-01"
+      ]
+    },
+    {
+      "cite": "94 N. Y. 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2192088
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/94/0137-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 240",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2059630
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/50/0240-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 265",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        505042
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0265-01"
+      ]
+    },
+    {
+      "cite": "8 Abb. Pr. 302",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4586406
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/8/0302-01"
+      ]
+    },
+    {
+      "cite": "1 Daly, 380",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Wend. 105",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017123
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/14/0105-01"
+      ]
+    },
+    {
+      "cite": "13 Johns. 504",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374515
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/13/0504-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. 379",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2003951
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/1/0379-01"
+      ]
+    },
+    {
+      "cite": "76 N. Y. 288",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        539822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/76/0288-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 571",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0571-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y. 44",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 N. Y. Crim. Rep. 171",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167688
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/2/0171-01"
+      ]
+    },
+    {
+      "cite": "96 N. Y. 150",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 N. Y. 541",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2193639
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/95/0541-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1252,
+    "char_count": 32277,
+    "ocr_confidence": 0.601,
+    "pagerank": {
+      "raw": 4.914323794113568e-08,
+      "percentile": 0.3093108903260383
+    },
+    "sha256": "97370ba68a29523193eab4144d08f7c4b995183d1af7793716bb2c047cb0d135",
+    "simhash": "1:ac3c73f254299d87",
+    "word_count": 5868
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Learned and Landon, JJ., concur."
+    ],
+    "parties": [
+      "PEOPLE v. ECKERT."
+    ],
+    "opinions": [
+      {
+        "text": "Bockes, J.\ndefendant was charged by indictment with the crime of seducing one Sarah Osterhoudt, an unmarried female of previous chaste character, under promise of marriage. Laws of 1884, ch. 111; Penal Coke, \u00a7 284. On the trial the prosecutrix testified to the material facts constituting the offense charged, and that she became enceinte because of the intercourse between herself and the defendant. The fact of the birth of the child was undisputed. Evidence was also given of opportunity and probability, such as the frequent meeting of the parties, when they would be alone together, and generally of the seeking by the defendant of private interviews, and also of the bestowal by both of personal attentions.\nThe defendant gave evidence in his own behalf, directly in conflict, on all material points, with that of the prosecutrix. His evidence, if credited, would establish his innocence of the offense charged. Thus his credibility became a subject of great, if not of controlling significance. On his cross-examination, and with a view to this point, he was asked the question whether he had \u201c been having sexual intercourse with Emma Schoonmaker,\u201d\u2014a person in no way connected with the case. The question was objected to by the defendant\u2019s counsel, and the objection being overruled by the court, he answered \u201cYes.\u201d\nIt is urged that such ruling was erroneous. But according to the very late decision by the Court of Appeals in People v. Irving, 95 N. Y. 541; 2 N. Y. Crim. Repts. 171, it affords no just ground of complaint. See also People v. Hooghkerk, 96 N. Y. 150; 2 N. Y. Crim. Repts. 204. The question here presented was carefully and fully considered in Irving\u2019s case in the light of the previous decisions in this state, and the evidence under the circumstances then and here existing, was held to be admissible within the discretion of the trial court. We need therefore only to refer to that case as decisive of the point here urged as ground of error.\nOn further cross-examination the defendant was, in substance, asked if he had not said to the father of the prosecutrix, on a certain specified occasion, that his own father had untruthfully said that he, the defendant, would rot in jail before he would marry the prosecutrix; and he denied having so said. Proof in contradiction of such denial by the defendant was offered on behalf of the prosecution, and was admitted against objection. In this, we think there was no substantial error. The evidence had a bearing upon matters in issue, in this : it bore upon the question whether the defendant had made to the prosecutrix a promise of marriage. It was, it is true, somewhat remote, but not so entirely remote and disconnected with the issue and irrelevant to the offense charged as to preclude its contradiction.\nBut the case is not, as we think, without serious difficulty on the proof submitted. It is certainly a very peculiar one in some of its leading features. The facts, taken as a whole, must to say the least, admit of strong suspicion as to the real existence of the imputed crime. They invite well-grounded criticism. The defendant, was at the time of the alleged seduction under promise of marriage, a mere lad, a stripling, a school-boy, but little more than sixteen years of age. The prosecutrix was nearly six years his senior, a woman of comparatively mature years, and according to the proof, of very considerable experience with men of about her own age. It can but be observed that seduction of the lad might probably be quite as readily accomplished as could be the seduction of the mature, reflecting, experienced woman. She had known the young man almost, or quite from his infancy; must have known and appreciated the fact that any proposition of marriage from him or agreement with him to marry was of questionable propriety. She was not entirely .untutored in the ways of the world, for, as she states, she had accepted the attentions of men while he was yet a \u201c little bit of a boy.\u201d She was certainly qualified to give him good advice against wrong-doing, and well able in her maturity to resist vicious importunity, even under circumstances of stronger temptation. '\u25a0 And this would be naturally expected, rather than that she should accept from one so young a proposal of marriage, and under a protestation of faithfulness to his promise, to join him in the commission of crime. Nor was the illicit intercourse confined to a single occurrence under stress of circumstances, but was deliberately permitted from time to time, even continued, as she testifies, from \u201c that night and after that, up to until two months before the baby was born.\u201d\nIs the case free from well-grounded suspicion as to the integrity of the charge ? If a seduction, it seems to have been a seduction with a continuando\u2014a seduction singularly effected, in view of her maturity and of his immaturity; and most strangely continued. The line of conduct as testified to by her, beginning with the alleged promise of marriage, followed by continual intercourse for a considerable time, and indeed permitted long after pregnancy had ensued, seems inconsistent with any idea of the woman\u2019s seduction, holding in mind the provisions of the statute which makes seduction a punishable offence. See Penal Code, \u00a7 284. The crime denounced by the law is the seduction of a female of chaste character under promise of marriage. The law contemplates infraction of purity in thought and conduct. Now in the outset we are confronted with the unusual circumstances of persons contracting marriage under an almost ludicrous disparity of age, having in mind the nature of the offense charged; the male just turning the period of pubescence, and the female a woman, as has been stated, of ma-tare years and very considerable experience in the ways of the world, with knowledge, as we must infer, of usual moral and social observances, and of what are universally regarded as the proprieties attending a matrimonial alliance.\nBesides these considerations, how stands the further and other proof bearing on the alleged contract of marriage, and purity of character, both of which are necessary to the establishment of the crime charged in the indictment ? It is in proof that the prosecutrix accepted attentions from and had confidential relations with various men ; not with one or two only, but with many. She permitted them unbecoming familiarities. Beyond dispute, she was free and easy with them to an extent indicative of great laxity of moral obligation. These statements as to the proof leave out of view the testimony of the defendant, and also that of the witness,\" Chambers, who was undoubtedly effectually impeached. But it may be noted, as it was proved by several witnesses, that the plaintiff was particularly and peculiarly intimate with this man, who was shown to be lecherous and vile. The case on the reliable evidence bears hard on the probability of the alleged promise to marry, and of the purity of character of the prosecutrix. Before the defendant could be legally convicted, a case should be made' against him on all material points beyond a reasonable doubt. We are of the opinion that no fair-minded man can carefully and thoughtfully read the evidence here submitted without entertaining great doubt as to the defendant\u2019s guilt of the offense charged. We are dissatisfied with the verdict of the jury. We must conclude that they either misunderstood the provisions and requirements of the law applicable to the case, or that they gave the evidence undue force through inattention or misapprehension. We cannot in conscience permit the conviction and judgment to stand.\nConviction and judgment reversed ; new trial granted, and case remitted to the Ulster Sessions.\nLearned and Landon, JJ., concur.",
+        "type": "majority",
+        "author": "Bockes, J."
+      }
+    ],
+    "attorneys": [
+      "Schoonmaker & Linson, for the prisoner, appellant.\u2014",
+      "A. T. Clearwater, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Third Department.\nNovember, 1884.\nPEOPLE v. ECKERT.\nEvidence.\u2014Disparaging Questions.\u2014Contradictions.\u2014 Seduction under Promise Marriage\u2014Prooe NECESSARY.\nUpon the trial of an indictment for seduction under promise of marriage, the defendant, who has testified in his own behalf, may be asked on cross-examination, for the purpose of affecting his credibility, if he has had sexual intercourse with a person other than the prosecutrix, and in no way connected with the action. People v. Irving, 2 N. Y. Crim. Rep. 171; People v. Hooghkerk, lb. 204.\nDefendant on cross-examination, on the trial of an indictment for seduction, was, in substance, asked if he had not said to the father of the prosecutrix that his own father had untruthfully said that he (the defendant) would rot in jail before he would marry prosecutrix, and he denied having so said. Held, that evidence in contradiction of said denial was competent.\nIn this case, the defendant at the time of the alleged seduction was about sixteen years of age, and the prosecutrix was about six years older, and a woman of very considerable experience with men of her own age, and had known defendant from his boyhood. It appeared that the illicit intercourse was not confined to one occasion, but was deliberately permitted from time to time till within two months of the birth of the child. It also appeared that prosecutrix had had confidential relations with many men to whom she had permitted unbecoming familiarities, and had conducted herself in a manner indicative of great laxity of moral obligation. Held, on the whole case, that as the evidence was strongly against the probability of the alleged promise to marry, and against the purity of character of the prosecutrix, a new trial must be granted.\nAppeal by defendant, George Eckert, from a judgment convicting him of the crime of seducing an unmarried female of previous chaste character, under promise of marriage.\nThe defendant was indicted in the Court of Oyer and Terminer of Ulster county, November 24,1882, the indictment charging the commission of said crime on May 13, 1881. The indictment was tried in the Court of Sessions of said county at the June term, 1883, before Hon. William Lawton, County Judge, with associates and a jury, and defendant was found guilty and sentenced to pay a fine of $425, and to imprisonment in the county jail till said fine was paid, but for a period not to exceed one year.\nThe following is the substance of the testimony taken at the trial:\nSarah Osterhoudt, the prosecutrix, sworn for the people, testified: I live in the town of Marbletown. Have known defendant fourteen years. I will be 23 years old the 24th of October next. Eckert, the defendant, will be 19 this fall. He visited me at my father\u2019s house. Began to come and see me two years ago last March and came to see me until a year ago Juiy. He asked me if I thought enough of him to marry him. I told him I thought he was too young. He said no he was not. He said he was very nearly as old as his father and mother were at the time of their marriage. I said I would marry him if he thought enough of me. After that he asked me to have connection with him. It was in May, two years ago last May, I had connection with him. He said he did not believe he could. I said I did not want him to. He said he would. He asked me more than once to have connection with him before I did have. It was after midnight. Between the time he came to see me and the time the connection took place he was trying to overcome me. He asked me if I would have connection with him. I said I did not want to. He said he would; that he would marry me and never go back on me. That is all he said. He had connection with me that night, and after that, up to until two months before the baby was born, which was a year ago last July 24th. Told him I was pregnant and asked him to marry me. He went away. He has never married me. I never had sexual intercourse with any other man. The child I had here to-day is Eckert\u2019s child. Cross-Examined : I was born in October, 1860. I was close to 21 and he to 17 when he first came to see me. I had kept company there with gentlemen four or five years. I had beaux that paid attention to me and took me out evenings. Would spend evenings with me a little while. Had had four or five. Have kept company a few times, with John Tanner, Millard WilMow, Denton Wilklow; once a little while with Nat Lyons, once a little while with Elias V an Vleet. They were all older than Eckert or myself. Have kept company a few times with Victor Chambers, when Eckert was a little bit of a boy. Have known Eckert since he was four years old. Lived about a mile from him. Went in company a good while before he did. He first came to see me at Jacob Hornbeck\u2019s. I worked there. He stayed until midnight. Nothing said that night about marrying or having connection. He sat alongside of me, had his arms around me and kissed me. I asked him in. I wanted him to come in. He came again in the middle of the week. Everything was proper, and nothing said about marrying. He stayed about two hours. He came again the next Sunday night. I sat on his lap. Had his arms- around me and I had mine around him. Nothing said nor done improper that night. Then he came every week. Had come to see me four times before he began to act mean. That was in April. Put his hands on my person and under my clothes. Did that four or five nights. I let him come after he acted this way. Promised he would do better. He tried to force me different times. I did not call out. Had connection with me first in my father\u2019s house. The lamp was turned down very low, and there was a bed in the room. It was the last of May.' We had talked about marrying the first of May. Along through April he had been trying to have\" connection with me and to use violence and force me. Only one other person tried to take liberties with me\u2014Chambers. I have sat on some of the other boys\u2019 laps ; some of them had kissed me and had their arms around me. They had never talked to me about thinking a good deal of me. He, George, asked me if I thought enough of him to marry. I told him he was too young; that his father and mother were mad about it, and he said it made no difference about them. He was the one, he would marry me; he did not try to have connection with me that night, nor did he take any liberties whatever. I did not tell him that night whether I would marry him or not. He said he would. There was no engagement of marriage between us that night. I said the Sunday night, after he had asked me if I had made up my mind to marry him, that I had. He did not have connection with me that night. The night he had connection with me he tried me until he got me nearly wore out. He was struggling with me from about ten o\u2019clock until after midnight. I did not really consent; it was just overpowering me. I made no outcry. He stayed a couple of hours afterward. I did not tell Hannah M. Hornbeck in June of that year that I was in family way, or that I had got rid of a. child. . . . Re-Direct: The night George first had connection with me, he said he would marry me, and never go back on me, before he had connection with me. I believed him. Have never been married. After I became pregnant he brought me medicine to take, and I took five drops of it. Re-Cross: I said I was afraid he would not marry me. Didn\u2019t know whether he would or not. I was afraid first and then believed- he would. I did consent to have connection with him in words. George went to school a few weeks the next winter after he came to see me.\nJoseph Osterhoudt, sworn for the people, testified : \u201c Am Sarah\u2019s brother. . . . After I was informed she was pregnant George asked me about it. Told him I didn\u2019t know; hadn\u2019t seen her in quite a while. He told me if it was, he would marry her. I found out it was so, and called him one side and asked him if he was going to marry her. He said he would not, unless he had to.\nIt further appeared in behalf of the prosecution by the testimony of the parents and brothers of the prosecutrix, and others, that defendant had visited prosecutrix at her parents\u2019 house, and elsewhere, very often during the period referred to by her\u2014as often as once a week\u2014asking for her personally, and that upon such occasions he was generally alone with her. It also appeared that his visits ceased shortly before the birth of the child. Prosecutrix\u2019s father testified : \u201c John Eckert, George\u2019s father, in October, 1881, came there (witness\u2019s house) and told the boy he would take him out of the house, dead or alive. He said it was time to break up the match ; that is the first I heard him say anything about his opnosition to his coming there.\u201d\nA witness for the prosecution also testified that defendant, prior to his indictment, left his place of residence and went to Pennsylvania, through fear of arrest for seduction; that he returned in a few weeks. Defendant\u2019s refusal to marry the prosecutrix was also proved.\nBufus Palen, sworn for the defendant, testified : \u201cLive at Bosendale; am a quarryman. Have known Sarah Osterhoudt about six years. Knew Victor Chambers; was with him and Sarah at McMullen\u2019s house; the girls and their brothers keep the .house. I think it was in 1876 ; it was in the night time ; we got there between nine and ten in the evening; stayed until towards morning. The fore part of the evening Chambers and Sarah sat on chairs. After that, they laid down on the bed in the same room. They lay there two hours I should think. This was in the sitting-room. The light was turned very dim. Do not know that she had any of her clothing off. Think he had his shoes off. May have had his coat off. I don\u2019t know whether he did or not. Have seen him go with her from church different times. I don\u2019t know as I ever saw them go together except on that occasion. Gross-Examined: \u25a0 I was there with a young lady. She was, as I supposed, a friend of Miss Osterhoudt\u2019s. Supposed this was an ordinary case of country courting. I don\u2019t know as it struck me that there was anything harmful about it. When I was a young man I courted that way. I saw no impropriety, more than that. The other young lady and I were in the room at that time. In that region of country I have often turned down the light myself. The other lady and I lay on the sofa.\u201d\nGeorge Eckert, sworn in his own behalf, testified :\n\u201c I am the defendant. My father and mother are living. I live at home with them and always have. I was 18 years old the 30th of last December. In March, 1881, I was 16. Was attending the district school that year and the next. Have known Sarah since I can remember. She told me she was twenty-two when I was sixteen. Knew Victor Chambers. I knew of his paying attention to Sarah. Saw them together in bed, at my father\u2019s house. Chambers and I slept together, and Sarah came up stairs and opened the door and walked in the room, and said, \u201cNow get up,\u201d and Chambers grabbed hold of her, and pulled her in the bed with him, and says to me, \u201c Ton get out of here,\u201d and locked the door, and they were in there about an hour. She was dressed. I was 11 or 12 years old. I didn\u2019t know what it meant. I know of Millard and Denton Wilklow, John Tanner and Lucas Barley paying her attention prior to March, 1881. They would spend the evening with her. Know of Millard Wilklow spending the evening with her about March, 1881. He came and called me out of my father\u2019s house. Went with him to Hornbeck\u2019s. Sarah was there. He wanted me to call the dog and keep him by me while he got in. I did so. He went in. 1 had never had anything to do with her before. The Hornbecks were relations mine. I saw Sarah there a couple of weeks afterwards. I spent the evening with her. Stayed until about three o\u2019clock. Did not sit up all the time we were there. Lay down on the bed. She said she was tired sitting up and wanted me to lie down. That was the first night I stayed with her, or had shown her any attention. We lay on the bed about four hours. When I went away she said I must come on the sly so my folks didn\u2019t know it. She said if they found it out they would think I was too young. Went to see her again in the same way ; went to bed again. I never asked her in any form to marry me. I never promised or told her I would marry her, nor asked her if she thought enough of me to marry me. There was nothing mentioned about marrying. She never said she would marry me; nor was the subject of marriage ever discussed between us at all. I never asked her to have connection with me; nor did I say I would marry her, or stand by her, or words to that effect. I was at Van Leuven\u2019s about three weeks. Part of the time I was in Port Jervis. Came back to my father\u2019s, and stayed there. I was advised to go ; did not go of my own accord; came back of my own accord. Was never arrested on the indictment. Came down here of my own accord and gave bail. Cross-Examined,: The way Chambers came to stay at our house all night, my father had gone off; Sarah came to stay with mother and Chambers to stay with me. My father was keeper of Sing Sing Prison and was away from home a good deal. Chambers was there four or five nights. Had not had breakfast when Sarah came up. She came to call us down to breakfast. I told my mother. She did not go up stairs. I ate breakfast. They were up there an hour, about. This was in 1876; I was then twelve years old. The day I held the dog for Millard Wilklow was the day my grandmother was buried. My grandmother lived at Jacob Hornbeck\u2019s. Sarah was there. They had a funeral in the afternoon, and I held the dog so that Millard Wilklow could go and court Sarah in the evening. ... I have had sexual intercourse with Sarah. I could not tell how often ; I have forgotten. I am not the father of this child. I know Emma Schoonmaker; don\u2019t know where she is. Q. You have been having sexual intercourse with Emma Schoonmaker, have you not ? Defendant\u2019s counsel objected on the grounds that the question was irrelevant, improper and incompetent, and that the witness is not bound to answer. Objection overruled. Defendant excepted. A. Yes. My father and Simon Lyons advised me to go to Matamoras. They told me there was going to be a trap laid against me. I ceased going to school in 1882. I worked some in the garden and tend bar. My father is a tavern-keeper in this neighborhood. I can\u2019t say how many times I went to see Sarah. Thomas Osterhoudt did not say to me that my father had said to him that I would not marry Sarah, and I did not say to him that it was a damned lie. Re-Direct: I first had sexual intercourse with Sarah the first time I stayed with her. There had not been a word said about marrying. There was no objection on her part to the intercourse, nor solicitation nor effort on mine.\nMillard Wilklow, sworn for defendant, testified : Live in Marbletown. Know defendant and Sarah Osterhoudt. Live about a mile from her. Have kept company with her. Been to see her at her father\u2019s house a few times, and at Jacob Horn-beck\u2019s. Recollect George going over with me. Don\u2019t know whether he held the dog or not. Stayed with her until 12 o\u2019clock. I never had sexual intercourse with her that I know of. That is as strong as I am willing to put it. Cross-Examined: She has always conducted herself like a lady in my presence. I have lived in the neighborhood with her ten or twelve years, and, so far as my observation has extended, she has always conducted herself like a lady. Re-Direct: I have been on the bed with her twice at her father\u2019s house. Possibly two hours. In the night time. No one else in the room. I don\u2019t say whether I had connection with her or not.\nWitness, on being subsequently recalled by the prosecution, denied having had sexual intercourse with prosecutrix.\nDenton Wilklow, sworn for defendant, testified : Live m Marbletown. Am single. Know Sarah. Have waited on her. I decline to answer whether I have ever had connection with her. Cross-Examined: I don\u2019t know whether she has always behaved like a lady in my presence. I didn\u2019t want to answer Mr. Linson\u2019s question because I didn\u2019t consider it a proper question for a young man to answer under any circumstances.\nJohn Tanner, sworn for defendant, testified : Know Sarah. Have kept company with her. Chambers and I have been together at her father\u2019s. I left him there. They were each one sitting on a chair. There was no bed in the room. They remained in the room all the time I was there. I saw them no closer together. There were no more familiarities than is usual among young people. Nothing more than talking, having a jolly time. He didn\u2019t embrace her as I saw, and I didn\u2019t see her sit on his lap. She and I had been alone together. I kept her company after Chambers went away. I staid until somewhere about midnight. We were alone together. I sat along side of her. We didn\u2019t get on the bed. There was a bed in the room. Never took any liberties with her to any extent. I have never had connection with her. Cross-Examined: She has always behaved herself like a lady, so far as I have seen. I have known her somewhere about twelve or thirteen years. We went to school together. Re-Direct: The.first night I was alone with her I fooled with her to have intercourse with her.\nHannah M. Hornbeck, sworn for defendant, testified : I am a \u00abister of John Eckert. Sarah has worked for me at different times. Millard Wilklow was there to see her once, until after midnight. George Eckert was there sometimes. In June, 1881, Sarah told me she was-in the family way. The 25th of that month she told me she had got rid of it; that she was two months gone.\nDefendant rests.\nThomas Osterhoudt, re called for the people, testified : . . .\n\u201c Q. Did you tell George that his father had said that he had told his father that he would rot in jail before he would marry Sarah, and did George say to you that' his father was a damned liar?\u201d Counsel for defendant objected on the ground that it is a collateral matter and immaterial, and the people are concluded by the answer of George. Objection overruled. Defendant excepts. \u201c A. He did.\u201d\nWitnesses were offered by the district attorney to prove the previous character and reputation for chastity of Sarah Osterhoudt, in her neighborhood, and the evidence was excluded, under exception.\nAnn Osterhoudt, re-called for the people, testified : Sarah lived at home in spring of 1881. She was under my eye all the while. There were no indications of pregnancy. 1 did her washing. There was no discoloration of underclothing that would indicate miscarriage or abortion.\nSchoonmaker & Linson, for the prisoner, appellant.\u2014\nI. The conviction is an absurdity. There was plainly such prejudice as should nullify the verdict. The testimony to which attention has been called shows the character of the complainant. She had been receiving for years the attentions of men much older than the defendant, some of whom, at least, had attempted to take undue liberties with her, and three of whom refused on oath to say whether or not they had had sexual intercourse with her. She had known the defendant ever since he was a baby. He was a mere boy at the time she says he committed the crime charged in the indictment. It seems impossible that any candid person can read the evidence and resist the conviction that she was the seducer. The jury convicted ; but they convicted the prisoner of being a bad boy, and not of the statutory offense. The former impeachment he did not deny, and that was enough for the jury. They did not propose to sanction such irregularities within the boundaries of the virtuous county of Ulster. The fact that the sexual intercourse was not the crime, they never cared a whit for. They would have rendered the same verdict had the charge been rape or incest.\nII. Both the statute in force at the time of the alleged seduction (L. 1848, ch. 111), and that which obtained at the time of the trial {Penal Code, \u00a7 286), provide that there shall be no conviction upon the testimony of the female complaining, not supported by other evidence. The court of appeals has held that the corroboration to which it refers, is as to the promise of marriage, and the carnal connection. It is respectfully submitted that in no case has a conviction been sustained on such testimony as was given in this case. Armstrong v. People, 70 N. Y. 44.\nIII. The evidence as to carnal intercourse with Emma Schoonmaker was highly improper and incompetent. Its damaging effect upon the case of the defendant is easily apparent, While it had no possible legitimate bearing upon the issue being tried, it was nevertheless a fact which might incline the minds of the jury powerfully against the defendant. People v. Brown, 72 N. Y. 571; People v. Crapo, 76 N. Y. 288; People v. Irving, 2 N. Y. Crim. Rep. 171 ; Lohman v. People, 1 N. Y. 379 ; Macbride v. Macbride, 4 Esp. 242, See also People v. Gibbs, 18 Wk. Dig. 66 ; Jackson ex dem. Boyd v. Lewis, 13 Johns. 504; Bakeman v. Rose, 14 Wend. 105 ; Wehrkamp v. Willett, 1 Keyes, 250; Greaton v. Smith, 1 Daly, 380 ; Varona v. Socarras, 8 Abb. Pr. 302. In Brandon\u2019s Case, 42 N. Y. 265 ; Connor\u2019s Case, 50 N. Y. 240; and Casey\u2019s Case, 72 N. 7. 394, neither the question of privilege nor that of relevancy upon tlie question of credibility was raised. And in Noelke\u2019s Case, 94 N. Y. 137, the rule for which we contend was distinctly asserted (p. 144).\nIV. The exception as to prisoner\u2019s statement to the prosecutrix\u2019s father, was well taken. The testimony which it was sought to contradict was drawn out by the people, and it was clearly immaterial, or at best collateral to the issue.\nA. T. Clearwater, district attorney, for the people, respondent.\nI. That defendant had had illicit intercourse with other women was proper to be shown on his cross-examination, as a fact affecting his credibility; and for this purpose, as was stated when the question was asked, the prosecution was permitted to ask him if he had been having sexual intercourse with another woman who was named, particularly as his counsel held him up to the jury as a modest boy, who blushing at the thought of his own virility, had been unwittingly betrayed by the prosecutrix. People v. Irving, 95 N. Y. 541; People v. Noelke, 94 N. Y. 137; People v. Hovey, 92 N. Y. 554; Shultz v. Third Avenue R. R. Co., 89 N. Y. 242; Shipply v. People, 86 N. Y. 375 ; People ex rel. Benjamin K. Phelps v. The Court of Oyer and Terminer, 83 N. Y. 436 ; Mayer v. People, 80 N. Y. 364; Ryan v. People, 79 N. Y. 593; People v. Casey, 72 N. Y. 393 ; Southworth v. Bennett, 58 N. Y. 659; People v. Stokes, 53 N. Y. 164; Lefler v. Field, 52 N. Y. 621; Russell v. St. Nicholas Fire Insurance Co., 51 N. Y. 643 ; Connors v. People, 50 N. Y. 240; Fralich v. People, 65 Barb. 48; White v. McLean, 57 N. Y. 670; Brandon v. People, 42 N. Y. 265; La Beau v. People, 34 N. Y. 233 ; Fry v. Bennett, 3 Bos. 200; Terry v. McNiel, 58 Barb. 241; Shepard v. Parker, 36 N. Y. 517; People v. Courtney, 31 Hun, 199 ; Archbold's Crim. Pr. 817; Maine v. People, 9 Hun, 113; Vaughn v. Westover, 2 Hun, 43; Allen v. Bodine, 6 Barb. 383; Hanoff v. State, 37 Ohio St. 178; S. C., 41 Am. Rep. 496 ; Rex v. Pitcher, 1 Car. & P. 85; 1 Greenleaf on Evidence, \u00a7 459 ; Roscoe's Crim. Ev. 4th Am. Ed. from 3d London Ed. 180.\nII. Evidence that a prisoner who feared arrest made \u2022 an effort to keep out of the way of the sheriff is competent. Ryan v. People, 79 N. Y. 593.\nIII. Defendant was, in substance, asked if he had. not said to the father of the prosecutrix, that his own father had untruthfully said that he, the defendant, would rot in jail before he would marry the prosecutrix, and he denied having so said; it related to the res gestee, and it was competent to contradict him.\nIV. The prosecutrix was corroborated upon the questions of promise of marriage by all the testimony, and as to the intercourse by the defendant himself, who testified on his cross-examination that he had had sexual intercourse with her. This was all the corroboration required by the statute, it not being1 necessary that she should be corroborated either as to chastity or as to being unmarried. Kenyon v. People, 26 N. Y. 203; Crozier v. People, 1 Park. 453 ; Armstrong v. People, 70 N. Y. 38. It was not necessary that the corroborative testimony should be positive in its character; circumstantial evidence of corroboration was sufficient. Kenyon v. People, 26 N. Y. 203; Boyce v. People, 55 N. Y. 644."
+  },
+  "file_name": "0470-01",
+  "first_page_order": 494,
+  "last_page_order": 508
+}

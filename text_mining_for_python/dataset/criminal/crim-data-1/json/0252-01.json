@@ -1,0 +1,644 @@
+{
+  "id": 1164464,
+  "name": "PEOPLE v. NOELKE and MARKS",
+  "name_abbreviation": "People v. Noelke & Marks",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "252",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 252"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "33 N. H. 329",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4525879
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/33/0329-01"
+      ]
+    },
+    {
+      "cite": "73 Mo. 647",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        448847
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/73/0647-01"
+      ]
+    },
+    {
+      "cite": "7 Rob. 80",
+      "category": "reporters:state",
+      "reporter": "Rob.",
+      "case_ids": [
+        1393352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/30/0080-01"
+      ]
+    },
+    {
+      "cite": "2 Tex. App. 610",
+      "category": "reporters:state",
+      "reporter": "White & W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Tex. 581",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "59 Ill. 163",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 Ill. 465",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        426099
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/40/0465-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 72",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164465
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0072-01"
+      ]
+    },
+    {
+      "cite": "30 Cal. 316",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2205242
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/30/0316-01"
+      ]
+    },
+    {
+      "cite": "18 Ill. 407",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        438661
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/18/0407-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. 187",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1053584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/84/0187-01"
+      ]
+    },
+    {
+      "cite": "4 Gray, 29",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075637
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/70/0029-01"
+      ]
+    },
+    {
+      "cite": "7 Tex. App. 575",
+      "category": "reporters:state",
+      "reporter": "White & W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Conn. 442",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12132236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/4/0442-01"
+      ]
+    },
+    {
+      "cite": "2 Metc. 329",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. 180",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2004060
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/1/0180-01"
+      ]
+    },
+    {
+      "cite": "4 Barb. 314",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777614
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/4/0314-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 418",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025483
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0417-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 466",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "25 Ohio St. 584",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        44818
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/25/0584-01"
+      ]
+    },
+    {
+      "cite": "33 Mich. 363",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1346602
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/33/0363-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 63",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534637
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/74/0063-01"
+      ]
+    },
+    {
+      "cite": "8 Iowa, 407",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2275093
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/8/0407-01"
+      ]
+    },
+    {
+      "cite": "79 N. Y. 254",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2171393
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/79/0254-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y. 72",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166509
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/70/0072-01"
+      ]
+    },
+    {
+      "cite": "61 N. Y. 630",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        525483
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/61/0630-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 615",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "77 N. Y. 187",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Hun, 137",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "90 N. Y. 602",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2186367
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/90/0602-01"
+      ]
+    },
+    {
+      "cite": "86 N. Y. 18",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        546226
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/86/0018-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 443",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177177
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0443-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. 184",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Den. 213",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Den. 94",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Den. 88",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187542
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/3/0088-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 64",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164476
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0064-01"
+      ]
+    },
+    {
+      "cite": "76 N. Y. 291",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 N. Y. 476",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 N. Y. 426",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Iowa, 343",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2301345
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/36/0343-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. St. 197",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Den. 91",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187544
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0091-01"
+      ]
+    },
+    {
+      "cite": "8 Hun, 83",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Mich. 362",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 N. Y. 34",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166494
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/70/0034-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 72",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164465
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0072-01"
+      ]
+    },
+    {
+      "cite": "30 Cal. 316",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2205242
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/30/0316-01"
+      ]
+    },
+    {
+      "cite": "18 Ill. 407",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        438661
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/18/0407-01"
+      ]
+    },
+    {
+      "cite": "4 Gray, 29",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/70/0029-01"
+      ]
+    },
+    {
+      "cite": "4 Barb. 314",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/4/0314-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 466",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Ohio St. 584",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        44818
+      ],
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/25/0584-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 63",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/74/0063-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 443",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177177
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/82/0443-01"
+      ]
+    },
+    {
+      "cite": "3 Den. 88",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187542
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0088-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1422,
+    "char_count": 41587,
+    "ocr_confidence": 0.543,
+    "pagerank": {
+      "raw": 8.168876436968643e-08,
+      "percentile": 0.4750313628323505
+    },
+    "sha256": "4065d3b3456a6dee318bc4013328c1649306199d3167e6a7c82d540e84805f03",
+    "simhash": "1:1b3ad5e203d0d543",
+    "word_count": 7273
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. NOELKE and MARKS."
+    ],
+    "opinions": [
+      {
+        "text": "Brady, J.\u2014The\ndefendants were charged in the indictment with having sold, on' March 7, 1882, to one Joseph Mattocks a half ticket in the Louisiana State Lottery.\nThey were arrested on March 27, by Mr. Anthony Com-stock, who was a witness at the trial, and who at the same time searched their premises, under the authority of a search warrant, which he exlxibited to them. He found and seized a quantity of lottery material, including a blank-book containing the entries of tickets sold by them.\nIt also appears that, upon that occasion, Noelke was asked to produce such lottery tickets as he had, and replied : \u201c There are none;\u201d and, pointing to Mattocks, said: \u201c I woxxld have sold some of them to him, if I had lxad them; he bought before.\u201d It also appears that on his way to the station-house, Mr. Com-stock asked him why he did not go out of the lottery business, and he said that he had about made up his mind go to out of the lottery and policy business and simply cany on his brokerage business.\nIt further appealed that after. Noelke\u2019s arrest, he had an interview with Mattocks, in which he offered to give him a sum of money to leave the State, go to New Jersey and not appear against him, and that the witness intimated that he would take $1,200, which amount Noelke promised to bring the next day. Marks seems to have had some connection with this incident, as the bearer of a letter from Noelke.\nOn the ti\u2019ial the defendant\u2019s memorandum book, containing entries of sales of lotteiy tickets was produced and put in evidence, in which was foxxnd an entiy of the numbers of the same-class of lottery tickets referred to in the indictment. A great many objections and exceptions wex-e taken by the defendant\u2019s counsel upon the trial. In the main they wei\u2019e general, no; specific gi\u2019ound being stated. Under the general rule which is applicable to such exceptions they may be regarded as valueless, raising no question in consequence of their general character. Tooley v. Bacon, 70 N. Y. 34; Levin v. Russell, 42 Id. 251; Daly v. Byrne, 77 Id. 182; Schile v. Brokhahus, 80 Id. 615.\nThe counsel for the respondents has taken occasion to cite from the report of a Western case the views of the court on that subject, which commend themselves to this court, namely :\n\u201c The practice of taking general and obscure exceptions at the moment, in order to cover the case, and enable counsel on subsequent critical examination to raise points under the exceptions which have never been suggested at all to the mind of the trial judge, is objectionable on many grounds, and is contrary to theory upon which points are allowed to be raised by excep-* tions.\u201d Turner v. People, 33 Mich. 362, 382; Adams v. State, 25 Ohio St. 584, 587.\nAn examination of this case, however, has led to the conclusion that none of the exceptions taken are of any validity, assuming them to have been presented in proper form to require this court to consider them. The first of those exceptions, in the order of their importance, at least, would be those which relate to the form of the indictment. It is declared to be insufficient, for the reason that it simply alleges that the defendant sold a lottery ticket, without describing the purpose or object of the lottery, or alleging that it was intended for the purpose of chance or obtaining money, goods, or valuable things, and, further, for the reason that it does not charge any offense in violation of the statute. The answer to this springs from the substance of the indictment itself, and is complete without reference to any of the adjudicated cases. It is alleged therein, that the defendants unlawfully sold to one Joseph Mattocks, a part of a ticket in a certain lottery not expressly authorized by law, commonly called the Louisiana State Lottery, and further, that a more particular description of the lottery is to the . grand jury unknown, and cannot be given. The word \u201c lottery \u201d has, it was said, no technical legal meaning. It must be construed in a popular sense, with a view of remedying the mischief intended to be prevented. It is defined by Webster, \u201c A scheme for the distribution of prizes by chance, or the distribution itself,\u201d and he defines \u201c lot \u201d as that which \u201c causes, falls, or happens\u2014that which in human speech is called chance, fortune, hazard,\u201d and \u201c to draw lots \u201d is to determine an event by drawing one thing from a number whose marks are con- ' cealed from the drawer, and thus determining an event. Worcester defines \u201c lottery \u201d as \u201c a hazard in which sums are ventured for a chance of obtaining greater value.\u201d Per 0 hueoh, Oh. J-., in Wilkinson v. Gill, 74 N. Y. 63. And in that case, \u25a0 the language of Folger, J. (to be found in Hull v. Buggies, 56 W. Y. 424) it was also said, might be adopted as a result of the accepted definitions, namely, \u201c Where a pecuniary consideration is paid, and it is determined by lot or chance, according to \u2022some scheme held out to the public, what and how much he who pays the money is to have for it, that is a lottery.\u201d\nWith great deference to the suggestions of Chief Justice 'Church, it is, nevertheless, thought that the word \u201c lottery \u201d has a technical legal meaning. It means precisely what, used in a popular sense, it describes, when employed in a statute effecting the subject it embraces. The legislature must be assumed to have used the word \u201c lottery \u201d in its popular sense. It was the mischief of that species of gambling that was to be prevented. The people were to be protected from the allurements of the 'doctrine of chances, by punishing the persons engaged in selling lottery tickets, and hence the statute. It 'would seem, therefore, to be a sufficient description on the \u2022offense, to charge the sale of a lottery ticket, commonly called \u2022tjae \u201cLouisiana State Lottery.\u201d This is a statement in substance and effect that a chance in a scheme for the distribution \u2022of prizes was sold by .the defendants, and which scheme was a violation of the law of the State.\nThis is the '.effect of the word \u201clottery\u201d as used in the -statute, \u25a0and an the indictment as well. It is impossible that the \u25a0defendants, when thus charged, could be misled. They could mot -fail to understand the offense set out, to be the sale of a lottery ticket for the Louisiana State Lottery, and that such lottery was to result in a distribution of prizes to successful ticket-holders.\n\u201cThis would be a reasonably certain way of describing the crime committed.\nBut the indictment went further than this. It set out the ticket, which is as follows :\nIt will be perceived, upon a reading of this ticket, that it refers to \u201c the monthly two-dollar drawing\u201d and declares that it entitles the holder to one half of such prize as may be drawn, ii presented for payment before the expiration of three months from the date of the drawing.\nThe word payment conclusively shows that it was intended for the purpose of chance, and obtaining money, goods or valuable things. No other conclusion can be drawn from it by the impartial mind.\n\u2022 This proposition is dear, unquestionable and undebatable. It has been held in a series -of cases that such an element appearing in the indictment, it is sufficient under the laws of this State.\nThus for example, in People v. Warner (4 Barb. 314), a case which has not been -questioned, it was held that an indictment for vending a lottery ticket need not expressly aver that the ticket was of a lottery established or set on foot for the purpose of disposing of real estate, goods, money or things in action, and that the character and description of the lottery need not form the -subject -of an express averment. It is sufficient if these appear argumentatively in the indictment, especially after verdict. rtf\nIt was contended in that case, as in this, that the indictment should expressly aver the vending of the ticket of a lottery established and set on foot for the purpose of disposing of real estate, goods, money or things in action. And this contention rested upon the authority of People v. Payne (3 Den. 88).\nIn that case (People v. Warner) the indictment charged the prisoner with \u201c selling a ticket in the Grand Consolidated Lottery of Delaware and Georgia, numbered 731, which ticket purported to entitle the holder thereof to one-quarter of such prize as might be drawn to its number, subject to a deduction of fifteen per cent., payable forty days after the drawing,\u201d &c.\nThe court said : \u201c The defendant has been proven to have sold a ticket of this description, namely a ticket entitling the holder to a quarter of a certain prize, deducting fifteen per cent. It seems to us impossible to maintain that the lottery in this case was not established to dispose of prizes of real estate, money or things in action, and it is difficult to entertain a doubt that the prize was to be paid in money. The fortunate holder could not otherwise very conveniently receive his quarter deducting fifteen per cent.\u201d\nIt may be said in this case that it would be impossible to entertain a doubt that the prize was to be paid in money, for the reason that it must be presented for payment. It was further said in that case : \u201cIt is, however, argued that the character and- description of the lottery does not form the subject of an express averment.\u201d The court said, \u201c it is sufficient that it appears argumentatively (especially after verdict), sinc\u00e9 the enactment of the statute (2 R. S. 728, \u00a7 32) which declares that no indictment shall be deemed invalid, nor shall the trial, judgment or proceedings thereon be affected by reason of any defect or imperfection in matters of form which shall not tend to the prejudice of the defendant.\u201d\nAnd- in? the case of Pickett y. People (8 Hun, 83), an indictment which charged the defendant with having willfully, unlawfully and knowingly sold what are commonly known and called lottery policies to persons unknown to the jurors, and did then and there vend divers of said lottery policy tickets to persons to the jurors unknown, was held sufficient. Only reasonable certainty is required. The. learned justice writing the opinion cited the case of People v. Taylor (3 Den. 91), in which the same doctrine is substantially maintained. So far as the case of People v. Payne (supra) is in conflict with the views herein expressed, it has been overruled. But an examination of it shows that the indictment contained nothing from which it appears, argumentatively or inferentially, that there was to be a distribution of any property, real or personal.\nIn the statement of the ease it is said there were four counts for selling a ticket, a quarter of a ticket, a paper purporting to be a quarter of a ticket, and for bartering a paper purporting to be a quarter of a ticket of a lottery authorized by the laws of the State. None of the counts stated for what purpose the lottery was opened or made, and nothing was set out from which it could be inferred. The case, therefore, is very different from the case in hand, in which it clearly appears from the ticket itself that there is to be a prize, and that it is to be paid, if won, on presentation of the ticket.\nThe defendant\u2019s counsel, in connection with the objection to the indictment just considered, presented the following :\n\u201c That the indictment charges the defendants with having sold a part of a lottery ticket in a lottery not expressly authorized by law, which was the language of the statute in force prior to the adoption of the constitution in 1827, such statute expressly prohibiting, in the State of New York, the selling of lottery tickets and lottery policies in any lottery not authorized by law: as the time was limited for the closing of the lotteries, however, by statute, after the adoption of the constitution in 1827, lotteries in the State of New York could not be expressly authorized by law.\u201d\nIt is freely confessed that the proposition designed to attract the attention of the court is not understood. It is not revealed upon the points. The second constitution of the state was adopted in 1821 and amended by amendments which were proposed by the legislatures of 1825, 1832, and 1834, none of which had any reference to lotteries.\nThe provision in the constitution of 1821, by section 11 of article 7, declared that no lottery should be thereafter authorized in the 'State and that the legislature should pass laws to prevent the sale of all lottery tickets except in lotteries already provided by law. The act of April 13, 1819, which was in existence at the time of the adoption of the constitution of 1821, authorized certain lotteries in this State under licenses, and repealed the several acts, of the legislature relative to lotteries, with a proviso that the repeal should not be deemed to release or exonerate the managers of lotteries or any other person or persons from any liabilities they might have incurred in or under said acts (see Laws 1819, ch. 206, p. 258). It was to these lotteries that the provision of the constitution related. The Ee vised Statutes passed in 1829 and 1828 (1st ed. p. 664), embraced the provisions of the act of 1819, the twenty-sixth section of article fourth, \u201c Of Baffling and Lotteries,\u201d providing that every lottery, game or device of chance in the nature of a lottery, by whatever name it might be called, other than such, as had been authorized by law, should, be deemed unlawful and a common and public nuisance. Hie second edition of the Eevised Statutes, which included all laws of a general nature passed from 1828 to 1835 inclusive, and certain, local acts of 1836, omitted the sections contained in the statutes in reference to licenses for lotteries for which provision had been made under the title \u201c Of Eaffling and Lotteries,\u201d sufra (2d edition R. S. p. 668), and this was done under the provisions of article 7, section 11 of the constitution of 1821, sufra, and chapter 306 of the Laws of 1833 (laws of that year, p. 484), which set out that whereas John B. Yates and Archibald McIntyre, assignees of all the unsatisfied lottery grants made by the State, had executed to the people thereof an agreement that all lottery grants theretofore made should cease and determine, and released the people from all right, title and claim to continue or draw any lottery from the close of the year 1833, provided the legislature should pass an act declaring that the lotteries authorized by the State be continued until the close of the year, the people enacted that the lotteries authorized by law to be drawn in this State might be continued until the close of the year, and provided that at the expiration of that period it should not be lawful to continue or draw any lottery within the State, but all and every lottery theretofore granted, or authorized within the State, should absolutely cease and determine.\nThe constitution of 1846, also, by article one, section ten, declared as follows: \u201c Nor shall any lottery hereafter be authorized, or any sale of lottery tickets within this State,\u201d and the result is that the provision of the act of 1827 (see Laws 1827, p. 829), against persons dealing in chances \u201c authorized by special law for that purpose \u201d is now an impossible qualification, all lotteries having been abolished, and there being no persons authorized by special laws to engage in them, by sale of tickets or otherwise (see 4th ed. R S. p. 77). And the further result is that the prohibitory and punitory provisions of the statute are left intact. The learned counsel for the defendants may have intended the proposition as a criticism upon the redundancy of the charge in the indictment, that the sale of the tickets was in a lottery \u201c not expressly authorized by law,\u201d which, until the statute of 1833, supra, was doubtless a necessary averment; but it is no longer, no lottery being allowed, and none being, therefore, expressly authorized by law. The unnecessary allegation does not affect the validity of the indictment, however, in any respect, because it is true, and therefore correct. The lottery referred to was not authorized by the law of this State. It would seem, from the absence of any elaboration of this point on the part of the defendant\u2019s counsel, that he did not rely upon it, but it was deemed prudent to examine and develope it in the consideration of the case and to show that the averment belongs to by-gone days.\nIt follows that there is nothing of substance in the proposition. It was also objected on the trial that the witness Mattocks, having purchased the ticket, was an accomplice, and that under the provisions of the Code, section 399, no conviction is justified upon the uncorroborated testimony of an accomplice.\nThe court upon this subject instructed the jury that they could not convict upon the uncorroborated evidence of the accomplice, and unless he was corroborated by such other evidence as tended to connect the defendants with the crime charged in the indictment. And further, that the corroboration was not sufficient if it merely showed the commission of a crime and the circumstances of it; so that the defendants had the full benefit of this rule in the instructions which the court gave. The difficulty with this proposition, lies however at the root of it, namely, that Mattocks was not an accomplice. The ticket which he purchased was not bought with a criminal intent. It was purchased for the purpose of proving the fact of its sale by the defendants. The design of his application for . a.ticket was to show that the defendants were engaged in an unlawful business. There can be no doubt that a purchase made under such circumstances does not make the purchaser an accomplice. There must exist a criminal intent. This is settled, both in England and this country. Reg. v. Mullins, 3 Cox, 526; People v. Farrell, 30 Cal. 316 ; St. Charles v. O\u2019Malley, 18 Ill. 407; Campbell v. Commonwealth, 84 Pa. St. 197 ; Commonwealth v. Downing, 4 Gray, 29 ; State v. McKeon, 36 Iowa, 343; Wright v. State, 7 Texas Ct. App. 574.\nSome of those cases are precisely in point; indeed, it has become a necessity for the suppression of crime to resort to this mode of ascertaining whether a prohibited and criminal act may be committed\u2014the victims of a business which it distinguishes failing in the moral courage to complain or to appear as witnesses. Without its use many crimes would increase in number and magnitude, the law be openly violated, and the authorities helpless from the absence of such proof as may be required for a conviction. The utmost that can be said of the person employed is that he is an informer, and leave to the jury the consideration of his evidence as such.\nAside from this, however, it appears that Mattocks was corroborated at every point, as to bioelke at least, by his admission at the time of arrest that he had sold to Mattocks.\nIt is also urged on behalf of the defendants to be doubtful whether, in the light of recent decisions of the Court of Appeals, the vending of a Lousiana Lottery ticket is an offense. This seems to be a very extraordinary proposition. The Eevised Statutes declare, as said in the case of Hull v. Ruggles, per Folger J., 56 N. Y. 426, that every lottery, game or device of chance in the nature of a lottery, by whatsoever name it may be called, other than such as have been authorized by law, shall be deemed unlawful; and in the case of Grover v. Morris, 73 N. Y. 476, Judge Andbews said expressly : \u201c Lotteries authorized by laws of other States are unlawful here, and are illegal within the meaning of the thirty-second section \u201d (referring to the statute). This is conclusively settled by the decisions construing other and cognate sections, and in the case of Ormes v. Dauchy, 82 N. Y. 443, and upon which the counsel for the appellants relies in this element in the case, although it was held that, \u201c a contract made in this State to advertise a lottery in other States, in the absence of proof that such advertisement is in violation of the laws of those other States will not be held illegal,\u201d it was expressly declared by the learned judge writing the opinion of the court, that if the contract was for an advertisement of a lottery scheme in violation of our statute, then the judge erred upon the trial in denying the motion to dismiss the complaint upon the ground that the contract was void as against public policy. It may be said further, that that was an action brought to recover of the defendant commissions upon a contract for advertising, which was procured by the plaintiff and his partner for the defendants who were advertising agents. The advertisement related to a lottery which was to have taken place in Virginia and it Was said that the exact nature of the contract was uncertain, there being no evidence given of a publication in any newspaper in the State of Hew York, and it was said that there was a question of fact for the consideration of a jury as to whether the contract embraced any newspapers published in the State of Hew York. This being the case, there was no error committed by the judge in denying the motion to dismiss the complaint, unless the contract to advertise in other States was illegal and void, and such the court thought was not the rule in this State; and it was further said, that the publication therefore, outside of the State was not within the prohibition of the statute of this State; and as there was no proof that the law of any other State was violated, and as the law would not presume an agreement void as illegal or against public policy when it was capable of a construction which would make it consistent with the laws and valid, it-would not be considered as illegal. These authorities, therefore, furnish no ground whatever for the proposition that a lottery lawful in another State may be made the subject of enterprise in this State under our laws. All lottery schemes under our statute, whether they originate in this State or any other, are under the authorities as shown illegal, and subject those who are connected with them by the sale of tickets to arrest, conviction and punishment. See Kohn v. Koeller, 21 Hun, 466.\nIt is also urged, on behalf of the appellants, that the court erred in permitting certain questions to be asked and answered by the defendant, JSToelke, who was examined on his own behalf. The appeal book does not contain the whole of the evidence given upon the trial; it is presented in a fragmentary form. These questions were all of them, however, germane to the offense, and to the defendants\u2019 \u00abbusiness in connection with the lottery schemes, lottery tickets and lottery policies; for example, he was asked,' \u201c Have you not\" been engaged since prior to 1877at that place,\u201d namely, 238 Grand street, \u201cin the business of lottery tickets and lottery policies ?\u201d The defendant declined to answer the question, lest it might tend to criminate him. The objection to this series of questions is predicated chiefly of the case of People v. Crapo, 76 N. Y. 291, in which the court said, that when the accused was offered as a witness on his own behalf, the prosecution, to entitle them to put to him, upon cross-examination, questions which are irrelevant to the issue, and calculated to prejudice him with the jury, must, at least, be such as to clearly impeach his general moral character, and his credibility as a witness, and that it was not legitimate to bolster up a weak case by probabilities based on other transactions. These questions were clearly designed to impeach his general moral character and his credibility as a witness, because they related to transactions of an illegal character, in which, from the nature of the question, he was supposed to have' been engaged. They were perfectly legitimate, therefore, although they were not all answered, as already appears from* the refusal of the witness to answer, upon the ground that the answer might tend to incriminate him.\nIt is also urged that there was not sufficient evidence to convict Marks. This proposition cannot be sustained; he was aiding and assisting in the sale; this appears from the testimony of Mattocks, who said that when he purchased the ticket, Marks was present, and that Moelke said to him \u201cMarks, hand me a ticket,\u201d that Marks handed bfoelke a half ticket out of the safe, and Hoelke then handed it to him ; and the defendant, Hoelke, on his examination, stated that the defendant, Marks, and a Mr. Henry were the only clerks that he had had in his office for three years, and that Henry had been employed recently to care for the office during his and Marks\u2019 absence. This evidence was sufficient to submit the question of the guilt of Marks to the jury, and their finding upon this subject is conclusive. There can be no doubt that Marks knew perfectly well what the ticket was, for he had been for a long time in the employment of Hoelke, and was engaged with him in the sale of lottery tickets in violation of the law. It appears also in the case, that the first witness called for the people was Anthony Comstock, who testified \u201c that he was secretary and chief special agent of the Hew York Society for the Suppression of Vice that he was \u201ca peace officer of this county,\u201d and \u201cspecial deputy sheriffthat as such, on March 29, 1882, he went to defendant\u2019s place of business at 238 Grand street, in the city of Hew York, in accordance with a search warrant issued on certain affidavits, which search warrant was offered in evidence, and which search warrant had embodied therein, a warrant for the arrest of said defendants in the indictment.\nThe admission of the search warrant and the matter pertaining thereto was objected to on the part of the defendants upon the trial upon the ground: \u201c That such document appears\nto refer to a different proceeding, relating to a different complaint, and having no reference to the subject matter of this indictment.\u201d\nThe court admitted it because the witness said that he went there with the warrant and called the defendants\u2019 attention to the cause of arrest.\nIt will be perceived that the objection to the admission of the warrant rested upon the proposition that it related to a different complaint and no reference to the subject matter of the indictment. The counsel now arrays against it the assertion that it was issued without the authority of any statute and was an infringement upon the constitutional rights of the defendant and repugnant to the expressed provision of section 2 of the Bill of Bights.\nThese views were not presented to the court below, and no objection of this kind was suggested. The counsel also assails it upon the ground that the statute of this State prior to the adoption of the Code of Criminal Procedure provided a variety of instances in which the issuance of search warrants should upon proper affidavits be admitted, and lie gives the instances and claims that none of the statutes existing were any authority for issuing such an instrument as that set forth in the case, but section 791 of the Code of Criminal Procedure defines, as he concedes a search warrant to be:\n\u201c An order in writing in the name of the people, signed by a magistrate, directed to a peace officer, commanding him to search for personal property and bring it before the magistrate and section 792 provides \u201c upon what grounds it may be issued,\u201d namely: /\n1. \u201c When the property is stolen or embezzled.\u201d\n2. \u201c When it is used as the means of committing a felony.\u201d\n3. \u201c When it is in the possession of any person with the intent to use it as the means of committing a public offense, or in the possession of another to whom he may have delivered it for the purpose of concealing it or preventing its being discovered.\u201d\nThe warrant in this case was predicated on proof by affidavit that certain property, to wit, what was commonly known as, or are called lottery tickets and certain writing, cards, books, advertisements, circulars, notices offering prizes and stating price of tickets, and when and where the same may be had, documents, personal property, tables, devices and apparatus for the purpose of enabling others to sell or vend lottery policies or lottery tickets, and at, within and upon said premises Charles D. J. Noelke and Jacob Marks did sell, vend, furnish and procure and have in their possession these articles in violation of the laws of the State of New York with the intent to use the same as the means of committing a public offense and to promote, maintain and carry on a common public nuisance, and avers that the justice had reason to suspect and believe that the articles and things aforesaid were then sold upon the premises of the said Noelke and Marks situate at 238 Grand street. It is quite clear from the statement of the contents of the warrant that it' justified the examination of the premises for the purposes stated, the allegation being that there was in the possession of the persons named, with intent to use it as a means of committing a public offense, certain property, viz., tickets, cards, books, documents, tables, devices, etc. Considering the objections which are now urged for the first time on appeal against the introduction of this paper, it is quite clear that they are of no value, and further, that the original objection that it did not pertain to the offense charged against the defendant has no value, for the reason that an examination of the premises was germane to the subject of the indictment, viz., the vending of a lottery ticket, which was the charge against the defendants, and which might be established in part by evidence found upon the premises affecting the business of selling lottery tickets there.\nThe other exceptions have been examined, but no doubt is entertained of their invalidity and they should not be sustained. They are thus considered and disposed of without going into detail in reference to them. It only remains to say that the specific requests to charge, which were not embraced within the charge of the learned recorder, were properly rejected. In the charge the defendants were given the benefit of every principle of law to which they were entitled, and every advantage, as well in the submission of all the facts and circumstances which bear upon the question of their guilt or innocence ; the case was presented to the jury in all the aspects in which the defendant or either of them had the right to have it considered, fully, fairly and clearly ; and the jury were told in conclusion that they must be satisfied of the guilt of both or either of the prisoners beyond a reasonable doubt; in other words, the prosecution must bring home guilt to both or either of the prisoners beyond all reasonable doubt, and that if a doubt existed, it would be the duty of the jury to give them the benefit of such doubt and acquit. The jury were also told that they should examine all questions of conflicting evidence carefully and conscientiously and with an honest effort to ascertain the truth, and having ascertained it to declare the result independent of any other consideration; and the jury were also told that the fact that the defendant Marks did not avail himself of the right which the laws of the State gave him of becoming a wit-on his own behalf was not permitted to prejudice him in the slightest degree. They were told also that they were the sole judges of all questions of fact and of all questions of the credibility of witnesses, and were to exercise their rights in these respects entirely independently of any opinion the court might possibly have expressed in the case.\nIt does not appear consequently that any injustice has been done the defendants in any respect, and the judgment should not by reason of any exception taken during the trial be reversed. It must, therefore, be affirmed.\nDavis, P. J., and Daniels, J., concur.\nNote.\u2014As to the corroboration required to convict on the testimony of an- accomplice, see People v. Courtney, 1 N. Y. Crim. Rep. 64; People r. Ryland, Id. 123.\nA purchaser from one who violates the excise laws by selling liquor without a license, is not an accomplice. People v. Smith, 1 N. Y. Crim. Rep. 72.",
+        "type": "majority",
+        "author": "Brady, J.\u2014The"
+      }
+    ],
+    "attorneys": [
+      "Bogart & Hathaway (Charles W. Brooke, of counsel), for defendants.",
+      "John McKeon, district-attorney ( Wm. C. Beecher, of counsel), for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014first Department.\nMarch, 1883.\nPEOPLE v. NOELKE and MARKS.\nLottery.\u2014Indictment.\u2014Informer.\u2014Accomplice.\u2014Search \"Warrant.\u2014Code Criminal Procedure, \u00a7\u00a7 276, 791.\u2014 1 E. S. 665, \u00a7 27.\u2014L. 1819, oh. 206, \u00a7\u00a7 2, 3.\nGeneral exceptions, based on no stated specific ground, are valueless and raise no question on appeal.\nThe word \u201c lottery \u201d is used in the statutes forbidding the same in the ordinary and popular sense.\nAn indictment is sufficient as to the description of the offense which alleges that the defendants unlawfully sold part of a ticket in a lottery not expressly authorized by law, commonly called the Louisiana Lottery, and that a more particular description of said lottery is to the grand jury unknown and cannot be given.\nThe present indictment also, set out the part of the ticket so sold, which part ticket stated that it was in \u201cthe monthly two dollar drawing,\u201d and declared that it entitled the holder to one-half of such prize as may be drawn \u201cif presented for payment before the expiration of three months,\u201d &c. The use of the word payment conclusively shows that it was intended for the purpose of chance and obtaining money, goods, or valuable things, and such an element appearing in the indictment, it is sufficient.\nAll lottery schemes are illegal under our statute, whether they originate in this State or in another. The allegation in the indictment that the ticket was sold in a lottery not \u201cexpressly authorized by law,\u201d is redundant and unnecessary, but not fatal, for the reason that it is true.\nA witness who has purchased a ticket in a lottery for the purpose of proving the fact of its sale in violation of law is not an accomplice. There must exist a criminal intent to render a person an accomplice.\nUpon the trial of this indictment for selling lottery tickets, one of the defendants was asked on cross-examination the following question: \u201cHave you not been engaged since prior to 1877 at that place?\u201d\u2014 meaning the place where he was carrying on business when arrested and where the alleged sale of the ticket took place\u2014\u201cin the business of lottery tickets and lottery policies ?\u201d Held, that this was a proper question, because it tended to impeach his moral character and his credibility as a witness by showing that lie was engaged in an illegal business.\nA search warrant, having embodied in it a warrant for the arrest of the defendants, and under which the officer making the search and the arrest, acted, based upon affidavits that lottery tickets, ,etc., were on the premises to be searched, and in the possession of defendants with the intent to use them in committing a public offense, was offered in evidence under the objection of defendants that it appeared to relate to a diSerent proceeding on another complaint, and had no reference to the subject matter of the present action. Held, that it was properly admitted, as the examination of the premises was germane to the offense Charged in the present indictment,\u2014namely the vending of lottery tickets,\u2014which might be established by evidence found on the premises afiecting the business of selling lottery tickets there by -defendants, and further, because the warrant was exhibited to defendants at the time of their arrest thereunder, and the cause of their arrest stated to them.\nThe history of the lottery legislation of this State considered.\nThe case of People v. Payne, 3 Den. 88, explained and distinguished.\nAppeal by the defendants from a judgment of the Court of General Sessions of New York City and County, Smyth, Recorder, presiding, entered May 29, 1882, convicting them of a violation of the lottery laws of the State.\nThe facts are fully set forth in the opinion.\nBogart & Hathaway (Charles W. Brooke, of counsel), for defendants.\nI. The admission in evidence of the search warrant was error because it had no legal requisite of a search warrant, and it related to a different complaint, and has no reference to the subject matter of this indictment. It was issued without authority of any statute, and is an infringement upon the constitutional rights of the defendants, and is repugnant to section II. of the Bill of Rights. Under the Code of Criminal^ Procedure the only section possibly applicable is section 791, under which a warrant can only issue when personal property is to be searched for, and that is certainly not the present case. As the statutes of this State deprive such articles as lottery tickets of their property element, the provisions of the Code of Criminal Procedure are therefore not applicable. Therefore the admission of the pretended warrant and the acts ther eunder was error.\nII. The indictment was defective. It is claimed that the purpose for which the lottery is set on loot should appear on' the face of the indictment as described in L. 1819, ch. 206, \u00a7\u00a7 2, 3. In People v. Payne, 3 Den. 88, the indictment did not set forth for what purpose the lottery was carried on. It was held that this omission was fatal, and the court said, \u201cAs none of the counts allege that the lottery was opened, etc., for the purpose of exposing, setting to sale or disposing of money or any valuable thing, the indictment cannot be supported.\u201d \u201c The indictment s&ould go beyond a general statement of the purpose for which the lottery was made.\u201d People v. Taylor, 3 Den. 94. The same doctrine was held in People v. Charles, 3 Den. 213 ; 1 JY. Y. 185. The indictment should show upon its face by some description of the lottery that it was within the class of those not authorized by law. A mere suggestion or averment to that effect is not sufficient. It does not give a \u201c brief description of the offense as it is given by statute.\u201d Co. Crim. Pro. \u00a7 276.\nIII. The only evidence agaipst the defendant. Marks was that of the accomplice Mattocks, and the court erred in not directing the jury to acquit Marks. The question whether selling a Louisiana lottery ticket, such as is intended to be charged in the indictment herein, is an offense, in the light of recent decisions of the Court of Appeals is open to grave and serious doubt. When our legislature forbids in unqualified terms the doing of an act it must be understood that the thing is only forbidden in this State. People v. Charles, 1 N. Y. 184. In Ormes v. Dauchy, 82 N. Y. 443, it was held that a contract made here to advertise a lottery in other States, in the absence of proof that such advertisement is in violation of the laws of those States, \"will not be held illegal. This doctrine is a wide departure from the earlier cases, and is carried still farther by the Court of Appeals in Van Vorhis v. Brintnall, 86 N. Y. 18, and Thorp v. Thorp, 90 N. Y. 602. The principle laid down in these last cases is that an act valid under the laws of the State where performed should be upheld as valid here even it be made the subject of express prohibition and penalty by our statute. The natural sequence of these decisions is that lottery tickets, issued by a legally authorized corporation in the State of Louisiana, being a valid article of commerce in that State, cannot be deprived of their legitimacy as an article of commerce by any less authority than that of the Congress of the United States under its exclusive right to regulate commerce between the States. The court therefore erred in refusing to admit the statute of Louisiana in evidence upon the subject of the legality of the act charged in the indictment.\n(The remaining portions of appellant\u2019s points are fully covered by the opinion of the court.)\nJohn McKeon, district-attorney ( Wm. C. Beecher, of counsel), for the people.\nI. The objections taken by appellants are general, no specific ground being alleged, they are valueless. Patterson v. People, 12 Hun, 137; Daly v. Byrne, 77 N. Y. 187; Schile v. Brokahns, 80 N. Y. 615; Harris v. Wade, 61 N. Y. 630; Cushman v. United States Insurance Co., 70 N. Y. 72 ; Stevens v. Brennan, 79 N. Y. 254; Slote v. Wilson, 8 Iowa, 407; People v. Dunn, 15 Weekly. Diy. 450; Wilkinson v. Gill, 74 N. Y. 63; Turner v. People, 33 Mich. 363; Adams v. State, 25 Ohio St. 584; Bain v. Whitehaven, etc. R. R. Co., 3 H. L. Cases, 16.\nII. The statute of Louisiana authorizing the incorporation of the Louisiana Lottery was wholly immaterial. This statute could not legalize, in this State, an act made illegal by our laws. Kohn v. Koehler, 21 Hun, 466 ; Wilkinson v. Gill, 74 N. Y. 63; Sturdevant v. People, 23 Wend. 418 ; Warner v. People, 4 Barb. 314; Charles v. People, 1 N. Y. 180; Dana v. Commonwealth, 2 Metc. 329; Terry v. Alcott, 4 Conn. 442.\nIII. The witness Mattocks was not an accomplice. To constitute an accomplice, the party must be aiding the defendant wfith criminal intent. Reg. v. Mullins, 3 Cox Crim. Cas. 526; Wright v. State, 7 Tex. App. 575 ; State v. McKean, 36 lowa, 343; Commonwealth v. Downing, 4 Gray, 29; Campbell v. Commonwealth, 84 Pa. 187; St. Charles v. O\u2019Mailey, 18 Ill. 407; People v. Farrell, 30 Cal. 316; People v. Smith, 1 N. Y. Crim. Rep. 72. It is the sale, not the purchase, which is forbidden. By L. 1827, ch. 300, the prohibition against buying was repealed. As to what constitutes a lottery, see Wilkinson v. Gill, supra; Dunn v. People, 40 Ill. 465 ; Thomas v. People, 59 Ill. 163; Randle v. State, 42 Tex. 581; Holoman v. State, 2 Tex. App. 610 ; Rolfe v. Delmar, 7 Rob. 80; State v. Mumford, 73 Mo. 647; Bishop Stat. Crimes, \u00a7 952; State v. Clarke, 33 N. H. 329.\nThe remainder of respondent\u2019s points is covered by the opinion."
+  },
+  "file_name": "0252-01",
+  "first_page_order": 276,
+  "last_page_order": 294
+}

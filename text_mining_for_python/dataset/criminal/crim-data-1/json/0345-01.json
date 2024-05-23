@@ -1,0 +1,97 @@
+{
+  "id": 1164475,
+  "name": "PEOPLE ex rel. LUMBARD v. WARDEN OF AUBURN STATE PRISON",
+  "name_abbreviation": "People ex rel. Lumbard v. Warden of Auburn State Prison",
+  "decision_date": "1883-02",
+  "docket_number": "",
+  "first_page": "345",
+  "last_page": "349",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "58 N. Y. 516",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158536
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/58/0516-01"
+      ]
+    },
+    {
+      "cite": "11 Hun, 241",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 N. Y. 64",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        544392
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/78/0064-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 413,
+    "char_count": 8350,
+    "ocr_confidence": 0.566,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04286852245053669
+    },
+    "sha256": "b2e378fb72b86e3443f5d4e0355c5624ba79f88420c0327903e779168fd49d1c",
+    "simhash": "1:96f9d6f5ce2765e5",
+    "word_count": 1480
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE ex rel. LUMBARD v. WARDEN OF AUBURN STATE PRISON."
+    ],
+    "opinions": [
+      {
+        "text": "Merwin, J.\nFrom evidence outside of the record it appears that one of the justices of sessions, Mr. Weaver, was a justice of the city of Borne, elected in pursuance of chapter 25 of the Laws of 1870, entitled, \u201c An Act to Incorporate the City of Borne.\u201d It is claimed, on the part of the petitioner, that Mr. Weaver was not eligible to the position of justice of sessions; that therefore, his designation as such was not legal, and that the Court of Sessions, of which he was a member, was, therefore, not a competent tribunal. Hence the main question on the merits is whether a justice of the peace elected under the charter of the city of Borne is eligible to the position of justice of sessions. In the Constitution of the state as amended in 1869 (article 6, section 15), it is provided that Courts of Sessions may be held by \u201c the county judge, with two justices of the peace to be designated according to law.\u201d Under this provision and the statute passed in conformity therewith, justices of sessions are elected. There is no constitutional qualification for such justices of the peace. By the same article of the Constitution (section 8), it is provided that the electors of the several towns shall, at their annual town meeting, and in such manner as the legislature may direct, elect justices of the peace, whose term of office shall be four years. The same section provides that justices of the peace shall be elected in the different cities of this State in such manner and with such powers and for such terms as shall be prescribed by law. So that justices of the peace of towns and justices of the peace for cities are both recognized by the Constitution, and each class, for aught that appears in the Constitution, are eligible for the position of justice of sessions. Bo distinction is made between them. We have no right to say that only town justices are eligible. Their eligibility does not depend upon the amount of criminal jurisdiction they may individually have. They do not carry their individual criminal jurisdiction in the Court of Sessions. The , jurisdiction of that court does not depend upon the jurisdiction of the component party, but upon the statute, which, in pursuance of the authority given by the Constitution, prescribes what the jurisdiction of the court shall be. I find, therefore, no reason in the Constitution why a city justice of the peace, elected in pursuance of law, specially authorized by the Constitution, is not eligible to be designated as justice of sessions.\nThe city of Rome was incorporated by chapter 25 of the Laws of 1870. The boundaries were the same as the town of Rome. Four justices of the peace were provided for, who should have and exercise all the powers, authority and jurisdiction, and discharge all the duties of justices of the peace of the several towns of the State, except as modified by the act; and it was provided that all laws applicable to the justices of the peace of the several towns and to their official acts, duties and powers, should apply to the justices of the peace of said city to their official acts, duties and powers. The act gave to the recorder, except in case of absence or inability, sole-and executive jurisdiction in said city, of all criminal matters, ordinarily cognizable by justices of the peace in towns. In case of the absence or inability of the recorder, either justice of the peace could act in his place, so that each justice had full criminal jurisdiction in certain contingencies. Aside from this limitation the justices had full power and authority of justices in towns, and this limitation did not, in terms or in reason, or by any fair implication, have anything to do with their right to be designated as justices of sessions.\nWith regard to one of these very justices, the General Term in this department, in the decision of the c\u00e1se of Haley v. Connell, say: \u201cWe are of opinion that he was a duly elected justice of the peace, and had all the powers of a justice of the peace of a town.\u201d Host of the decisions referred to by the counsel had reference to the constitution before 1869, which had no provision specially authorizing the election of justices of the peace in cities. In the case of Geraty v. Reed (78 N. Y. 64), the efiect of the amendment of 1869 was not considered.\nIn People ex rel. White v. City of Rochester (11 Hun, 241), the question was whether courts held by justices of the peace in the city of Rochester, elected under an act passed in z. 1861, were inferior local courts within the meaning of the Constitution, and therefore be liable to be abolished by the Legislature, and it was held that they were.\nIn Wenzler v. People (58 N. Y. 516), on the question whether police justices in Hew York city could be deemed to be either justices of the peace or district court justices, as named in the Constitution, it was held that they could not be, and Judge Johnson, in giving the prevailing opinion, argued that the title justice of the peace, as used in the Constitution, was not descriptive of function, but the name of a particular office. Judge Allen, giving the dissenting opinion, argued to the contrary. It does not seem to me important to refer to the other cases cited by counsel on this question. They do not, as I regard them, give us any light. The point, as I regard it, is just this: The Constitution provides for the election of two classes of justices of the peace. It also provides for another position that may be filled by any justice of the peace. That means that any justice of either class may fill it. Under the statute providing for the manner of designation of justice of sessions (L. 1847, ch. 280, \u00a7 40, ch. 470, \u00a7 34), any justice of the peace in the county having the required length of time to serve, may be named. It is my opinion, therefore, that a justice of the peace in the city of Borne is eligible. Having reached this conclusion it is not important to consider the other questions raised.\nIt follows that the proceedings must be dismissed.\nThe General Term affirmed the above decision by default, April, 1883.\nHote.\u2014See Ostrander v. People, ante, 274. The case of Haley v. Connell, referred to in Judge Merwin\u2019s opinion, has not been reported in full. It was there held at the General Term that \u201c a justice of the peace of the city of Rome, elected pursuant to the charter of that city, lias all the powers of a justice, of the peace of a town.\u201d Haley v. Connell, 17 Weekly Dig. 21.",
+        "type": "majority",
+        "author": "Merwin, J."
+      }
+    ],
+    "attorneys": [
+      "C. W. White, for the relator.",
+      "W. A. Matteson, district attorney, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014fifth District\u2014Chambers.\nFebruary, 1883.\nPEOPLE ex rel. LUMBARD v. WARDEN OF AUBURN STATE PRISON.\nJustices oe Peace\u2014Eligibility oe, as Justices oe Sessions.\nJustices of the peace of towns, and justices of the peace of cities are both recognized in the Constitution, and both are eligible for the position of justice of sessions.\nAccordingly, held, that justices of the peace, elected under the charter of the city of Rome are eligible to said position, notwithstanding the limitation of their powers contained in said charter.\nCertiorari issued and directed to the warden and keeper of Auburn prison requiring him to certify and return the cause of imprisonment of James Lombard, who was tried at the Court of Sessions of Oneida county, upon an indictment charging him with the crime of burglary in the first degree and larceny, and was found guilty by a jury, and sentenced by the court, October 22, 1875, to imprisonment in the state prison at Auburn at hard labor for the term of eighteen years. A commitment was issued by the clerk of the court, and Lumbard was removed to Auburn prison where he was confined at the time of the hearing.\nThe return made by the warden of the prison to the certiorari contains a copy of the commitment. Upon the hearing, George H. Weaver, one of the justices of sessions composing the court when Lumbard was sentenced, was called as a witness on behalf of the relator, and testified as to his office, etc. All of his testimony was'taken subject to the objection \u25a0and exception made. '\nThere was also offered and received in- evidence a full and complete judgment and record of conviction of Lumbard upon the indictment and trial above mentioned.\nThe only question raised was as to the legality of the court of sessions in which the trial and conviction was had.\nC. W. White, for the relator.\nW. A. Matteson, district attorney, for the people."
+  },
+  "file_name": "0345-01",
+  "first_page_order": 369,
+  "last_page_order": 373
+}

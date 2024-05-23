@@ -1,0 +1,172 @@
+{
+  "id": 1167701,
+  "name": "PEOPLE v. BORK; PEOPLE ex rel. BORK v. GILBERT",
+  "name_abbreviation": "People v. Bork",
+  "decision_date": "1884-05",
+  "docket_number": "",
+  "first_page": "177",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 368",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164443
+      ],
+      "pin_cites": [
+        {
+          "page": "379, 392, 393, 398"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0368-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. Crim. Rep. 56",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167685
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/2/0056-01"
+      ]
+    },
+    {
+      "cite": "25 N. Y. 406",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2031409
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/25/0406-01"
+      ]
+    },
+    {
+      "cite": "3 N. Y. 547",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007188
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/3/0547-01"
+      ]
+    },
+    {
+      "cite": "47 N. Y. 303",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509517
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/47/0303-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 274",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164477
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/1/0274-01"
+      ]
+    },
+    {
+      "cite": "29 Hun, 515",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Denio, 96",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 N. Y. 5",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2188419
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/91/0005-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 751,
+    "char_count": 23669,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 1.7947679937584874e-07,
+      "percentile": 0.7155202870900967
+    },
+    "sha256": "4c80d17c29050b8cac72c1318e57c422d4a330adf59cd97d55569672f7289165",
+    "simhash": "1:61076e52a70addfa",
+    "word_count": 4203
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur."
+    ],
+    "parties": [
+      "PEOPLE v. BORK. PEOPLE ex rel. BORK v. GILBERT."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, J.\nThe defendant was convicted on June 13, 1881, at a court of Oyer and Terminer, in and for the county of Erie, held by Judge Daniels and two justices of the Sessions, under chapter 19 of the Laws of 1875, of the crimes of peculation and embezzlement. The jury rendered a general verdict of guilty, as charged in the indictment, but made no finding in respect to any loss resulting from the crime. Before sentence, the defendant sued out a writ of certiorari to review the conviction, which was affirmed by the Supreme Court, and afterward by this court. People v. Bork, 91 N. Y. 5. Subsequently, and on May 3, 1883, at a court of Oyer and Terminer, in Erie county, held by the same persons who constituted the court at the time of the trial, the defendant was sentenced on the conviction of June 13, 1881, to imprisonment in the state prison for the term of five years.\nTwo questions are presented by the defendant\u2019s counsel on this appeal, first, as to the legality, under the act of 1875, of a general verdict of guilty, unaccompanied with any finding by the jury of the amount of loss resulting from the crime, and second., the legality of the Court of Oyer and Terminer, as constituted when the sentence was pronounced, to render judgment. The Act of 1875 is aimed primarily at peculations of public moneys by officials. The first section, after defining the offense, declares that a defendant, on conviction thereof, \u201c shall be punished by imprisonment in a State prison for a term not less than three years or more than ten years, or by a fine not exceeding five times the toss resulting from the fraudulent act or acts which he shall have so committed^ aided or abetted, to-be ascertained, as hereinafter mentioned, or by both such imprisonment and fine.\u201d The third section declares that \u201c when-rendering a verdict of guilty upon the trial of any person-indicted under this act, the jury may find and state with their verdict the amount of loss resulting from the offense of the-defendant.\u201d\nIt is claimed on the part of the defendant that upon a conviction under this act, a special finding by the jury of the-amount of the loss resulting from the crime, is an indispensable-incident to a legal verdict, without which no valid judgment can be rendered. The general argument in support of this claim is, that as by the first section a discretion is given to the court on conviction to punish, by fine, or imprisonment, or both, and as the amount of the fine is to- be fixed with reference to the amount of the loss, to be ascertained by the jury, there is no basis for the exercise of the discretion vested in the court, in the absence of a finding by the jury, ascertaining the loss. We have no doubt that if was the intention to confer upon the court in all cases the discretion to punish a defendant convicted under the statute, in one or both the ways mentioned. This discretion may be exercised so as either to increase or diminish the punishment.\u2019' The court may punish by ta sentence of imprisonment for the longest term specified, and in addition by the largest fine. On the other hand, it may limit the punishment to a fine only. The discretion, therefore, cannot be said to have been conferred solely in the interest, and-for the benefit of a defendant.\nThe argument that the permissive language of the third section, that the jury may, with their verdict, find the loss, must be construed as mandatory and imperative, is based, as we have said, upon, the assumption that the discretion to fine, conferred by the first section, can only be exercised when there is a special finding by the jury outside of the general verdict.\nWe cannot assent to the view of. the counsel for the people that a general verdict of guilty under the Act of 1875 is equivalent to a special finding, that the loss resulting from the offense is the value of the property converted as alleged in the indictment. This in most cases would not be true as matter of fact. The value of property stolen or converted is not usually -stated with accuracy in an indictment, nor would it follow that the loss resulting from the conversion of property, in violation .-of the act, would equal the value of the property converted. The property may have been recovered, or restitution may have been made, and it is the amount of loss, and not the value of the converted property by which the fine is to be measured. In an indictment for larceny, the degree of the crime, whether grand or petit larceny, depends upon the value of the property stolen. This is an issuable fact, and the .jury may be required to make a special finding of value with a view to. determine the grade of the offense, and when made this is. a ;part of the verdict; and when there is no special finding, a gen eral .verdict of guilty in the absence of a special statute is held.to find the value as charged. 1 How. P. C. ch. 19, \u00a7 2; Hale's P. C. ch. 45, p. 540 ; 2 Barb. Crim. Pr. \u00a7 764.\nBut under the statute in question, the value of the property converted is not an element of the crime, nor are there any degrees of crime under this statute. The crime is complete, whatever may be the value of the property converted, but the fine may be graduated by the . resulting loss. The amount of the loss is an extrinsic fact which does not enter into the definition of the offense.\nThe indictment in this case, charges the conversion by the defendant of 200 bonds of the value of $1,000 each. But the inquiry upon the trial related to fifteen or twenty bonds of that denomination. Upon the theory that a general verdict of guilty under the Act of 1875, finds affirmatively all the facts charged in the indictment, including the allegation of value, and that a finding of value is a finding of the loss resulting from the crime, the-defendant could have been sentenced to pay a fine of $1,000,000, a result so manifestly absurd that the reasoning upon which it rests must be rejected- as unsound. But we are of opinion that a special finding by the jury of the amount of loss is not an essential condition to the exercise by the court of the power to sentence a defendant in accordance with the first section of the Act of 1875.\nThe statute makes no provision for the ascertainment of the loss in case of a conviction without trial, upon a plea of guilty. The method of ascertaining the loss by a finding of the jury, in connection with their verdict on the trial of the issues, is inapplicable to a conviction on confession without -trial. If, therefore, the jurisdiction of the court to -inflict the alternative punishment depends upon the special finding of the jury of the amount of the loss, then in case of conviction upon a plea of guilty, either no punishment could be inflicted, or punishment by imprisonment only.\nBut this result manifestly was not intended, and the statute should be construed, if possible, so as to avoid such a dilemma. The language of the third section is permissive and not imperative. The jury, the statute declares, may find with their verdict the amount of the loss. The second section regulates the amount of the fine by the loss, \u201cto be ascertained as hereinafter mentioned,\u201d referring to the finding by the jury, provided for in the third section.\nThe second section does not declare that the loss shall be ascertained in the manner pointed out-in the third section.\nWe think the statute may be held harmonious and consistent, by reading the words \u201c to be ascertained \u201d in the first section, as if they were \u201c which may be ascertained.\u201d This reconciles the provisions of both sections, in harmony with the general intention, and makes the statute capable of a consistent execution. Upon a conviction upon a plea of guilty, the court, for the purpose of fixing the punishment, may take proof, by affidavit or otherwise, of the circumstances of the offense, including the amount of the loss resulting from the crime. People v. Taylor, 3 Denio, 96. When the case is tried by jury, the jury may ascertain the loss and return it with their verdict. If the jury make no special finding, the court, for the purpose of determining the punishment may proceed summarily to ascertain the loss, as in the case of a conviction without trial.' We have no doubt of the right of a defendant, when evidence has been given upon the subject, to have the jury instructed, in case they should render a verdict of guilty, to return therewith a finding of the amount of loss. He may in this way have the benefit, if any there be, of this provision of the statute.\nBut in the absence of such evidence, or of any request to the court to direct a special finding, we think a general verdict of guilty is lawful. The defendant made no request for a special finding, and took no objection to the form of the verdict at the time it was rendered.\nThe next question relates to the legality of the organization of the court of Oyer and Terminer which pronounced sentence upon the defendant. It is claimed that the judgment is void for the reason that two justices of the sessions sat with Judge Daniels as members of the court at that time, and participated in the proceedings. The record shows that the court was composed of Judge Daniels, and Fayette M. Reed and Seth A. Abbott, Justices of Sessions. The legality of the court as thus constituted is challenged on the ground that the constitution of courts of Oyer and Terminer was charged by chapter 280, of the Laws of 1882, amending section 23 of the Code of Criminal Procedure. The section as amended is as follows: \u201c A court of Oyer and Terminer is held by a justice of the Supreme Court, without an associate.\u201d The amendment of 1882 was passed after the' trial of the defendant, but before sentence. Prior to 1882, courts off Oyer and Terminer in counties other than the county of New York, were composed of a justice of the Supreme Court presiding, and the county judge of the county, and the justices of the peace, designated as members of the Court of Sessions, but the court could be held by the presiding judge, and any two of the other officers named. Laws of 1847, ch. 280, \u00a7 38.\nIt is claimed on the part of the people, that the indictment, trial and conviction of the defendant having taken place before the passage of the act of 1882, the case is excepted from its operation by section 962 of the Code of Criminal Procedure. That section is as follows: \u201c This Code applies to criminal actions, and to all other proceedings in criminal cases which are herein provided for, from the time when it takes effect; but all such actions and proceedings theretofore commenced, must be conducted in the same manner as if this Code had not been passed.\u201d But we are of opinion that this section simply preserves the existing rules of procedure in pending cases. They are to be conducted in the same manner as if the Code had not been passed. There was a manifest propriety that criminal actions and proceedings commenced under the former system should be carried to completion under the procedure under which they were instituted, and this, we think, was the scope and purpose of the exception. If it was intended to continue the existing organization of criminal courts as to all pending criminal actions and proceedings, then the result would be that every indictment found before the passage of the act of 1882, and triable in courts of Oyer and Terminer, must be tried by those courts as then constituted. There would be in each county a court of Oyer and Terminer held by a justice of the Supreme Court, and two associates having jurisdiction of indictments found before the amendment of 1882, and a court of Oyer and Terminer, held by a single judge without associates, having jurisdiction of indictments found after that time.\nWe are of opinion that the direction in section 962, that criminal actions and proceedings theretofore commenced, \u201c must be conducted in the same manner,\u201d etc., has no reference to the organization of criminal courts, but to the procedure in such courts. This point was decided by the General Term in the Fourth Department in the case of People v. Ostrander (29 Hun, 515; 1 N. Y. Crim. Rep. 274), which was affirmed in this court by default. The defendant in that case' had been tried and convicted of murder prior to the act of 1882, and after the passage of that act was sentenced to death \u2022 by a court of Oyer and Terminer, held by a single judge, under the act of 1882. It was held that the court had jurisdiction to pronounce the sentence, and the judgment was subsequently executed.\nIt is also claimed on the part of the people, that independently of the exception in section 962, the legislature could not authorize judgment to be pronounced on a conviction had before the passage of the act of 1882, by a court differently constituted from that before which the trial was had. We think this claim is untenable. It is undoubtedly true that the legal constitution of a criminal court before which a trial is commenced cannot be changed during its progress. But the organization of courts of Oyer and Terminer, with the exception that a justice of the Supreme Court must preside, is within the control of the legislature. People v. Smith, 47 N. Y. 303. A change in the persons who compose the court, or in the number of judges, does not change its essential character. The act of 1882 effected an immediate change in the organization of courts of Oyer and Terminer. They were thereafter to be held by a justice of the Supreme Court only. But the tribunal was not changed. Ho new court was constituted. The courts under the new organization exercise the functions and jurisdiction they formerly exercised, not by transfer, nor substitution, nor as successors of the prior courts, but as the same courts, changed only by limiting the exercise of judicial power therein to one of the three persons who formerly composed them.\nWe know of no constitutional principle which requires that judgment on a conviction for crime must he pronounced by the same judges before whom the trial was had. It has never been supposed that the death of a judge after conviction of a defendant would prevent sentence, but this would follow if the contention should be admitted, that the same judge who tried the case must pronounce the judgment. We are of opinion that a court of Oyer and Terminer organized under the act of 1882, might lawfully pronounce sentence in this case, and that from the passage of that act a court of Oyer and Terminer constituted under the law of 1847, was unauthorized. ,\nWe can see no answer to the proposition of the defendant that the judgment in this\u2019 case is void for the reason that the court which rendered it was not legally constituted. The same record which shows the presence of a justice of the Supreme Court presiding, also shows the presence of two justices of the Sessions, acting as members of the court. It must be presumed that they took part in the proceedings. They were recognized as constituent members of the court, upon the assumption that in pronouncing judgment in cases tried before the passage of the act of 1882, the court as originally organized was continued. If the associates could be treated a supernumeraries exercising no judicial function in the case, there would be no difficulty. The judgment rendered was one which the presiding judge, if sitting alon\u00e9, was authorized to pronounce. But we do not see our way clear to treat the case as though the associates were not present. The vice of the judgment is that.it w\u00e1s rendered by a tribunal in which three persons sat as judges, all of whom participated in the proceedings, when by law but one of the persons constituting the court was qualified to sit or act, in rendering the judgment. It does not need the citation of authorities to the proposition that the judicial power can only be exercised according to law, and that an attempt by an unauthorized tribunal to render judgment involving life, liberty or property is a mere nullity. Ho man can be deprived of either without due process of law ; nor can any one exercise the judicial function without investiture by the sovereign power. See Oakley v. Aspinwall, 3 N. Y. 547 ; Cancemi\u2019s Case, 18 Id. 128 ; People v. Shaw, 63 Id. 36.\nHaving reached the conclusion that the sentence and judgment was void, it remains to consider what judgment shall be rendered by this court. The conviction having been lawful, the defendant cannot again be put upon trial. Shepherd v. People, 25 N. Y. 406 ; Ratzky v. People, 29 Id. 124. It was held in the cases last cited that prior to the act, chapter 236, Laws of 1863, there was no person in this court, on the reversal of a judgment of conviction.in a criminal case, either to re-sentence the prisoner, or to remit the case for re-sentence to the court below. The act of 1863 was passed to remedy this defect in legislation. It amended the section of the Revised Statutes prescribing the order to be made on the reversal of a conviction, by adding this provision: \u201cprovided, however, that the appellate court shall have power upon any writ of error, where it shall appear that the conviction has been legal and regular, to remit the record to the court in which such conviction was had, to pass such sentence as the appellate court shall direct.\u201d In Ratzky\u2019s Case (supra), the court, having reversed the judgment on the ground of the unlawfulness of the sentence, remitted the record, under the statute of 1863, to the court in which conviction was had, with discretion to pronounce the appropriate sentence. The statute of 1863, so far as we can ascertain, has never been repealed in terms, and we think it is continued in force, as a rule of procedure, in respect to actions pending -when the Code of Criminal Procedure took effect, by force of section 962, above cited.\nIt is true that the act refers to the power of the appellate court upon a writ of error. But an appeal under the Code of Criminal Procedure is a substitute for a writ of error under the former practice. This case is brought up by appeal, although there may be doubt whether, as the case was pending when the Code was passed, a writ of error was not the proper proceeding. But however this may be, we think the statute was not repealed by a change made in the mere mode of bringing the case up for review. The object of the statute was to confer upon an appellate court the power to remit the case \"to the court below for judgment, on a reversal for error in the sentence, and this power we think continues under the act of 1863, at least as to cases pending when the new procedure was passed, notwithstanding the substitution of an appeal for a writ of error.\n\"We think that the proper order in this case is that the judgment be reversed, and the record be remitted to the court of Oyer and Terminer of Erie county, with direction to proceed and sentence the defendant under the act of 1875.\nBy the act of 1863,.the court to which the record is remitted is to pass, such sentence as \u201c the appellate court shall direct.\u201d We do not understand that the provision requires the appellate court to fix the time of imprisonment, or to itself exercise a discretion in respect to punishment given by the statute. It does direct the sentence within the meaning of the act of 18G3, when it points out the law providing for the punishment, and directs the court below to sentence thereunder.\nJudgment reversed, and the record remitted to the Court of Oyer and Terminer of Erie county with direction to proceed and sentence the defendant under the act of 1875.\nAll concur.\nNote. In People ex rel. Bork v. Keeler, heard and decided with People v. Bork, the Court of Appeals made the following note:\nOrder of General Term, denying motion of relator to be discharged from imprisonment, and remanding him to the custody of the warden of the State Prison at Auburn, reversed, and the said relator is remanded to the custody of the sheriff of Erie county, to be dealt with according to law.",
+        "type": "majority",
+        "author": "Andrews, J."
+      }
+    ],
+    "attorneys": [
+      "Sprague, Morey & Sprague (Norris Morey, of counsel), for appellant.",
+      "Edward W. Hatch, district attorney of Erie county, for the people."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nMay, 1884.\nPEOPLE v. BORK. PEOPLE ex rel. BORK v. GILBERT.\n(Reversing 2 N. Y. Crim. Rep. 56.)\nConviction under the \u201c Peculation Act \u201d (L. 1875, ch. 19) NEED NOT STATE AMOUNT OE LOSS.-SENTENCE BY COURT IRREGULARLY CONSTITUTED,' VOID.-GENERAL AND Special verdict-\u2014Co. Grim. Prog. \u00a7 962.\u2014L. 1863, ch. 226.\u2014Eefeal.\nA general verdict of guilty under the Peculation Act, L. 1875, ch. 19, is not equivalent to a special finding- that the loss resulting from the. act of the accused is the value of the property converted as laid in the indictment. When evidence has been given on the subject, it is the right of the defendant to have the jury instructed, that in the event of their returning a verdict of guilty, they must return therewith the amount-of -loss sustained. But in the absence of such evidence, or of any such request to the court to direct a special finding, a general verdict is proper, for the value of the property converted is not <an essential element of the crime under this act. Nor is such special finding of the amount of loss sustained an essential condition to the exercise of the power of sentencing a defendant in accordance with the act of 1875. The language of the statute, that \u201cthe jury may find with their verdict the amount of the loss, is permissive, not imperative.\u201d\nThe direction of Co. Crim. Proc. \u00a7 962, that criminal actions and proceedings, commenced before the passage of that Code must be conducted in the same manner as if that Code had not been passed, refers to the procedure in criminal courts, not to their organization.\nSentence need not be pronounced by the judge before whom the trial was had.\nA sentence imposed by a court composed of three persons sitting as judges, and participating in the proceedings, when by law but one of them was qualified to sit or act in rendering the judgment, is void.\nThe judicial power can only be exercised according to law, and an attempt by an unauthorized tribunal to render judgment involving life, liberty, or property, is a mere nullity. L.1863, ch. 226, giving an appellate court, where it appears that the conviction has been regular, to remit the record to the court in which the conviction was had, to pass sentence as the appellate court shall direct, was not repealed, at least as to cases then pending, by the passage of the Code of Criminal Procedure, and it continued in force as a rule of procedure.\nThe statute was not repealed by a mere change from certiorari to appeal in the mode of bringing up the case for review.\nUnder the provisions of that law that the court to which the record is remitted is to pass such sentence as to the appellate court shall direct, the appellate court does direct sentence when it points out the law providing the punishment, and directs the court below to sentence thereunder.\nAppeal by the defendant, Joseph Boric, from an order and judgment of the General Term of the Supreme Court in the Fourth Department, made 23rd January, 1884, the order denying the motion of defendant to be discharged from imprisonment, and the judgment affirming a judgment of the Erie Oyer and Terminer, of May 3, 1883, convicting defendant of embezzlement under the Peculation Act, L. 1875, eh. 19.\nFor the facts of this case see 1 N. Y. Crim. Rep. 368, 379, 392, 393, 398, and 2 Id. 56.\n\u25a0 The points of counsel will be found in 2 N. Y. Crim. Rep. 56.\nThe following opinion was delivered in the first case, People v. Boric, but the two appeals were heard together, and the points involved in the two cases were identical.\nSprague, Morey & Sprague (Norris Morey, of counsel), for appellant.\nEdward W. Hatch, district attorney of Erie county, for the people."
+  },
+  "file_name": "0177-01",
+  "first_page_order": 201,
+  "last_page_order": 211
+}

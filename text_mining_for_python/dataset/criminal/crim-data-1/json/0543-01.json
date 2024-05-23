@@ -1,0 +1,80 @@
+{
+  "id": 1164474,
+  "name": "PEOPLE v. SHERWIN",
+  "name_abbreviation": "People v. Sherwin",
+  "decision_date": "1883-12",
+  "docket_number": "",
+  "first_page": "543",
+  "last_page": "544",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 543"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 11573,
+    "name": "New York Court of Oyer and Terminer, Albany County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 417",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164425
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0417-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 147,
+    "char_count": 1903,
+    "ocr_confidence": 0.558,
+    "pagerank": {
+      "raw": 4.548627546539126e-08,
+      "percentile": 0.2847264454414138
+    },
+    "sha256": "7da7e125d7e97960d813a7eee00edb6bd918900f0816b8c31579e3800529635b",
+    "simhash": "1:50eb705cc038ed5a",
+    "word_count": 335
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. SHERWIN."
+    ],
+    "opinions": [
+      {
+        "text": "The court so held, and sentenced defendant on the first indictment to hard labor in the Albany Penitentiary for one year and a fine of $250, to stand committed thereto until paid, not exceeding six months. Upon the second indictment, to hard labor in the penitentiary for six months and $125 fine, to stand committed thereto until paid, not exceeding three months, the sentence on this indictment to commence at the termination of that on indictment Eo. 1. Upon the third indictment, to hard labor in the penitentiary for six month and $125 fine, to stand committed thereto till paid, not exceeding three months, the sentence on this indictment to commence at the termination of that on indictment Eo. 2.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "J. Thomas Spriggs, E. D. Mathews, William H. Quincy, and John D. Quincy, for defendant, insisted that the punishment could not exceed $250 fine and 30 days\u2019 imprisonment for each offense citing 2 R. S. 278, \u00a7\u00a7 10, 11, 2 Edm. St. 288-9.",
+      "Nathaniel C. Moak, of counsel for the people, insisted that the punishment for each offense could only be one year\u2019s imprisonment and $250 fine, citing 2 It. S. 278, \u00a715 ; 2 Edm. St, 289; 2 R. S. 692, \u00a714; 2 Edm. St. 715; 2 R. S. 797, \u00a7 40; 2 Edm. St. 719; People ex rel. Sherwin v. Head, 1 N. Y. Crim. Rep. 417."
+    ],
+    "corrections": "",
+    "head_matter": "Oyer and Terminer-\u2014Albany County.\nDecember, 1883.\nPEOPLE v. SHERWIN.\nCbiminal Contempt.\u2014Sentence.\nOn an indictment for criminal contempt committed before the Penal Code took effect, the defendant may be sentenced to imprisonment for one year and to a fine of $250.\nThe prisoner was indicted by six indictments for criminal contempt committed in 1874 (1 N. Y. Crim. Rep. 417). He was tried October 22,1883, on one indictment and found guilty. On December 28, 1883, he pleaded guilty to two other of the indictments, before Hon. A. M. Osbobn, Justice of the Supreme Court sitting at Over and Terminer. Whereupon counsel for the people moved sentence.\nJ. Thomas Spriggs, E. D. Mathews, William H. Quincy, and John D. Quincy, for defendant, insisted that the punishment could not exceed $250 fine and 30 days\u2019 imprisonment for each offense citing 2 R. S. 278, \u00a7\u00a7 10, 11, 2 Edm. St. 288-9.\nNathaniel C. Moak, of counsel for the people, insisted that the punishment for each offense could only be one year\u2019s imprisonment and $250 fine, citing 2 It. S. 278, \u00a715 ; 2 Edm. St, 289; 2 R. S. 692, \u00a714; 2 Edm. St. 715; 2 R. S. 797, \u00a7 40; 2 Edm. St. 719; People ex rel. Sherwin v. Head, 1 N. Y. Crim. Rep. 417."
+  },
+  "file_name": "0543-01",
+  "first_page_order": 567,
+  "last_page_order": 568
+}

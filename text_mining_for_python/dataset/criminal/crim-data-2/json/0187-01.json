@@ -1,0 +1,87 @@
+{
+  "id": 1167695,
+  "name": "PEOPLE v. CASEY",
+  "name_abbreviation": "People v. Casey",
+  "decision_date": "1883-12",
+  "docket_number": "",
+  "first_page": "187",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "87 N. Y. 380",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 N. Y. 467",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510994
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/52/0467-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 584,
+    "char_count": 13665,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 8.892571084669275e-08,
+      "percentile": 0.49974844093227055
+    },
+    "sha256": "f81e4b79b3070e4969644828f108154752ef7c8ab88a9e7c7f72a99635041ed8",
+    "simhash": "1:885ff6beae4671c5",
+    "word_count": 2439
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Pratt, J., concurs in result.."
+    ],
+    "parties": [
+      "PEOPLE v. CASEY."
+    ],
+    "opinions": [
+      {
+        "text": "Dykman, J.\nThe defendant was tried for the crime of murder in the first degree, and convicted of that offense, and this is an appeal from the judgment of conviction.\nThe defendant and his victim, Richard Comisky, were both members of the police force of Long Island City, and on the morning of the homicide, he came to the station house from his duty, and went into the back room. There he called a brother officer and requested him to fix a revolver which he had in his hand. There was then one ball cartridge in the chamber. After it was put in order, it was returned to the defendant, who inserted two more balls in the chambers. Then he returned to the front room where the deceased was sitting, and asked him why he was following him around' nights, and the deceased said, \u201c To make you do your duty.\u201d. The defendant then said to him, \u201cI will kill you dead\u201d\u2014and immediately discharged the pistol once. The ball passed through his brain and caused his instant death. When asked why he did it, he said he could not help it, that the deceased had been following him around, and in reply to some other remark, he said, u Well, it can\u2019t be helped now it is done.\u201d ' This transpired in presence of two other police officers.\nInsanity was interposed on the trial for a defense, and many witnesses were examined on the subject.\nThe jury rejected the plea, and found the defendant guilty of the crime.\nThere was no controversy respecting the\u2019 main fact. The two officers who witnessed the fatal shot were examined and gave a circumstantial account\u2019 of the occurrence, and their testimony was in no wise contradicted.\nThere were very few exceptions taken on the trial, and none of them present any serious question.\nSome exceptions were taken to the charge of the court to the jury, which call for examination. This was said: The test of responsibility for criminal acts where insanity is asserted, is the capacity of the accused to distinguish between right and wrong, at the time and with respect to the act which is the subject of inquiry ; that is the test of insanity.....But if he knew the effect of his acts, if he knew that it was wrong to kill and that he was liable to punishment for it, he is responsible to punishment, although he may have had insane delusions. At the close of the charge, the counsel for the defendant said : \u201cIf your Honor please, I desire formally to except to that part of the charge coming from the court to the jury in which this idea is involved : the power to distinguish between right and wrong is the sole test of responsibility. I also except to this other part of the charge of the court: If the defendant knew it was wrong to shoot, he would be guilty, even though he had insane'delusions.\u201d\nThe Court: \u201c I do not say that. I did not mean that he must have insane delusions in respect to the act. I say that if he knew right from wrong in resp\u00e9ct to the act done, at the time it was done, then he is answerable to punishment. . If there has crept \"into the charge any -such expression as that he is responsible even though he had insane delusions with respect to the \" act, I do not intend to say so, and I do not think I have said it.\u201d\nCounsel for defendant: I will have this entered on the minutes, so that if it has crept into the charge I may have the benefit of any ill effect that it may have had with the jury: \u201cIf he knew right from wrong, he was guilty\u2019 even though he had insane delusions.\u201d\nIt thus appears that if the charge as given respecting the possession of insane delusions by the accused, was erroneous, it was cured by the modification and \u00e9xplanation ; but the test of responsibility laid down was also the subject of exception, and must be examined.\nThe schoolmen of medical science, versed in the intricacies of medical unsoundness and disorder, claim that in addition to mental capacity sufficient to distinguish between right and wrong, in relation to the act committed, juries in criminal cases where insanity is interposed as a defense, should be instructed, to require a mind with power to control itself in action before they will convict of crime. They claim that there is often, found a state of mental disorder in which the will cannot act, although the preeeption be perfect; that knowledge of right and wrong may be perfect while the power to choose may be paralyzed, and that when such a state of mind has resulted from permanent disorder, its possessor is not an accountable being. This doctrine, however, has attained no permanent place in the field of jurisprudence.\nIn this state the test of responsibility is the capacity to distinguish between right and wrong at the time the act was committed and in respect thereto ; and the law, as administered here in criminal cases, does not find irresponsibility where the claim is that capacity to distinguish right from wrong exists, without the power to choose between them. Flanagan v. People, 52 N. Y. 467.\nThe law imposes on all persons the duty to control their will power and resist evil influences and desires to prepetrate wrong and commit crimes, and they cannot secure immunity from punishment by permitting their will to pass beyond their control by the violence of frenzy or the paroxysm of rage. If they have capacity understanding to know that the act they are about to commit is forbidden by the laws of God and man, they must be held responsible. Human life would be insecure under any other rule of law, for anger and a desire for revenge may unseat the reason of a man perfectly sane, and cause him for a time to lose all control of his conduct or his will.\nThe charge of the court in this case on that subject was therefore a correct exposition of the law on the subject, and the exception thereto was unavailing.\nThe counsel for the defendant requested the court to charge the jury \u201c that upon an interposition of the defence of insanity, and testimony adduced in support of the plea, the presumption of sanity in the accused is prima facie overcome ; and the people, before there can be a conviction, must satisfy the jury by affirmative proof of saneness, that the accused was not mentally diseased at the time of the shooting.\u201d\nThe Court: I will not charge that, and I make this explanation about it; that the rule as to sanity which governs the presumption is that every man is presumed to be sane, and that when a defendant accused of crime avers the plea, in his protection, he must prove it; it is his issue. \u00a1But if on the whole proof there is a reasonable doubt of sanity, you will give the prisoner the benefit of that doubt, upon that issue or any other.\u201d\nThe counsel for the defendant: \u201c I except to the declination to charge expressly as requested in this proposition and to the charge as given on that point.\u201d\nNeither of these exceptions are well taken.\n\u25a0 While the utter irresponsibility of a madman, or a man who lacks sound memory, is recognized by our statute as well as by the common law, yet the presumption is in all cases that every man is sane, because sanity is the normal condition of men. The defense of insanity is an affirmative defense, to be established by the accused.\nIt is true that on the interposition of the defense of insanity the question was in the case, and the burden was on the prosecutor to show that the crime charged was committed by the defendant, and that he was at the time of the commission in a condition of mind to be responsible therefor.\nOn the first point affirmative proof was necessary in the first instance, but not on the second, because the presumption of sanity rendered it unnecessary and cast the burden of proof on the defendant; that is to say, the legal presumption of sanity was sufficient until repelled to establish the sanity of the defendant. If no evidence was adduced by the accused to establish his defense, it failed. If he did produce such proof, and answering proof was produced by the prosecution, then the burden was again on the prosecution to satisfy the jury on the whole evidence of the sanity and responsibility of the defendant. O\u2019Connell v. People, 87 N. Y. 380; Brotherton v. People, 75 Id. 159.\nThese rules were not violated by this charge, because the jury was told that if on the whole proof there was a- reasonable doubt of sanity, the defendant must have the benefit of that doubt upon that issue as upon any other.\nCounsel for the defendant asked the court to charge specifically that if the jurors have or any of the jurors had a reasonable doubt as to the sanity of the accused, at the very time of the shooting, the accused is entitled to the benefit of that doubt, and if the doubt is shared by all the twelve, there should be a verdict of acquittal, and if the doubt is held by one or more of the jurors there should be a disagreement.\nThis was refused except as charged, and the defendant excepted. This refusal must be sustained. It was not the duty of the court to charge the jury that there should be a disagreement in any\" emergency, and the-.-other portions of the request had been substantially charged before.\nAgain the counsel for the defendant requested the court to charge yes or no to this: that to-meet the requirements of the law and of justice, the verdict must be the result of twelve individual judgments uninfluenced by the separate judgment of any one or more of the persons composing the jury.\nThe Court.\n\" They have to make up a verdict as to which they all agree. I will say nothing more.\u201d\nTo this there was an exception which cannot be sustained.\nAnother request to charge was as follows: \u201c that it was the duty of the jurors to disagree if upon the. evidence in the case each of them, for himself, uninfluenced by the judgment of the others, has any reasonable doubt, of the guilt of the accused.\u201d\nThis was declined, except as charged, and the defendant excepted.\nIn relation to these last two requests it is sufficient to say that it was not the duty of the court to charge the jury that the individual judgment of a jurer was to be uninfluenced by the judgment of his compeers, or that it was the duty of jurors to disagree, if they had any doubt of the guilt of the accused on the evidence, or to resist the influence of the judgment of the other jurors. The law in no case contemplates the disagreement of a jury. On the contrary, it is the duty of jurors to agree if they can do so without the surrender of conscientious conviction. It is their duty to receive the law from the court and to examine and discuss the testimony with each other during their deliberations, to harmonize their views, and reach a conclusion if consonant with a proper sense of their judgment.\nThe court did charge the jury on the request of the defendant that if on the whole case there was a reasonable doubt, the defendant was entitled to the benefit of the doubt. This examination of the legal questions involved closed with a conclusion adverse to the appellant; so, also, must the examination of the facts close with the same result.\nThe act of the defendant which resulted in the death of his victim was not the offspring of delusion, or raving madness, and the testimony was sufficient to hold the defendant responsible for his act within the rule of legal: responsibility laid down in the charge. So the testimony was sufficient to justify the finding by the jury of deliberation and premeditation. It showed the absence of impulse, deliberate intention, reflection, and a selection and preparation of the means of death. We cannot interfere.\nThe judgment of conviction should be affirmed. \u00a1\nPratt, J., concurs in result..",
+        "type": "majority",
+        "author": "Dykman, J. The Court."
+      }
+    ],
+    "attorneys": [
+      "James W. Covert, for the prisoner, appellant.",
+      "John Fleming, district attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nDecember, 1883.\nPEOPLE v. CASEY.\nInsanity\u2014Test of as Defense.\u2014Juey, Delibeeations of.\u2014 Judge\u2019s Chaege.\nThe test of responsibility for an act constituting a criminal offense, is the capacity to distinguish between light and wrong, at the time the act was committed, and in respect thereto; and a person cannot be held irresponsible, upon the theory that capacity to distinguish right from wrong exists, without the power to choose between them.\nDefendant\u2019s counsel requested the court to charge, \u201c That upon an interposition of the defense of insani:y, and testimony adduced in support of the plea, the presumption of sanity in the accused is prima facie overcome ; and the people, before there can be a conviction, must satisfy the jury by affirmative proof of saneness, that the accused was not mentally diseased at th\u00a7 time of the shooting.\u201d This the court refused, but charged, \u201c That the rule as to sanity which governs the presumption is that every man is presumed to be sane, and that when a defendant accused of crime avers the plea in his protection, he must prove it; it is his issue. But if on the whole proof there is a reasonable doubt of sanity, you will give the prisoner the benefit of that doubt upon that issue or any other.\u201d Held, upon defendant\u2019s exceptions, no error.\nIt is not the duty of the court to charge the jury that there should be a disagreement, in any emergency. Hor is it the duty of the court to charge the jury that the individual judgment of a juror is to be uninfluenced by the judgment of his compeers.\nAppeal from a judgment of the Queen\u2019s county, Oyer and Terminer, May 24, 1883, Hon. Joseph F. Babnaed presiding, convicting defendant of murder in the first degree, for the crime 'of killing one Bichard Comisky oh March 11, 1883. The act of killing, and by the means charged, was not controverted on the trial, but defendant interposed the defense of insanity. '\nFurther facts appear in the opinion.\nJames W. Covert, for the prisoner, appellant.\nJohn Fleming, district attorney, for the people, respondent."
+  },
+  "file_name": "0187-01",
+  "first_page_order": 211,
+  "last_page_order": 217
+}

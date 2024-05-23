@@ -1,0 +1,146 @@
+{
+  "id": 1164492,
+  "name": "PEOPLE v. McTAMENEY",
+  "name_abbreviation": "People v. McTameney",
+  "decision_date": "1883-09",
+  "docket_number": "",
+  "first_page": "437",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 437"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Mill, 92",
+      "category": "reporters:state",
+      "reporter": "Mill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 N. Y. 348",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/40/0348-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 229",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15644
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/31/0229-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 427",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 92",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 N. Y. 183",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Hun, 98",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Barb. 619",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2261618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/61/0619-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 240",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/83/0240-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 562,
+    "char_count": 15516,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 1.3499658352512056e-07,
+      "percentile": 0.6331172203475955
+    },
+    "sha256": "7fdd06474ec3a2e8ff89713e55238d02f3c39ff7ff5bb5468ab2c1254c5023e4",
+    "simhash": "1:e336005d650aecd1",
+    "word_count": 2698
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. McTAMENEY."
+    ],
+    "opinions": [
+      {
+        "text": "Learned, P. J.\nThe Penal Code, section 528, defines larceny ; sections 530 and 531 define grand larceny in the first and second degrees; and section 532 declares every other larceny to be petit larceny. The prisoner was indicted for grand larceny and was convicted of petit larceny. We think that this was proper under sections. 444 and 445 of the Code of Criminal Procedure. The offense of which he was convicted was of a degree inferior to that of which he was indicted. And we do not think that section 56 of that same Code is to be construed to take from a jury in the Courts of Oyer and Terminer and of the Sessions the power to find a verdict of petit larceny when the prisoner has been indicted for grand larceny, and is on trial before them for that crime. If such construction were to be given to that section, and if such a jury should be obliged to acquit in case they were satisfied the stolen property was not of the value of more than $25, probably the prisoner could not thereafter be tried for such stealing.\nThe next question is as to the length of the sentence.\nThe sections of the Penal Code above cited are intended to take the place of 2 R. S. (m. p.) 679, section 63, and 690, section 1. Section 535 declares that petit larceny is a misdemeanor, meaning petit larceny as in that Code defined. Section 719 declares that an offense specified in the Code committed after, etc., must be punished according to the provisions of that Code. Section 15 declares the punishment of misdemeanors to be imprisonment for not more than a year, or a fine of $500, or both, unless some other punishment is specially prescribed by the Code or by some other statutory provision. Ho other punishment is specially prescribed by the Code for petit larceny, and none by any other statute, unless 2 R. S. (m. p.), 690, section 1, be in force.\nThe Penal Code is a general statute intended to define nearly all offenses, and to prescribe the punishment. Section 726 repeals all inconsistent acts so far as they impose any punishment for crime. The penalty imposed by the section of the Revised Statutes above cited is certainly inconsistent with that imposed by the Code. It cannot be understood that the exception made in-section 15 of the Penal Code was to take away the effect of section 726.\nThe argument of the prisoner is that whenever a punishment had been prescribed for a misdemeanor previously to the Penal Code, which was not in express and specific language repealed, that punishment remains in force.\nHow if we turn to 2 R. S. (m. p.) 697, section 40, we find a provision for the punishment of all misdemeanors of which the punishment is not prescribed by some other statute. Therefore, according to the argument of the prisoner, a punishment is especially prescribed for every misdemeanor, and therefore every misdemeanor is excepted from section 15 of the Penal Code. This is plainly unreasonable.\nAgain, the definitions of larceny in the Penal Code arc not identical (in language) with those in the Revised Statutes. Therefore, that part of section 1, 2 R. S. (in. p.) 690, which defines petit larceny is not in force. Why, then, the residue of the section'{\nThe prisoner\u2019s position, if correct, would apply apparently to other cases of misdemeanors. For instance, section 651 of the Penal Code declares certain interference with gas-pipes to be a misdemeanor, but prescribes no penalty. This section is substantially the Act of 1854, cli. 109, sections 1 and 2, by which the crime was declared and a penalty prescribed, of six months imprisonment and a fine of two hundred and fifty dollars. Arc we to understand, then, that a violation of section 651 of the Penal Code is not punishable under section 15 of the samo Code, but that the penalty prescribed in the act of 1854 is in force ?\nUnder such a construction the Penal Code would cease to be a complete system, as it was intended to be. Section 7.\nThe judgment and conviction should be affirmed.\nBoardman and Bocees, JJ\"., concur.",
+        "type": "majority",
+        "author": "Learned, P. J."
+      }
+    ],
+    "attorneys": [
+      "A. H. Vanburen and William, Lounsbery for the appellant.",
+      "A. T. Clearwater, district attorney, for the People, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Third Department.\nSeptember, 1883.\nPEOPLE v. McTAMENEY.\nPetit L argent\u2014C on viction in Sessions and Oyer, under Indictment for Grand Larceny.\u2014Decree of Offense.\u2014 Punishment of Misdemeanors.\u2014Sections 56, 444, 445, Code Grim. Pro.; Sections 15, 726, Pen. Code.\nA defendant indicted for grand larceny in Oyer and Terminer, or the Court of Sessions, may, upon the trial of said indictment, be convicted of ' petit larceny, notwithstanding the provisions of section 56 of the Code of Criminal Procedure.\nPetit larceny is an offense of a degree inferior to grand larceny, and therefore such conviction is proper under sections 444 and 445 of the Code of Criminal Procedure.\nPetit larceny is to be punished under section 15 of the Penal Code, providing fer the punishment of misdemeanors generally; and 2 R S. 690, \u00a7 1, prescribing a penalty for said offense, being inconsistent with said section 15 of the Penal Code, is repealed by section 726 of said Code.\nAppeal from the judgment of the Ulster Sessions, sentencing the appellant to imprisonment at hard labor .in the Albany Penitentiary for the term of one year, upon conviction of petit larceny, by verdict of a jury.\nThe defendant, Michael McTamenoy, was indicted at the Ulster Sessions in June, 1883, for grand larceny in the first degree. He was tried at the same term, and convicted of petit larceny. His counsel moved for his discharge upon the ground that the court had no jurisdiction to pronounce sentence. The motion was denied, and the defendant was sentenced to imprisonment at hard labor in the Albany Penitentiary for one year.\nA. H. Vanburen and William, Lounsbery for the appellant.\n\u2022\u2014I. The jury had no jurisdiction or power to convict, nor the court to sentence the defendant for petit larceny. Under section 56 of the Code of Criminal Procedure, the Courts of Special Sessions have in the first instance exclusive jurisdiction of petit larceny charged as a first offense, subject to the power of removal by certificate of a justice of the Supreme Court, or from the judge ; and under sections 37, 39, the Courts of Sessions have jurisdiction to indict and try for said offense only after such certificate has been given. See, also, People v. Dutcher, 83 N. Y. 240; People v. Bowson, 61 Barb. 619; Devine v. The People, 20 Hun, 98; 1 Chitty, 939 ; Wallbeer\u2019s Case, 1 Leach, 14; 2 Strange, 1133 ; Dedieu v. People, 22 N. Y. 183; People v. Jackson, 3 Hill, 92. At common law, on an indictment for felony, there could be no conviction for misdemeanor. This rule of the common law covered all cases and was adopted by our courts. People v. Jackson, 3 Hill, 92; Palmer v. People, 5 Hill, 427; Klein v. People, 31 N. Y. 229.\nThe judgment was not authorized by sections 444,445, Code Crim. Pro. Under section 444, where the crime charged in the indictment is divided into degrees, a conviction for an inferior degree thereto may be had, but such conviction must be confined to the specified degrees. Under section 445, it is only where the crime charged is not divided into degrees that a conviction for another offense can be had. Petit larceny is not a degree of another offense (Pen. Code, \u00a7 532), certainly not of grand larceny, with which the prisoner was charged.\nII. The court had no power to pass the sentence which was imposed. Neither the Criminal nor Penal Code prescribe any punishment for petit larceny. 3 R. S. (Banks\u2019 6th ed.), 939, \u00a7 1, makes the punishment imprisonment in a county jail not exceeding six months, or a fine not exceeding $100, or both. This section was not repealed by the Code, \u00a7 15. Penal Code only amends and repeals section 103 of 3 R. S. (Banks\u2019 6th ed.), 983. In this case the sentence was imprisonment at hard labor for one year in the penitentiary.\nA. T. Clearwater, district attorney, for the People, respondent.\nI. The conviction of petit larceny was proper. Chapter IY. of the Penal Code defines larceny, and divides the' crime into three degrees. Section 528 defines larceny; section 530 defines the first degree of larceny; section 531 defines the second degree of larceny ; section 532 thus defines the third degree of larceny : \u201c Every other larceny is petit larceny.\u201d The conviction was authorized by sections 444 and 445 of the Code of Criminal Procedure, and by section 35 of the Penal Code. The three sections cited are substantially enlarged re-enactments of the provisions of the Devised Statutes relative to the same matter (3 R. S. 6th ed. p. 995, \u00a7 48; 2 R. S. Edm. p. 735, \u00a7 27) and seem to cover, as they doubtless were intended to do, every possible phase of the question. Section 36 of the Penal Code substantially so states. Even at common law the prisoner may be convicted of a lesser degree of a crime than that charged in the indictment, where the act itself is of the same nature as the one charged, and the means of committing it are not materially different, even where the indictment does not allege the particular intent and circumstances characterizing the lesser degree. Keefe v. People, 40 N. Y. 348, a case in which Judge Grover\u2019s opinion states with great clearness the reason of the rule. See, also, People v. Jackson, 3 Mill, 92; Palmer v. People, 5 Id. 427. Section 56 of the Code of Criminal Procedure is substantially a re-enactment of chapter 390 of the laws of 1879. In Ryan v. People (19 Mun, 188; 79 N. 7. 593), in which a question upon the statute, chapter 390, of the laws of 1879, was raised, it was said by the Court of Appeals that \u201c charges,\u201d as used in that statute (and therefore in the Code of Criminal Procedure embodying the provisions of that statute), \u201c implies an original complaint made in the first instance, preliminary to a formal trial for a crime.\u201d\nII. The sentence pronounced was proper. Petit larceny is a misdemeanor. Pen. Code, \u00a7 535. An offense specified in the Code, committed after it took effect, must be punished as in the Code prescribed. Pen. Code, \u00a7 719 ; Id. % 7. All inconsistent acts imposing punishment are repealed. Pen. Code, \u00a7 726. 'A person convicted of a misdemeanor is punishable by imprisonment in a penitentiary or a county jail for not more than one year, or by a fine of not more than $500, or by both. Pen. Code, \u00a7 15.\nRobert Hollenbeck was convicted in the Court of Special Sessions of the city of Albany, of the crime of petit larceny, and sentenced to pay a fine of $500, or to imprisonment in the Albany penitentiary for 500 days, on May 29, 1883. On August 13, the defendant obtained a writ of habeas corpus from Justice Learned, and asked for an order discharging him from imprisonment, on the ground that the Court of Special Sessions had exceeded its jurisdiction, in imposing the fine of $500, and that the greatest fine that said court could impose was fifty dollars, under section 719 of the Code of Civil Procedure, or $100 under the Revised Statutes.\nGeorge W. Smith for defendant Hollenbeck. D. Gady SerricJc, district-attorney, for the People.\nThe following opinion was delivered at Special Term, August 5, 1883..\nLearned, J.\u2014In examining the questions presented, we must consider that the Penal Code is a general statute, intended to define all (or nearly all) crimes, and to provide for their punishment. Sections 2, 7, and 11. There may be special offenses which are not touched by it; but in respect to well known and familiar classes of crimes, tho enactments of the Code are intended as substitutes for those which previously existed. Section 726.\nSection 528 defines at some length the crime of larceny. Sections 530 and 531 define the first and second degrees of grand larceny. Section 532 declares that every other larceny is petit larceny. These definitions are intended to take the place of those given in 2 R. S. 679 (marg. page); sections 63 and 690, section 1,\nThe Penal Code, Section 535, declares that petit larceny is a misdemeanor. This must mean petit larceny as previously therein defined. Section 719 declares that an offense specified in this Code, committed after, etc., must be punished according to the provisions of this Code, and not otherwise. Section 15 declares that a person convicted of a crime declared to be a misdemeanor, for which no other punishment is specially prescribed by this Code, or by any other statutory provision in force at the time of the conviction and sentence, is punishable by imprisonment in a penitentiary or county jail for not more than one year, or by a fine of \u00a7500, or by both. Petit larceny is a misdemeanor. No other punishment is specially prescribed by the Code. The prisoner\u2019s crime was committed after the Code took effect, and is punishable according to its provisions.\nThe question is, whether there is any other punishment specially prescribed by any statutory provision now in force. Section 7-26 of the Penal Code declares all acts inconsistent to be repealed, so far as they impose any punishment for crime. And it is an obvious meaning of that section that punishments imposed by previous acts are to be repealed whenever they are inconsistent with the Code. The penalty imposed by 2 R. S. (marg. p.) 690, section 1, is certainly inconsistent with that imposed by the Penal Code. It cannot be understood that the exception in section 15 was to take away the effect of section 726.\nThe argument of the relator is, that whenever a punishment had been prescribed for a misdemeanor previously to the Pen\u00e1l Code, which has not been expressly repealed, that remains still in force. Now, if we turn to 2 R. S. (marg. p.) 697, section 40, we will find a provision for the punishment of all misdemeanors of which the punishment is not prescribed by some other statutes. Therefore, according to the relator\u2019s argument, a punishment is specially prescribed for every misdemeanor. Now, therefore, every misdemeanor is excepted from section 15 of the Penal Code. This, plainly, is unreasonable. Again, the definitions of larceny in the Penal Code are unlike those in the Revised Statutes. Therefore, that part of section 1 (m. p. 690), 2 R. S., which defines petit larceny is not in force. Why, then, the residue of the section ? The relator\u2019s position, if correct, would seem to apply' to some, perhaps many, other cases. Eor instance, section 651, Penal Code, declares certain interferences with gas pipes to be a misdemeanor, but prescribes no penalty. This section is substantially the act of 1854, chapter 109, sections 1 and 2, by which the crime was declared and a penalty prescribed of six months\u2019 imprisonment and afine of \u00a7250. Are we, then, to understand that a violation of section 651 is not punishable under section 15 of the Penal Code, because there was a penalty in the act of 1854, and that in the absence of an express repeal of that act, the provisions therein are still in force ? Under such a construction, instead of having a complete system in the Code, we should be obliged to refer to numerous statutes to ascertain the penalties now in force. When crimes are defined in the Code, and are therein declared to be misdemeanors, and no punishment is therein prescribed, the punishment specified in section 15 is proper.\nThe other objection, made under section 717 of the Code of Criminal Procedure, is obviated by the special provision of section 68, sub. 8, of the same Code, giving to the Special Sessions in Albany power to the extent possessed by the Court of Sessions in like cases.\n\u2022 The relator is remanded to the superintendent bf the penitentiary, to be held under the warrant and mittimus."
+  },
+  "file_name": "0437-01",
+  "first_page_order": 461,
+  "last_page_order": 467
+}

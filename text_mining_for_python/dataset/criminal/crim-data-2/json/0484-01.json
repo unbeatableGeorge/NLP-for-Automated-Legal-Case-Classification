@@ -1,0 +1,1345 @@
+{
+  "id": 1167708,
+  "name": "PEOPLE v. LYON",
+  "name_abbreviation": "People v. Lyon",
+  "decision_date": "1884-10",
+  "docket_number": "",
+  "first_page": "484",
+  "last_page": "520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 484"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. Y. Crim. Rep. 368",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164443
+      ],
+      "pin_cites": [
+        {
+          "page": "379, 392, 393, 398"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0368-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 418",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179223
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/83/0418-01"
+      ]
+    },
+    {
+      "cite": "84 N. Y. 656",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2180943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0656-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 485",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 D. & B. 174",
+      "category": "reporters:state",
+      "reporter": "D. & B.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Hun, 452",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 N. Y. 434",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        528979
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/68/0434-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y. 24",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530665
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0024-01"
+      ]
+    },
+    {
+      "cite": "11 Abb. 355",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 How. 114",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "52 Barb. 345",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Hun, 445",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 N. Y. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/39/0164-01"
+      ]
+    },
+    {
+      "cite": "10 N. Y. 227",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2013400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/10/0227-01"
+      ]
+    },
+    {
+      "cite": "8 Abb. N. C. 1",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        622907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/8/0001-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y. 101",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530743
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0101-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 330",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15694
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/31/0330-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 581",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018856
+      ],
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0581-01"
+      ]
+    },
+    {
+      "cite": "78 N. Y. 503",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        544424
+      ],
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/78/0503-01"
+      ]
+    },
+    {
+      "cite": "77 N. Y. 400",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        542937
+      ],
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/77/0400-01"
+      ]
+    },
+    {
+      "cite": "19 Fed. Rep. 591",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        73044
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/19/0591-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 607",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177120,
+        2177283,
+        2177272
+      ],
+      "pin_cites": [
+        {
+          "page": "608"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0607-02",
+        "/ny/82/0607-03",
+        "/ny/82/0607-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 364",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173301
+      ],
+      "pin_cites": [
+        {
+          "page": "373, 376"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0364-01"
+      ]
+    },
+    {
+      "cite": "93 N. Y. 470",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        552801
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/93/0470-01"
+      ]
+    },
+    {
+      "cite": "115 Mass. 481",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        718036
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/115/0481-01"
+      ]
+    },
+    {
+      "cite": "10 Gray, 173",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2082492
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/76/0173-01"
+      ]
+    },
+    {
+      "cite": "14 Pick. 519",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Cush. 216",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "84 N. Y. 486",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Hun, 511",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 N. Y. 421",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hun, 40",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 81",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517507
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0081-01"
+      ]
+    },
+    {
+      "cite": "54 Barb. 299",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2249866
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/54/0299-01"
+      ]
+    },
+    {
+      "cite": "18 Me. 368",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        385055
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/18/0368-01"
+      ]
+    },
+    {
+      "cite": "30 Ga. 757",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        259102
+      ],
+      "pin_cites": [
+        {
+          "page": "759"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/30/0757-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y. 252",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "317"
+        },
+        {
+          "page": "362, 369"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 417",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164425
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0417-01"
+      ]
+    },
+    {
+      "cite": "51 N. Y. 224",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2061464
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/51/0224-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 129",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485374
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0129-01"
+      ]
+    },
+    {
+      "cite": "57 How. 347",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. 173",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2004078
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/1/0173-01"
+      ]
+    },
+    {
+      "cite": "3 Denio, 190",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187720
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/3/0190-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 408",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179228
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/83/0408-01"
+      ]
+    },
+    {
+      "cite": "23 How. 93",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Park. Cr. 119",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "case_ids": [
+        1262847
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/park-crim-rep/5/0119-01"
+      ]
+    },
+    {
+      "cite": "10 Abb. N. C. 300",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        626312
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "p. 56, 177"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/10/0300-01"
+      ]
+    },
+    {
+      "cite": "88 N. Y. 585",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/88/0585-01"
+      ]
+    },
+    {
+      "cite": "26 Hun, 378",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 N. Y. 533",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549481
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/87/0533-01"
+      ]
+    },
+    {
+      "cite": "6 Abb. 132",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Wend. 31",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017083
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/14/0031-01"
+      ]
+    },
+    {
+      "cite": "41 N. Y. 21",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045774
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/41/0021-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 70",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052627
+      ],
+      "pin_cites": [
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0070-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. 126",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492146
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/2/0126-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 318",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179214
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/83/0318-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 561",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 N. Y. 171",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "54 N. Y. 334",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        514696
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/54/0334-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 141",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16239
+      ],
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/32/0141-01"
+      ]
+    },
+    {
+      "cite": "10 Allen, 184",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2117059
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/92/0184-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. 90",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "91"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 N. Y. 593",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Allen, 575",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2095318
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/83/0575-01"
+      ]
+    },
+    {
+      "cite": "3 B. 8",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 N. Y. Crim. Rep. 400",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1164461
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-crim/1/0400-01"
+      ]
+    },
+    {
+      "cite": "23 Hun, 60",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 N. Y. 374",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 N. Y. 315",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519327
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/56/0315-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 6",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048157
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/43/0006-01"
+      ]
+    },
+    {
+      "cite": "97 Mass. 50",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        707296
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/97/0050-01"
+      ]
+    },
+    {
+      "cite": "26 Hun, 58",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Barb. 619",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2261618
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/61/0619-01"
+      ]
+    },
+    {
+      "cite": "22 N. Y. 317",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026260
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/22/0317-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y. 257",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Cush. 246",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1972324
+      ],
+      "pin_cites": [
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/66/0246-01"
+      ]
+    },
+    {
+      "cite": "4 Mass, 439",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2004000
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/4/0385-01"
+      ]
+    },
+    {
+      "cite": "3 Park. Cr. 254",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Duer, 373",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1326238
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/10/0373-01"
+      ]
+    },
+    {
+      "cite": "94 N. Y. 90",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2192030
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/94/0090-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y. 319",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/60/0319-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 604",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Park. Cr. 676",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "case_ids": [
+        881713
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/park-crim-rep/2/0676-01"
+      ]
+    },
+    {
+      "cite": "1 Park. Cr. 39",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "case_ids": [
+        11258665
+      ],
+      "pin_cites": [
+        {
+          "page": "45-6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/park-crim-rep/1/0039-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 409",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "412-413"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Park. Cr. 120",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 How. 346",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Hun, 15",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Abb. Ct. App. Dec. 571",
+      "category": "reporters:state",
+      "reporter": "Abb. Ct. App.",
+      "case_ids": [
+        1115628
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/abb-ct-app/3/0571-01"
+      ]
+    },
+    {
+      "cite": "84 N. Y. 478",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2181018
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/84/0478-01"
+      ]
+    },
+    {
+      "cite": "115 Mass. 501",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Pick. 518",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2018915
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/31/0518-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 328",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 N. Y. 340",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Hun, 239",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 N. Y. 424",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2171436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/79/0424-01"
+      ]
+    },
+    {
+      "cite": "62 N. Y. 623",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2160400,
+        2160468,
+        2160437
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/62/0623-01",
+        "/ny/62/0623-03",
+        "/ny/62/0623-02"
+      ]
+    },
+    {
+      "cite": "4 Hun, 512",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 N. Y. 616",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523176,
+        523139
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/60/0616-02",
+        "/ny/60/0616-01"
+      ]
+    },
+    {
+      "cite": "3 Park. Cr. 681",
+      "category": "reporters:state",
+      "reporter": "Park. Cr.",
+      "case_ids": [
+        1258997
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/park-crim-rep/3/0681-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 364",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173301
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/80/0364-01"
+      ]
+    },
+    {
+      "cite": "93 N. Y. 470",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        552801
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/93/0470-01"
+      ]
+    },
+    {
+      "cite": "10 Gray, 173",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2082492
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/76/0173-01"
+      ]
+    },
+    {
+      "cite": "3 Hun, 40",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 N. Y. 81",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517507
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/55/0081-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y. 252",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Denio, 129",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485374
+      ],
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/4/0129-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. 173",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2004078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/1/0173-01"
+      ]
+    },
+    {
+      "cite": "3 Denio, 190",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187720
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "207"
+        },
+        {
+          "page": "207-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0190-01"
+      ]
+    },
+    {
+      "cite": "23 How. 93",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 N. Y. 585",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/88/0585-01"
+      ]
+    },
+    {
+      "cite": "87 N. Y. 533",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549481
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/87/0533-01"
+      ]
+    },
+    {
+      "cite": "6 Abb. 132",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 N. Y. 21",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045774
+      ],
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/41/0021-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. 90",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "91"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 N. Y. 593",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1894,
+    "char_count": 82013,
+    "ocr_confidence": 0.584,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3543179544444483
+    },
+    "sha256": "e2a9ae0db38fa9d87eb0d971d4c7987364067c9d4a067920f236fec6247880b8",
+    "simhash": "1:b2a7e26dc48a14f9",
+    "word_count": 14621
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Smith, P. J., and Haight, J., concur. Baekeb, JT., not sitting."
+    ],
+    "parties": [
+      "PEOPLE v. LYON."
+    ],
+    "opinions": [
+      {
+        "text": "Bradley, J.\nThe defendant, by indictment found against him at the Erie Court of Sessions, in November, 1877, was charged with receiving, converting, &c., $2,200 owned by the city of Buffalo, with intent to defraud that city, on September 14, 1875.\nThis presentment was- made pursuant to chapter 19, Laws of 1875, which provides, that \u201cEvery person, who with intent to defraud, shall wrongfully obtain, receive, convert, pay out or dispose of, or who with like intent by willfully paying, allowing or auditing any false or unjust claim, or in other manner or way whatever, shall aid or abet any other in wrongfully obtaining receiving, converting, paying out or disposing of any money, funds, credits, or property, held or owned by this state or held or owned officially or otherwise for or on behalf of any public or governmental interest, by any municipal or other public corporation, board, officer, agency, or agent of any city, county, town, village or civil division, subdivision, department or portion of this state, shall, on conviction of such offense, be punished by imprisonment in a state prison for a term not less than three years or more than ten years, or by a fine not exceeding five-times the loss resulting from the fraudulent act or acts, which he shall have so committed, aided or abetted, . ... or by both such imprisonment and fine.\u201d\nHe was found guilty, and by the judgment of the court sentenced to four years imprisonment in the state prison at Auburn.\nHe brings this appeal, and in his behalf it is contended that errors to his prejudice were committed at the trial. It appears, that in 1852 the defendant engaged in the real estate business \u2014so called\u2014in the city of Buffalo.\nIn 1857, Joseph Bork, as clerk, went into the service of the defendant and one Baker, who was then associated with him in the business, and in 1866 Bork became a member of the firm, then known as Lyon, Baker & Co. In 1870 they formed another partnership, having the firm name of Lyon & Co., consisting of Lyon, Bork and one Wright, for the purpose of banking business. These two firms occupied the same room, and had clerks common to both, kept separate sets of books, and occupied different desks. Early in the year 1872, Wright went out of the latter firm, and about the first of February that year, Bork\u2019s interest became one-third in both firms, which were composed of the same persons and continued so until February 1, 1874, when Baker sold out his interest to Wescott and McManus, and the name of the firm of Lyon, Baker & Go., was changed to that of Lyon, Bork & Go., and the business of both firms was carried on until the last of December, 1875, when it was quite abruptly terminated. Bork, on 6 February 1872, was elected treasurer of the city of Buffalo, qualified and entered upon the duties of the office about the fifteenth of the month. Was re-elected in Bov ember, 1874, for the term of two years from the first Monday of January following.\nHe entered upon this term of his office in January, 1875, and continued to act as such until he was by the mayor of the city suspended from office on December 31, 1875.\nPrior, and up to about the time of the election of Bork in 1872, there had been an officer of the city, known as receiver of taxes, which office was abolished and thereafter the duties of it were vested in the treasurer of the city, and when Bork went into office in 1872, he made that business a department in his office and one Werrick cashier in that department. Bork was engaged in the business of the two firms, and soon financial relation was created and carried on to quite a large extent between the treasurer\u2019s office and the two firms in a manner which will hereafter be briefly mentioned. The jury were authorized to find and necessarily did find that on September 13, 1875, the sum of $2,200 in currency, belonging to the city, was taken from its treasury, by and to the firm of Lyon & Co. and appropriated and used by that firm in and for the purposes of its business, and was not repaid to the city. Bork on the day following (14 September) drew his check for that amount on Lyon & Go., which was never presented for payment nor paid, but was left and remained in the city treasurer\u2019s office.\nThe testimony tends to show that somebody went from the office of the firm after and obtained the money in question, for the firm.\nIt does not appear what particular person did it, but it is evident that it was done by the personal direction or authority of Pork or by him.\nHe says his recollection is, \u201c that the $2,200, was borrowed on the 13th September at the Treasurer\u2019s office by some one from Lyon & Co\u2019s office.\u201d\nThe defendant was not then in the city and had no personal knowledge' of this transaction at that time. To charge him with the offense, evidence of transactions and circumstancesextending through the entire period, from the time Bork became city treasurer was given, which developed a remarkable history of peculation bearing directly on Bork as such treasurer, and by which was taken and diverted from the city treasury upwards of four hundred thousand dollars.\nThis evidence tended to show and justified the conclusion, that while the firm of Lyon, Baker & Co. and the members of it, had some property, the banking firm of Lyon & Co. was not supplied with any capital by the members, but its disbursements were dependent upon moneys received in' the course of its business from other sources, that it did considerable business, and from time to time, as necessity required, currency was taken from the city treasury and used by the firm for its purposes, some of which was repaid, but during the period of nearly four years, money so taken from the treasury, and not repaid, amounted to about $50,000 ; that the firm of Lyon, Baker & Co. and Lyon, Bork & Co. doing a real estate and insurance business, represented a large number of property owners, residents and non-residents of the city, whose interests in that respect they looked after, collected rents, paid taxes, &c., and for such disbursements for some of them, the firm did receive rents and from others of them obtained money; that when the payment of city taxes was required in each of the years 1872, 1873, 1874 and 1875, instead of paying the amount of the taxes from them into the city treasury, the firm through the aid of Bork, the treasurer, caused those taxes to be marked off the list as paid, had them receipted, charged the amounts to those persons assessed, made checks in name of Lyon, Baker & Co., and Lyon, Bork & Co. on Lyon & Co. for the amounts, which was taken by Bork and the money used in the business of the firm.\nThose checks were never presented for payment, nor was the money paid into the treasury.\nThe taxes thus disposed of included those of the firm and its members on their property and amounted to over $60,000 in 1872, $27,000 in 1873, upwards of $117,000 in 1874, and something more than $25,000 in 1875. The facilities to obtain money for the treasury were greatly increased by the issue of bonds during those years by the city pursuant to statutes for various purposes, and a large amount of them, were, in fact, so issued. Bork, as treasurer, had charge to some extent of the negotiation of them, and did sell a large amount of those bonds in New York city aided by agencies there, and by his direction some of the proceeds, from time to time, were there placed to the credit of the firm of Lyon & Co., with the banking correspondents of the firm, and drawn out by it and used for the purposes of its business; and some of the bonds were purchased by Lyon, Baker & Co. of the comptroller of the city of Buffalo and paid for by the check of that firm on Lyon & Co., taken and retained by Bork as treasurer, and the bonds so purchased, used by the firm as security for loans of money, which moneys were used by it in its business, and the checks were never presented for payment nor paid, nor were the amounts of proceeds of bonds so credited to, and drawn out, and used by the firm, ever paid into the treasury.\nThe amount realized and appropriated by the firm from the proceeds of the city bonds was large and the evidence tends to show that it exceeded $100,000.\nThis is but a brief summary of the system used to take and divert moneys from the treasury of the city by these firms for their business purposes.\nWhile they did not have the most approved method of keeping accounts, some of their transactions were sufficiently spread on the books and memoranda of the firm to show something of many of them, and from which, aided by other circumstances, information might be derived that their liabilities to the city of Buffalo were large. Those transactions were largely represented by four accounts appearing on the books of the firms and designated as \u201c Teller\u2019s Check Account,\u201d \u201c Deposit Account,\u201d \u201c Joseph Bork Individual Account,\u201d and \u201c Lyon & Co\u2019s Account,\u201d which were explained on the trial as showing liabilities to the city of $384,000, and with an additional account relating to such liabilities they were increased in amount to upwards of $400,000, at the close of business in December 1875.\nIt is unnecessary here to refer more particularly to the system of keeping the designated accounts, than to add that the \u201c Teller\u2019s Check Account,\u201d so far as related to the matters in question represented checks issued by the teller of the banking firm of Lyon & Co. to Bork on account of moneys which came to it through him, and in some instances when he had given his check to obtain the benefit of money for this firm. The proceeds of city bonds which he caused to be credited to Lyon & Co., constituted a large portion of the amount for which teller checks were so issued. The amounts would be credited to him and the teller\u2019s check issued. Those matters in this account went into no other account on the books of the firm. These teller\u2019s checks were kept in drawer in office of Lyon, Baker & Co. and Lyon, Bork & Co. and when their business was closed, those checks were found there, and the liability of that account appearing on the books was $98,316. There was another, sometimes called the \u201c margin book account,\u201d upon which entries were made daily of such cash items as went into the accounts on the books. And the firm also kept a memorandum slip upon which entries were made of moneys which did not go on to the books. Upon this slip, the evidence tends to show, that some of the amounts taken from the city treasury for temporary relief were entered, and that it contained the necessary information of the sources from which the sums there entered as received came. This slip was kept in the money drawer.\nThe accounts of the defendant with the firms showed him quite largely in arrears. The evidence tends to show that early in 1872 the. defendant commenced to over-draw his account with Lyon, Baker & Oo. and continued to do so ; that on the first of February 1874 his overdrafts were $25,000, on the first of February 1875 $27,000 and on the 30th of December 1875 $52,000, but this included moneys drawn for which he was responsible,in addition to his individual overdrafts ; and that not allowing him credits for profits during the four years the overdrafts would amount to $80,000; and that his overdrafts after the 17th February, 1875, including those sums drawn during that time which he was liable to pay, amounted to upwards of $25,000 ; that while the books of Lyon & Co. showed a balance due Lyon, Baker & Co., and Lyon, Bork & Co. (which were treated as one firm), the checks drawn by the latter firms on Lyon & Co. and held by Bork in the city treasury, exceeded that balance over $144,000, when the business closed in December, 1875 ; that the estimated indebtedness of the firms to the city in 1873, was $150,000, and in September, 1875, nearly $320,000, and the entire liabilities of the firms were then $460,000; that at the termination of their business in December, 1875, the entire liabilities of the two firms as appeared by their books amounted to upwards of $660,000, and that the amount of money they then had on bond was $757.26. It also appears that at times, \u00bb Lyon & Co. had overdrawn their accounts with their correspondents in the city of Hew York,\u2014and especially was that quite largely so in the months of June, July, August and September, 1875,\u2014without means of their own to take care of their account, and the proceeds of city bonds sold were to quite an extent used to rescue them from default there. And that of the $2,200 in question $2,000 was lent to Hew York on 13th September 1875 for a like purpose.\nThis is a general outline of the situation and transactions of the firms of which the defendant was a member, deducible from the testimony (which the jury were authorized to find), so far as may be material for consideration.\nThe learned counsel for the defendant, by various exceptions taken on the trial, raised the questions and insisted there, and contends here, that the evidence was insufficient to charge the defendant with the offense alleged in the indictment, and did not present any question for the jury, and that the testimony relating to the several transactions and situation of the firms, and of Bork as a member of them, not bearing directly upon the facts in relation to the $2,200 in question, was incompetent.\nThe charge against the defendant is, the receiving and converting the $2,200, with intent to defraud, &c., and no evidence was competent that did not bear legitimately, in some degree, on the question of his guilt or innocence of that offense.\nAbstractly considered, evidence tending to show that he was or might be chargeable with any other crime than that charged in the indictment was not admissible. The alleged offense was committed, if at all, at the time the $2,200 were received and appropriated, and at no other time. The defendant was then in Utah territory, and had been for some weeks, and to make the act his, it was necessary for the people to show that it was done by his direction or pursuant to some understanding to which he was a party, and by such an understanding, combination or conspiracy as to charge him with criminal intent.\nHe was a member of the firm which received and applied the money to its business purposes. Some member of the firm had personal knowledge where the money came from, and had the purpose of taking and using it. The defendant did not personally know anything about that particular transaction. The prosecution had the right to give evidence tending to show that there had been an arrangement m9.de by or between him and Bork, to take from the treasury of the city, of its money, for the purposes of their firm business, from time to time, as they should require, that they had adopted that as a system for supply of currency, and it was proper to present by evidence circumstances which tended in that direction. And when sufficient appeared to justify the inference of such a combination or conspiracy between the defendant and Bork, then evidence of the transactions of the latter in aid and furtherance6 of that common purpose was competent. Having given evidence tending to prove that, from time to time, from February 1872, and quite frequently, money of the city had been taken to and used by the firms, the people were justified in the effort to show that it was done with the knowledge and consent of the defendant with a view to the establishment of a purpose on his part in common with that of Bork, to make the relation of the latter to the city treasury available as a means of supply.\nThis legitimately led to inquiry into the manner of keeping accounts by the firms, and somewhat of their business transactions, and financial condition. It did not appear that the defendant was at any time in the office of the city treasury during the entire period, or that he personally did any act of taking or receiving any money that came from there, but it did appear that he was in full vigor of manhood, had a large business experience and when in the city, was daily at the firms\u2019 office attending to business and looking after its interests, and it might be inferred that he had some knowledge on the subject derived from the books and memoranda of the firms and other circumstances. Then there is evidence tending to prove conversations between him and Bork which, if true, could not fail to show that he had knowledge of those transactions and the manner which supplies for the firms came from the money of the city.\nThese conversations were had in each of the years 1872, 1873, 1874 and 1875, one of which of 1872 was in effect an understanding that Bork, as treasurer, should hold the checks of Lyon, Baker & Co. for the amount of city taxes of the principals or clients of the firm, as well as the amount of its taxes and those of its members, so as to enable it to have the use of the money in its business, which method was adopted; that on other subsequent years as before mentioned, and in a conversation of 1873 between them, reference was made by Bork to the fact, that they then owed the city treasury $15,000, in such manner as to convey such information.\nIt is not necessary here to refer to the circumstances in detail which tend to establish knowledge on the part of defendant. But the testimony was such as to authorize the jury to find that the defendant was well advised of the transactions of receiving and using the money of the city by the firms in their business, and that this was so frequent and continuous during the period of nearly four years and of such magnitude as to justify the conclusion that it was adopted as a business system for the firms, with the understanding and purpose common to the defendant and Bork that it should be done and continued for financial relief of their firms when required. The methods were entirely consistent with such purpose.\nThe various transactions and circumstances extending through the time of the existence of these firms subsequent to February 1872 were not given upon the trial to prove that the $2,200 was taken and used in September 1875 nor in the least to bear upon that fact, which must be established or fail upon the proof relating to it alone; but were shown as bearing upon' the question of knowledge and intent. The intent of the defendant to defraud was a necessary ingredient to constitute the alleged crime.\nThose facts and circumstances proved were not independent collateral transaction (such facts are not admissible), but they were associated transactions, facts and circumstances relating to knowledge and purpose, and to afford light guiding to motive and intent. Such evidence was properly received. People v. Wood, 3 Park. Cr. 681; Bielschofskey v. People, 3 Hun, 40, affirmed 60 N. Y. 616; Coleman v. People, 58 Id. 555-560; Weyman v. People, 4 Hun, 512, affirmed 62 N. Y. 623; Pierson v. People, 79 N. Y. 424, affirming 18 Hun, 239 ; Pontius v. People, 82 N. Y. 340, 347, affirming 21 Hun, 328 ; Mayer v. People, 80 N. Y. 364; People v. Shulman, 80 Id. 373 note and cases cited by Earl, J. Commonwealth v. Merriam, 14 Pick. 518-520 ; Commonwealth v. Tuckerman, 10 Gray, 173 ; Commonwealth v. Coe, 115 Mass. 501.\nThis comes within the exception well established, to the general rule of evidence, and necessarily so, because itiotive and intent cannot ordinarily be shown by direct testimony and resort must be had to external acts and transactions to characterize purpose.\nThe propositions of the counsel for the defendant are recognized as correct in the abstract, viz; that the transactions of Bork in the matters of the firm or otherwise relating to the use of the money of the city are not properly subjects for consideration as testimony\u2014and they were not so unless they came within a common purpose of and between him and the defendant;\u2014and that other acts and conduct of either Bork or defendant are not admissible for the purpose of proving that the $2,200 referred to in the indictment were received and appropriated\u2014and this was the view taken by the court at the trial.\nIt was there held, and the court upon the testimony was permitted to hold that it was sufficient to justify the inference that a common purpose and combination existed between the defendant and Bork, within the scope and line of which, those transactions came, and the trial court faithfully observed the well defined limitation of the general rule which excludes evidence of collateral facts even on questions of intent (Coleman v. People, 55 N. Y. 81; People v. Dowling, 84 N. Y. 478; People v. Gibbs, 93 N. Y. 470 ; People v. Thomas, 3 Park. Cr. R. 256, 270; S. C., 3 Abb. Ct. App. Dec. 571), and kept within the exception of admissibility. But in some instances testimony tending to prove combination between the defendant and Bork was also evidence of intent, and necessarily properly so, to be effectual as to the latter, when and not until the former was sufficiently established.\nAnd the court at the trial did not fail to recognize the principle that excluded the consideration of other conduct and transactions upon the question whether or not the act charged in the indictment was in fact committed by the defendant. Copperman v. People, 56 N. Y. 593, affirming 1 Hun, 15; Coleman v. People, 55 N. Y. 90, 91; S. C., 58 Id. 555, and cases above cited.\nBut by repeated instructions during the progress of the trial, the court advised the jury of the qualified purpose of testimony received, and of the proper limitation that should be applied to its effect; and this was so carefully and frequently done by the court as to guard the defendant against prejudice arising from any misunderstanding by the jury of their duty to apply such limitation in their consideration of the evidence.\nThe learned counsel for the defendant contends that the court should have directed a verdict for the defendant, because he was not present, and had nothing personally to do with the taking and converting the $2,200 in question.\nThis contention involves the inquiry, whether the crime charged in the indictment is a misdemeanor or a felony. He insists that it is the latter.\nAt the time the offense is charged to have been committed, and in fact when the act upon which the charge is made was committed, the defendant, as before remarked, was not in this state. And assuming that the crime charged is a misdemeanor, then it follows that the defendant was necessarily treated in the indictment as principal, for all persons in any manner engaged in commission of a misdemeanor are principals, there are in such case no accessories. Wharton Cr. Law, \u00a7 131 ; People v. Clark, 4 Denio, 129,130.\nThe actual personal presence of the one charged at or near the place of commission of such crime, is not required to render him a principal offender, and punishable as such, whether the crime be committed through an accomplice or other agency. People v. Adams, 3 Denio, 190, 207, affirmed 1 N. Y. 173 ; People v. Hall, 57 How. 346. The absence of the defendant from the state required no more proof to establish his guilt than would have been required if he had been in the city and in the office of the firm, and had not actually participated in the particular act in question. In either case, it would depend upon his relation to the transaction arising out of the fact whether the instrumentality could be treated as his. He did not actually direct to be done this specific act, nor was it necessary that he should, to constitute his guilt, if, as the jury have found there was a common purpose existing between him and Bork\u2014a system or scheme to appropriate the city money for the purposes of the business of their firm, which may be characterized as a conspiracy,\u2014then the act of one, would be the act of both, and each, while that purpose and relation continued. And having reached that conclusion, the question of intent to defraud the city, within the meaning of the law, was a less difficult one for the jury. The purposes of acts may, to some extent, be deemed characterized by their consequences. It may be assumed, at all events, that there was sufficient to justify the conclusion that the defendant knew that it was the duty of certain constituted authorities of the city to designate banks in which its moneys should be deposited by the treasurer; that the firm of Lyon & Co. was not a designated depositary of them ; and that those moneys had no business in that firm, and it had no business with them. In view of all the circumstances, some of which have before been referred to, the jury were authorized to charge the defendant with receiving the $2,200 with the intent to defraud the city of Buffalo. If, however, the offense charged is felony, the conviction cannot stand.\nThe indictment charges him as principal, and he could not be convicted as an accessory merely, under it. Wharton Cr. Law, \u00a7 114 ; People v. Katz, 23 How. 93, and cases there cited.\nTo constitute a principal in a felony, the person charged must be present actually or constructively aiding in some manner in the commission of the act, or the act must be done in his absence through some agency or instrumentality, innocent in itself, which includes an innocent person employed by him for the purpose. Wixon v. People, 5 Park. Cr. 120; People v. Adams, 3 Denio, 190, 207-8; McCarney v. People, 83 N. Y. 409, 412-413.\nThe evidence does not bring the defendant within the rule required to make him a principal in his absence, but an accessory only, if the crime is to be treated as felony. But at common law this is not a felony. That definition was there applied to public offenses, which occasioned as their punishment, total forfeiture of lands or personal estate or both, and to which capital punishment might have been added in some degrees of guilt (4 Bl. Com. 95), which rigors have been modified and removed by statute.\nThe question arises whether the statute providing that \u201c the term felony, when used in this act, or in any other statute, shall be construed to mean an offense for which the offender on conviction shall be liable to be punished by death or by imprisonment in a state prison\u201d (2 R. S. 702, \u00a7 30), was designed to define the crime of felony or to give a definition to the term felony, when used in a statute, with a view to the interpretation and effect of the statute in which the word did or might appear. That provision of the Revised Statutes has had some attention of the courts, and has seemingly given some conflict to their decisions upon the question. In some of the cases expressions have been used and some decisions made to the effect, that pursuant to that provision, the crimes which may be punishable by imprisonment in state prison, are felonies, although not such at common law, and are not in terms declared felonies by the statute creating them. Andrew v. Dieterich, 14 Wendell, 31-36; People v. Van Steenburgh, 1 Park. Cr. 39, 45-6; Klock v. People, 2 Park. Cr. 676, 685-6 ; People v. Borges, 6 Abb. 132, 134. And in other and later cases it is held that the definition of the crime in the respect in question is not so governed by that section of the Revised Statutes as to make all crimes felonies which may be punishable by imprisonment in state prison, when the word felony is not in the statute creating or declaring them. Fassett v. Smith, 23 N. Y. 252; Foster v. People, 50 N. Y. 604; Nichelson v. Wilson, 60 N. Y. 319 ; Thorne v. Turck, 94 N. Y. 90, 95 ; Keyser v. Harbeck, 3 Duer, 373, 386 ; People v. Adler, 3 Park. Cr. 254.\nIn People v. Park, (41 N. Y. 21, 24), James, J., in holding that burglary in the third degree was within the statutory definition of the term felony says, \u201c this is not in conflict with Fassett v. Smith, as that related to obtaining goods by false pretences, the punishment for which was in the alternative\u2014 state prison, jail, or fine\u2014and hence not within the statutory definition of felony,\u201d and he might have added that burglary at common law was a felony.\nIn People v. Bragle (10 Abb. N. C.) Westbbook, J. says, without much consideration, that \u201c the crime charged was a felony, because under it, if convicted, he could be sent to the state prison.\u201d And the court of appeals affirmed the conviction without considering the question. 88 N. Y. 585.\nThe cases do not furnish a very clearly defined interpretation of the section referred to. But it seems to have come from the necessity arising out of the repeal by statute of the common law definition of felony, which was done before and carried into the Revised Statutes (2 R. S. 701 \u00a7 22).\nOriginally and at common law, the definition was that which the term imported, and\" when that was abolished, it became necessary to have a meaning applied to it, whenever it then or thereafter appeared in the statutes.\nSeverity will not be given to the purposes of a penal statute beyond or greater than its terms require, nor will a statute be construed to increase or multiply the cases to which the term felony may be applied, unless such construction is supported by express words or necessary implication. Commonwealth v. Barlow, 4 Mass, 439; Commonwealth v. Casey, 12 Cush. 246, 252.\nThat section does in terms or by fair implication declare that every offense punishable by imprisonment in a state prison is a felony, nor does it assume to define or apply the meaning of that term otherwise than in statutes where it is used. Fassett v. Smith, 23 N. Y. 257.\nThe common law distinction betwen a, felony and misdemeanor, to quite an extent still exists in this state. But the courts without the aid of express provision to that effect have treated it as the legislative policy or intent, that those common law felonies which do not come within the statutory definition of the term policy are misdemeanors. Shay v. People, 22 N. Y. 317; People v. Rawson, 61 Barb. 619 ; People v. Finn, 87 N. Y. 533, affirming 26 Hun, 58.\nThis is construction or modification in the direction of relief against the most severe consequences of felony and does not furnish any support to a construction of the section which would include within that term those offenses not felonies at common law.\nThese views lead to the conclusion, so far as relates to the interpretation of that section of the Revised Statutes, that those offenses known as felonies at common law, which come within the statutory definition of the term, are such still, and those which do not are not, unless made so by the use of the term in some statute, other than this section referred to ; yet there may be some exceptions established by the courts to that rule which may be treated as modifications of the common law.\nThe crime charged in the indictment is a misdemeanor.\nThe contention of the counsel for the defendant that if he intended to repay the money to the city treasury, he was relieved from the charge of intent to defraud, and entitled to a verdict of acquittal, cannot prevail. When the defendant voluntarily received and appropriated the money of the city, knowing it to be such, the law permitted the presumption of fraudulent intent and the offense was complete. His purpose to repay at some future time could not justify the act.\nThe support of that proposition would defeat the purposes of the statute. Commonwealth v. Tenney, 97 Mass. 50; Commonwealth v. Mason, 105 Id. 163; Commonwealth v. Coe, 115 Id. 481.\nThe evidence of the previous good character of the defendant put that fact into the trial, and it was like any other pertinent fact proved, entitled to consideration by the jury, and might, as stated in the request to charge, alone raise a doubt. Remsen v. People, 43 N. Y. 6. The court had charged the jury on that question and submitted to them that fact as one to be considered by them as fully as necessary (Stover v. People, 56 N. Y. 315), and was not required to adopt the language of the request and charge specifically that \u201c good character may raise a doubt in the minds of the jury, when without it none \u2022would exist.\u201d Moett v. People, 85 N. Y. 374, affirming 23 Hun, 60.\nIt is deemed unnecessary to make reference here to the other exceptions taken on the trial and state the result of the examination of them, further than to express the opinion that they were not supported by any error of the trial court.\nThe judgment and order appealed from should be affirmed.\nSmith, P. J., and Haight, J., concur. Baekeb, JT., not sitting.",
+        "type": "majority",
+        "author": "Bradley, J."
+      }
+    ],
+    "attorneys": [
+      "Brundage & Chipman (F. Brundage, of counsel for defendant, appellant.",
+      "Edward W. Hatch, District-Attorney, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Fifth Deparment.\nOctober, 1884.\nPEOPLE v. LYON.\n(Affirming 1 N. Y. Crim. Rep. 400.)\n\u201c Peculation Act,\u201d L. 1875, c. 19.\u2014Defendant absent from State when offense committed.\u2014Guilty Knowledge.\u2014 Felony and Misdemeanor.\u20142 R. S. 702, \u00a7 30.\nDefendant was indicted under the \u201cPeculation Act,\u201d L. 1875, c. 19, for receiving and\" converting to his own use $2,200, owned by the city of Buffalo, with intent to defraud that city. This sum was taken through the complicity of Bork, the city treasurer, from the city treasury by one of the two firms of which both Bork and defendant were members, and was used in the business of that firm. The firm at the time was insolvent, and had already obtained from the city treasury \u00a7400,000. Defendant was at the time of the conversion absent from the State, and had then no knowledge of the transaction. To charge defendant with guilty knowledge, evidence was offered that for years prior to the conversion of the specific sum alleged in the indictment, there was a conspiracy between Bork and defendant, by which money was unlawfully obtained by them from the city treasury to be used in their firm. These receipts of money appeared in their firm books, though not very clearly. Held, that to make the act the defendant\u2019s, it was necessary to show that it was done by his direction or pursuant to such combination or conspiracy as to charge defendant with criminal intent.\nAlso held, that the prosecution had the right to show that there had been an arrangement made between defendant and Bork to take from the treasury of the city its money for the purposes of their firm.\nAnd where sufficient appeared to justify the inference of such a combination or conspiracy between defendant and Bork, then the evidence of the transactions of the latter in furtherance of that common purpose was competent, as also evidence of conversations between defendant and Bork showing that defendant had knowledge of the scheme to convert the moneys of the city.\nVarious other conversion's of moneys of the city by defendant\u2019s firm, through Bork, and known to defendant, prior to the time of the conversion of the sum mentioned in the present indictment, were received in evidence to establish guilty knowledge of defendant. Held, that they were admissible as showing a common purpose between Bork and defendant within the scope of which these transactions came.\nIf the defendant voluntarily received and appropriated the money of the city knowing it to be such, the offense was complete, and his intention of repaying it a some future time could not justify the act.\nThe presence of one charged with a misdemeanor, at or near the place of commission of such crime, is not requisite to render him a principal offender, whether the crime be committed through an accomplice or other agency.\nThe definition of a felony in 3 B. 8. 703, \u00a7 30, as a crime punishable by death or imprisonment in State Prison, does not make all crimes \u25a0 which may be punishable by imprisonment in State Prison felonies, when the word felony is not in the statute creating or declaring them.\nIn the interpretation of these provisions of the Revised Statutes, those offenses known as felonies at common law, which come within the statutory definition of the term, are felonies still, and those which do not come within them, are not such unless made so by the use of the term felony in some statute other than 2 JR. 8. 702, \u00a7 30. Some exceptions established by the courts may be treated as modifications of the common law.\nPeculation, under L. 1875, c. 19, is a misdemeanor.\nAppeal, by defendant James S. Lyon, from a judgment of April 6, 1883, of the Court of Oyer and Terminer of Erie county, Hon. George Barker presiding, convicting defendant of receiving and converting certain moneys of the city of Buffalo, and from an order of the same court, of August 13, denying defendant\u2019s motion for a new trial.\nDefendant was indicted November 17, 1877, under \u201c An Act to provide more effectually for the punishment of peculation and other wrongs affecting public moneys and rights of property.\u201d L. 1875, c. 19.\nUpon his conviction, he was sentenced to four years\u2019 imprisonment in state prison.\nThe indictment contains two counts. The first count alleges the incorporation of the city of Buffalo. That at all the times mentioned in the indictment, Joseph Bork was treasurer of the city. That on the 14th day of September, 1875, and for a long time prior thereto, at said city of Buffalo, the said Bork, as such treasurer, held officially for and on behalf of said city, a large sum of money, to wit, $10,000, lawful and current money of the United States, of the value of $10,000 of the money, funds, credits and property of said city. That on said 14th day of September, 1875, at said city of Buffalo, James S. Lyon, with intent to defraud the said city, then and there feloniously, fraudulently, wickedly and wrongfully, did obtain and receive from said Joseph Bork, such officer, certain bank notes and bills, being then and there due and unsatisfied of banks unknown, and of a number and denomination unknown, of the value in the aggregate of $2,200, certain written and printed promises for the payment of money then and there due and unsatisfied, issued by the United States as money, of the kind called treasury notes, the number and denomination of which is unknown, of the value in the aggregate of $2,200 of the funds, money, credits and property of said city of Buffalo, then and there so as aforesaid held by said Joseph Bork, officially as such treasurer and officer of said city.\nThe second count alleges the incorporation of the city of Buffalo. That at all times mentioned in the indictment, said Bork was treasurer of said city. That on the 14th day of September, 1875, and for a long time prior thereto, said Bork as such officer held officially at the city of Buffalo, for and on behalf of said city, a large sum of money, to wit, $10,000, lawful and current money of the value of $10,000 of the money, funds, credits and property of said city. That on said 14th day of September, 1875, at the city of Buffalo, James S. Lyon, with intent to defraud the said city, then and there feloniously, fraudulently, wickedly and wrongfully, did obtain, receive, pay out, convert to his own use and dispose of, without the consent of the said city, its officers, agents and servants, the sum of $2,200 in money of the value of $2,200 of the funds, moneys, credits and property of said city, then and there so as aforesaid held by said Bork officially as such treasurer and officer as aforesaid of said city of Buffalo, for and on behalf of said city.\nThe facts fully appear in the opinion of the General Term.\nBrundage & Chipman (F. Brundage, of counsel for defendant, appellant.\nI. The court erred in permitting the district attorney to prove by Bork\u2014over defendant\u2019s objections\u2014that in February, 1872, two years before the term of office mentioned in the indictment commenced, moneys which were received at the treasurer\u2019s office were taken by the treasurer\u2019s cashier, over to the office of Lyon & Co., and there deposited. This transaction took place three years before the passage of the act under which defendant is indicted. It was a transaction which was entirely innocent at the time it occurred, so far as the offense charged in the indictment is concerned, and yet it is made an evidence of guilt. But it is claimed that this evidence was competent upon the question of the knowledge and intent with which Lyon received the $2,200. Admitting that other offenses may be proved than those charged in the indictment for the purpose of proving knowledge and intent, then we say -that before such evidence is admissible the act of receiving the money charged in the indictment must be proved. 1 Whar. Prin. and Pl. \u00a7\u00a7 631, 647; Whar. Crim. Ev. \u00a7 48. And the evidence must be limited to proof of knowledge and intent. Commonwealth v. Shepard, 1 Allen, 575 ; Whar. Crim. Ev. \u00a7 46, p. 44. It cannot be admitted or used for the purpose of proving that the defendant committed the act charged in the indictment. Whar. Crim. Ev. \u00a7 48, p. 46, \u00a7 104; 1 Whar. Prin. and Pl. \u00a7 631, p. 529 ; Copperman v. People, 56 N. Y. 593; Coleman v. People, 55 N. Y. 90, 91. Here there was no evidence that the defendant had committed the offense charged in the indictment, except as it is derived from these other acts, and the evidence was not limited to the question of knowledge and intent, but the jury were permitted to consider it as evidence of a combination between Bork and Lyon to rob the treasury, three years and seven months after-wards, so that they could say that the act of Bork was the act of Lyon, although Lyon had no knowledge of it. Again, before the offense not charged in the indictment can be considered by the jury upon the question of knowledge or intent of the defendant in committing the offense charged against him, he must be proved to have committed such other offense. Whar. Crim. Ev. \u00a7 48, b ; 1 Whar. Prin. & Pl. \u00a7 631; Commonwealth v. Edgerly, 10 Allen, 184 ; R. v. Harris, F. & F. 342; People v. Thomas, 3 Park. 256, 270. Ho such proof was made in this case; on the contrary, the evidence of Bork proved, if it proved anything, that the act was innocent; Lyon took no part whatever in it and had no knowledge of it until several days after it was done, when, as Bork says, he communicated it to him. We have then this condition of things: First. The jury was permitted to assume that the act proven by the people\u2019s witness to be innocent, so far as Bork was concerned, was a wrongful act, in violation of the statute not then passed. Second. That Bork\u2019s wrongful act thus assumed, became Lyon\u2019s act by being communicated to him several days after it had been committed; and, Third. That Lyon\u2019s act, though a distinct offense from that charged in the indictment, was legal ana competent proof of an arrangement between Bork and Lyon, by which the act of Bork done three years and seven months after, in the absence of Lyon and without his knowledge, became the act of Lyon and made him criminal. The jury were thus permitted to base one presumption upon another, which by repeated decisions in this state, it has been held they could not legally do, as was said by the court, in People v. Kennedy, 32 N. Y. 141, 145. Lyon certainly could not be charged with the effect of Bork\u2019s act until he had notice of it, and then the money had been used. It cannot be possible that he was morally or legally bound to raise the money or take his own money and go to the treasury and replace it at the risk of becoming criminal if he did not. The admission of this evidence and its use in this action was in direct violation of the principles laid down in the authority above cited. Any illegal evidence that would have a tendency to excite the passions, arouse the prejudice, awaken the sympathies or warp or influence the judgment of the jury in the least degree cannot be considered harmless. Anderson v. R. W. & O. R. R. Co., 54 N. Y. 334; O\u2019Hagan v. Dillon, 76 N. Y. 171; Coleman v. People, 58 N. Y. 561.\nII. The court erred in permitting the district attorney to prove Bork\u2019s conversation between him and the defendant Lyon about February 25, 1872. The conversation related to the moneys taken over to Lyon & Co.\u2019s during the first four or five days of Bork\u2019s first term of office, mentioned in the last point,\u2014 three years and seven months before the alleged commission of the act by Lyon for which he was on trial. This conversation was before the passage of the act under which Lyon was indicted ; before Bork became treasurer, as charged in the indictment, and referred to a transaction entirely innocent in itself. Yet it is permitted by the court not only to characterize the act. committed September 14, 1875, but to show that there was a combination between Bork and Lyon to rob the treasury. Lyon is not charged in the indictment with a combination or conspiracy with Bork to rob the treasury, but with one single act of receiving $2,200 on September 14, 1875; and the second count in the indictment charges that he obtained and received it without the consent of the officers, etc., of the city of Buffalo, and yet this evidence is received and from it the jury are permitted to find that the indictment is not true, but that there was a combination entered into which was carried out.\nIII. The court erred in permitting the witness Bork to testify to a conversation with the defendant about J une, 1872. This evidence was clearly inadmissible and incompetent for the following reasons: (A.) It was too remote, being more than three years prior to the time Lyon is charged in the indictment to have committed the offense of receiving $2,200 with intent to defraud the city. (B.) It was nearly three years before the passage of the statute under which the defendant was indicted. (C.) It was more than two years before Bork became treasurer, as charged in the indictment, and when, so far as the indictment alleges, he was simply an individual having nothing whatever to do with the city\u2019s moneys. (D.) It appeared that this conversation was with reference to moneys which the treasurer never had in his possession, custody or control as treasurer, and moneys which never had been and which never became the city\u2019s. How, then, could this evidence be competent upon the question of Lyon\u2019s obtaining from the treasurer of the city of Buffalo on September 14, 1875, $2,200 of its moneys with intent to defraud the city ? The court stated the purposes for which this evidence was received, and in its charge to the jury told them they could consider this conversation as evidence not only of guilty knowledge and intent, but as evidence of a combination or agreement between Bork and Lyon, so that Bork\u2019s act, performed in Lyon\u2019s absence and without his knowledge became Lyon\u2019s act and made him guilty.\nIV. The court erred in permitting the district attorney to prove by the witness Bork the transactions with reference to the marking off of taxes by the city treasurer or some one in his employ, and the giving of the check by Bork on the firm of Lyon & Co. in payment of such taxes. This evidence runs all through the case, commencing with the commencement of Bork\u2019s first term of office and running through each year, aggregating a great many thousand dollars, and consisting of a great many transactions. It was all taken under defendant\u2019s objection. Lyon, Baker & Co. were doing a real estate and insurance bnsiuess (Bork being a member of the firm) and agents for paying taxes for owners of property, residents and non-residents. Some of these tax-payers had money on deposit with or in the hands of Lyon, Baker & Co., which they had collected for rents and received in various business transactions for such owners, and the firm of Lyon, Baker & Co. looked after their property and paid their taxes. The office where the tax rolls were first delivered to the treasurer would have a clerk make out the tax bills, get the amount of taxes of each party that the firm represented for which they were agents, then these bills were taken to the office and drafts made on the parties for the amount of their taxes, notifying them that by a certain day so much money was required to pay their tax of that year. Then they money was received by the firm of Lyon, Baker & Co. in answer to those drafts. When the money was received it went into the firm of Lyon, Baker & Co., and was there used by them. Then, the tax bills were taken to the treasurer\u2019s office, taxes marked paid, bills receipted and returned, and Lyon, Baker & Co.\u2019s check given for the amount. These checks were always drawn by Bork or some one in his employ, and were retained in the treasurer\u2019s office. Lyon never drew one of them, never directed the drawing of one of them, was never present when one was drawn, and never had one of them in his hands, or saw one of them, so far as the evidence in this case proves. He was never in the treasurer\u2019s office during either of Bork\u2019s terms. The testimony of Bork shows this to be so in 1872, and his evidence is the same with reference to each of the years and each transaction. The item of $7,376.'85, taken from the treasury during the first days of Bork\u2019s first term, by mistake, never went upon the books of Lyon & Co., or Lyon, Baker & Co. The moneys were never paid to Bork. When the remittances came in and the man\u2019s tax was made good, the bills would be taken over to the treasurer\u2019s office and the tax marked off. Ho money was brought. The clerks in the treasurer\u2019s office marked off the taxes, Bork or some one else drew a check in the treasurer\u2019s office to pay the taxes marked off. Bork usually gave the checks and took the tax receipts. When the men paid their taxes, they deposited the money with the firm, so that Bork, as treasurer, did not receive the money into his custody at all, and the firm of Lyon, Bork & Co. charged these parties commission for doing the business. Now under this condition of things Bork was permitted to testify to the marking off these taxes and the amounts marked off, from the time he first went into office in February, 1872, down to the time the firm collapsed. He says: The amount thus marked off during the first portion of his first term was $36,800; and he also says, that during the year 1872, $66,000 or more, including the 36,800, were so marked off, and in relation to this item of $36,800, he says that no check was given. The district attorney was allowed to put in evidence the checks drawn by Bork on Lyon & Co., and left in the treasurer\u2019s office representing each one of these tax transactions; when any check was given, each one of which checks were objected to by the defendant, when all the evidence there was on the subject, proved, if it proved any thing, that Lyon never wrote' them, or directed them to be written, and was never at the treasurer\u2019s office when they were written, and never saw them, or had any knowledge of their existence. The different items of these tax matters appear at almost every point in the case and run through the whole evidence. This evidence was all inadmissible and incompetent. These moneys were not the moneys of the city ; some of them were collected by Lyon, Baker & Co. for their clients, and were in their hands as agents, to be used for the purpose of paying their clients taxes; and others were paid into their hands by their clients for the purpose of paying those clients\u2019 taxes, but they never were in the hands of the treasurer or any of the city\u2019s officers. By the giving of the check the moneys were but transferred to the treasurer or to the city. Suppose, taking one of these cases for an example, that after one of these checks had been drawn it had been presented for payment and payment refused, could the city have claimed these moneys as theirs? It would have a remedy by suit on the check to recover the amount for which it was drawn, but that suit could only be brought against the drawer; the drawee would not be liable until accepted. The check would not operate as an assignment of the funds. Risley v. Phoenix Bank, 83 N. Y. 318. Again, suppose the city had disregarded this transaction of Bork entirely, and proceded to collect the taxes thus marked off, is there any doubt but that it could have collected them ? Would it then be held that the payment of the moneys by the taxpayers to their agents, and the giving of the cheek by Bork on the firm was payment as against the city % We say not. If it would, then the money, the moment it was paid into the agent\u2019s hands, became the city\u2019s moneys, and the principals could not have withdrawn it from their agents. Colvin v. Holbrook, 2 N. Y. 126; Hall v. Lauderdale, 46 N. Y. 70, 76. It may be claimed that this evidence was received only for the purpose of showing the knowledge of Lyon with reference to the transactions and business of the firm of which he was a member, and therefore he must have known of Bork\u2019s criminal conduct in other matters; but this claim cannot be sustained, for the reason that the court stated that it was received as bearing upon the question of knowledge and intent.\nY. The court erred in permitting the district attorney to prove the sale of bonds belonging to the city by Bork and the use of the proceeds of these bonds by the firm of Lyon & Co. This evidence begins with the year 1873, and runs all through the case and includes many and large transactions making in part the $450,000 which Bork took from the public treasury during his several terms of office and converted to his own use or the use of the firm. These transactions were both before and after the time when Bork became treasurer as charged in the indictment; both before and after the passage of the act under which Lyon was indicted, and before and after the time it is alleged in the indictment that Lyon committed the offense of receiving the $2,200. This evidence was objected to. By the admission of this class of evidence the following rules of law were violated: First. That before evidence of guilty knowledge can be proved there must be proof of the commission of the act charged in the indictment, which was not done in this case. Second. That after proof has been given of the act charged in the indictment, proof must be made of the other acts by the defendant from which the jury may infer that the party had guilty knowledge or intent when he committed the act charged against him in the indictment. Third. That the jury cannot infer that the defendant has been guilty of one offense not charged against him, and from that inference draw another inference that he had guilty knowledge or intent when he committed the offense charged in the indictment; in other words, they cannot base one inference upon another. Fourth. That the jury cannot find that the defendant is guilty of the offense charged in the indictment from proof that he has been guilty of another offense.\nVI. The court erred in permitting the district attorney to prove by Bork that the firm had no capital when the banking firm was organized, and also the financial condition of the firm at the time Bork became treasurer, the property owned by the members of the firm, and that Lyon\u2019s account was over drawn.\nVII. The court erred in permitting the district attorney to prove that currency was taken from the treasurer\u2019s office on different occasions, from the time Bork first becam\u00e9 treasurer until the close of 1875, to the office of Lyon & Co., and used by them in their business; this evidence will be found all through the case, it was all taken under objection. The evidence showed that Lyon never came to the treasurer\u2019s office during his terms of office, that he never took any money from there or directed any one to get any. Yet all this evidence is received and submitted to the jury, not only upon the question of knowledge and intent, but from it the jury were permitted to find that Bork and Lyon entered into this combination to rob the treasury. It was in no manner limited by the court, or the evidence restricted as to time when the currency was taken.\nVIII. The court erred in permitting the district attorney to prove transactions of Bork with reference to the city\u2019s moneys subsequent to the time when Lyon is charged in the indictment to have committed the offense. This, evidence is scattered all through this case, and each and every part of it was taken under defendant\u2019s objections. Whar. Crim. Ev. \u00a7 104; 1 Whar. Prin. and Pl. \u00a7 631, sub. 4, \u00a7 647.\nIX. The court erred in denying defendant\u2019s motion to direct a verdict for defendant and to advise the jury to acquit the defendant, made at the close of the people\u2019s case. First. When the people rested, the evidence as it stood failed to. show that Lyon ever had anything to do with the taking, obtaining or receiving of the $2,200 charged in the indictment. Second. When the evidence was all in, it proved conclusively that for several days before, and at the time, and for several days after the money was taken from the treasury, the defendant was absent from the city, in Utah. If any crime was committed by the defendant, as charged, it was done and completed as soon as the money was used in the business of Lyon & Co., on the day named. The proof showed, if it showed anything, that the $2,200 was taken from the treasury over to the office of Lyon & Co., on September 13, 1875, and the check of Boric signed by him and drawn on Lyon & Co., was given on September 14, 1875, the check remaining in the office of the treasurer; and the court, in its opinion denying defendant\u2019s motion for a new trial, says: \u201c It is conceded that on the day this transaction occurred, Lyon was not in the city, but was in the territory of Utah, where he had been for several weeks prior to this occurrence. It was not claimed on the trial, nor is it now insisted upon by the people, that the defendant had personal knowledge of the conversion and use of this particular sum of money. It will thus be seen that the case was given to the jury upon the theory that the offense charged in the indictment was a misdemeanor, and being a misdemeanor it was not necessary that the defendant should be present in person or constructively. That his guilt might be established by such proof of combination and arrangement between him and Bork as would authorize his conviction as accessory before the fact in cases of felony. We say the court erred in so holding. The indictment charges the defendant with the commission of a felony, not as accessory, but as principal, and the proof is undisputed that he was neither actually nor constructively present, when the crime was committed, but was as far distant as Utah, and hence could not be guilty as principal as charged in the indictment. We will examine this point under the following headings : First. The defendant is charged in the indictment as principal with the commission of a felony\u2014not a misdemeanor ; Second. Proof of actual or constructive presence when the felony was committed was indispensable to the people\u2019s case; Third. The proof is undisputed that the defendant was neither actually nor constructively present, but was in fact in Utah. If these positions are correct the judgment of conviction cannot stand. The defendant is charged in the indictment as principal with the commission of a felony\u2014not a misdemeanor. See Indictment; Chap. 19, Laws of 1875 ; R. S. Seventh Ed. 2,499; People v. Van Steenburgh, 1 Park. 39, 45 and 46; Burrill's Law Dictionary, 613; People v. Park, 41 N. Y. 21; Andrew v. Dieterich, 14 Wend. 31; Bouvier's Law Dictionary, subject, \u201c Felony;\" People v. Borges, 6 Abb. 132 ; Klock v. People, 2 Park. 676, 685; 1 Barbour's Crim. Law, 3d ed., 18, 19, notes ; People v. Adler, 3 Park. 249; People ex. rel. Loughlin v. Finn, 87 N. Y. 533; State v. Smith, 8 Blachf. 489, Jud. Rep; People v. Bragle, 26 Hun, 378, affirmed, 88 N. Y. 585, and same case on application for a certificate for appeal, in 10 Abb. N. C. 300. There have been conflicting decisions as to what constitutes a felony. It is true that there are cases which at first would seem to be adverse to the defendant\u2019s claim. But a careful analysis of those decisions and the facts on which the law was found, must lead the unprejudiced mind to the conclusion that it is finally settled, that a conviction under the act of 1875, chap. 19, is unquestionably for a felony. We are unable to find any decision of any court, except that of Judge Barker in this case, that is squarely an authority against our position, while we do find several that hold in principle exactly as we claim the law to be. One can readily distinguish from our case the cases seemingly against'us, and reconcile the principles established by them with the principles asserted as law by us. But a like attempt to distinguish and reconcile the people\u2019s position with the cases we cite must fail. In the face of all the decisions, with no well considered case holding squarely against us, and in view of the understanding of the profession and the various text-writers, can it be reasonably held that one who takes for instance, $100,000, and- for which he may be imprisoned for ten years in the state prison, is guilty of a simple misdemeanor % The Revised Statutes say: \u201c The term felony, when used in this act, or any other statute, shall be construed to mean an offense for which the offender, on conviction, shall be liable by law to be punished by death, or by imprisonment in a state prison.\u201d That word felony cannot be found in the statutes (outside of the Criminal or Penal Code), where any crime is defined or declared, except the punishment is also provided in the same statute using the word. What is the object of the above definition of a felony ? If the word felony is found in the very statute which defines the particular crime, reference to any other definition is unnecessary, provided the punishment is also named in the same statute. Where can a statute be found declaring an offense a felony without also naming the punishment ? The statute does not say that the term felony shall have a certain meaning when found in a statute defining any crime. It is as broad as could be made. It says, \u201c When used in this act, or in any other statute.\u201d The word will be found in the Revised Statutes, 7th ed. pages 2,501, 2,506, 2,507, 2,517,2,536, 2,537, 2,539,2,565,2,471, 2,473, 2,474, 2,476, 2,478, 2,481, 2,485, 2,499, and in other places. What does it mean where so used ? It means an offense for which the offender is liable to imprisonment in a state prison. And it is impossible to give it any other sensible construction. In the Revised Statutes at page 2,501, above cited, it is provided that a person convicted of perjury committed on any trial for any other felony, shall be sentenced for a term not less than ten years, &c. Does not that mean under the statute definition of felony: \u201c on the trial of any crime punishable by imprisonment,\u201d &c.? Does it mean only those offenses where the word felony is used in the statute defining the offense? ISTearly all the principal felonies, as arson, burglary, &e., are defined by statute which does not use the word felony at all. In order to know then whether the perjury was on the trial of a felony, it affords no information to look in the statute defining the offense, as in nine cases out of ten the word would not be found at all. Does it mean a felony at common law ? Many of our most serious crimes punishable by long terms of imprisonment were not felonies at common law. Who would doubt that the court in determining the degree of crime on the trial of which the perjury was committed would find a perfect answer to any question as to whether it was a misdemeanor in the above definition ? Who can doubt, that for such cases as that, the statute was passed defining the term felony, that the court might know at a glance at the punishment prescribed whether it was a felony ? So it will be found under numerous provisions of the statute, the word felony is used and its meaning can only be defined by the above provision of the Eevised Statutes. For instance, a witness was formerly incompetent to testify if he had been sentenced for a felony. The Eevised Statutes so provided, and the provision was in the same act which defines a felony. The Eevised Statutes say a person convicted of a felony shall not testify. Another section of the same act says that the term felony, when used in that act, shall be construed to mean an offense, for which on conviction the offender is liable to imprisonment in state prison, &c. Can it be claimed that a witness offered as such who has been sentenced to state prison for ten years, and has served his full term, is competent, notwithstanding the statute, provided the act under which he was sentenced did not use the term felony in defining the crime % Would it be claimed that the common law must determine whether it was a felony or not ? Would it be claimed, that if the word felony was used in the statute under which he was convicted it would be a conviction of sentence for a felony, and if it was not used in the statute, then the common law must decide ? Then of what earthly effect is the statute defining a felony % Is it the law that a crime is not a felony, unless the word felony is found in the statute, defining the crime ? Then murder, treason, arson, rape, burglary, forgery, robbery, larceny, perjury, dueling, bigamy, are all misdemeanors, for the word felony is not used in the definition of any of these offenses. Are we then to go to the common law to learn what is a felony % Then petit larceny is a felony, for it was at common law. Then perjury, forgery and bigamy are misdemeanors, for they are such at common law. See Wharton Crim. Law, \u00a7 2. That the common law does not control is held in People ex rel. Loughlin v. Finn, 87 N. Y. 533, where it is decided that petit larceny is a misdemeanor now, though at common law it was a felony. Then the question as to what is a felony must remain in doubt and consequently confuse the courts and the administration of law, unless we take the definition in the Eevised Statutes as controlling. There can be no doubt that the Legislature intended to give a definition applicable to all cases. Of course, if the statute does declare a crime to be a felony, then it is a felony, whatever the punishment. If the statute is silent in defining the crime as to whether a felony or a misdemeanor, then the punishment prescribed determines the question under the statutory definition. To so hold gives consistency to the criminal law; to hold otherwise leads to confusion, and necessitates a holding that a crime for some purposes is a felony, and for other purposes is a misdemeanor. There is no case holding that the offense here charged was not a felony. There is one under the statute holding that it is. And where is there a case holding that a crime created by statute, not known to the common law, and punishable by imprisonment not to exceed ten years is not a felony ? The second count of the indictment charges the crime of grand larceny. It says that the defendant feloniously obtained, without the consent of the city or its officers, $2,200, belonging to the city and disposed of the same, &c. That would have been a felony at common law. Is it not now under the statute % The degree of punishment, the amount taken, the charge that the money was feloniously taken, should, independently of statutory definition, stamp this as a felony.\nVII. The crime being a felony, proof of actual or constructive presence of the defendant was indispensable to the people\u2019s case under the indictment, which charged him as principal only. Wixson v. People, 5 Park. Cr. 119; People v. Katz, 23 How. 93 ; McCarney v. People, 83 N. Y. 408; last Ed. Barbour's Criminal Law, p. 599, bottom of page, and cases there cited.\nVIII. But should the court come to the conclusion that the offense was a misdemeanor, and that it was not necessary that the defendant should have been actually or constructively present at the time the money was taken, then under the evidence in this case, the court should have directed a verdict in favor of the defendant, for the reason that the proof utterly failed to show that the defendant connived, aided, advised or in any manner assisted Bork in the taking of the money charged in the indictment.\nEdward W. Hatch, District-Attorney, for the people, respondent.\nI. It is claimed upon the part of the defendant, that the defendant could not be convicted of the offense of which he stood indicted under the evidence in this case, for the reason that it appeared that at the time when the offense was committed as alleged in the indictment, the defendant was not within the city of Buffalo, but was in the territory of Utah; that he had no knowledge of the commission of any offense, was not a party thereto, and was, therefore, physically incapable of committing the act; that there can be no such thing in law as an agent to commit crime.\nBut when this conspiracy was established between Bork and Lyon, and money was taken in pursuance of it, it could make no difference whether Lyon was in Utah or in Buffalo at the time of the taking of the money. It certainly would not be claimed if the money had been taken by Bork and used in the business of Lyon & Co., in pursuance of such an arrangement, and at the time Lyon was in the city of Buffalo, but that he was not at the time in his office, that therefore he could not be convicted for the act of Bork. What difference, then, does distance make when a fraudulent combination and conspiracy has once been established ? The prosecution claim that the act of Bork in the taking of the money was the act of Lyon, and such are the authorities. People v. Adams, 3 Denio, 190 ; affirmed, 1 N. Y. 173. The prisoner was convicted of obtaining goods by false pretenses in the city of New York, although he was a non-resident of the state, and had never visited said city, the crime being committed throngh an agent. To the same effect is People v. Hall, 57 How. 347. The proposition is elementary and recognized by all the writers. 1 Blackstone Commentaries, 429, 474; Co. Litt. 258, note A ; Broom\u2019s Maxims, page 373; 7 Man. & Gr. 32, 33 ; 2 Burrill Law Dict\u2019y, page 853. In the case of a felony, it might be held that Lyon would be accessory to the commission of this offense, but a conviction under this statute is not a conviction for felony, but of a misdemeanor. In misdemeanor, accessories are not recognized, but all are principals. People v. Irwin, 4 Denio, 129; Irvine v. Wood, 51 N. Y. 224, 230; Wixon v. People, 5 Park. 121; Russell on Crimes, 27 ; King v. Johnson, 7 East, 65 ; People ex rel. Sherwin v. Mead, 1 N. Y. Crim. Rep. 417. It is clear that the offense charged in this indictment is a misdemeanor, as upon conviction the court has power to fine without imprisonment in the state prison, and there are no words in the statute describing the offense which makes it a felony. Fassett v. Smith, 23 N. Y. 252; Shaw v. People, 22 Id. 317; Nickelson v. Wilson, 60 Id. 362, 369; Foster v. People, 50 Id. 598, 604. So that, for all the purposes of this case, Lyon was just as much a principal in the transaction alleged in the indictment as Bork was; it was the same as if he, Lyon, had himself taken the money from the city treasury and left the check upon Lyon & Co. to represent it to the city treasurer, taken the money to Lyon & Co. and sent it to Hew York to pay the overdrafts of the firm to their Hew York correspondent. This rule would obtain in this case, even though it were a felony, for the reason that no point was raised npon the trial, nor has any suggestion been made by his learned counsel that the defendant should have been tried as accessory instead of principal. Having failed to raise such point, even if it had existed, it would now be held effectually waived, so that there can be no force in the objection that the defendant could not be convicted of the offense of which he is indicted, because at the time of its commission he was in the territory of Utah. Under all the circumstances and the facts in this case, the act of Bork was the act of Lyon, and the taking of the money constituted the offense.\nII. In order, however, to sustain this conviction, it is not necessary to determine whether or not this is a misdemeanor, for Lyon was a principal in the commission of this offense. It has been heretofore suggested that it cannot be held that if Lyon was out of the office at the time of the delivery of the money, but in the city of Buffalo, that such absence would excuse him from being charged as principal. How, then, can it be claimed that he is not so liable, when it appears that the firms were insolvent to his knowledge; that the money which carried him to Utah was drawn from the city treasury; that the drafts which he drew there were paid by the city funds, including the sum alleged in the indictment; that upon his return he assented to and ratified the act; and that, subsequent to his return, more money was drawn from the treasury than at any preceding time? If this proof does not establish that he acted as principal, then no person could be convicted as a principal unless he was actually and physically present at the time the act was committed. This the law does not re-\" quire. 1 Wharton\u2019s Criminal Load, \u00a7\u00a7. 207 and 211. Pickard v. Georgia, 30 Ga. 757, 759, was larceny of negroes. On the last page the court say: \u201c If, however, the felony was concocted between the parties personally, he would in that case be a principal. One need not be present when a crime is committed to constitute him a principal.\u201d Here the jury have found that Lyon entered into the fraudulent scheme; he was an active participant all the while, as he was converting the money while away as effectually as he could here. State v. Shurtliff, 18 Me. 368, was forgery of a deed. On page 371 the court say : \u201c It is not necessary that the act should be done in whole or in part by the hand of the party charged ; it is sufficient if he cause or procure it to be done.\u201d Breese v. State, 12 Ohio, N. S. 146, 153-155 ; Lowenstein v. People, 54 Barb. 299; Mackesey v. People, 6 Park. 114. When Lyon returned he assisted about the conversion of the money taken, by drawing for his own private uses about the sum of twenty thousand dollars, between that date and the collapse. This doctrine is now embraced in section 33 of the Penal Code.\nIII. Nearly all of the exceptions in this case are to the admission of evidence of the transactions between the firms of Lyon, Bork & Co. and Lyon & Co. with the City Treasurer. As has been heretofore stated, this testimony was admitted for three purposes: First. To prove guilty knowledge upon the part of the defendant. Second. To prove a fraudulent intent; and, Third. To show the existence of a combination and conspiracy. No misapprehension could possibly arise ' upon this branch of the case, and the purposes for which it was offered, for the court instructed the jury that to establish the offense the prosecution must show that in September, 1875, defendant received a sum of money from Joseph Bork, City Treasurer, knowing it was city money and received it to his own use. That constitutes the offense ; but upon the question whether Lyon knew it was city money, and with what intent he received it, this evidence was admitted, and it was limited to that purpose.\nIt is needless to add that the evidence which establishes guilty knowledge and fraudulent intent was competent also to establish the existence of the conspiracy between Bork and Lyon, and the court so charged. That this evidence was admissible where guilty knowledge and intent are one of the essential ingredients of the crime, has been too often decided by the court to admit of dispute. Coleman v. People, 55 N. Y. 81; Bielschofsky v. People, 3 Hun, 40 ; People v. Wood, 3 Park. Crim. 681; Pierson v. People, 79 N. Y. 421; Wyman v. People, 4 Hun, 511; 1 Greenleaf Ev. \u00a7 53; People v. Dowling, 84 N. Y. 486; Pontius v. People, 82 Id. 347; Commonwealth v. Eastman, 1 Cush. 216; Commonwealth v. Miller, 3 Id. 250; Commonwealth v. Merriam, 14 Pick. 519; Commonwealth v. Tuckerman, 10 Gray, 173; Commonwealth v. Coe, 115 Mass. 481; People v. Gibbs, 93 N. Y. 470; People v. Spielman (Shulman), 20 Albany Law Journal, 96; Mayer v. People, 80 N. Y. 364, 373, 376, where this question is quite fully discussed, and the correct rule laid down. Here, as before stated, the transactions were continuous, and the mass of testimony taken in the case shows that the lapse of time, if any intervened, at.no time exceeded three or four days. Some one of the multitude of transactions proved upon the trial happened and occurred upon nearly every day, and especially is this true after the commission of the offense charged in the indictment, between February, 1875, and December 31 of the same year. Lyon\u2019s firms had at that time become so embarrassed that they could not survive a single day without aid from the city treasurer, and from that time the transactions were of almost daily occurrence, when money was taken from the city treasury in some one of the ways and methods proved in this case. Reinhart v. People, 82 N. Y. 607, 608; United States v. Russell, 19 Fed. Rep. 591. Ho error was committed in admitting this testimony. It might with greater reason have been extended to embrace a much broader field than the purposes to which it was limited upon the trial. The proof of the conspiracy was simply the method of showing that the crime was committed by the defendant. He is indicted for doing the act himself. It has been shown that when he does the act through another he does it himself. And a conspiracy may be proved to establish his own act as well as any other fact without alleging the evidence in the indictment. National Trust Co. v. Gleason, 77 N. Y. 400, 403. The action was to recover money, and sounded in contract. There was no allegation in the complaint of any conspiracy, still it was held that a conspiracy might be proved and that the money was received by a co-conspirator and never came into the defendant\u2019s hands. This was on the ground that the act of one conspirator, after proof of a conspiracy, was the act of both. To the same effect is N. Y. Guaranty Co. v. Gleason, 78 N. Y. 503, 514. The same rule of construction obtains in indictments as in civil pleadings. Paige v. People, 3 Abb. App. 439; reported below, 6 Parker Crim. Rep. 683. The evidence of the conspiracy and confederation was overwhelming, and the jury could not do otherwise than find that that branch of the case was overwhelmingly established by the proofs, positive and circumstantial.\nIX. Proof of the body of the offense establishes the intent to defraud. People v. Dalton, 15 Wend. 581, 583. The court says: \u201c The point made, that a criminal or felonious intent must be proved, is assented to by the district attorney, who properly insists that proof of a fraudulent conversion is establishing a felonious or criminal intent within the objection raised.\u201d All of the cases support this doctrine. Kenny v. People, 31 N. Y. 330 ; Filkins v. People, 69 N. Y. 101; Cowley v. People, 8 Abb. N. C. 1; Carpenter v. Roe, 10 N. Y. 227, 232 ; Case v. Phelps, 39 N. Y. 164; Reg. v. Naylor, 10 Co. C. C. 151.\nAside from the body of the offense, intent was abundantly established. Every transaction proved was offered in part for that purpose.\nX. No error was committed in receiving in evidence the books of the firm of Lyon, Bork & Co. and Lyon & Co., or of receiving in evidence the checks and memorandums. The utmost caution was exercised by the learned court before whom the cause was tried, and much evidence which was admissible, where it approached the border line, was rejected. It is a well settled rule of law that the books of the firm were evidence of their contente'. In civil actions one partner is bound by the acts of the other, and this rule obtains even to the extent of making the one equally chargeable with the fraud of the other. Sherman v. Smith, 42 Howard\u2019s Practice Reports, 198 ; Bradner v. Strang, 23 Hun, 445; Bliss v. Matteson, 52 Barb. 345; Coman v. Rees, 21 How. 114 ; Townsend v. Bogart, 11 Abb. 355; King v. Sarria, 69 N. Y. 24, 28 ; Van Schoick v. Niagara Insurance Co., 68 N. Y. 434; Broadhead v. Lycoming Fire Ins. Co., 14 Hun, 452, 456.\nThe books of the firm tended to show, among other things, that each partner knew the contents of his own books, and while in criminal actions actual knowledge must be shown, still the entries tended to show, with greater or less force, depending on other circumstances, actual knowledge. And, as has been heretofore stated, the whole course of dealings and proceedings with the moneys of the city from the beginning to the end was admissible in evidence, even though such proof established numerous other crimes ; for, as above shown, it was clearly admissible on the ground of knowledge and intent and for the purpose of establishing the unlawful conspiracy.\nIn Rex v. Ellis, 6 B. & C. 145, Court Reports, 9 D. & B. 174 (Dowley and Biley, Queen\u2019s Bench), it was decided that \u201c where several felonies are so connected together as to form part of one entire transaction, evidence of them all may be given in order to prove a party guilty of one.\u201d And in Farrell v. People, 21 Hun, 485, affirmed on appeal, 84 N. Y. 656, it was decided that the acts and declarations of accomplices and confederates, even though occurring in the absence of the principal, are admissible against him, for they are held to be sufficient evidence to establish prima facie the combination among them to commit the offense with which the principal is charged. Hope v. People, 83 N. Y. 418.\nIt is unnecessary to determine in this case whether the moneys which were paid in by other people to Lyon & Co., or Lyon, Bork & Co. for the payment of taxes which were procured to be marked off as paid, and which money was used by these firms in their business, became the money of the city or not, as the court, in its charge to the jury, expressly excluded that from their consideration, charging them clearly that they need not take it into consideration,- except so far as it established the dealings between Lyon and the city of Buffalo. So no error was committed upon this branch of the case.\nFor a history of the prosecution of Bork, see 1 N. Y. Crim. Rep. 368, 379, 392, 393, 398, and supra, p. 56, 177."
+  },
+  "file_name": "0484-01",
+  "first_page_order": 508,
+  "last_page_order": 544
+}

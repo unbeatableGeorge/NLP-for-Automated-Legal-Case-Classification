@@ -1,0 +1,97 @@
+{
+  "id": 1164493,
+  "name": "PEOPLE v. INFIELD",
+  "name_abbreviation": "People v. Infield",
+  "decision_date": "1882-12",
+  "docket_number": "",
+  "first_page": "146",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Gen. Sess.",
+    "id": 11565,
+    "name": "New York General Sessions"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "43 N. Y. 177",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048133
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/43/0177-01"
+      ]
+    },
+    {
+      "cite": "75 N. Y. 487",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        536802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/75/0487-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 299,
+    "char_count": 5375,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 4.209537004717083e-07,
+      "percentile": 0.9135779730787393
+    },
+    "sha256": "483024c12ef66d95c4cc4b9da73a2057a5e29068da920151996e70bdc64f8159",
+    "simhash": "1:33246108c5cd7d60",
+    "word_count": 909
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. INFIELD."
+    ],
+    "opinions": [
+      {
+        "text": "Smyth, Recorder.\nThe indictment in the case contains two counts. The first count charges the defendant with having committed the crime of grand larceny- and in-the second count he is charged with having received the property alleged to have been stolen in the first count, knowing at the time he so received it, that it was stolen.\nTo this indictment the defendant has demurred upon the ground that more than one crime is charged therein in violation of sections 278 and 279 of the Code of Criminal Procedure.\nSection 278 of the Code provides \u201c that the indictment must charge but one crime and in one form, except as in the next section provided.\u201d\nSection 279, which is the section referred to, provides, \u201c that the crime may be charged in separate counts to have been committed by different means; and where the acts complained of may constitute different crimes, such crimes may be charged in separate counts.\u201d It is clear that the legislature intended to limit the effect of section 278 by the provisions of section 279. And both sections must be considered together for the purpose of arriving at the intention of the legislature.\nPrior to the adoption of the Code of Criminal Procedure it was the common practice to join in the same indictment two or more counts charging separate and distinct felonies provided that they arose out of one and the same transaction:\nThis rule, however, was limited by the rule of judicial discretion that on the trial of such an indictment the evidence of the prosecution should be confined to but one transaction, the differing counts being allowed only for the purpose of describing the transaction in varying ways, and while this rule was technically observed two or more felonies might be charged in one indictment.\nIf by such an indictment the person charged was likely to be embarrassed in his defense, the court in its discretion had the power to compel the prosecution to elect upon which count or counts he should be tried, and could also give such directions as to the verdict, that it might be known of which offense the defendant might be convicted.\nAn indictment might, therefore, contain one or more counts charging the defendant with embezzlement and others charging him with larceny, counts charging him with burglary and others charging him with larceny, counts charging him with forgery and others charging him with uttering the forged instrument, counts charging him with larceny and others charging him with receiving stolen property. 1 Bishop Cr. Proc. 3 ed. \u00a7 449 ; Reg. v. Huntley, 8 Cox Crim. Cases, 260 ; Hawker v. People, 75 N. Y. 487.\nThe question presented in this case seems to me to be this ; May the acts charged in this indictment constitute the crime of larceny or that of receiving stolen goods, and this question can only be determined by the evidence which the prosecution may introduce upon the trial of the indictment.\nThe larceny may be established by evidence that the defendant personally feloniously took and carried away the property described in the indictment, or by showing: that he was found in the exclusive possession of the stolen property or some part of it recently after the perpetration of the larceny, without showing that the defendant actually took the property. Knickerbocker v. People, 43 N. Y. 177; Stover v. People, 56 Id. 315.\nIf, on the other hand, the evidence establishes the fact that the larceny charged in the first count of the indictment was committed by some person other than the defendant, and that the fruits or some part thereof were found in his possession accompanied by acts of concealment, or by showing that he purchased the stolen property at a price considerably below its value, the jury would have the right to infer in the absence of proof that he came into the possession of the property honestly and in good faith, that he received it with guilty knowledge, and convict of the crime of receiving stolen goods, and acquit of the crime of larceny.\nIt appearing that the acts complained of may constitute different crimes, viz., larceny and receiving stolen goods, they may properly be stated in separate counts in the same indictment.\nThe demurrer must therefore be disallowed with liberty to the defendant if he so elect to plead to the indictment, which he is required to do on or before the first Wednesday of the December term, and in the event of his failing to do so, and, the crime .charged being a felony, a plea of not guilty must be entered.",
+        "type": "majority",
+        "author": "Smyth, Recorder."
+      }
+    ],
+    "attorneys": [
+      "John McKeon, district attorney, for the people, plaintiff.",
+      "Charles W. Brooke, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "General Sessions\u2014New York County.\nDecember, 1882.\nPEOPLE v. INFIELD.\nDemurrer.\u2014Two Counts charging different Crimes.\u2014 Code of Criminal Procedure, \u00a7\u00a7 278, 279.\nAn indictment containing two counts, the first-, charging the defendant with grand larceny, and the second charging him with having received the property alleged in the first count, to have, been stolen, knowing at the time it was so received, that it was stolen, is not 'demurrable on the ground that more than one crime is charged therein, in violation of sections 378 and 379 of the. Code of Criminal Procedure. Said sections are to.be construed together, and permit.such an indictment. .\nDemurrer by defendant to indictment: in the General Sessions of New York, Ho.n. Frederick Smyth, Recorder, presiding. The facts appear in. the opinion.\nJohn McKeon, district attorney, for the people, plaintiff.\nCharles W. Brooke, for the defendant."
+  },
+  "file_name": "0146-01",
+  "first_page_order": 170,
+  "last_page_order": 172
+}

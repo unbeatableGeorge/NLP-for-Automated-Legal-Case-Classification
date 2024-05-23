@@ -1,0 +1,85 @@
+{
+  "id": 1164459,
+  "name": "PEOPLE v. DOWLING",
+  "name_abbreviation": "People v. Dowling",
+  "decision_date": "1884-01",
+  "docket_number": "",
+  "first_page": "529",
+  "last_page": "532",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Oyer & Terminer",
+    "id": 11573,
+    "name": "New York Court of Oyer and Terminer, Albany County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Ga. 350",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        589488
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/12/0350-01"
+      ]
+    },
+    {
+      "cite": "2 R. 8",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 416,
+    "char_count": 7606,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.7799163927678216e-07,
+      "percentile": 0.7133301980154055
+    },
+    "sha256": "19fd8e5b3171976e3248a60a8cbc14f0aa6441f09d3f85364b01d41cf889db59",
+    "simhash": "1:aaa84ee9851b8d59",
+    "word_count": 1336
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. DOWLING."
+    ],
+    "opinions": [
+      {
+        "text": "Learned, J.\nThe indictment is for murder, alleged to have been committed in 1878, and was found, September 15, 1883. By section 719 of the Penal Code, the offense must be punished according to the law existing when it was done ; and the provisions of that Code do not apply. Section 9G2 of the Code of Criminal Procedure, shows that that Code applies simply to procedure. I see, therefore, nothing objectionable in the indictment.\nThe prisoners\u2019 counsel moves for their discharge, on the grounds : First, that there is no evidence to show the death of Truax; second, that there is no evidence shown how he lost his life; third, that there is no evidence showing what degree of murder (if any) was committed.\nI am of opinion that there is evidence for the jury on each of these points. I do not specify it, lest I should prejudice the defendants.\nThe counsel for the prisoners requests that the jury be charged, that under this indictment, and under the constitution and laws (whatever be the evidence), there can be no conviction except for murder, for the following reasons ;\nThat the crime is alleged to have been committed in June, 1878; that the indictment was found in September, 1883; that under 2 R. S., on p. 726, sec. 37, as amended by chap. 630, Laws 1873, while an indictment for murder may be found at any time after the death, other indictments must be found within five years; that, therefore, as the defendants could not have been lawfully indicted in September, 1883, for manslaughter alleged to have been committed in June, 1878, they cannot be convicted of such crime under an indictment for murder; notwithstanding the general statute. 2 R. S. p. 702, sec. 27.\nThis undoubtedly presents an important question and one on which no decisions are found in this state.\nThe position taken by the prisoners\u2019 counsel may seem to be within the equity of the statute. It may be said that if the prisoners could not have been indicted for manslaughter in September, 1883, it would be unjust that they should be convicted of that crime upon an indictment then found; that the statute might be evaded by procuring an indictment for murder against persons who were guilty only of manslaughter.\nBut I think I am bound to take the strict language of the statute, and that I have no right to extend it by implication. That statute limited simply the time for finding indictments. Along with that statute stood the section last quoted, that upon an indictment for any offense consisting bf different degrees, the jury may find the accused guilty of any degree of such offense inferior to that charged, or of an attempt to commit such offense. I do not think I have a right, by construction, to interpolate into that section, 27, the words \u201c if such indictment be found within the time prescribed for such inferior degree.\u201d\nIt will be noticed that section 27 also authorizes the finding the accused guilty of an attempt, etc, etc. There are special provisions for punishing attempts. 2 R. 8. p. 698, sec. 3. Could the court assume to say that under this section 27, on an indictment for murder, whenever found, the jury might not convict of an attempt?\nPerhaps the law should be amended to conform to the views of the prisoners\u2019 counsel. But I must follow it as it is. One case cited by the district attorney, that of\" Clark v. State (12 Georgia, 350), appears to be exactly analogous, and to sustain the view I take. I shall, therefore, decline to charge that (if the evidence should justify) the jury have no right to find the prisoners guilty of any crime but murder on this indictment. Whether the evidence is such as to prove any other crime, is a very different question.\nThe district attorney urges that chapter 160, Laws of 1838, section 1, makes (what I may call) train wrecking a felony. That under section 445, Code of Criminal Procedure, the defendants may be found guilty of that crime on the ground that it is necessarily included in that with which the defendants are charged in the indictment. Section two of said chapter 160, provides that the previous section shall not extend to cases where death to a human being shall result from the commission of either of the offenses. Plainly, this intended to leave the crime, in such cases, to stand on the statute defining the second case of murder in the second degree, viz., homicide perpetrated by an act imminently dangerous, etc. Chapter 333, Laws of 1876.\nI do not think that, on this indictment, the prisoners can be convicted of the crime of train wrecking under chapter 160, Laws of 1838.\nNote.\u2014The case of Clark v. People (12 Ga. 350), referred to in th\u00e9 foregoing opinion, was a trial upon an indictment for assault with intent to murder. The defendant was found guilty of an assault and battery only.\nAt the time of the finding of the indictment the statute of limitation's had run against a charge of assault and battery, but not against assault with intent to murder.\nThe court in answer to the motion in arrest of judgment on the ground that a prosecution for the offense of assault and battery was barred by the statute of limitations, said \u201cThe statute applies to the indictment on which the defendant was arraigned and tried, and not to the minor grade of offense, for which he might be found guilty on the trial for the higher grade of crime, for which the grand jury accused him.\u201d",
+        "type": "majority",
+        "author": "Learned, J."
+      }
+    ],
+    "attorneys": [
+      "D. Cady Herrick, district attorney, for the people.",
+      "J. H. Clute, counsel, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Oyer and Terminer\u2014Albany County.\nJanuary, 1884.\nPEOPLE v. DOWLING.\nMurder.\u2014Manslaughter.\u2014Statute of Limitations.\nWhere an indictment was found against defendant in September 1883, for murder alleged to have been committed in June 1878, when the statute (2 R. S. 736, \u00a7 37) provided that an indictment for murder might be found at any time after the death of the person killed, and that other indictments must be found within five years, after the commission of the offense. Held, (following Clark y. State, 13 Georgia, 350) that under such indictment defendant may be convicted of manslaughter.\nThe prisoner Myron Dowling was indicted with two others for murder in the first degree charged to have been committed by wrecking a train on the New York Central & Hudson River Railroad, near Schenectady on the night of June 29, 1878, by which one Platt S. Truax a brakeman was killed and sixteen oil and three box cars were wrecked and burned.\nThe body of Truax was found under one of the oil tanks, his head, arms and legs burned off; but whether he was burned to death, or crushed to death by the oil tank before being burned, could not be determined.\nThe wrecking was charged to have been done by removing what is known as the \u201cfish plate \u201d (plate connecting and holding the rails together), and drawing the spikes from one side of each rail, and then moving the ends of each rail about four inches one side, thus destroying the connection between the rails and causing the train to run off.\nThe defense was that the oil tanks were set on fire and exploded by a burning journal, and. that the explosion of the tanks threw the train from the track; and that the charge was a malicious one, concocted by the father of the principal witnesses for the prosecution to obtain revenge updn the Dowling family, with some members of which he had a quarrel.\nTire defendants were brought to trial January 3, 1884, at the Albany Oyer and Terminer, Hon. Win. L. Leajrned presiding. \" : \u25a0\nAt the close of the evidence the defendants\u2019 counsel moved for their discharge upon grounds which are sufficiently set forth in the opinion rendered upon the denial of the motion.\nD. Cady Herrick, district attorney, for the people.\nJ. H. Clute, counsel, for defendants."
+  },
+  "file_name": "0529-01",
+  "first_page_order": 553,
+  "last_page_order": 556
+}

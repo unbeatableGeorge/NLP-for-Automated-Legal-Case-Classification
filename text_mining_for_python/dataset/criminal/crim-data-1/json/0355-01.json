@@ -1,0 +1,294 @@
+{
+  "id": 1164495,
+  "name": "PEOPLE v. WILLETT",
+  "name_abbreviation": "People v. Willett",
+  "decision_date": "1883-03",
+  "docket_number": "",
+  "first_page": "355",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Bush, 366",
+      "category": "reporters:state",
+      "reporter": "Bush",
+      "case_ids": [
+        6056734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/71/0366-01"
+      ]
+    },
+    {
+      "cite": "48 N. H. 364",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        1050218
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/48/0364-01"
+      ]
+    },
+    {
+      "cite": "26 Ala. 107",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8493574
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/26/0107-01"
+      ]
+    },
+    {
+      "cite": "5 Flor. 285",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1167629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/fla/5/0285-01"
+      ]
+    },
+    {
+      "cite": "29 Pa. St. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        982739
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/29/0429-01"
+      ]
+    },
+    {
+      "cite": "2 Mo. 135",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8853435
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/2/0135-01"
+      ]
+    },
+    {
+      "cite": "9 Cush. 508",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        9454906
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/63/0508-01"
+      ]
+    },
+    {
+      "cite": "76 Ill. 217",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5314895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/76/0217-01"
+      ]
+    },
+    {
+      "cite": "44 Ind. 72",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1405119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/44/0072-01"
+      ]
+    },
+    {
+      "cite": "1 Gray (Mass.) 487",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1974001
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/67/0487-01"
+      ]
+    },
+    {
+      "cite": "13 Allen, 570",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2114797
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/95/0570-01"
+      ]
+    },
+    {
+      "cite": "10 Gray, 72",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2082468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/76/0072-01"
+      ]
+    },
+    {
+      "cite": "2 Allen, 34",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2097191
+      ],
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/84/0034-01"
+      ]
+    },
+    {
+      "cite": "126 Mass. 519",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        727910
+      ],
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/126/0519-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. 571",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hill, 538",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Ind. 251",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1408625
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/47/0251-01"
+      ]
+    },
+    {
+      "cite": "123 Mass. 440",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        735172
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/123/0440-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 50",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025524
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0050-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 572,
+    "char_count": 10693,
+    "ocr_confidence": 0.562,
+    "pagerank": {
+      "raw": 1.8452359419204707e-07,
+      "percentile": 0.72272862240231
+    },
+    "sha256": "79c1e9df9a4774552c748e4ee2f0de2336b34259dd6def9bcf0d50052767441c",
+    "simhash": "1:986ffd8c5e96e8af",
+    "word_count": 1892
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. WILLETT."
+    ],
+    "opinions": [
+      {
+        "text": "\u2022 Miller, J.\u2014This\nThis case arises upon a writ of error, on behalf of the people, to review the judgment of the general term of the supreme court reversing judgment of conviction of defendant on an indictment for murder in the first degree.\nUpon the examination before the coroner a witness, Mrs. Wing, was sworn, who identified the defendant as- the person whom she had seen at her house on the night of the murder, a few miles from the place where the crime was committed, and with whom she had some conversation. Experiments were made before the coroner for the purpose of testing .the recollection of Mrs. Wing. The defendant and others were placed around the room'and witness was asked to pick out the person, she saw at her house that night, and she designated the defendant. The same persons were made to pass behind her, each repeating the words, as to asking for a dr.ink of water, which as she testified had been used at her house on the night of the murder, and she was asked to detect by the voice the one who had used the same language at her house on the night in question, and she recognized the defendant\u2019s voice as belonging to such person. The defendant did not deny, in answer to either test, that he was the person Mrs. Wing saw that night.\nThese experiments were admitted as evidence upon the trials on the ground that the silence of the defendant was an admission of his guilt. The evidence was objected to and the objection overruled. It is claimed that the ruling of the court, in this respect, was erroneous. The same question was raised by the defendant\u2019s counsel on motion to strike out the evidence which was denied and an exception duly taken. Also by a request to the court to charge the jury to disregard it, which was refused and an exception taken. The question whether the defendant was bound to speak, and understood that he was at liberty to speak if he chose, was submitted to the jury by the court in his charge, and an exception taken thereto. The doctrine as to silence being taken as an implied admission of the truth of allegations spoken or uttered in the presence of a person, does not apply to silence at a judicial proceeding or hearing. And if the proceedings before the coroner were of a judicial character, the evidence was erroneously received. It is very apparent that the examination before the coroner partook of a judicial character and what there transpired must be considered as a part of the proceedings; the coroner was there, a jury had been etnpanneled and witnesses were examined whose testimony was returned as a portion of the coroner\u2019s proceedings. It is difficult to see upon what ground it can be claimed that the experiments which were made were not in connection with the proceedings before the coroner and a part thereof. The claim that they were informal and outside of the proceedings is not well founded, and it would be extremely difficult to draw the line between the other proceedings and these which are said to have been outside of them. We think the submission of the question to the jury, whether it was a judicial proceeding, was erroneous; the court should have held whether the proceedings before the coroner were judicial or otherwise, thus giving to the defendant\u2019s counsel the benefit of an exception.if he chose to take one. The evidence in regard to the coroner\u2019s proceedings was before the court; and it should have determined whether the facts referred to constituted a part of these proceedings, and it cannot, we think, be said that it was proper to leave the same to the jury for the reason that it could have done no harm. It is very evident these experiments were made with a view of sustaining the correctness of Mrs. Wing\u2019s testimony, and hence they constituted a part of the proceedings before the coroner. The evidence of Mrs. Wing was for the purpose of showing circumstances tending to prove that the defendant was in the vicinity at the time of the commission of the crime and his silence might be taken as assenting to that fact. The fact that he thus remained silent and did not deny that he was present at the time stated by Mrs. Wing might well have affected the minds of the jurors.\nUnder the circumstances presented, the proceedings before the coroner were clearly of a judicial character and the defendant was not bound to speak,\u2014his silence could not be regarded as an evidence of guilt.\nThere are other questions in the case, but inasmuch as they may not arise upon another trial, we do not deem it necessary to consider them.\nThe judgment of-the General Term should be affirmed.\nAll concur.",
+        "type": "majority",
+        "author": "\u2022 Miller, J.\u2014This"
+      }
+    ],
+    "attorneys": [
+      "H. A. Howard, District Attorney, and John L. Hill, for the prisoner, plaintiff in error.",
+      "Charles Hughes, for the prisoner, defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nMarch, 1883.\nPEOPLE v. WILLETT.\nEvidence\u2014Silence, when taken as admission of Guilt.\u2014 Coeonee\u2019s Examination.\u2014When Peoceedings on abe Judicial.\u2014Questions of Law and-Fact.\nThe doctrine as to silence, being taken as an implied admission of the truth of allegations spoken or uttered in the presence of a person, does not apply to silence at a judicial proceeding or hearing.\nExperiments made upon a regular examination before a coroner, with a view of sustaining the correctness of the testimony of a witness who has previously been examined thereon, constitute a part of the proceedings before the coroner, and partake of the judicial character of the examination.\nAccordingly, where upon a session of an examination before a coroner, after a jury had been empanelled at which session the coroner was present, and the testimony of several witnesses was taken and returned as part of the proceedings, after a certain witness had, under oath, identified defendant as the person whom she had seen on the night of the murder, near the place where the crime was committed, and with whom she had some conversation.the defendant and others were placed around the room, and the witness picked out defendant as the person she saw at her house; and the same persons were also made to pass behind her chair repeating the words which she had testified were used in said conversation, and she recognized the voice of defendant as belonging to such person, and the defendant did not deny, in answer to either test, that he was the person seen by the witness upon the night in question. Held, error to admit said experiments on the trial as constituting admissions by defendant of bis guilt; that said proceedings partook of a judicial character; and that it was error to allow the jury to decide whether said proceedings were judicial on otherwise, said question being for the court.\nWrit of error in behalf of the people to review the judgment of the General Term of the Third Department, September 5, 1882, reversing judgment of conviction of defendant of murder in the first degree.\nThe prisoner was convicted at Oyer and Terminer for Warren county, March, 1881, for the murder of John B. Pair, at Glens Falls, JST. Y., December 27, 1880, and was tried and convicted October 10,1881, Hon. Charles O. Tappan, presiding.\nThe case has been twice tried. The facts and exceptions \u2022 presented upon this appeal appear in the opinion.\nH. A. Howard, District Attorney, and John L. Hill, for the prisoner, plaintiff in error.\nCharles Hughes, for the prisoner, defendant in error.\nThe evidence as to experiments before the coroner was inadmissible. It was not admissible for the purpose of sustaining Mrs. Wing\u2019s testimony; for she had not been attacked, and her unsworn statements that she recognized the prisoner by his voice, etc., were inadmissable. Robb v. Hackley, 23 Wend. 50 ; Dudley v. Bolles, 24 Id. 464.\nIt was not admissible as an admission.\nThe doctrine as to silence being taken as an implied admission of. the truth of allegations spoken or uttered in the presence of a person, does not apply to silence at a judicial proceeding or hearing. 1 Wharton Cr. Law, 7th ed. \u00a7 596 ; Reg. v. Turner, 1 Moody Cr. C. 347 ; Melen v. Andrews, Moody & Malkin, 336 ; Reg. v. Appleby, 3 Starkie N. P. C. 33 ; Wharton\u2019s Cr. Ev. \u00a7 680; Commonwealth v. McDermott, 123 Mass. 440; Broyles v. State, 47 Ind. 251 ; 1 Greenleaf Ev. \u00a7 197, note; Child v. Grace, 2 Car. & Payne, 193 ; 1 Cow. & Hill's Notes to Phillips Ev. note 191, p. 193; Sheridan v. Smith, 2 Hill, 538 ; Kelley v. People, 55 N. Y. 571; Drury v. Hervey, 126 Mass. 519, 522; Larry v. Sherburne, 2 Allen, 34, 35; Commonwealth v. Kenney, 12 Metcalf, 235 ; McGregor v. Wait, 10 Gray, 72, 75 ; Slattery v. People, 1 American Cr. Rep. 29 (note).\nOne is not bound to contradict statements made by a third person in his presence to an officer of the law. Commonwealth v. Walker, 13 Allen, 570.\nThe silence sought to be used against the prisoner in this case did occur at a judicial proceeding or hearing, viz.: before the coroner and a jury sitting to investigate the cause of the death of John B. Pair. The proceedings were no more informal than are all proceedings before a coroner and his jury.\nThe fact that this coroner, these officials and this jury used novel methods to arrive at a judicial conclusion, does not change the fact that it was a method judicially adopted to arrive at such a conclusion, and as such judicial in itself. The jury were as much in session, as much taking evidence at this time as at any other during their sittings.\nThe admissibility and competency of evidence is a question for the court. It was error for the court to submit to the jury the question of law, as to whether or no the coroner\u2019s court was a judicial tribunal in session at the time of the scene between Mrs. Wing and the prisoner, and whether the prisoner\u2019s conduct was admissible to charge him. It was not a mixed question of law or fact. Its admissibility was purely a question of law for the court. Wharton's Law Ev. \u00a7 391; 1 Greenl. Ev. 12 ed. \u00a7 160; Commonwealth v. Harvey, 1 Gray (Mass.) 487; Underwood v. Linton, 44 Ind. 72; Slattery v. People, 76 Ill. 217; Joy on Confess, and Chall. 23 ; Wharton's Cr. Ev. 644 ; Gale v. Lincoln, 11 Vermont, 152; Fearing v. Kimball, 4 Allen (Mass.) 125 ; Commonwealth v. McDermott, 123 Mass. 440 ; Mattocks v. Lyman, 16 Vermont, 113; Gorton v. Hadsell, 9 Cush. 508; Bartlett v. Smith, 11 M. & W. 483 ; Law Review, No. 3, May, 1845, 27 to 44. (See also cases cited supra.)\nThe rule has always been that the competency or admissibility of evidence of this character is for the court, not the jury. Hector v. State, 2 Mo. 135; Boyd v. State, 2 Humphrey, 39; Reg. v. Gould, 9 C. & Payne, 364; Whaley v. State, 11 Geo. 125; Fife v. Com., 29 Pa. St. 429 ; Simon v. State, 5 Flor. 285; Brister v. State, 26 Ala. 107; Clarke v. State, 35 Geo. 75; State v. Squires, 48 N. H. 364; Thompson v. Commonwealth, 20 Grattan, 724 ; Young v. Commonwealth, 8 Bush, 366; Commonwealth v. Harman, 4 Barr, 269; 1 Greenl. Ev. \u00a72."
+  },
+  "file_name": "0355-01",
+  "first_page_order": 379,
+  "last_page_order": 384
+}

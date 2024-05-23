@@ -1,0 +1,198 @@
+{
+  "id": 1167718,
+  "name": "PEOPLE ex rel. DEVOE v. KELLY",
+  "name_abbreviation": "People ex rel. Devoe v. Kelly",
+  "decision_date": "1884-11",
+  "docket_number": "",
+  "first_page": "428",
+  "last_page": "438",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 N.Y. Crim. 428"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "44 Mass. 460",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2063940
+      ],
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/44/0460-01"
+      ]
+    },
+    {
+      "cite": "46 Mass. 530",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2062291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/46/0530-01"
+      ]
+    },
+    {
+      "cite": "89 N. Y. 460",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2184246
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/89/0460-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y. 559",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/60/0559-01"
+      ]
+    },
+    {
+      "cite": "64 Mo. 205",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        968585
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/64/0205-01"
+      ]
+    },
+    {
+      "cite": "37 N. J. 368",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 N. Y. 12",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2169835
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/73/0012-01"
+      ]
+    },
+    {
+      "cite": "18 Wall. 163",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3426585
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/85/0163-01"
+      ]
+    },
+    {
+      "cite": "66 N. Y. 10",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 N. Y. 570",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 N. Y. Crim. Rep. 177",
+      "category": "reporters:state",
+      "reporter": "N.Y. Crim.",
+      "case_ids": [
+        1167701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/2/0177-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 726,
+    "char_count": 21890,
+    "ocr_confidence": 0.529,
+    "pagerank": {
+      "raw": 9.382805781126034e-08,
+      "percentile": 0.5152205784970475
+    },
+    "sha256": "b3f06cb4d917b73bdffc1d1e07765735cfa330b7b9f07904eb7604f5e855b5bf",
+    "simhash": "1:b3b9653235d6cd68",
+    "word_count": 3948
+  },
+  "last_updated": "2024-02-27T21:16:51.275330+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Boardman, J., concurs in result.",
+      "All concur, except Rapallo, J., absent."
+    ],
+    "parties": [
+      "PEOPLE ex rel. DEVOE v. KELLY."
+    ],
+    "opinions": [
+      {
+        "text": "Danforth, J.\nAfter conviction at the Otsego Sessions of the crime of assault in the third degree, the relator was sentenced to be imprisoned at hard labor in state prison, for the term of one year. He was afterward brought before the county judge upon habeas corpus, and on return made by the sheriff that the relator was in custody under this judgment of conviction, he was remanded, and the sheriff directed to carry out the judgment of conviction and sentence. Upon appeal to the General Term, of the Supreme Court, the order of the county judge was affirmed, and it was further ordered that the original judgment rendered by the court of Sessions be carried into execution.\nThe court below was of opinion that the sentence was without authority of law and void, that the offense was a misdemeanor and punishable only by imprisonment in a penitentiary or county jail, for not more than one year, or by a fine of not more than five hundred dollars, or by both, as provided by section 15, of the Penal Code. In this conclusion we concur. But as the court of Sessions exceeded its jurisdiction, its judgment cannot be enforced. It follows therefore, that the order of the county judge, and the judgment of the General Term, so far as they direct the judgment of the court of Sessions to be carried into effect, should be reversed.\nBut the conviction is still valid, and the prisoner not entitled to his discharge. He should be remanded to the sheriff of Otsego county, in order that the court of Sessions may deal with him according to law. People ex rel. Bork v. Gilbert and People v. Bork, 2 N. Y. Crim. Rep. 177. So far, therefore, as the order of the county judge directs the prisoner to be remanded to the custody of the sheriff it is right, as is also the judgment of the General Term, so far as it affirms such direction, and to that extent they should be affirmed.\nAll concur, except Rapallo, J., absent.\nNote.\u2014As to the general subject of erroneous and void sentences, see an exhaustive article on \u201c Void Sentences,\u201d by Seymour D. Thompson, in 4 Crim. Law Mag. 797.",
+        "type": "majority",
+        "author": "Danforth, J."
+      }
+    ],
+    "attorneys": [
+      "Lynes & Pierce, attorneys (Jas. A. Lynes, of counsel), for relator, appellant.",
+      "Clarence N. Barber, district attorney, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Court of Appeals.\nNovember, 1884.\nPEOPLE ex rel. DEVOE v. KELLY.\nIllegal Sentence on Valid Judgment.\nA prisoner in custody under a void sentence upon a valid judgment of conviction should not be discharged on habeas corpus, but should be remanded to be sentenced according to law.\nAppeal by Henry Devoe, relator, from a judgment of the General Term in the Third Department of 6th May, 1884, affirming dismissal of a writ of habeas corpus by Hon. George Soramling, county Judge of Otsego county, of March 19, 1884.\nThe relator was convicted, March 3, 1884, at the court of Sessions of Otsego county, of assault in the third degree, and was sentenced to hard labor in the State prison for one year.\nBefore the execution of the sentence, and while relator was still in the custody of John Kelly, Sheriff, Otsego county, he obtained a writ of habeas corpus, alleging that the court of Sessions had no jurisdiction to sentence him to State prison.\nUpon the hearing the writ was dismissed, and relator appealed to the General Term of the Supreme Court.\nUpon such appeal the General Term affirmed the order of dismissal, and wrote the following opinions :\nLearned, P. J.\u2014 The relator was indicted for assault in the second degree. He was convicted of assault in the third degree and sentenced to the State prison for one year. He obtained a writ of habeas corpus and urged his discharge on the ground that the sentence should have been to a penitentiary or county jail. His discharge was refused and he appeals.\nTwo questions arise: 1st. If the sentence should have been as he claims, is he entitled to his discharge on habeas corpus ? 2d. Was the sentence incorrect ?\nThere is no doubt that the decision in People ex rel. Tweed v. Liscomb, 60 N. Y. 570, and still more the language of one of the opinions, gave what seemed to be a new construction to to the provisions of the Eevised Statutes, touching habeas corpus. Those provisions required the relator to be remanded when \u201cdetained by virtue of the final judgment or decree of a competent tribunal of civil or criminal jurisdiction \u201d and forbade the court or judge \u201c to inquire into the legality or justice of any mandate, judgment decree or final order.\u201d Code Civ. Pro. \u00a7\u00a7 2016, 2034. These sections are substantially like the corresponding provisions of the Eevised Statutes, and we therefore cite them.\nUnder this language it was thought that an error in the judgment must be remedied by appeal or writ, of error as the case might be, unless the judgment were such as the court pronouncing it could under no state of facts whatever have power to pronounce. But the court of Oyer and Terminer in the Tweed case might under some state of facts have sentenced the prisoner to a term as long as that which was imposed. Whether they could do so upon the state of facts before them was a point\u2014a mistake on which had been supposed to be error\u2014to be corrected as other errors are.\nThat case, however, has been explained in People ex rel. Woolf v. Jacobs, 66 N. Y. 10, as holding only that when a court has imposed a sentence to the full limit allowed, it has exhausted its authority, and that after the prisoner has served the term authorized by statute, he is entitled to discharge on habeas corpus. Under that construction the decision does not control this present case, for this prisoner has served no term at all.\nThe case Ex parte Lange, 18 Wall. 163, is not important here, because there is generally no review of a criminal conviction by writ of error or otherwise in the United States courts. No remedy exists therefore except by habeas corpus. And furthermore, that writ is not restricted in the Supreme Court of the United States by any provisions such as those above cited from our Code and Revised Statutes.\nThe Code of Criminal Procedure by \u00a7 515 provides, that the only mode of review is by appeal; and by \u00a7 543, that where an erroneous judgment has been entered, the appellate court may correct the judgment. To this may be added the authority to remit the record to the court below to pass such sentence as the appellate court may direct\u2014chap. 226, laws 1863, if that chapter is still in force; as to which it is not necessary to inquire.\nThe prisoner, therefore, in this case, has abundant remedy. He may appeal, and may have his sentence corrected\u2014if it be erroneous.\nNow, under this liberal provision, by which the prisoner is amply protected against an unjust sentence, we do not think that it was intended by the legislature, that when such an error as is here alleged has been committed, the prisoner should be set free on habeas corpus. Even in the Tweed case it was not pretended that Tweed could have been released until the lapse of the term to which he was properly sentenced.\nIt may be said by way of argument, suppose the court of Sessions had sentenced this prisoner to be confined on a ship, or in some other place, to which no prisoner can be sentenced; would not that sentence be absolutely void % The answer is that that would be a sentence which upon no facts whatever could the court impose. The present is a sentence which, upon proper facts, might be imposed by the court. We are of the opinion therefore that the county judge was right in not treating the judgment as absolutely void, and in following the provisions of the Code of Civil Procedure above cited and remanding the prisoner.\nIn this view we have no power upon this proceeding to consider whether there was error in the judgment, because this proceeding is not an appeal therefrom.\nBut the question of error in the sentence has been argued at length, and as we have formed an opinion thereon, we think it best to state it, in order to save the trouble of further argument in some other proceeding.\nThe provisions of the Penal Code are somewhat conflicting. We do not think it necessary to go over them in this opinion, and to explain at length how we reconcile them. It is enough to say that considering all the sections, and the general subject of misdemeanors and felonies, and the respective punishments, we are of opinion that imprisonment for assault in the third degree must be in a penitentiary or county jail, and cannot be in State prison. The order should be affirmed.\nBockes, J.\u2014The return of the sheriff to the writ of habeas corpus shows that the relator was held by that officer under a conviction on due trial in the court of Sessions, of Otsego county, of the crime of assault in the third degree, for which offense he had been sentenced by that court to imprisonment in the State prison for the term of one year. The claim made by the relator\u2019s counsel for Ms discharge from imprisonment is put upon the ground that the crime of assault in the third degree is punishable as a misdemeanor by imprisonment in a penitentiary or county jail, or by fine or both, under section 15 of the Penal Code ; not by imprisonment in a State prison\u2014 hence, that the sentence in this case to imprisonment in the State prison was and is without authority of law, and void. I am entirely of the opinion that the offense of assault in the third degree is but a misdemeanor; and punishable only as such. Whether a crime is a misdemeanor or a felony, is determinable by the grade of punishment authorized by law to be inflicted. Now a misdemeanor is declared to be punishable by imprisonment in a penitentiary or county jail \u201c for not more than one year, or by a fine of not more than $500, or both \u201d (Penal Code \u00a7 15, and section 222, Id., which provides that assault in the third degree is punishable by imprisonment \u201c for not more than one year, or by a fine of not more than $500, or by both).\u201d Thus the punishment for assault in the third degree is identical with that provided for the punishment of misdemeanors. It is therefore clear, as I think, that the relator could only be punished as for a misdemeanor, that is, by imprisonment in a penitentiary or county jail, or by fine, or both. The relator\u2019s case comes very manifestly within the purview of section 15, above cited\u2014indeed it is exactly within its terms.\nIt is insisted by the district-attorney that his case is covered by the provisions of section 703 of the Penal Code, which declares that when a person is convicted of a crime for which the punishment inflicted by law is imprisonment \u201cfor a term, of one year\" he may be sentenced to imprisonment in a State prison. But the relator\u2019s case (assault in the third degree) calls for punishment for \u201c not more than one year \u201d (\u00a7 222); not \u201c for a term of one year.\u201d In the former case the term is for not more than one year, that is, one year or less ; in the latter, the term must be for one- year, and may be for a longer period. The sentence of the relator should have been pronounced under section 15, to imprisonment in a penitentiary or county jail, or by fine, or both. The sentence to the state prison was without the authority of law, and void. The court of Sessions might as well have sentenced him to imprisonment in a county house, asylum or hospital, as to imprisonment in the state prison, in so far as there is any warrant or authority for the sentence imposed. That the state prison is a place where persons convicted of crime may be by law imprisoned, does not change the legal aspect of the case, inasmuch as even criminals cannot be imprisoned there, save under lawful authority; that is, when convicted of a crime which by law authorizes their confinement in that place. I am of the opinion that the sentence in this case is simply void; that the case is the same as if no sentence had been pronounced. But it by no means follows from this conclusion that the relator is not rightfully in the custody of the sheriff ; that officer still holds him as a convicted criminal. He holds him on valid charge and conviction of crime. This is shown by the record of conviction presented by the sheriff in his return to the writ. He holds him for legal sentence by the court of Sessions on due conviction of assault in the third degree. So the relator should be remanded into the custody of the sheriff, or rather, should be left in his custody to the end that he may have legal judgment passed upon him, and carried into effect. We should not remand him to the end that an illegal and void sentence may be made effectual in his case, but in order to have legal valid judgment pronounced and executed against him. How, can it be maintained that he should be discharged from custody and go free from punishment, as is claimed by his counsel, for the reason that the term of the court at which he was convicted has closed its session ? In the first place it may be answered that he has caused the delay, and himself created the present condition of the case by his own action. He cannot now gainsay the right of the court to proceed on the conviction when it shall next convene. But again, suppose instead of this proceeding by habeas corpus, an appeal had been taken to this court. The sentence would then have been reversed, and he would have been required to appear in the court of Sessions for rightful, lawful sentence there; that is, he would have been remanded to the custody of the sheriff, to the end that he might receive lawful sentence. He could not in that case be discharged, on the ground that the term of the court at which he was convicted had closed its session. So here his claim to a discharge on that ground cannot be allowed. The court of Sessions has still jurisdiction in the case to pass sentence. As before suggested, it stands the same as if no sentence had been pronounced. The county judge was, therefore, right in refusing his discharge, even if it be true that the refusal was put on wrong grounds.\nIt is true of course, that all that can be done on habeas corpus is either to discharge the prisoner or remand him to the officer having him in lawful custody, and that the court need go no further or say more than to discharge or remand ; but the court must inquire into the cause of detention, aud must, in ease the prisoner be remanded, see that he is held under lawful -authority, either for trial on a charge of crime or for sentence, if duly convicted, or to have sentence executed when pronounced, if not illegal. So in this case I have sought to determine the grounds of the relator\u2019s detention; why he is held in the custody of the sheriff, and for what purpose he should remain in custody. He is found to be, as I think, in lawful custody, being a convicted criminal awaiting lawful sentence therefor. He should therefore be remanded, not discharged.\nThe case would be quite different were the relator actually in state prison, and held there for punishment only, under the illegal and void sentence here pronounced. In such case the decision in Ex parte Lange (18 Wall. 163), would require his absolute discharge because held in custody under an illegal and void process. At the same time it might be that the officer who pronounced the illegal judgment or sentence would have judicial protection in an action against him for false imprisonment, as was held in Lange v. Benedict (73 N. Y. 12). But these questions we need not consider, inasmuch as we find the relator yet subject to the jurisdiction of the court of Sessions, \u2014held in the county jail, by the proper officer as a convicted criminal, subject to legal sentence therefor, by that court. It follows from these conclusions that the county judge was right in remanding the prisoner to the custody of the sheriff, and his order to that effect should be affirmed, but it should be reversed as to that part which directs the execution of the sentence.\nBoardman, J., concurs in result.\nFrom this judgment of affirmance relator appealed to this court.\nLynes & Pierce, attorneys (Jas. A. Lynes, of counsel), for relator, appellant.\nI. The offense of which the appellant was convicted was a misdemeanor only, and the court of Sessions had no authority or legal right to sentence him to be confined in the state prison.\nSection 56 of the Code of Criminal Procedure makes assault in the third degree the second offense in the list of thirty-four offenses of which a court of Special Sessions has exclusive jurisdiction in the first instance, and expressly calls it a \u201c misdemeanor,\u201d and section 717 of the same Code limits the punishment to be inflicted by imprisonment to six months.\nThere is no provision in the Penal Code or the Code of Criminal Procedure for punishing the crime of assault in the third degree in a State prison, so that it is not a crime which is or may be punishable by imprisonment in a State prison, and must therefore be a misdemeanor, and punishable by fine or imprisonment in a penitentiary or county jail, as provided by section 15, Penal Code.\nIn State v. Gray, 37 N. J. 368; 1 Amer. Crim. Rep. 554, the defendant was convicted of adultery in the Special Sessions of Essex county and sentenced, on September 4, 1874, to imprisonment at hard labor in the state prison for the term of six months. He was brought by habeas corpus before the court, and motion made for his discharge from custody because the judgment was illegal. The statute provided \u201c that every person convicted of adultery shall be punished by fine not exceeding $100, or by imprisonment not exceeding the term of six months.\u201d The illegal part of the sentence was the substitution or imposition of the words \u201c hard labor,\u201d which were not in the statute. The court held the sentence illegal and void, as being in excess of the jurisdiction of the court, and discharged the prisoner.\nIn Ex parte Jilz, 64 Mo. 205; 2 Amer. Crim. Rep. p. 217, the petitioner, August, 1876, was tried in the St. Louis court of Criminal Correction and was convicted of criminal abortion, and sentenced by said court to imprisonment in the St. Louis county jail for the term of one year and to the payment of a fine of $500. Under said sentence he was committed to the jail of said county and there remained until the 22d day of August, 1876, when he applied to Judge Lotdley, a circuit judge, for a writ of habeas corpus, which was by said judge issued, and on hearing of the same the said Jilz was discharged from his said imprisonment on the same day, on the ground that the court of Criminal Correction had exceeded its power in sentencing him, Jilz, to confinement in the county jail for one year, cmd that the sentence under it and the commitment were void, for the reason that under the law applicable to St. Louis county, said court only had jurisdiction to sentence him to an imprisonment for the period of six months in the city work house of the city of St. Louis.\nIn Ex parte Lange, 18 Wall. 163, the doctrine of that court is affirmed, and the cases in support of it cited, that where a prisoner shows that he is held under a judgment of a Federal court made without authority of law, the Supreme Court will by writ of habeas corpus, look into the record so far as to ascertain that fact, and if it is found to be so, will discharge the prisoner.\nII. The authority of the court, or of a judicial officer authorized to issue the writ of habeas corpus, to examine the proceedings so far as to ascertain whether the trial court has exceeded its authority upon habeas corpus, must be deemed fully and finally settled. Ex parte Lange, 18 Wall. 163, 166, and cases cited in note. People ex rel. Tweed v. Liscomb, 60 N. Y. 559 ; People ex rel. Trainor v. Baker, 89 N. Y. 460.\n. III. If the trial court had no jurisdiction to impose the particular sentence it did impose in this particular case, and upon the facts presented, then the sentence is illegal and void and the appellant must be discharged. He cannot be remanded for another \u00bfsentence, the term of the court at which he was sentenced having expired. Rex v. Ellis, 5 Barn. & Cress. 395 ; Rex v. Bourne, 7 Ad. & Ellis, 58 ; State v. Gray, 37 N. J. 368, and cases cited ; Christian v. Commonwealth, (5 Met.) 46 Mass. 530; Hopkins v. Coussant, 44 Mass. 460, 468; Code Civ. Pro. \u00a7\u00a7 2043, 2033,, subd. 6.\nIV. The appellant was not bound to bring an appeal from the judgment to correct the error. If he was illegally imprisoned, he had the right to be discharged on habeas corpus. People ex rel. Tweed v. Liscomb, supra.\nThe judgment of the court was illegal and void, and the appellant was held under the judgment. There is no pretense that he was held for sentence or for trial, but expressly held and detained \u201c under and by virtue of a judgment of conviction.\u201d This court in People ex rel. Trainor v. Samuel N. Baker, 89 N. Y. 460, on page 466 say, \u201c it is the judgment of the court which authorizes the detention, and that can always be shown in justification of the detention.\u201d If the judgment is void in toto then it affords no justification and the prisoner must be discharged.\nThe General Term seemed to suppose that the Tweed case, or rather the principles of law therein decided, did not apply where the judgment was wholly void, and cite People ex rel. Woolf v. Jacobs, 66 N. Y. 10, as limiting that case. We do not so understand it, but think this court meant just what it said in the Tweed case.\nThe provisions of the Code of Criminal Procedure in relation to the review of criminal cases can not affect the remedy by habeas corpus, or prevent its operation. People ex rel. Tweed v. Liscomb, 60 N. Y. page 566.\nThe appellant was not obliged to go to state prison and wait for the decision of the General Term on appeal to reverse the illegal sentence, and then remain in jail until the next court of Sessions, to be resentenced for the same length of time to a penitentiary or county jail.\nClarence N. Barber, district attorney, for respondent.\nDissenting as to that part of county judge\u2019s order directing execution of sentence. The conclusions of this opinion are sustained by the Court of Appeals, infra, p. 437."
+  },
+  "file_name": "0428-01",
+  "first_page_order": 452,
+  "last_page_order": 462
+}

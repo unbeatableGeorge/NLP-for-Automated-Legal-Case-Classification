@@ -1,0 +1,169 @@
+{
+  "id": 1164468,
+  "name": "PEOPLE v. CASSIANO",
+  "name_abbreviation": "People v. Cassiano",
+  "decision_date": "1883-09",
+  "docket_number": "",
+  "first_page": "505",
+  "last_page": "508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "50 N. Y. 598",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2059723
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/50/0598-01"
+      ]
+    },
+    {
+      "cite": "38 N. Y. 53",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        500835
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/38/0053-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 31",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8592075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0031-01"
+      ]
+    },
+    {
+      "cite": "88 N. Y. 585",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        550669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/88/0585-01"
+      ]
+    },
+    {
+      "cite": "10 Abb. N. C. 300",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        626312
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/10/0300-01"
+      ]
+    },
+    {
+      "cite": "28 Am. Dec. 320",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "51 N.Y. 558",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2061454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/51/0558-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048126
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/43/0001-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048126
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/43/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 387,
+    "char_count": 7070,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 1.5806964937792218e-07,
+      "percentile": 0.6803375409145476
+    },
+    "sha256": "6ab801a56f11c6313b5cae2788fe2905d47fa47920b6dcad7f3d92a6ee1dcb16",
+    "simhash": "1:2c10289ef0da89d9",
+    "word_count": 1245
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. CASSIANO."
+    ],
+    "opinions": [
+      {
+        "text": "Barnard, P. J.\nThe prisoner was convicted of the crime of murder in the first decree, at the Orange County Oyer and Terminer, in January last. After the case had been given to the jury, and they had retired, and after deliberating upon the evidence, the jury requested further instructions. The prisoner was \"brought into court, and the jury were recalled. The counsel who represented the prisoner were not notified of the request of the jury, or of their recall for further instructions, and they were not, in fact, in court. By section 427 of the Code of Criminal Procedure it is provided that in case the jury return for further instructions, the counsel for the prisoner shall be notified.\nIn the absence of the counsel, the jury asked for the statutory punishment for murder in the second degree, \u201c what the sentence is.\u201d The court replied that that was not a matter for their consideration in arriving at a verdict. 'JSTecessarily there was no exception to this course, as the counsel were absent; but upon appeal it must be passed upon whether or not the refusal was right. Two questions are thus raised : was it error to answer the jury without notifying counsel, without regard to the correctness of the charge ; and, second, were the jury entitled to the information sought ?\nWe think it was an absolute right of the prisoner to have his counsel notified after the jury returned into court, and before they were instructed. The words of the statute (Code Crim. Pro. \u00a7 427) are imperative, that the information sought by the jury \u201c must be given after notice ... to the counsel for the defendant; and, in case of felony, in the presence of the defendant.\u201d As to the defendant\u2019s rights to be. present, that was the requirement of the Revised Statutes ; and when correct, instructions were given in the presence of the counsel for the accused, but in his absence, the court of appeals revised the judgment. People v. Maurer, 43 N. Y. 1.\nThe right of an accused to counsel is part of our system. In the present case it is apparent that the counsel for the accused might have induced the court to furnish the information sought, as there can be no doubt but that it Was within the discretionary power of the court, even if it was not a legal right. We think the information should have been given. In all cases the jury should know the effect of their verdict. While it is proper to instruct them that When a crime is proven the extent of the punishment therefore is no sufficient reason why a verdict according to the facts found should not be rendered ; yet, as part of the case, the punishment should be known by the jury. It.was therefore a fatal error not to notify the defendant\u2019s counsel when the jury asked for further instructions.\nIt is not material to examine the question whether the jury were authorized to take into their consideration the intoxicated condition of the defendant when the crime was committed, in determining the question whether the blow was struck in sudden passion, and without the deliberation now needed to constitute murder in the first degree.' Since the trial of the case, the present Code has gone into effect, and by section 22 it is provided that the fact that the accused was intoxicated at the time can be taken into consideration in determining purpose, . motive, or intent.\nThe conviction should be reversed and a new trial granted.\nPratt, J., concurs.",
+        "type": "majority",
+        "author": "Barnard, P. J."
+      }
+    ],
+    "attorneys": [
+      "Lewis E. Carr and M. H. Hirshberg, for the prisoner, appellant.",
+      "Walter C. Anthony, district attorney, and W. D. Dickey, of counsel, for the people, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014General Term\u2014Second Department.\nPEOPLE v. CASSIANO.\nSeptember, 1883.\nTeial.\u2014Right or Peisonee to Peesenoe of Counsel when Juey abe Inste\u00fccted.\u2014Insteuotion as to Penalty.\nThe right of the prisoner to have his counsel notified when the jury return into court and ask for instructions, before the instruction is given, is absolute, under \u00a7 427, Code Grim. Pro.\nWhile it is proper to instruct the jury that the extent of the punishment furnishes no reason why a verdict should not be rendered according to the facts, yet the punishment should be known by them as part of the case.\nAccordingly, where, on the trial of an indictment for murder in the first degree, the jury, after the case had been given to them and they had retired, asked to be informed of the statutory punishment of murder | in the second degree, to which the court replied, that it was not a 1 matter for their consideration in arriving at a verdict, and this instrucj tion was given after the prisoner had been brought into court and in j. his presence, but in the absence of his counsel, and without notificai tion to them. Held, error.\nAppeal from judgment of the Oyer and Terminer of Orange county, January 17, 1883, convicting defendant of murder in the first degree.\nA motion for a new trial was made, upon the grounds, among others, that counsel for the prisoner were not present, and were not notified to attend, at the time the jury were brought back into court for further instructions. The motion was denied and an exception taken. Further facts appear in the opinion.\nLewis E. Carr and M. H. Hirshberg, for the prisoner, appellant.\nThe failure to notify defendant\u2019s counsel when the jury came into court for further instruction, was error. The Code (\u00a7 427) expressly provides for this notice, in the same section that provides for defendant\u2019s presence. Failure to conform to the requirement as to prisoner\u2019s presence is fatal. Maurer v. People, 43 N. Y. 1. His presence is a legal right, and he is not bound to show that he was injured. Watertown Bank v. Mix, 51 N.Y. 558. The absence of counsel was practically defendant\u2019s absence, for he understood the English language only imperfectly, and did not know what the unexpected conversation between the judge and jury meant. Defendant was certainly injured, for the direct result was, that he was convicted of murder in the first degree. As a prisoner is not ordinarily capable of enforcing his legal rights, the law declares that, in addition to his presence, an opportunity shall be given for his counsel to be heard. Martin v. State, 51 Georgia, 567 ; cited n. 28 Am. Dec. 320.\nII. The court erred in refusing to inform the jury of the punishment for murder in the second decree, it being one of the offenses of which defendant might have been convicted. Code Crim. Pro. \u00a7 427. This was defendant\u2019s right as well as the right of the jury. People v. Bragle, 10 Abb. N. C. 300 ; 88 N. Y. 585. It is the right of the jury, in civil cases, to know the consequences of their verdict (Elliott v. Brown, 2 Wen. 497; Holton v. Mosses, 3 Barb. 31; Waffle v. Dillenback, 38 N. Y. 53), and at least as liberal a rule should apply where human life is at stake. It is concededly the right of the accused to have the jury informed of the definition, meaning, nature, and grade of any offense of which he may be convicted (Foster v. People, 50 N. Y. 598); therefore they should also know the penalties which follow, and it is the custom to accompany the definition with a statement of the penalty. (See charge in Cole case, 7 Abb. N. S. 321.)\nWalter C. Anthony, district attorney, and W. D. Dickey, of counsel, for the people, respondent."
+  },
+  "file_name": "0505-01",
+  "first_page_order": 529,
+  "last_page_order": 532
+}

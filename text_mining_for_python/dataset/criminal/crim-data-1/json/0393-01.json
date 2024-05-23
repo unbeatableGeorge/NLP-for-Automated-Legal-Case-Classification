@@ -1,0 +1,103 @@
+{
+  "id": 1164447,
+  "name": "PEOPLE v. BORK",
+  "name_abbreviation": "People v. Bork",
+  "decision_date": "1883-05",
+  "docket_number": "",
+  "first_page": "393",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 N.Y. Crim. 393"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "45 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2049792
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/45/0001-01"
+      ]
+    },
+    {
+      "cite": "11 Ohio, 7",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Wis. 350",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 N. Y. 405",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029439
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/24/0405-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 450,
+    "char_count": 10576,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 2.0439240636303592e-07,
+      "percentile": 0.7480609873394163
+    },
+    "sha256": "bcf21b17f56ddd07d3aa3f1565454ecdff351e0eae23e8e84e8b93e04af483f4",
+    "simhash": "1:584fd76e6216d033",
+    "word_count": 1855
+  },
+  "last_updated": "2024-02-27T22:16:47.765042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE v. BORK."
+    ],
+    "opinions": [
+      {
+        "text": "Haight, J.\nSection 527 of the Code of Criminal Procedure, provides that \u201c an appeal to the Supreme Court on a judgment of conviction, or other determination, from which an appeal can be taken, stays the execution of the judgment or determination upon filing with the notice of appeal a certificate of the judge who presided at the trial, or of a judge of the Supreme Court, that in his opinion there is reasonable doubt whether the judgment should stand, but not otherwise,\u201d etc.\nThe defendant now moves under this section for a certificate upon which the execution of the judgment entered against him upon his conviction of the crime of embezzlement may be stayed, pending his appeal from Ihe judgment, and from the order denying his motion in arrest of judgment. The district attorney contends that he \u25a0 has had a review by the General Term and Court of Appeals, and is now entitled to no further hearing.\nThe practice is, to some extent, confused, by reason of the change from the Revised Statutes to the Code of Criminal Procedure. The conviction took place under the Revised Statutes, and before the Criminal Code went into effect. Under the Revised Statutes, two modes of review were given\u2014one after conviction and before judgment by certiorari, the other after judgment by writ of error. Under the Criminal Code, writs of error and certiorari are abolished, and the only mode of review now given is by appeal. \u25a0 Section 517 of the Code provides that an appeal to the Supreme Court may be taken by the defendant from the judgment on a conviction after indictment, and upon the appeal any actual decision of the court in an intermediate order or proceeding, forming a part of the judgment roll, as prescribed by Section 485, may be reviewed. This section only gives the right of appeal after judgment. No review can now be had after conviction and before sentence. The old system was found to be cumbersome, and resulted in unnecessary delay. All of the questions sought to be reviewed, can be reviewed afte^ sentence as well as before. See Revisers\u2019 notes. In his case, after conviction, a certificate staying sentence was obtained, and the case was removed by certiorari into the Supreme Court. The Supreme Court, at General Term, affirmed the conviction, and the case was then removed by writ of error to the Court of Appeals. That court heard and passed upon all the questions raised, and has affirmed the conviction. That decision is final, as to all the questions that can be raised by the record at that time.\nThe case was remitted to the Oyer and Terminer of Erie county for sentence. Before sentence was pronounced, the defendant moved that judgment be arrested, upon the ground that the verdict failed to specify and find the value of the property embezzled. The motion was denied, and from this order appeal has been taken. This question was not raised by the record before the General Term or the Court of Appeals, and was consequently not passed upon by either of these courts. The order is an intermediate order, within the provisions of Section 517, from which an appeal can be taken. The certificate mentioned in Section 527 can, in a proper case, be given in any case in which an appeal can be taken.\nThe order from which the appeal has been taken denies the defendant\u2019s motion to arrest judgment. It is claimed that sentence could not be lawfully passed for the reason that the verdict failed to specify the value of the property embezzled. The statute provides, \u201c that the defendant shall, on conviction, be punished by imprisonment in a state prison, for a term not less than three years or more than ten years, or by a fine not exceeding five times the loss resulting from the fraudulent act or acts which he shall have so permitted, aided or abetted, to be ascertained as hereinafter mentioned, or by both such imprisonment and fine. When rendering a verdict of guilty upon the trial of any person indicted under this act, the jury may find and determine with the verdict the amount of, loss resulting from the offense of the defendant.\u201d\nThe indictment charges the unlawful appropriation of two hundred bonds of the city of Buffalo, of the denomination of $1,000 each, and of the value of $1,000 each, making a total valuation of $200,000. The verdict was a general verdict of guilty. It appears tome that this verdict is a finding as to the value\u2014is a material allegation of the indictment. The verdict found is a finding of all the material allegations of the indictment. This view gives full force and effect to the provisions of the statute. If the value, as alleged in the indictment, be the same as proved upon tire trial, the verdict of guilty, as alleged in the indictment, is proper. If the value alleged in the indictment should be different from that established from the evidence, the jury, in rendering a verdict of guilty, may find and state with their vei\u2019dict the amount of loss resulting from the offense, etc. This view, as to the effect of a general verdict, appears to me to be sustained by the reasoning in the case of Williams v. People, 24 N. Y. 405. It is true that the question was not raised in that case, but it would appear to follow from the argument employed. I have not been able to find any case in this state in which the precise question has been decided. In Wisconsin, however, the question appears to have been settled in the case of the State v. White (25 Wis. 350), in which it was held that a general verdict of guilty is a finding of the truth of all the material averments in the indictment, including the averment of value when value is material. To the same effect, also, is the case of Schoonhover v. State, 11 Ohio, 7 Critchfield, 294.\nAppeal has also been taken from the judgment, and it is now claimed that the court which pronounced sentence was improperly constituted ; that it was composed of persons who were not members of the court. The judgment record shows that the court was composed of a justice of this court and two justices of Sessions, naming them. Section 23 of the Code-provides that the Court of Oyer and Terminer is held by a justice of the Supreme Court, without associates. Justices of Sessions are no longer members of the Oyer and Terminer. The remittitur from the appellate court to the Oyer and Terminer for sentence was to that court as now organized by statute, and sentence should have been pronounced by the justice holding the court without associates. This has recently been held in the General Term of this Department in the case of the People v. Ostrander, convicted of murder ; opinion by Hardin, Judge. But I am at a loss to understand how this question is raised for review. Ho exception is taken or objection made to the power of the court as constituted to pass judgment. There was, in fact, a court of Oyer and Terminer, sitting at which a justice of this court presided, and that court had jurisdiction to pass judgment in the case. The Court of Appeals have recently held, in this case, on a motion for re-argument, that it could not consider the question as to whether the verdict should have found the value of the property embezzled, for the reason that there was no exception that raised the question. In the case of Messner v. People (45 N. Y. 1), it was held that before sentence the court must ask the prisoner if he has any cause to show why judgment should not now be pronounced against him; and that a failure to give him .this opportunity to show cause was error; that that deprived him of a substantial legal right. It was his right, at this stage, to move in arrest of judgment for any legal defect in the indictment or other proceedings. He can then object to the jurisdiction of the court or its power under the statute, to pass judgment upon him. He can then take such exceptions as will protect his rights on appeal. This is the last act before judgment; it is the last opportunity for the prisoner to be heard. This opportunity was given to the prisoner, as appears from the judgment record. Ho objection was then made,\" or exception taken, to the court as constituted, and, consequently, no exception is presented by the appeal for review.\nMv conclusion is that the certificate should be refused. The questions presented are important; but my convictions are as above expressed, and so firm are they that I am unable to say that there is a reasonable doubt remaining. Punishment in this case has been long delayed. Seven years and upwards have elapsed. The case is of great public importance. The courts should be zealous in securing to the prisoner every right that is given him by statute, after which speedy punishment should follow. The prisoner has had the benefit of one stay, under which his case has been taken to the court of last resort, where all the questions raised by him were discussed and disposed of. \"Under the circumstances 1 am of the opinion that no further stay should be granted.\nCertificate refused.\nReported ante, p. 274.",
+        "type": "majority",
+        "author": "Haight, J."
+      }
+    ],
+    "attorneys": [
+      "E. C. Sprague, for the application.",
+      "Edward W. Hatch, district attorney, opposed."
+    ],
+    "corrections": "",
+    "head_matter": "Supreme Court\u2014Chambers\u2014Eighth District.\nBuffalo,\nMay, 1883.\nPEOPLE v. BORK.\nWhen finding of Value is included in General Verdict.\u2014 When Objections to the Constitution of Court MUST BE TAKEN.\nA general verdict of guilty is a finding of the truth of all the material averments in the indictment, including the averment of value, when value is material.\nIf the value proved on the trial should be different from that alleged in the indictment, the jury, in a verdict of guilty, may find and state its amount.\nAn appeal from a judgment of conviction on the ground that the court passing sentence was improperly constituted, does not lie, when no such objection or exception was taken by the prisoner at the time of such sentence, it appearing that opportunity was given him so to do. An order denying a motion in arrest of judgment is appealable within section 517 of the Code of Criminal Procedure.\nThe certificate mentioned in section 527 of that code, can in a proper case be given in any case in which an appeal can be taken.\nApplication for a certificate staying execution of sentence.\nAfter the proceedings herein reported in the case of Pork v. People .(pages 368, 379), the defendant was sentenced by Hon. Charles Daniels to five years imprisonment at hard labor.\nDefendant then applied to Hon. Albert Haight for a certificate to stay execution of sentence under Code of Criminal Procedure, \u00a7 527. This motion was denied, and the following opinion written.\nThe grounds of the application appear in the opinion.\nE. C. Sprague, for the application.\nEdward W. Hatch, district attorney, opposed."
+  },
+  "file_name": "0393-01",
+  "first_page_order": 417,
+  "last_page_order": 421
+}
