@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9344d1a9-5747-4960-a061-a2f10a3b7bc5" name="Changes" comment="feat: add methods" />
+    <list default="true" id="9344d1a9-5747-4960-a061-a2f10a3b7bc5" name="Changes" comment="feat: add methods">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/ASUS/Desktop/law text mining",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -200,7 +202,7 @@
       <updated>1716449627588</updated>
       <workItem from="1716449629101" duration="582000" />
       <workItem from="1716451390921" duration="6958000" />
-      <workItem from="1716465324130" duration="12417000" />
+      <workItem from="1716465324130" duration="13269000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add methods">
       <option name="closed" value="true" />
